@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://alvaroserrano.github.io/sitemap.xml 
