@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Analog Senses]]></title>
-  <link href="http://alvaroserrano.github.io/atom.xml" rel="self"/>
-  <link href="http://alvaroserrano.github.io/"/>
-  <updated>2014-08-27T12:52:54+02:00</updated>
-  <id>http://alvaroserrano.github.io/</id>
+  <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
+  <link href="http://analogsenses.github.io/"/>
+  <updated>2014-08-27T13:22:24+02:00</updated>
+  <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ars Technica Reviews the Mi4]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/25/ars-technica-reviews-the-mi4/"/>
+    <link href="http://analogsenses.github.io/2014/08/25/ars-technica-reviews-the-mi4/"/>
     <updated>2014-08-25T15:11:01+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/25/ars-technica-reviews-the-mi4</id>
+    <id>http://analogsenses.github.io/2014/08/25/ars-technica-reviews-the-mi4</id>
     <content type="html"><![CDATA[<p>This is just surreal:</p>
 
 <blockquote>Everything here is top notch: The best specs, fantastic build quality, a beautiful screen, a dirt cheap price, and software that, while different, works both aesthetically and functionally. If only the company came up with its own hardware design. If Xiaomi ever does apply itself with some original designs, look out world, because this company will be going places. </blockquote>
@@ -29,9 +29,9 @@
   
   <entry>
     <title type="html"><![CDATA[History of an Icon: La Vespa]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/22/history-of-an-icon-la-vespa/"/>
+    <link href="http://analogsenses.github.io/2014/08/22/history-of-an-icon-la-vespa/"/>
     <updated>2014-08-22T14:16:08+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/22/history-of-an-icon-la-vespa</id>
+    <id>http://analogsenses.github.io/2014/08/22/history-of-an-icon-la-vespa</id>
     <content type="html"><![CDATA[<p><a href="http://www.italymagazine.com/featured-story/history-icon-la-vespa">History of an Icon: La Vespa | ITALY Magazine</a></p>
 
 <p>Barry Lillie:</p>
@@ -45,9 +45,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Phoblographer Reviews the New Panasonic Leica DG Nocticron 42.5mm f1.2 for Micro Four Thirds]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/22/the-phoblographer-reviews-the-new-panasonic-leica-dg-noctricron-42-5mm-f1-2-for-micro-four-thirds/"/>
+    <link href="http://analogsenses.github.io/2014/08/22/the-phoblographer-reviews-the-new-panasonic-leica-dg-noctricron-42-5mm-f1-2-for-micro-four-thirds/"/>
     <updated>2014-08-22T12:00:08+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/22/the-phoblographer-reviews-the-new-panasonic-leica-dg-noctricron-42-5mm-f1-2-for-micro-four-thirds</id>
+    <id>http://analogsenses.github.io/2014/08/22/the-phoblographer-reviews-the-new-panasonic-leica-dg-noctricron-42-5mm-f1-2-for-micro-four-thirds</id>
     <content type="html"><![CDATA[<p><a href="http://www.thephoblographer.com/2014/08/21/review-panasonic-42-5mm-f1-2-micro-four-thirds/#.U_cQI0tWfVQ">The Phoblographer reviews the new Panasonic Leica DG Nocticron 42.5mm f1.2  for Micro Four Thirds</a></p>
 
 <p>They seem to like it:</p>
@@ -65,9 +65,9 @@
   
   <entry>
     <title type="html"><![CDATA[Matt Gemmell Publishes Raw Materials, a Collection of Personal Essays]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/22/matt-gemmell-publishes-raw-materials-a-collection-of-personal-essays/"/>
+    <link href="http://analogsenses.github.io/2014/08/22/matt-gemmell-publishes-raw-materials-a-collection-of-personal-essays/"/>
     <updated>2014-08-22T11:24:48+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/22/matt-gemmell-publishes-raw-materials-a-collection-of-personal-essays</id>
+    <id>http://analogsenses.github.io/2014/08/22/matt-gemmell-publishes-raw-materials-a-collection-of-personal-essays</id>
     <content type="html"><![CDATA[<p><a href="http://mattgemmell.com/raw-materials-collected-essays/">Matt Gemmell publishes Raw Materials, a collection of personal essays</a></p>
 
 <blockquote>I’m excited to announce that I’ve compiled an anthology of some of my most popular personal essays, and made them available as an e-book.
@@ -85,9 +85,9 @@ The collection is entitled Raw Materials, and includes revised and updated versi
   
   <entry>
     <title type="html"><![CDATA[Building a Lightweight Photography Kit for the Urban Professional]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/21/building-a-lightweight-photography-kit-for-the-urban-professional/"/>
+    <link href="http://analogsenses.github.io/2014/08/21/building-a-lightweight-photography-kit-for-the-urban-professional/"/>
     <updated>2014-08-21T16:16:57+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/21/building-a-lightweight-photography-kit-for-the-urban-professional</id>
+    <id>http://analogsenses.github.io/2014/08/21/building-a-lightweight-photography-kit-for-the-urban-professional</id>
     <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/analogsenses/14793131809"><img src="https://farm4.staticflickr.com/3926/14793131809_3d1eeef07d_b.jpg" alt="Messenger Pannier by Anhaica Bags" /></a></p>
 
 <p>Every day, thousands of people in cities all over the world take pictures as part of their job. You may not have noticed them, but they’re out there: reporters, journalists, writers for online publications and of course, professional photographers. For these people, taking a picture is often only the beginning, as some critical post-processing work needs to be done before the images are ready for publication. And then there’s the publication itself, which may include several more steps. Sometimes there’s not enough time to go back to the studio and everything needs to be done quickly in a mobile environment. This is why so many graphic professionals are used to carrying everything they need with them.</p>
@@ -271,9 +271,9 @@ The collection is entitled Raw Materials, and includes revised and updated versi
   
   <entry>
     <title type="html"><![CDATA[Believing in the App Store]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/19/believing-in-the-app-store/"/>
+    <link href="http://analogsenses.github.io/2014/08/19/believing-in-the-app-store/"/>
     <updated>2014-08-19T19:57:03+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/19/believing-in-the-app-store</id>
+    <id>http://analogsenses.github.io/2014/08/19/believing-in-the-app-store</id>
     <content type="html"><![CDATA[<p><a href="http://allending.com/believing-in-the-app-store/">Believing in the App Store | allending.com</a></p>
 
 <p>Allen Ding shares his hard-learned lessons as an indie developer in the App Store:</p>
@@ -287,9 +287,9 @@ The collection is entitled Raw Materials, and includes revised and updated versi
   
   <entry>
     <title type="html"><![CDATA[No One Is Making a Bad Camera, You're Just a Bad Photographer]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/19/no-one-is-making-a-bad-camera-youre-just-a-bad-photographer/"/>
+    <link href="http://analogsenses.github.io/2014/08/19/no-one-is-making-a-bad-camera-youre-just-a-bad-photographer/"/>
     <updated>2014-08-19T19:39:22+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/19/no-one-is-making-a-bad-camera-youre-just-a-bad-photographer</id>
+    <id>http://analogsenses.github.io/2014/08/19/no-one-is-making-a-bad-camera-youre-just-a-bad-photographer</id>
     <content type="html"><![CDATA[<p><a href="http://www.thephoblographer.com/2014/08/09/one-making-bad-camera-youre-just-bad-photographer/#.U_OKIBZxVER">No One is Making a Bad Camera, You&rsquo;re Just a Bad Photographer  | The Phoblographer</a></p>
 
 <p>Chris Gampat:</p>
@@ -303,9 +303,9 @@ The collection is entitled Raw Materials, and includes revised and updated versi
   
   <entry>
     <title type="html"><![CDATA[Farewell]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/19/farewell/"/>
+    <link href="http://analogsenses.github.io/2014/08/19/farewell/"/>
     <updated>2014-08-19T17:31:31+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/19/farewell</id>
+    <id>http://analogsenses.github.io/2014/08/19/farewell</id>
     <content type="html"><![CDATA[<p><a href="http://bearskinrug.co.uk/farewellala/">&ldquo;Farewell&rdquo; | Bearskinrug</a></p>
 
 <p>Speaking of Kevin Cornell, here&rsquo;s his personal farewell message to A List Apart. Perfect.</p>
@@ -314,9 +314,9 @@ The collection is entitled Raw Materials, and includes revised and updated versi
   
   <entry>
     <title type="html"><![CDATA[Dear Dads: Here’s How to Talk to Girls]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/19/dear-dads-heres-how-to-talk-to-girls/"/>
+    <link href="http://analogsenses.github.io/2014/08/19/dear-dads-heres-how-to-talk-to-girls/"/>
     <updated>2014-08-19T14:03:10+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/19/dear-dads-heres-how-to-talk-to-girls</id>
+    <id>http://analogsenses.github.io/2014/08/19/dear-dads-heres-how-to-talk-to-girls</id>
     <content type="html"><![CDATA[<p><a href="http://hellogiggles.com/fathers-shouldnt-say-cant-daughters">Dear Dads: Here’s How to Talk to Girls</a></p>
 
 <p>Angelica Asadi:</p>
@@ -332,9 +332,9 @@ The collection is entitled Raw Materials, and includes revised and updated versi
   
   <entry>
     <title type="html"><![CDATA[Kevin Cornell to Retire as a List Apart's Illustrator]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/19/kevin-cornell-to-retire-as-a-list-aparts-illustrator/"/>
+    <link href="http://analogsenses.github.io/2014/08/19/kevin-cornell-to-retire-as-a-list-aparts-illustrator/"/>
     <updated>2014-08-19T11:36:01+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/19/kevin-cornell-to-retire-as-a-list-aparts-illustrator</id>
+    <id>http://analogsenses.github.io/2014/08/19/kevin-cornell-to-retire-as-a-list-aparts-illustrator</id>
     <content type="html"><![CDATA[<p><a href="http://alistapart.com/blog/post/my-favorite-kevin-cornell">Kevin Cornell to retire as A List Apart&rsquo;s illustrator</a></p>
 
 <blockquote>After 200 issues—yes, _two hundred_—Kevin Cornell is retiring from his post as _A List Apart_’s staff illustrator. Tomorrow’s issue will be the last one featuring new illustrations from him.
@@ -357,9 +357,9 @@ Sob.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[Roger Federer Qualifies for the ATP World Tour Finals for a Record 13th Consecutive Year]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year/"/>
+    <link href="http://analogsenses.github.io/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year/"/>
     <updated>2014-08-18T20:53:04+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year</id>
+    <id>http://analogsenses.github.io/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year</id>
     <content type="html"><![CDATA[<p><a href="http://www.atpworldtour.com/News/Tennis/2014/08/34/London-Finale-Federer-Qualifies.aspx">Roger Federer qualifies for the ATP World Tour Finals for a record 13th consecutive year | ATP World Tour</a></p>
 
 <blockquote>The 33-year-old Swiss is the most successful player to compete at the Barclays ATP World Tour Finals, compiling a 44-11 record and claiming a record six titles in 2003-04, 2006-07 and 2010-11. He breaks the record of consecutive years qualifying for the championship, a mark he previously shared with Ivan Lendl (1980-91).</blockquote>
@@ -371,9 +371,9 @@ Sob.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[Life Is Beautiful at the Sartorialist]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/18/life-is-beautiful-at-the-sartorialist/"/>
+    <link href="http://analogsenses.github.io/2014/08/18/life-is-beautiful-at-the-sartorialist/"/>
     <updated>2014-08-18T20:44:29+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/18/life-is-beautiful-at-the-sartorialist</id>
+    <id>http://analogsenses.github.io/2014/08/18/life-is-beautiful-at-the-sartorialist</id>
     <content type="html"><![CDATA[<p><a href="http://www.thesartorialist.com/">Life is beautiful at The Sartorialist</a></p>
 
 <p>If you enjoy street photography and, more precisely, gorgeous pictures of beautiful, impeccably dressed people, The Sartorialist is for you.</p>
@@ -384,9 +384,9 @@ Sob.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[Analog(ue) | Relay FM]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/18/analogue-relay-fm/"/>
+    <link href="http://analogsenses.github.io/2014/08/18/analogue-relay-fm/"/>
     <updated>2014-08-18T18:05:06+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/18/analogue-relay-fm</id>
+    <id>http://analogsenses.github.io/2014/08/18/analogue-relay-fm</id>
     <content type="html"><![CDATA[<p><a href="http://relay.fm/analogue">Analog(ue) | Relay FM</a></p>
 
 <p>Speaking of Relay FM, Analog(ue) is one of their new shows, hosted by Casey Liss and Myke Hurley:</p>
@@ -400,9 +400,9 @@ Sob.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[Myke Hurley and Stephen Hackett Launch Relay FM]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/18/myke-hurley-and-stephen-hackett-launch-relay-fm/"/>
+    <link href="http://analogsenses.github.io/2014/08/18/myke-hurley-and-stephen-hackett-launch-relay-fm/"/>
     <updated>2014-08-18T17:57:21+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/18/myke-hurley-and-stephen-hackett-launch-relay-fm</id>
+    <id>http://analogsenses.github.io/2014/08/18/myke-hurley-and-stephen-hackett-launch-relay-fm</id>
     <content type="html"><![CDATA[<p><a href="http://relay.fm/">Myke Hurley and Stephen Hackett launch Relay FM</a></p>
 
 <p>From the about page:</p>
@@ -416,9 +416,9 @@ Sob.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[Shooting Film With a Leica M6 by Kjetil Andre Dalheim]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/16/shooting-film-with-a-leica-m6-by-kjetil-andre-dalheim/"/>
+    <link href="http://analogsenses.github.io/2014/08/16/shooting-film-with-a-leica-m6-by-kjetil-andre-dalheim/"/>
     <updated>2014-08-16T18:58:16+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/16/shooting-film-with-a-leica-m6-by-kjetil-andre-dalheim</id>
+    <id>http://analogsenses.github.io/2014/08/16/shooting-film-with-a-leica-m6-by-kjetil-andre-dalheim</id>
     <content type="html"><![CDATA[<p><a href="http://www.stevehuffphoto.com/2014/08/15/shooting-film-with-a-leica-m6-by-kjetil-andre-dalheim/">Shooting film with a Leica M6 | Steve Huff Photos</a></p>
 
 <p>Kjetil Andre Dalheim:</p>
@@ -432,9 +432,9 @@ Sob.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[Ben Brooks on the Importance of Focus]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/15/ben-brooks-on-the-importance-of-focus/"/>
+    <link href="http://analogsenses.github.io/2014/08/15/ben-brooks-on-the-importance-of-focus/"/>
     <updated>2014-08-15T15:05:07+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/15/ben-brooks-on-the-importance-of-focus</id>
+    <id>http://analogsenses.github.io/2014/08/15/ben-brooks-on-the-importance-of-focus</id>
     <content type="html"><![CDATA[<p><a href="https://brooksreview.net/2014/08/nothing-to-do-with-photography/">Ben Brooks on the importance of focus | The Brooks Review</a></p>
 
 <blockquote>I used to write a productivity blog, and a photography blog too. Those are still topics I know and love, but they aren’t what has captivated _most_ of my attention.
@@ -458,9 +458,9 @@ _Because it is easy_.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[MirrorLessons Reviews the New Panasonic GH4]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/14/mirrorlessons-reviews-the-new-panasonic-gh4/"/>
+    <link href="http://analogsenses.github.io/2014/08/14/mirrorlessons-reviews-the-new-panasonic-gh4/"/>
     <updated>2014-08-14T11:34:51+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/14/mirrorlessons-reviews-the-new-panasonic-gh4</id>
+    <id>http://analogsenses.github.io/2014/08/14/mirrorlessons-reviews-the-new-panasonic-gh4</id>
     <content type="html"><![CDATA[<p><a href="http://www.bestmirrorlesscamerareviews.com/2014/08/13/the-complete-panasonic-gh4-review-chapter-one-still-photography/">MirrorLessons reviews the new Panasonic GH4</a></p>
 
 <p>Looks like an interesting camera:</p>
@@ -474,9 +474,9 @@ _Because it is easy_.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[The Evolution of the Swimsuit]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/14/the-evolution-of-the-swimsuit/"/>
+    <link href="http://analogsenses.github.io/2014/08/14/the-evolution-of-the-swimsuit/"/>
     <updated>2014-08-14T10:39:52+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/14/the-evolution-of-the-swimsuit</id>
+    <id>http://analogsenses.github.io/2014/08/14/the-evolution-of-the-swimsuit</id>
     <content type="html"><![CDATA[<p><a href="http://qideas.org/videos/the-evolution-of-the-swimsuit/">The Evolution of the Swimsuit | Q Ideas</a></p>
 
 <blockquote>The evolution of the women’s swimsuit is one place where there has been a visible shift away from modesty. In the current world of swimwear, small is often beautiful and less is considered more desirable. But designer and actress Jessica Rey asks, “Who says it has to be itsy bitsy?” Rey argues that within the construct of modesty, there is a freedom—that modesty isnt about covering up whats bad, but about revealing dignity.</blockquote>
@@ -488,9 +488,9 @@ _Because it is easy_.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[The Burden of Originality]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/13/the-burden-of-originality/"/>
+    <link href="http://analogsenses.github.io/2014/08/13/the-burden-of-originality/"/>
     <updated>2014-08-13T18:50:31+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/13/the-burden-of-originality</id>
+    <id>http://analogsenses.github.io/2014/08/13/the-burden-of-originality</id>
     <content type="html"><![CDATA[<p>There’s a human impulse I’ve always found fascinating. You’ve probably experienced it first-hand because it happens all the time around us, especially on the Internet: you see someone doing an awesome thing and suddenly you get the urge to do awesome things yourself. We call this “being inspired” and for the most part, it’s great. It means more awesome things are being done and how could that not be great?</p>
 
 <p>The problem is, “awesome things” is an awfully abstract concept, and finding your own awesome thing to do is a lot harder than it looks. Sure, you’ve always had that little voice in the back of your head saying that this idea of yours could indeed be awesome, but that’s not enough to get you into “doing” territory. Your lizard brain is trained to avoid situations where you could get hurt, and whenever you consider putting yourself out there you feel completely exposed, as if the whole world is out to get you. So naturally, you do nothing, and the years go by.</p>
@@ -511,9 +511,9 @@ _Because it is easy_.</blockquote>
   
   <entry>
     <title type="html"><![CDATA[Guy English on Opinionated Software]]></title>
-    <link href="http://alvaroserrano.github.io/2014/08/13/guy-english-on-opinionated-software/"/>
+    <link href="http://analogsenses.github.io/2014/08/13/guy-english-on-opinionated-software/"/>
     <updated>2014-08-13T12:16:08+02:00</updated>
-    <id>http://alvaroserrano.github.io/2014/08/13/guy-english-on-opinionated-software</id>
+    <id>http://analogsenses.github.io/2014/08/13/guy-english-on-opinionated-software</id>
     <content type="html"><![CDATA[<p><a href="http://kickingbear.com/blog/archives/470">Guy English On Opinionated Software</a></p>
 
 <blockquote>Being opinionated and shipping the truest form of your vision of software doesn’t assure success. I understand the amount of heart, soul, concentration and perseverance it takes to ship a piece of software that really makes you proud and hits all of the marks you’d set for yourself and your team. It can be a really great piece of software.
