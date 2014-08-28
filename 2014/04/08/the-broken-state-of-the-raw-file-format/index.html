@@ -1,0 +1,208 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Broken State of the RAW File Format - Analog Senses</title>
+  <meta name="author" content="Álvaro Serrano">
+
+  
+  <meta name="description" content="Last Saturday we went to a birthday party at a friend&rsquo;s house, which was the perfect opportunity to take my new Olympus OM-D E-M10 out for a &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://analogsenses.github.io/2014/04/08/the-broken-state-of-the-raw-file-format">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Analog Senses" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!-- These are the scripts enablig TypeKit font integration -->
+<script type="text/javascript" src="http://use.typekit.com/kfs5avd.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a class="analog" href="/">Analog</a> <a class="senses" href="/">Senses</a></h1>
+  
+    <h2>Staying Human in the Digital Age</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:analogsenses.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <!--<li><a href="/">Blog</a></li>-->
+  <li><a href="/about">About</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/atom.xml">RSS</a></li>
+  <li><a href="http://twitter.com/analogfeed">Twitter</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+	
+    <h1 class="entry-title">The Broken State of the RAW File Format</h1>
+	
+
+    
+      <p class="meta">
+        
+
+
+
+
+Apr 8th, 2014
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Last Saturday we went to a birthday party at a friend&rsquo;s house, which was the perfect opportunity to take <a href="http://analogsenses.com/2014/04/07/on-self-doubt-photography-and-the-new-olympus-om-d-e-m10/">my new Olympus OM-D E-M10</a> out for a spin. I took a few dozen pictures and then a few more on Sunday, so by the end of the weekend I decided it was time to process the images on my computer and take a closer look to see if they were any good. I downloaded the RAW files and imported them into Aperture, but all I could see were black squares where the images should be. Apparently, Apple does not yet support the EM-10’s RAW file format in Aperture. Nor does Adobe’s Lightroom, by the way, so as of today, if you want to work with RAW files from the E-M10 on the Mac, unless you use the included Olympus Viewer 3 app, you’re out of luck. I keep asking myself, how can this be?</p>
+
+<p>The EM-10 is clearly a popular camera, and it’s been available for a few months already. I find it quite odd that neither of the two most popular photography applications for the Mac support it yet. This made me wonder about the RAW format itself, and after a few hours of research I have come to believe it is a profoundly broken system, and I wonder why nobody has found a way to solve it yet. I’m sure pro photographers have found a way to work around this, but it’s an issue that every aspiring photographer is going to have to deal with at some point, and it can be really frustrating. Of course I’m by no means an expert, so please take this with a grain of salt.</p>
+
+<p>From <a href="http://en.wikipedia.org/wiki/Raw_image_format">the Wikipedia entry</a>:</p>
+
+<blockquote>This industry-wide situation of inconsistent formatting has concerned many photographers who worry that their valuable raw photos may someday become inaccessible, as computer operating systems and software programs become obsolete and abandoned raw formats are dropped from new software. The availability of high-quality open source software which decodes raw image formats, particularly dcraw, has helped to alleviate these concerns. An essay by Michael Reichmann and Juergen Specht stated "here are two solutions – the adoption by the camera industry of A: Public documentation of RAW formats; past, present and future, or, more likely B: Adoption of a universal RAW format". "Planning for [US] Library of Congress Collections" identifies raw-file formats as "less desirable file formats", and identifies DNG as a suggested alternative.</blockquote>
+
+
+<p>The photography industry is now going through a period of great innovation, especially in the mirrorless sector, but it&rsquo;s also incredibly fragmented. Not only are there different RAW formats for each brand, but for each <em>camera</em>. So the OM-D E-M10 uses a different RAW format than the E-M5 and the PEN E-P5, even though all three cameras share the same sensor. It&rsquo;s insane. I honestly don&rsquo;t understand why the biggest players (Nikon, Canon, Sony, Leica, Fujifilm, Panasonic and Olympus to name a few) haven&rsquo;t already come up with a common, openly specified RAW format[footnote]There have been some efforts to develop an open standard, the most notable of which is <a href="http://en.wikipedia.org/wiki/Digital_Negative_(file_format">the DNG format</a>), but it&rsquo;s still nowhere near being widely used.[/footnote]. I guess it must be because they&rsquo;re not interested, but I just don&rsquo;t see any downsides to it, and I certainly don&rsquo;t understand why they would prefer the current situation, where their customers are left to wait for months until they can fully enjoy all the features of their new cameras.</p>
+</div>
+
+  <footer>
+    <p class="meta">
+      <!--
+  
+
+<span class="byline author vcard">Posted by <span class="fn">alvaroserrano</span></span>
+-->
+      
+
+
+
+
+Apr 8th, 2014
+      | Published in 
+
+<span class="categories">
+  
+    <a class='category' href='/categories/digital-life/'>digital life</a>, <a class='category' href='/categories/photography/'>photography</a>
+  
+</span>
+
+
+    </p>
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/2014/04/08/on-self-doubt-photography-and-the-new-olympus-om-d-e-m10/" title="Previous Post: On self-doubt, photography and the new Olympus OM-D E-M10">&laquo; On self-doubt, photography and the new Olympus OM-D E-M10</a>
+      
+      
+        <a class="basic-alignment right" href="/2014/04/08/my-sdk-is-complete/" title="Next Post: My SDK is complete">My SDK is complete &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/2014/08/25/ars-technica-reviews-the-mi4/">Ars Technica Reviews the Mi4</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/08/22/history-of-an-icon-la-vespa/">History of an Icon: La Vespa</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/08/22/the-phoblographer-reviews-the-new-panasonic-leica-dg-noctricron-42-5mm-f1-2-for-micro-four-thirds/">The Phoblographer Reviews the New Panasonic Leica DG Nocticron 42.5mm f1.2 for Micro Four Thirds</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/08/22/matt-gemmell-publishes-raw-materials-a-collection-of-personal-essays/">Matt Gemmell Publishes Raw Materials, a Collection of Personal Essays</a>
+      </li>
+    
+      <li class="post">
+        <a href="/2014/08/21/building-a-lightweight-photography-kit-for-the-urban-professional/">Building a Lightweight Photography Kit for the Urban Professional</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Álvaro Serrano -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
