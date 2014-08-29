@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Music | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/music/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-08-29T23:45:39+02:00</updated>
+  <updated>2014-08-30T00:59:34+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -50,16 +50,19 @@
     <link href="http://analogsenses.github.io/2013/07/30/quote-of-the-day-38/"/>
     <updated>2013-07-30T15:57:27+02:00</updated>
     <id>http://analogsenses.github.io/2013/07/30/quote-of-the-day-38</id>
-    <content type="html"><![CDATA[<p><a href="http://www.azlyrics.com/lyrics/franksinatra/gentleonmymind.html">It&rsquo;s knowing that your door is always open
+    <content type="html"><![CDATA[<blockquote>It&#8217;s knowing that your door is always open
 And your path is free to walk
 That makes me tend to leave my sleeping bag
-Rolled up and stashed behind your couch&#8221;.</a></p>
+Rolled up and stashed behind your couch.</blockquote>
+
 
 <p><strong>John Hartford (1937-2001)</strong>, <em>Gentle On My Mind</em>. One of my favorite songs, performed by Elvis Presley, Dean Martin and many others, but specially by The Voice himself, Francis Albert Sinatra.</p>
 
 <p>These have to be some of the greatest opening verses of all time.</p>
 
-<p>[embed size=&ldquo;compact&rdquo;]<a href="http://open.spotify.com/track/35lBDaYBYRvWKAEc1OaVXl">http://open.spotify.com/track/35lBDaYBYRvWKAEc1OaVXl</a>[/embed]</p>
+<p><div class='spotify_play_button'>
+<iframe src='https://embed.spotify.com/?uri=spotify:track:35lBDaYBYRvWKAEc1OaVXl ' width='300' height='380' frameborder='0' allowtransparency='true'></iframe>
+</div></p>
 ]]></content>
   </entry>
   
