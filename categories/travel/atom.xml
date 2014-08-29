@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Travel | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/travel/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-08-29T15:43:04+02:00</updated>
+  <updated>2014-08-29T17:06:48+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -32,7 +32,10 @@ I love it when my imagination becomes a reality…</blockquote>
     <link href="http://analogsenses.github.io/2014/08/28/postcards-from-stockholm-on-vimeo/"/>
     <updated>2014-08-28T18:25:04+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/28/postcards-from-stockholm-on-vimeo</id>
-    <content type="html"><![CDATA[<p>Play it on full-screen mode. What a gorgeous city.</p>
+    <content type="html"><![CDATA[<iframe src="//player.vimeo.com/video/104509459" width="570" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<p>Play it on full-screen mode. What a gorgeous city.</p>
 
 <p>Via <a href="http://coudal.com/archives/2014/08/postcards_from_1.php">Coudal Partners</a>.</p>
 ]]></content>
