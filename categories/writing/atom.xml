@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Writing | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/writing/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-08-30T14:26:03+02:00</updated>
+  <updated>2014-08-30T16:45:17+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Writing Skills | Xkcd]]></title>
+    <link href="http://analogsenses.github.io/2014/08/30/writing-skills-%7C-xkcd/"/>
+    <updated>2014-08-30T01:20:44+02:00</updated>
+    <id>http://analogsenses.github.io/2014/08/30/writing-skills-|-xkcd</id>
+    <content type="html"><![CDATA[<p>Another gem from xkcd.</p>
+
+<p><a href="http://xkcd.com/1414/"><img src="http://imgs.xkcd.com/comics/writing_skills.png" alt="Writing Skills | xkcd" /></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Josh Ginter Reviews the TWSBI Diamond 580AL Fountain Pen]]></title>
@@ -104,20 +115,6 @@ _Because it is easy_.</blockquote>
 
 
 <p>Matt is absolutely killing it lately.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Own Your Words]]></title>
-    <link href="http://analogsenses.github.io/2014/03/25/own-your-words/"/>
-    <updated>2014-03-25T11:41:33+01:00</updated>
-    <id>http://analogsenses.github.io/2014/03/25/own-your-words</id>
-    <content type="html"><![CDATA[<p>Matt Gemmell:</p>
-
-<blockquote>I do have an issue with giving away your words just because it’s easy to do so. By default, your words should be yours, and that means more than being attributed: it also means gathering them together in your own publication, controlled by you, that serves as a place for your own voice to be heard above and instead of all others.</blockquote>
-
-
-<p>Exactly.</p>
 ]]></content>
   </entry>
   
