@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Writing | Analog Senses]]></title>
+  <title><![CDATA[Category: writing | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/writing/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-01T00:37:45+02:00</updated>
+  <updated>2014-09-01T14:23:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Writing Skills | Xkcd]]></title>
+    <title type="html"><![CDATA[Writing Skills | xkcd]]></title>
     <link href="http://analogsenses.github.io/2014/08/30/writing-skills-%7C-xkcd/"/>
     <updated>2014-08-30T01:20:44+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/30/writing-skills-|-xkcd</id>
@@ -25,7 +25,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Josh Ginter Reviews the TWSBI Diamond 580AL Fountain Pen]]></title>
+    <title type="html"><![CDATA[Josh Ginter reviews the TWSBI Diamond 580AL fountain pen]]></title>
     <link href="http://analogsenses.github.io/2014/08/27/josh-ginter-reviews-the-twsbi-diamond-580al-fountain-pen/"/>
     <updated>2014-08-27T19:29:57+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/27/josh-ginter-reviews-the-twsbi-diamond-580al-fountain-pen</id>
@@ -55,7 +55,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Matt Gemmell Publishes Raw Materials, a Collection of Personal Essays]]></title>
+    <title type="html"><![CDATA[Matt Gemmell publishes Raw Materials, a collection of personal essays]]></title>
     <link href="http://analogsenses.github.io/2014/08/22/matt-gemmell-publishes-raw-materials-a-collection-of-personal-essays/"/>
     <updated>2014-08-22T11:24:48+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/22/matt-gemmell-publishes-raw-materials-a-collection-of-personal-essays</id>
@@ -81,7 +81,7 @@ The collection is entitled Raw Materials, and includes revised and updated versi
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Ben Brooks on the Importance of Focus]]></title>
+    <title type="html"><![CDATA[Ben Brooks on the importance of focus]]></title>
     <link href="http://analogsenses.github.io/2014/08/15/ben-brooks-on-the-importance-of-focus/"/>
     <updated>2014-08-15T15:05:07+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/15/ben-brooks-on-the-importance-of-focus</id>
@@ -105,7 +105,7 @@ _Because it is easy_.</blockquote>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Letting Go]]></title>
+    <title type="html"><![CDATA[Letting go]]></title>
     <link href="http://analogsenses.github.io/2014/06/04/letting-go/"/>
     <updated>2014-06-04T16:58:42+02:00</updated>
     <id>http://analogsenses.github.io/2014/06/04/letting-go</id>

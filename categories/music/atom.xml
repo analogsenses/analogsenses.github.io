@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Music | Analog Senses]]></title>
+  <title><![CDATA[Category: music | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/music/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-01T00:37:45+02:00</updated>
+  <updated>2014-09-01T14:23:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -79,7 +79,7 @@ Rolled up and stashed behind your couch.</blockquote>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[A Man and His Music | Spotify]]></title>
+    <title type="html"><![CDATA[A man and his music | Spotify]]></title>
     <link href="http://analogsenses.github.io/2011/12/12/a-man-and-his-music/"/>
     <updated>2011-12-12T13:25:45+01:00</updated>
     <id>http://analogsenses.github.io/2011/12/12/a-man-and-his-music</id>

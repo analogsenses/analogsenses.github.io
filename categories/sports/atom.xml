@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Sports | Analog Senses]]></title>
+  <title><![CDATA[Category: sports | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/sports/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-01T00:37:45+02:00</updated>
+  <updated>2014-09-01T14:23:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Roger Federer’s Nine Racquets | the New Yorker]]></title>
+    <title type="html"><![CDATA[Roger Federer’s Nine Racquets | The New Yorker]]></title>
     <link href="http://analogsenses.github.io/2014/08/31/roger-federers-nine-racquets-the-new-yorker/"/>
     <updated>2014-08-31T12:55:37+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/31/roger-federers-nine-racquets-the-new-yorker</id>
@@ -42,7 +42,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Steve Ballmer Is Really Excited to Own the Clippers]]></title>
+    <title type="html"><![CDATA[Steve Ballmer is really excited to own the Clippers]]></title>
     <link href="http://analogsenses.github.io/2014/08/26/steve-ballmer-is-really-excited-to-own-the-clippers/"/>
     <updated>2014-08-26T18:13:05+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/26/steve-ballmer-is-really-excited-to-own-the-clippers</id>
@@ -53,7 +53,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Roger Federer Qualifies for the ATP World Tour Finals for a Record 13th Consecutive Year]]></title>
+    <title type="html"><![CDATA[Roger Federer qualifies for the ATP World Tour Finals for a record 13th consecutive year]]></title>
     <link href="http://analogsenses.github.io/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year/"/>
     <updated>2014-08-18T20:53:04+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year</id>
@@ -65,7 +65,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Novak Djokovic Triumphs in Five-set Thriller | Wimbledon]]></title>
+    <title type="html"><![CDATA[Novak Djokovic triumphs in five-set thriller | Wimbledon]]></title>
     <link href="http://analogsenses.github.io/2014/07/07/novak-djokovic-triumphs-in-five-set-thriller/"/>
     <updated>2014-07-07T18:10:06+02:00</updated>
     <id>http://analogsenses.github.io/2014/07/07/novak-djokovic-triumphs-in-five-set-thriller</id>

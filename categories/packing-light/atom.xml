@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Packing Light | Analog Senses]]></title>
+  <title><![CDATA[Category: packing light | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/packing-light/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-01T00:37:45+02:00</updated>
+  <updated>2014-09-01T14:23:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Building a Lightweight Photography Kit for the Urban Professional]]></title>
+    <title type="html"><![CDATA[Building a lightweight photography kit for the urban professional]]></title>
     <link href="http://analogsenses.github.io/2014/08/21/building-a-lightweight-photography-kit-for-the-urban-professional/"/>
     <updated>2014-08-21T16:16:57+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/21/building-a-lightweight-photography-kit-for-the-urban-professional</id>
@@ -216,7 +216,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Going Light Makes You Fast (When It Matters)]]></title>
+    <title type="html"><![CDATA[Going light makes you fast (when it matters)]]></title>
     <link href="http://analogsenses.github.io/2011/12/07/going-light-makes-you-fast-when-it-counts-the-most/"/>
     <updated>2011-12-07T19:37:27+01:00</updated>
     <id>http://analogsenses.github.io/2011/12/07/going-light-makes-you-fast-when-it-counts-the-most</id>

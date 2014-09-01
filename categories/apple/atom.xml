@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Apple | Analog Senses]]></title>
+  <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-01T00:37:45+02:00</updated>
+  <updated>2014-09-01T14:23:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -30,7 +30,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Ars Technica Reviews the Mi4]]></title>
+    <title type="html"><![CDATA[Ars Technica reviews the Mi4]]></title>
     <link href="http://analogsenses.github.io/2014/08/25/ars-technica-reviews-the-mi4/"/>
     <updated>2014-08-25T15:11:01+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/25/ars-technica-reviews-the-mi4</id>
@@ -58,7 +58,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Jean-Louis Gassée Asks for Better App Store Curation in an Open Letter to Tim Cook]]></title>
+    <title type="html"><![CDATA[Jean-Louis Gassée asks for better App Store curation in an open letter to Tim Cook]]></title>
     <link href="http://analogsenses.github.io/2014/08/12/jean-louis-gassee-asks-for-better-app-store-curation-in-an-open-letter-to-tim-cook/"/>
     <updated>2014-08-12T18:49:16+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/12/jean-louis-gassee-asks-for-better-app-store-curation-in-an-open-letter-to-tim-cook</id>
@@ -72,7 +72,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Nobody Needs to Buy Tablets Any More, Says Ars Technica]]></title>
+    <title type="html"><![CDATA[Nobody needs to buy tablets any more, says Ars Technica]]></title>
     <link href="http://analogsenses.github.io/2014/08/08/nobody-needs-to-buy-tablets-any-more-says-ars-technica/"/>
     <updated>2014-08-08T20:48:28+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/08/nobody-needs-to-buy-tablets-any-more-says-ars-technica</id>

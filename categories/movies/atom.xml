@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Movies | Analog Senses]]></title>
+  <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/movies/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-01T00:37:45+02:00</updated>
+  <updated>2014-09-01T14:23:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Dear Mr. Watterson: An Exploration of Calvin and Hobbes]]></title>
+    <title type="html"><![CDATA[Dear Mr. Watterson: an exploration of Calvin and Hobbes]]></title>
     <link href="http://analogsenses.github.io/2013/10/15/dear-mr-watterson-an-exploration-of-calvin-and-hobbes/"/>
     <updated>2013-10-15T16:06:36+02:00</updated>
     <id>http://analogsenses.github.io/2013/10/15/dear-mr-watterson-an-exploration-of-calvin-and-hobbes</id>
@@ -53,7 +53,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Tony Stark / Bruce Banner: How $1 of Great Writing/acting Makes $100,000 of CGI Totally Worth It]]></title>
+    <title type="html"><![CDATA[Tony Stark / Bruce Banner: How $1 of great writing/acting makes $100,000 of CGI totally worth it]]></title>
     <link href="http://analogsenses.github.io/2012/05/07/tony-stark-bruce-banner-how-1-of-great-writingacting-makes-100000-of-cgi-totally-worth-it/"/>
     <updated>2012-05-07T18:16:18+02:00</updated>
     <id>http://analogsenses.github.io/2012/05/07/tony-stark-bruce-banner-how-1-of-great-writingacting-makes-100000-of-cgi-totally-worth-it</id>
