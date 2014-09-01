@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tech | Analog Senses]]></title>
+  <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
+  <link href="http://analogsenses.github.io/"/>
+  <updated>2014-09-01T20:07:59+02:00</updated>
+  <id>http://analogsenses.github.io/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dropbox is a Feature | The Brooks Review]]></title>
+    <link href="http://analogsenses.github.io/2014/09/01/dropbox-is-a-feature-%7C-the-broos-review/"/>
+    <updated>2014-09-01T19:53:36+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/01/dropbox-is-a-feature-|-the-broos-review</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been so busy <a href="2014/08/31/now-serving-delicious-baked-goods">migrating the site</a> this past week that I somehow forgot to link to this great article by Ben Brooks on the uncertain future that Dropbox is facing:</p>
+
+<blockquote>Dropbox very much has to make money, which is a problem when it comes down to competing on price. Because if you can afford to ‘sell’ a feature at a loss, then pricing doesn’t matter to you, but when that feature is your business you simply must make money. And that feature in this case, very much is Dropbox’s business.</blockquote>
+
+
+<p>He&rsquo;s right on the money here. The recent move by Dropbox to lower their prices is great for their customers, but it kind of leaves them with little wiggle room, strategically speaking. Competing against platform vendors on price is always a tough game, because they don&rsquo;t need to make money in this area, and you do. It&rsquo;s what Amazon is doing to the entire retail industry and what it&rsquo;s trying to do to the smartphone and tablet industries: by commoditizing hardware, content is king.</p>
+
+<p>Can Dropbox survive in a world where automagical file syncing and sharing across devices and platforms is taken for granted? Because, make no mistake, that is <em>exactly</em> where we&rsquo;re going.</p>
+]]></content>
+  </entry>
+  
+</feed>
