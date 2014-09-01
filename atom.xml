@@ -4,7 +4,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-01T15:53:54+02:00</updated>
+  <updated>2014-09-01T16:11:58+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -71,7 +71,7 @@
 
 <h2>The Baking Process</h2>
 
-<p>Migrating Analog Senses from Wordpress and into Octopress was not trivial. Fortunately, there are many excellent resources available online from generous people who have gone to the trouble of documenting their prior experiences. In the following sections I will try to add my own two cents by providing a detailed description of the process I followed, with the hope that it will be helpful (or at least informative) to somebody else. <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+<p>Migrating Analog Senses from WordPress and into Octopress was not trivial. Fortunately, there are many excellent resources available online from generous people who have gone to the trouble of documenting their prior experiences. In the following sections I will try to add my own two cents by providing a detailed description of the process I followed, with the hope that it will be helpful (or at least informative) to somebody else. <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
 
 <p>To install Octopress and migrate my old posts, I followed <a href="http://zhen.org/blog/migrating-40000-posts-from-wordpress-to-octopress/">this great article</a> by <a href="https://twitter.com/zhenjl">Jian Zhen</a>. That is an excellent place to start if you&rsquo;re planning to migrate your own WordPress site.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
 
