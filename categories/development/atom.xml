@@ -4,7 +4,7 @@
   <title><![CDATA[Category: development | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/development/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-01T14:23:46+02:00</updated>
+  <updated>2014-09-01T14:27:34+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -71,7 +71,7 @@
 
 <p>Migrating Analog Senses from Wordpress and into Octopress was not trivial. Fortunately, there are many excellent resources available online from generous people who have gone to the trouble of documenting their prior experiences. In the following sections I will try to add my own two cents by providing a detailed description of the process I followed, with the hope that it will be helpful (or at least informative) to somebody else. <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
 
-<p>To install Octopress and migrate my old posts, I followed <a href="http://zhen.org/blog/migrating-40000-posts-from-wordpress-to-octopress/">this great article</a> by <a href="https://twitter.com/zhenjl">Jian Zhen</a>. That is an excellent place to start if you&rsquo;re planning to migrate your own WordPress site.</p>
+<p>To install Octopress and migrate my old posts, I followed <a href="http://zhen.org/blog/migrating-40000-posts-from-wordpress-to-octopress/">this great article</a> by <a href="https://twitter.com/zhenjl">Jian Zhen</a>. That is an excellent place to start if you&rsquo;re planning to migrate your own WordPress site.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
 
 <p>As Zhen recommends, I exported all entries from my old WordPress site with <a href="https://github.com/thomasf/exitwp">exitwp</a>, and I imported them into Octopress without any issues. The only thing I needed to do was to edit _config.yaml to change the default permalink structure to match my old permalinks. I also edited sources/_include/custom/navigation.html to remove the redundant /blog link from the site and add links to my other pages. I was now set to start customizing my Octopress install.</p>
 
@@ -100,7 +100,7 @@
 
 <p>And with that, everything was set up. Well, everything except for one thing: remote publishing. My local Octopress repository lives in my iMac, which generates the entire site every time I publish a new entry and then pushes it to GitHub. That means I need to physically be at my iMac whenever I want to publish new entries. That&rsquo;s fine if I&rsquo;m at home, but sometimes I like to work out of a local coffeehouse, or somewhere else, so I wanted to be able to do everything from my MacBook Pro for those times when I&rsquo;m on the go.</p>
 
-<p>There are several ways to achieve that, such as SSH tunneling into my iMac from my McBook Pro, but those require the iMac to be on at all times. In the end I decided to do a second clone of my GitHub repo in my MacBook Pro, so that both computers can coexist as equals. To do that, I followed <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">this great post</a> by <a href="https://twitter.com/8ctopus">Robert Anderson</a>. It&rsquo;s actually pretty simple, but be particularly careful when switching computers, as you need to pull the changes from GitHub before you do anything else in order to stay in sync and avoid merging conflicts.</p>
+<p>There are several ways to achieve that, such as SSH tunneling into my iMac from my MacBook Pro, but those require the iMac to be on at all times. In the end I decided to do a second clone of my GitHub repo in my MacBook Pro, so that both computers can work together as equals. To do that, I followed <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">this great post</a> by <a href="https://twitter.com/8ctopus">Robert Anderson</a>. It&rsquo;s actually pretty simple, but be particularly careful when switching computers, as you need to pull the changes from GitHub before you do anything else in order to stay in sync and avoid merging conflicts.</p>
 
 <p>That&rsquo;s it. Once everything was done, I only needed to <a href="https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages">point my domain name to GitHub pages</a> and wait for the DNS to propagate through the network. This article is the first entry to be published only on the new site, so if you&rsquo;re reading this, it means it worked. Thanks for making it this far.</p>
 
@@ -118,6 +118,8 @@
 <p>The biggest implication of this is that the site is no longer tied to a MySQL database, which is not only the biggest performance bottleneck, but also the most vulnerable point of any dynamically-generated site. Instead, each article is now an HTML file generated ahead of time and sitting on a webserver, ready to be served upon request.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
 <li id="fn:2">
 <p>If you are not technically inclined (i.e.: a geek), this will be pretty boring and now would probably be a good time to stop reading. <a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>The only thing I wasn&rsquo;t very clear on was that you actually need <em>two</em> different GitHub repos: one for the source code and another one for the publicly deployed website. This is explained in the article, but since I&rsquo;m a Git noob I didn&rsquo;t fully understand it at first, and it took some trial-and-error to figure out.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
 </ol>
 </div>
 
