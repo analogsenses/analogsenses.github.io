@@ -4,7 +4,7 @@
   <title><![CDATA[Category: development | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/development/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-02T13:49:33+02:00</updated>
+  <updated>2014-09-02T15:54:58+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How the new HTML 'Picture' element will make the Web faster | Ars Technica]]></title>
+    <link href="http://analogsenses.github.io/2014/09/02/new-html-picture-element-will-make-the-web-faster/"/>
+    <updated>2014-09-02T15:49:39+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/02/new-html-picture-element-will-make-the-web-faster</id>
+    <content type="html"><![CDATA[<p>Scott Gilbertson on the new HTML Picture element, which will allow mobile devices to selectively load smaller-res images on websites:</p>
+
+<blockquote>
+Web developers recognized this problem very early on in the growth of what was called the &#8220;mobile&#8221; Web back then. So more recently, a few of them banded together to do something developers have never done before—create a new HTML element.
+</blockquote>
+
+
+<p>Fascinating story.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Now serving delicious baked goods]]></title>
