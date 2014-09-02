@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-02T13:02:10+02:00</updated>
+  <updated>2014-09-02T13:49:33+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Stop Stealing Dreams by Seth Godin | TEDxYouth →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=sXpbONjV1Jc"/>
+	
+    <updated>2014-09-02T13:34:41+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/02/stop-stealing-dreams-by-Seth-Godin</id>
+  	
+  	<content type="html"><![CDATA[<p>I came across this <a href="http://sethgodin.typepad.com/seths_blog/2014/09/the-shameful-fraud-of-sorting-for-youth-meritocracy.html">on Seth Godin&rsquo;s blog today</a>, and it&rsquo;s worth a link even though it&rsquo;s nearly two years old. It&rsquo;s an amazing talk he gave at TEDxYouth back in 2012, where he asks a truly important question:</p>
+
+<blockquote>
+What is school for?
+</blockquote>
+
+
+<p>He goes on to make an incredibly relevant critique of the modern school system, and how we can fix it. Be sure to also take a look at <a href="http://sethgodin.typepad.com/files/stopstealingdreams-screen.pdf">the manifesto</a> for more in-depth information.</p>
+
+<p>Really, really great stuff.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/02/stop-stealing-dreams-by-Seth-Godin/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Don't forget to remember this | Fifty Foot Shadows →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -459,24 +481,6 @@ Every spring, a few times a week, twenty-seven bridges open in sequence to allow
 
 <p>If you&rsquo;re going to copy Apple, this is the way to do it: shamelessly, and with zero regard for any possible legal repercussions. When you don&rsquo;t have to work too hard on the design, you can focus relentlessly on execution. Samsung could learn a thing or two from these guys.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/08/25/ars-technica-reviews-the-mi4/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[History of an Icon: La Vespa →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.italymagazine.com/featured-story/history-icon-la-vespa"/>
-	
-    <updated>2014-08-22T14:16:08+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/08/22/history-of-an-icon-la-vespa</id>
-  	
-  	<content type="html"><![CDATA[<p>Barry Lillie:</p>
-
-<blockquote>Only in Italy could an ugly U.S. military motorcycle be the catalyst that led to the creation of a style icon. With over 16 million scooters sold, the Vespa has become synonymous with style, freedom and all things Italian. The name alone conjures up images of beautiful people in beautiful places, an image that was further propagated by Fellini, who had the sultry Anita Ekberg ride one in his cinematic masterpiece La Dolce Vita.</blockquote>
-
-
-<p>Fascinating read.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/08/22/history-of-an-icon-la-vespa/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
