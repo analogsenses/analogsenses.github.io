@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-02T21:22:10+02:00</updated>
+  <updated>2014-09-02T21:31:35+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Email | Inessential →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://inessential.com/2014/09/02/email"/>
+	
+    <updated>2014-09-02T21:27:56+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/02/email-|-inessential</id>
+  	
+  	<content type="html"><![CDATA[<p>Brent Simmons tries to come up with a communication system for easily exchanging links over the Internet:</p>
+
+<blockquote><p>There’s no technical reason why that specific use case — message with link, no subject line, quick to find contact, quick to write and send — couldn’t be handled by email. The issue is user interface.</p>
+
+<p>It continues to surprise me that email app vendors don’t think about the way people communicate now. They may think about the way people communicate by email but they don’t think about how people communicate in general.</p></blockquote>
+
+<p>Excellent point. This is an intriguing idea, and I wonder why nobody has tried to run away with it yet.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/02/email-%7C-inessential/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Apple says iCloud accounts of celebrities were hacked in targeted attack | Re/code →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -470,28 +489,6 @@ Every spring, a few times a week, twenty-seven bridges open in sequence to allow
   	
   	<content type="html"><![CDATA[<p>Roger Federer and Michael Jordan unveil the new Zoom Vapor AJ3 shoes at the 2014 US Open.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/08/27/greatness-meets-greatness/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Why Shooting Wide is Best for Street Photography →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.thephoblographer.com/2014/08/26/shooting-wide-best-street-photography/"/>
-	
-    <updated>2014-08-26T18:48:15+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/08/26/why-shooting-wide-is-best-for-street-photography</id>
-  	
-  	<content type="html"><![CDATA[<blockquote>In order to get what you usually want to capture in your final scene, chances are that you’re going to have to get close up and personal to your subject. Oftentimes, this means within a few feet. The longest focal length equivalent you should be using is 50mm; and in general 28mm or 35mm can be ideal. These lenses can put your viewer mostly in the experience and more or less mimic what the human eye sees. So all you’ll need to do is put the camera to your eye and shoot–then what you see is what you get.</blockquote>
-
-
-<p>Excellent advice. I love street photography and I&rsquo;m <a href="https://www.flickr.com/photos/analogsenses/sets/72157646507633431/">trying to get better at it</a>, but I often find it hard to get close enough to the subject to capture the image I want. For some reason, it feels like I&rsquo;m invading their privacy, and that strikes me as disrespectful. This reluctancy to get close makes me tempted to go for longer focal lengths, so that I can capture my subjects without intruding.</p>
-
-<p>However, if I give in to that shyness, my composition will suffer, and my images will ultimately be less compelling.</p>
-
-<p>The only way out of this situation is to overcome my shyness and prove to myself that it really is ok to take a picture of someone in the street, and that I should not feel ashamed by it. This is something I need to persevere at if I want to become a better photographer, and it all starts by going out on the streets and taking the next picture. And the one after that.</p>
-
-<p>With a wide-angle lens, of course.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/08/26/why-shooting-wide-is-best-for-street-photography/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

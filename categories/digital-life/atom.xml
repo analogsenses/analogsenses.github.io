@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-02T21:22:10+02:00</updated>
+  <updated>2014-09-02T21:31:35+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Email | Inessential]]></title>
+    <link href="http://analogsenses.github.io/2014/09/02/email-%7C-inessential/"/>
+    <updated>2014-09-02T21:27:56+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/02/email-|-inessential</id>
+    <content type="html"><![CDATA[<p>Brent Simmons tries to come up with a communication system for easily exchanging links over the Internet:</p>
+
+<blockquote><p>There’s no technical reason why that specific use case — message with link, no subject line, quick to find contact, quick to write and send — couldn’t be handled by email. The issue is user interface.</p>
+
+<p>It continues to surprise me that email app vendors don’t think about the way people communicate now. They may think about the way people communicate by email but they don’t think about how people communicate in general.</p></blockquote>
+
+<p>Excellent point. This is an intriguing idea, and I wonder why nobody has tried to run away with it yet.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple says iCloud accounts of celebrities were hacked in targeted attack | Re/code]]></title>
@@ -74,24 +89,6 @@ Web developers recognized this problem very early on in the growth of what was c
 
 
 <p>Fascinating story.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Stop Stealing Dreams by Seth Godin | TEDxYouth]]></title>
-    <link href="http://analogsenses.github.io/2014/09/02/stop-stealing-dreams-by-Seth-Godin/"/>
-    <updated>2014-09-02T13:34:41+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/02/stop-stealing-dreams-by-Seth-Godin</id>
-    <content type="html"><![CDATA[<p>I came across this <a href="http://sethgodin.typepad.com/seths_blog/2014/09/the-shameful-fraud-of-sorting-for-youth-meritocracy.html">on Seth Godin&rsquo;s blog today</a>, and it&rsquo;s worth a link even though it&rsquo;s nearly two years old. It&rsquo;s an amazing talk he gave at TEDxYouth back in 2012, where he asks a truly important question:</p>
-
-<blockquote>
-What is school for?
-</blockquote>
-
-
-<p>He goes on to make an incredibly relevant critique of the modern school system, and how we can fix it. Be sure to also take a look at <a href="http://sethgodin.typepad.com/files/stopstealingdreams-screen.pdf">the manifesto</a> for more in-depth information.</p>
-
-<p>Really, really great stuff.</p>
 ]]></content>
   </entry>
   
