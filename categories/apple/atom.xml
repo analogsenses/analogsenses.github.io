@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-02T16:42:50+02:00</updated>
+  <updated>2014-09-02T21:15:11+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple says iCloud accounts of celebrities were hacked in targeted attack | Re/code]]></title>
+    <link href="http://analogsenses.github.io/2014/09/02/apple-says-celebrities-icloud-accounts-were-hacked-in-targeted-attack/"/>
+    <updated>2014-09-02T20:57:10+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/02/apple-says-celebrities-icloud-accounts-were-hacked-in-targeted-attack</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s the statement from Apple:</p>
+
+<blockquote><p>We wanted to provide an update to our investigation into the theft of photos of certain celebrities. When we learned of the theft, we were outraged and immediately mobilized Apple’s engineers to discover the source. Our customers’ privacy and security are of utmost importance to us. After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.</p></blockquote>
+
+<p>So, they&rsquo;re basically saying that their systems were not at fault, and that the attackers knew which iCloud accounts they were hacking into.</p>
+
+<p>This strikes me as a very odd statement. Even if their systems were not breached, at the end of the day several high-profile accounts were hacked. Their wording makes it sound a lot like they&rsquo;re saying: &ldquo;this is life on the Internet, better get used to it&rdquo;.</p>
+
+<p>That&rsquo;s not very reassuring, and it doesn&rsquo;t sound like Apple to me.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Conjecture Regarding Larger iPhone Displays]]></title>
@@ -68,20 +85,6 @@
 
 
 <p>I couldn&rsquo;t agree more. Human curation and an editorial selection of apps are becoming indispensable in today&rsquo;s extremely crowded App Store. If Apple wants high-quality apps to thrive and independent developers to keep making great apps, this is the way forward.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nobody needs to buy tablets any more, says Ars Technica]]></title>
-    <link href="http://analogsenses.github.io/2014/08/08/nobody-needs-to-buy-tablets-any-more-says-ars-technica/"/>
-    <updated>2014-08-08T20:48:28+02:00</updated>
-    <id>http://analogsenses.github.io/2014/08/08/nobody-needs-to-buy-tablets-any-more-says-ars-technica</id>
-    <content type="html"><![CDATA[<p>Peter Bright makes an interesting case:</p>
-
-<blockquote>It turns out that tablets aren&#8217;t the new smartphone and they&#8217;re not going to provide regular sales at high price points. They&#8217;re the new PC; if you&#8217;ve already got one, there&#8217;s not much reason to buy a new one. Their makers are all out of ideas and they can&#8217;t make them better. They can only make them cheaper. </blockquote>
-
-
-<p>That&rsquo;s a bold thing to say when we are less than a couple of months removed from a new generation of iPads. We shall see.</p>
 ]]></content>
   </entry>
   

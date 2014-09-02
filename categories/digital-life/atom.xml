@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-02T16:42:50+02:00</updated>
+  <updated>2014-09-02T21:15:11+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple says iCloud accounts of celebrities were hacked in targeted attack | Re/code]]></title>
+    <link href="http://analogsenses.github.io/2014/09/02/apple-says-celebrities-icloud-accounts-were-hacked-in-targeted-attack/"/>
+    <updated>2014-09-02T20:57:10+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/02/apple-says-celebrities-icloud-accounts-were-hacked-in-targeted-attack</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s the statement from Apple:</p>
+
+<blockquote><p>We wanted to provide an update to our investigation into the theft of photos of certain celebrities. When we learned of the theft, we were outraged and immediately mobilized Apple’s engineers to discover the source. Our customers’ privacy and security are of utmost importance to us. After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.</p></blockquote>
+
+<p>So, they&rsquo;re basically saying that their systems were not at fault, and that the attackers knew which iCloud accounts they were hacking into.</p>
+
+<p>This strikes me as a very odd statement. Even if their systems were not breached, at the end of the day several high-profile accounts were hacked. Their wording makes it sound a lot like they&rsquo;re saying: &ldquo;this is life on the Internet, better get used to it&rdquo;.</p>
+
+<p>That&rsquo;s not very reassuring, and it doesn&rsquo;t sound like Apple to me.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Three Chilean engineering students create world's first 'unstealable bike']]></title>
@@ -73,20 +90,6 @@ What is school for?
 <p>He goes on to make an incredibly relevant critique of the modern school system, and how we can fix it. Be sure to also take a look at <a href="http://sethgodin.typepad.com/files/stopstealingdreams-screen.pdf">the manifesto</a> for more in-depth information.</p>
 
 <p>Really, really great stuff.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Don't forget to remember this | Fifty Foot Shadows]]></title>
-    <link href="http://analogsenses.github.io/2014/09/01/dont-forget-to-remember-this-%7C-fifty-foot-shadows/"/>
-    <updated>2014-09-01T20:57:42+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/01/dont-forget-to-remember-this-|-fifty-foot-shadows</id>
-    <content type="html"><![CDATA[<p>Another gem that I missed last week, this time by John Carey:</p>
-
-<blockquote>Photography is a privilege we are lucky to have, but it should never get in the way of our happiness, it should pull us toward it like a magnetic force. The secret to great photography has nothing to do with your philosophy, your choice of format, or your pedigree. Let your camera be your compass. Live first, then shoot.</blockquote>
-
-
-<p>So much to love in this piece.</p>
 ]]></content>
   </entry>
   
