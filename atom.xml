@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-02T22:04:53+02:00</updated>
+  <updated>2014-09-02T23:41:48+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[This is a Video Game →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=uGU2B-_Foy8"/>
+	
+    <updated>2014-09-02T23:39:41+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/02/this-is-a-video-game</id>
+  	
+  	<content type="html"><![CDATA[<p>Beautiful video about the love for video games:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/uGU2B-_Foy8" allowfullscreen></iframe></div>
+
+
+<p>Via <a href="https://twitter.com/imyke/status/506891412873703424">Myke Hurley</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/02/this-is-a-video-game/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Photographer took 100,000 smoke plume photos looking for unexpected shapes | Colossal →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -479,22 +497,6 @@ Every spring, a few times a week, twenty-seven bridges open in sequence to allow
 
 <p>Really cool story. Via <a href="http://coudal.com/archives/2014/08/chasing_chicago.php">Coudal Partners</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/08/27/seesaws-for-giants/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The cloud storage price wars continue with Dropbox's new plan | Macworld →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.macworld.com/article/2599540/dropbox-offers-1tb-pro-plan-for-999.html"/>
-	
-    <updated>2014-08-27T17:45:21+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/08/27/the-cloud-storage-price-wars-continue-with-dropboxs-new-plan-macworld</id>
-  	
-  	<content type="html"><![CDATA[<blockquote>Dropbox is consolidating its three Pro account options into a single plan that’s priced at $9.99 per month and includes 1TB of storage and added controls for document sharing and security.</blockquote>
-
-
-<p>That&rsquo;s a pretty a good deal.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/08/27/the-cloud-storage-price-wars-continue-with-dropboxs-new-plan-macworld/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
