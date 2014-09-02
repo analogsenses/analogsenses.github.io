@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: bicycles | Analog Senses]]></title>
+  <link href="http://analogsenses.github.io/categories/bicycles/atom.xml" rel="self"/>
+  <link href="http://analogsenses.github.io/"/>
+  <updated>2014-09-02T16:42:50+02:00</updated>
+  <id>http://analogsenses.github.io/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Three Chilean engineering students create world's first 'unstealable bike']]></title>
+    <link href="http://analogsenses.github.io/2014/09/02/three-chilean-engineering-students-create-worlds-first-unstealable-bike/"/>
+    <updated>2014-09-02T16:34:35+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/02/three-chilean-engineering-students-create-worlds-first-unstealable-bike</id>
+    <content type="html"><![CDATA[<p>Interesting concept:</p>
+
+<blockquote><p>Designers Juan José Monsalve, Andrés Roi, and Cristóbal Cabello say on their Yerka Project website that their prototype bike &ldquo;looks like a traditional bike to the naked eye, but it’s the safest bicycle you’ll find&rdquo; because &ldquo;we decided to make a lock out of the frame&rdquo; so &ldquo;the only way to steal it is to break the lock, which implies breaking the bike.&rdquo;</p></blockquote>
+
+<p>Be sure to check out the video at <a href="http://nadiemelaroba.cl">the project&rsquo;s website</a> to get a better idea of how it works.</p>
+]]></content>
+  </entry>
+  
+</feed>
