@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-03T11:07:52+02:00</updated>
+  <updated>2014-09-03T11:48:16+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple's two factor authentication doesn't protect iCloud backups or Photo Streams | TechCrunch]]></title>
+    <link href="http://analogsenses.github.io/2014/09/03/apples-two-factor-authentication-doesnt-protect-icloud-backups-or-photo-streams/"/>
+    <updated>2014-09-03T11:21:03+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/03/apples-two-factor-authentication-doesnt-protect-icloud-backups-or-photo-streams</id>
+    <content type="html"><![CDATA[<p>Great reporting by Matthew Panzarino:</p>
+
+<blockquote><p>[Apple&rsquo;s two-factor authentication] does not, however, make you enter a verification code if you restore a new device from an iCloud backup. And that’s the design ‘feature’ that hackers are taking advantage of here.</p>
+
+<p>(&hellip;)</p>
+
+<p>Even if the hackers do not actually download the entire backup — or if there is no backup on the account — they still have access to a user’s Photo Stream at this point, which is also not protected by two-factor authentication.</p>
+
+<p>So, even if all of the people who have had their photos compromised had two-factor enabled, their iCloud backups and Photo Streams would still be accessible.</p></blockquote>
+
+<p>It seems like a pretty big omission on Apple&rsquo;s part.</p>
+
+<p>However, even though Apple&rsquo;s two-factor authentication probably wouldn&rsquo;t have stopped these photos from leaking, it can still protect your account against many other forms of unintended access, so you should always have it enabled for your Apple ID.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple says iCloud accounts of celebrities were hacked in targeted attack | Re/code]]></title>
@@ -73,20 +94,6 @@
 
 
 <p>Being aware of the problem is always the first step towards the solution.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jean-Louis Gassée asks for better App Store curation in an open letter to Tim Cook]]></title>
-    <link href="http://analogsenses.github.io/2014/08/12/jean-louis-gassee-asks-for-better-app-store-curation-in-an-open-letter-to-tim-cook/"/>
-    <updated>2014-08-12T18:49:16+02:00</updated>
-    <id>http://analogsenses.github.io/2014/08/12/jean-louis-gassee-asks-for-better-app-store-curation-in-an-open-letter-to-tim-cook</id>
-    <content type="html"><![CDATA[<p>Jean-Louis Gassée, on this week&rsquo;s Monday Note:</p>
-
-<blockquote>With one million titles and no human guides, the Apple App Store has become incomprehensible for mere mortals. A simple solution exists: curation by humans instead of algorithms.</blockquote>
-
-
-<p>I couldn&rsquo;t agree more. Human curation and an editorial selection of apps are becoming indispensable in today&rsquo;s extremely crowded App Store. If Apple wants high-quality apps to thrive and independent developers to keep making great apps, this is the way forward.</p>
 ]]></content>
   </entry>
   

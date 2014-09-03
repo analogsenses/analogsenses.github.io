@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-03T11:07:52+02:00</updated>
+  <updated>2014-09-03T11:48:16+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple's two factor authentication doesn't protect iCloud backups or Photo Streams | TechCrunch]]></title>
+    <link href="http://analogsenses.github.io/2014/09/03/apples-two-factor-authentication-doesnt-protect-icloud-backups-or-photo-streams/"/>
+    <updated>2014-09-03T11:21:03+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/03/apples-two-factor-authentication-doesnt-protect-icloud-backups-or-photo-streams</id>
+    <content type="html"><![CDATA[<p>Great reporting by Matthew Panzarino:</p>
+
+<blockquote><p>[Apple&rsquo;s two-factor authentication] does not, however, make you enter a verification code if you restore a new device from an iCloud backup. And that’s the design ‘feature’ that hackers are taking advantage of here.</p>
+
+<p>(&hellip;)</p>
+
+<p>Even if the hackers do not actually download the entire backup — or if there is no backup on the account — they still have access to a user’s Photo Stream at this point, which is also not protected by two-factor authentication.</p>
+
+<p>So, even if all of the people who have had their photos compromised had two-factor enabled, their iCloud backups and Photo Streams would still be accessible.</p></blockquote>
+
+<p>It seems like a pretty big omission on Apple&rsquo;s part.</p>
+
+<p>However, even though Apple&rsquo;s two-factor authentication probably wouldn&rsquo;t have stopped these photos from leaking, it can still protect your account against many other forms of unintended access, so you should always have it enabled for your Apple ID.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA["What If?" book by Randall Munroe, the creator of xkcd, is out]]></title>
@@ -35,7 +56,7 @@
     <id>http://analogsenses.github.io/2014/09/02/this-is-a-video-game</id>
     <content type="html"><![CDATA[<p>Beautiful video about the love for video games:</p>
 
-<p>{% youtube uGU2B-_Foy8 %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/uGU2B-_Foy8" allowfullscreen></iframe></div></p>
 
 <p>Via <a href="https://twitter.com/imyke/status/506891412873703424">Myke Hurley</a>.</p>
 ]]></content>
@@ -68,25 +89,6 @@
 <p>It continues to surprise me that email app vendors don’t think about the way people communicate now. They may think about the way people communicate by email but they don’t think about how people communicate in general.</p></blockquote>
 
 <p>Excellent point. This is an intriguing idea, and I wonder why nobody has tried to run away with it yet.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple says iCloud accounts of celebrities were hacked in targeted attack | Re/code]]></title>
-    <link href="http://analogsenses.github.io/2014/09/02/apple-says-celebrities-icloud-accounts-were-hacked-in-targeted-attack/"/>
-    <updated>2014-09-02T20:57:10+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/02/apple-says-celebrities-icloud-accounts-were-hacked-in-targeted-attack</id>
-    <content type="html"><![CDATA[<p>Here&rsquo;s the statement from Apple:</p>
-
-<blockquote><p>We wanted to provide an update to our investigation into the theft of photos of certain celebrities. When we learned of the theft, we were outraged and immediately mobilized Apple’s engineers to discover the source. Our customers’ privacy and security are of utmost importance to us. After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.</p></blockquote>
-
-<p>So, they&rsquo;re basically saying that their systems were not at fault, and that the attackers knew which iCloud accounts they were hacking into.</p>
-
-<p>This strikes me as a very odd statement. Even if their systems were not breached, at the end of the day several high-profile accounts were hacked. Their wording makes it sound a lot like they&rsquo;re saying: &ldquo;this is life on the Internet, better get used to it&rdquo;.</p>
-
-<p>That&rsquo;s not very reassuring, and it doesn&rsquo;t sound like Apple to me.</p>
-
-<p>If you haven&rsquo;t done it yet, this might be a good time to set up <a href="http://support.apple.com/kb/ht5570">2-step verification for your Apple ID</a>.</p>
 ]]></content>
   </entry>
   
