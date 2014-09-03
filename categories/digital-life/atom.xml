@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-04T00:11:35+02:00</updated>
+  <updated>2014-09-04T00:43:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ben Brooks on the leaked pictures scandal]]></title>
+    <link href="http://analogsenses.github.io/2014/09/04/ben-brooks-on-the-leaked-pictures-scandal/"/>
+    <updated>2014-09-04T00:33:22+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/04/ben-brooks-on-the-leaked-pictures-scandal</id>
+    <content type="html"><![CDATA[<p>Speaking of the leaked celebrity pictures:</p>
+
+<blockquote><p>It doesn’t matter if the stolen pictures were of landscapes or boobs, it was still theft and the only person to blame is the person who did the theft. Not the victim.</p>
+
+<p>If your house is broken into you, don’t call Schlage and get pissed at them because the lock on your door was bypassed — you call the cops and they go after the person who broke in (not you, not Schlage).</p></blockquote>
+
+<p>That&rsquo;s precisely what most people seem to forget with this whole thing. There is not a system in the world that is 100% impervious to malicious attacks. However secure a system may be, there is always some risk that your data may be accessed.</p>
+
+<p>Instead of obsessing over who&rsquo;s to blame, perhaps we should all be focusing more on finding the people responsible.</p>
+
+<p>PS: At the time of publication (September 3, 2014), this article was only accessible to members of The Brooks Review. If you enjoy it, you should consider <a href="https://brooksreview.net/members/">becoming a member</a> and supporting Ben&rsquo;s work.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Security Trade-Offs | Daring Fireball]]></title>
@@ -139,21 +158,6 @@
 <p>It seems like a pretty big omission on Apple&rsquo;s part.</p>
 
 <p>However, even though Apple&rsquo;s two-factor authentication probably wouldn&rsquo;t have stopped these photos from leaking, it can still protect your account against many other forms of unintended access, so you should always have it enabled for your Apple ID.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA["What If?" book by Randall Munroe, the creator of xkcd, is out]]></title>
-    <link href="http://analogsenses.github.io/2014/09/03/what-if-book-by-the-creator-of-xkcd-is-out/"/>
-    <updated>2014-09-03T10:51:53+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/03/what-if-book-by-the-creator-of-xkcd-is-out</id>
-    <content type="html"><![CDATA[<p>Here&rsquo;s all you need to know about it:</p>
-
-<blockquote><p>Serious scientific answers to absurd hypothetical questions.</p></blockquote>
-
-<p><a href="http://whatif.xkcd.com/">&ldquo;What If?&rdquo;</a> is a <a href="/2013/03/27/ships">frequent</a> <a href="/2013/03/27/leap-seconds">favorite</a> of mine. This book is a compilation of the best answers from the blog, but it also contains several new questions. I&rsquo;ve already ordered mine, and I can&rsquo;t wait for it to be delivered.</p>
-
-<p>Highly recommended.</p>
 ]]></content>
   </entry>
   
