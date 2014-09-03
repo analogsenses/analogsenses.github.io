@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-03T23:40:29+02:00</updated>
+  <updated>2014-09-04T00:09:01+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Security Trade-Offs | Daring Foreball]]></title>
+    <link href="http://analogsenses.github.io/2014/09/04/security-trade-offs-%7C-daring-foreball/"/>
+    <updated>2014-09-04T00:04:44+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/04/security-trade-offs-|-daring-foreball</id>
+    <content type="html"><![CDATA[<p>John Gruber on the intrinsic risks associated with cloud-based backups:</p>
+
+<blockquote><p>It is thus, in my opinion, terribly irresponsible to advise people to blindly not trust Apple (or Google, or Dropbox, or Microsoft, etc.) with “any of your data” without emphasizing, clearly and adamantly, that by only storing their data on-device, they greatly increase the risk of losing everything.</p></blockquote>
+
+<p>Well said. &ldquo;Just don&rsquo;t put your stuff in the cloud&rdquo; is about the worst advice you can give.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Neonsamurai's reviews on IMDb]]></title>
@@ -141,19 +154,6 @@
 <p><a href="http://whatif.xkcd.com/">&ldquo;What If?&rdquo;</a> is a <a href="/2013/03/27/ships">frequent</a> <a href="/2013/03/27/leap-seconds">favorite</a> of mine. This book is a compilation of the best answers from the blog, but it also contains several new questions. I&rsquo;ve already ordered mine, and I can&rsquo;t wait for it to be delivered.</p>
 
 <p>Highly recommended.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This is a Video Game]]></title>
-    <link href="http://analogsenses.github.io/2014/09/02/this-is-a-video-game/"/>
-    <updated>2014-09-02T23:39:41+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/02/this-is-a-video-game</id>
-    <content type="html"><![CDATA[<p>Beautiful video about the love for video games:</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/uGU2B-_Foy8" allowfullscreen></iframe></div></p>
-
-<p>Via <a href="https://twitter.com/imyke/status/506891412873703424">Myke Hurley</a>.</p>
 ]]></content>
   </entry>
   
