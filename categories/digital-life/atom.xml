@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-02T23:41:48+02:00</updated>
+  <updated>2014-09-03T11:07:52+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -14,13 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA["What If?" book by Randall Munroe, the creator of xkcd, is out]]></title>
+    <link href="http://analogsenses.github.io/2014/09/03/what-if-book-by-the-creator-of-xkcd-is-out/"/>
+    <updated>2014-09-03T10:51:53+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/03/what-if-book-by-the-creator-of-xkcd-is-out</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s all you need to know about it:</p>
+
+<blockquote><p>Serious scientific answers to absurd hypothetical questions.</p></blockquote>
+
+<p><a href="http://whatif.xkcd.com/">&ldquo;What If?&rdquo;</a> is a <a href="/2013/03/27/ships">frequent</a> <a href="/2013/03/27/leap-seconds">favorite</a> of mine. This book is a compilation of the best answers from the blog, but it also contains several new questions. I&rsquo;ve already ordered mine, and I can&rsquo;t wait for it to be delivered.</p>
+
+<p>Highly recommended.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[This is a Video Game]]></title>
     <link href="http://analogsenses.github.io/2014/09/02/this-is-a-video-game/"/>
     <updated>2014-09-02T23:39:41+02:00</updated>
     <id>http://analogsenses.github.io/2014/09/02/this-is-a-video-game</id>
     <content type="html"><![CDATA[<p>Beautiful video about the love for video games:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/uGU2B-_Foy8" allowfullscreen></iframe></div></p>
+<p>{% youtube uGU2B-_Foy8 %}</p>
 
 <p>Via <a href="https://twitter.com/imyke/status/506891412873703424">Myke Hurley</a>.</p>
 ]]></content>
@@ -72,19 +87,6 @@
 <p>That&rsquo;s not very reassuring, and it doesn&rsquo;t sound like Apple to me.</p>
 
 <p>If you haven&rsquo;t done it yet, this might be a good time to set up <a href="http://support.apple.com/kb/ht5570">2-step verification for your Apple ID</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Three Chilean engineering students create world's first 'unstealable bike']]></title>
-    <link href="http://analogsenses.github.io/2014/09/02/three-chilean-engineering-students-create-worlds-first-unstealable-bike/"/>
-    <updated>2014-09-02T16:34:35+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/02/three-chilean-engineering-students-create-worlds-first-unstealable-bike</id>
-    <content type="html"><![CDATA[<p>Interesting concept:</p>
-
-<blockquote><p>Designers Juan José Monsalve, Andrés Roi, and Cristóbal Cabello say on their Yerka Project website that their prototype bike &ldquo;looks like a traditional bike to the naked eye, but it’s the safest bicycle you’ll find&rdquo; because &ldquo;we decided to make a lock out of the frame&rdquo; so &ldquo;the only way to steal it is to break the lock, which implies breaking the bike.&rdquo;</p></blockquote>
-
-<p>Be sure to check out the video at <a href="http://nadiemelaroba.cl">the project&rsquo;s website</a> to get a better idea of how it works.</p>
 ]]></content>
   </entry>
   
