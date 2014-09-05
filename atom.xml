@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-04T22:17:29+02:00</updated>
+  <updated>2014-09-05T11:40:50+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[mattgemmell.com turns 10 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://mattgemmell.com/ten-years/"/>
+	
+    <updated>2014-09-05T11:35:01+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/05/mattgemmell-dot-com-turns-10</id>
+  	
+  	<content type="html"><![CDATA[<blockquote><p>Today marks a decade since I started writing here at mattgemmell.com. I’d like to thank you for reading my words throughout the years.</p></blockquote>
+
+<p>Huge congratulations to Matt. I&rsquo;m sure the next ten years will be even better.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/05/mattgemmell-dot-com-turns-10/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The impracticality of nice]]></title>
@@ -512,26 +527,6 @@ What is school for?
 
 <p>So much to love in this piece.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/01/dont-forget-to-remember-this-%7C-fifty-foot-shadows/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Dropbox is a Feature | The Brooks Review →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://brooksreview.net/2014/08/dropbox-is-a-feature/"/>
-	
-    <updated>2014-09-01T19:53:36+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/01/dropbox-is-a-feature-|-the-brooks-review</id>
-  	
-  	<content type="html"><![CDATA[<p>I&rsquo;ve been so busy <a href="2014/08/31/now-serving-delicious-baked-goods">migrating the site</a> this past week that I somehow forgot to link to this great article by Ben Brooks on the uncertain future that Dropbox is facing:</p>
-
-<blockquote>Dropbox very much has to make money, which is a problem when it comes down to competing on price. Because if you can afford to ‘sell’ a feature at a loss, then pricing doesn’t matter to you, but when that feature is your business you simply must make money. And that feature in this case, very much is Dropbox’s business.</blockquote>
-
-
-<p>He&rsquo;s right on the money here. The recent move by Dropbox to lower their prices is great for their customers, but it kind of leaves them with little wiggle room, strategically speaking. Competing against platform vendors on price is always a tough game, because they don&rsquo;t need to make money in this area, and you do. It&rsquo;s what Amazon is doing to the entire retail industry and what it&rsquo;s trying to do to the smartphone and tablet industries: by commoditizing hardware, content is king.</p>
-
-<p>Can Dropbox survive in a world where automagical file syncing and sharing across devices and platforms is taken for granted? Because, make no mistake, that is <em>exactly</em> where we&rsquo;re going.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/01/dropbox-is-a-feature-%7C-the-brooks-review/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
