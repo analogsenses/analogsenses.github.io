@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-05T12:27:13+02:00</updated>
+  <updated>2014-09-05T13:17:44+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Christina Warren hacks into her own iCloud account]]></title>
+    <link href="http://analogsenses.github.io/2014/09/05/christina-warren-hacks-into-her-own-icloud-account/"/>
+    <updated>2014-09-05T13:15:19+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/05/christina-warren-hacks-into-her-own-icloud-account</id>
+    <content type="html"><![CDATA[<p>Some serious reporting by Christina Warren:</p>
+
+<blockquote><p>For just $200, and a little bit of luck, I was able to successfully crack my own iCloud password and use EPPB to download my entire iCloud backup from my iPhone. For $400, I could have successfully pulled in my iCloud data without a password and with less than 60 seconds of access to a Mac or Windows computer where I was logged into iCloud.</p></blockquote>
+
+<p>It looks like iCloud backups are far more vulnerable to attack from experienced hackers than we thought.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Honest Trailers is partly responsible for Captain America: The Winter Soldier's solid script]]></title>
@@ -132,17 +145,6 @@
 <p>If you were thinking of buying a new Olympus camera or lens overseas to save money, you may want to reconsider.</p>
 
 <p>At least worldwide warranties for equipment purchased before September 2014 will still be honored.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[IKEA introduces 2015 catalog with hilarious Apple-like ad]]></title>
-    <link href="http://analogsenses.github.io/2014/09/04/ikea-introduces-2015-catalog-with-hilarious-ad/"/>
-    <updated>2014-09-04T18:35:07+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/04/ikea-introduces-2015-catalog-with-hilarious-ad</id>
-    <content type="html"><![CDATA[<p>I have to admit, it is funny.</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/MOXQo7nURs0" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   

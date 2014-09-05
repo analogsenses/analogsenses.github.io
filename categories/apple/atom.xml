@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-05T12:27:13+02:00</updated>
+  <updated>2014-09-05T13:17:44+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Christina Warren hacks into her own iCloud account]]></title>
+    <link href="http://analogsenses.github.io/2014/09/05/christina-warren-hacks-into-her-own-icloud-account/"/>
+    <updated>2014-09-05T13:15:19+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/05/christina-warren-hacks-into-her-own-icloud-account</id>
+    <content type="html"><![CDATA[<p>Some serious reporting by Christina Warren:</p>
+
+<blockquote><p>For just $200, and a little bit of luck, I was able to successfully crack my own iCloud password and use EPPB to download my entire iCloud backup from my iPhone. For $400, I could have successfully pulled in my iCloud data without a password and with less than 60 seconds of access to a Mac or Windows computer where I was logged into iCloud.</p></blockquote>
+
+<p>It looks like iCloud backups are far more vulnerable to attack from experienced hackers than we thought.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple's two factor authentication doesn't protect iCloud backups or Photo Streams | TechCrunch]]></title>
@@ -80,20 +93,6 @@
 
 
 <p>If you&rsquo;re going to copy Apple, this is the way to do it: shamelessly, and with zero regard for any possible legal repercussions. When you don&rsquo;t have to work too hard on the design, you can focus relentlessly on execution. Samsung could learn a thing or two from these guys.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Believing in the App Store]]></title>
-    <link href="http://analogsenses.github.io/2014/08/19/believing-in-the-app-store/"/>
-    <updated>2014-08-19T19:57:03+02:00</updated>
-    <id>http://analogsenses.github.io/2014/08/19/believing-in-the-app-store</id>
-    <content type="html"><![CDATA[<p>Allen Ding shares his hard-learned lessons as an indie developer in the App Store:</p>
-
-<blockquote>The thing is this: I see where I have sucked. I’ve gained valuable knowledge about the business. And the mistakes I’ve made are correctable. The app needs a kick-ass design. I need a concerted, smart marketing approach. I need the product to truly make even more of difference in my user’s lives. None of this is easy mind you, but each is definitely doable and quantifiable. My future work will be better.</blockquote>
-
-
-<p>Being aware of the problem is always the first step towards the solution.</p>
 ]]></content>
   </entry>
   
