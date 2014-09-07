@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-05T13:22:24+02:00</updated>
+  <updated>2014-09-07T17:25:38+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Giovanni Pinarello dies at the age of 92 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://road.cc/content/news/129570-giovanni-pinarello-dies-age-92"/>
+	
+    <updated>2014-09-07T17:03:09+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/07/giovanni-pinarello-dies-at-the-age-of-92</id>
+  	
+  	<content type="html"><![CDATA[<p>John Stevenson:</p>
+
+<blockquote><p>Giovanni Pinarello, founder of the Italian bicycle manufacturer whose frames have been ridden to Tour de France glory by the likes of Sir Bradley Wiggins, Chris Froome, Miguel Indurain and Jan Ullrich, has died at the age of 92.</p></blockquote>
+
+<p>I am deeply saddened by this news. Pinarello was a living legend in the cycling world. My road bicycle is a Pinarello Montello SLX, the same model that Spanish cyclist Pedro Delgado rode to victory in the 1988 edition of the Tour de France.</p>
+
+<p>In this image we can see Delgado and the rest of team Reynolds, including Miguel Indurain, who would go on to win 5 consecutive editions of the Tour from 1991-1995. They are all riding Pinarellos, and would continue to do so for the entirety of Indurain&rsquo;s career:</p>
+
+<p><a href="https://www.flickr.com/photos/69383344@N02/6310080254"><img src="https://farm7.staticflickr.com/6219/6310080254_5127939f15_o.jpg" alt="Reynolds team during the 1988 edition of the Tour de France" /></a></p>
+
+<p>These bicycles will be forever linked to some of the most memorable feats in the history of the sport.</p>
+
+<p>Riposa in pace, signore Pinarello.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/07/giovanni-pinarello-dies-at-the-age-of-92/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Christina Warren hacks her own iCloud account →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -501,26 +526,6 @@ I&#8217;ve set up a St. Jude fundraising page that I will be linking to instead 
 
 <p>This is an important cause. I&rsquo;ve already donated, and <a href="http://fundraising.stjude.org/site/TR?fr_id=23600&amp;px=2803749&amp;pg=personal">you should too</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/02/stephen-hackett-creates-a-fundraiser-for-st-jude-childrens-hospital/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[How the new HTML 'Picture' element will make the Web faster | Ars Technica →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://arstechnica.com/information-technology/2014/09/how-a-new-html-element-will-make-the-web-faster/"/>
-	
-    <updated>2014-09-02T15:49:39+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/02/new-html-picture-element-will-make-the-web-faster</id>
-  	
-  	<content type="html"><![CDATA[<p>Scott Gilbertson on the new HTML Picture element, which will allow mobile devices to selectively load smaller-res images on websites:</p>
-
-<blockquote>
-Web developers recognized this problem very early on in the growth of what was called the &#8220;mobile&#8221; Web back then. So more recently, a few of them banded together to do something developers have never done before—create a new HTML element.
-</blockquote>
-
-
-<p>Fascinating story.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/02/new-html-picture-element-will-make-the-web-faster/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
