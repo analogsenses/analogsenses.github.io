@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-10T17:28:48+02:00</updated>
+  <updated>2014-09-10T17:40:00+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An even more personal computer | Minimal Mac]]></title>
+    <link href="http://analogsenses.github.io/2014/09/10/an-even-more-personal-computer/"/>
+    <updated>2014-09-10T17:37:09+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/10/an-even-more-personal-computer</id>
+    <content type="html"><![CDATA[<p>Patrick Rhone has an excellent take on the Apple Watch. A different perspective coming from a fellow watch lover:</p>
+
+<blockquote><p>They also understand us watch people. They know that those of us with the cash or care typically don’t just have one watch. We have two or three. A sporty one, a casual one, and a fancy dress up one. Some might be OK with wearing a $50 watch with a $500 suit, and I’m sure Apple will be happy to sell them only one band. For many though, Apple gets that the watch itself needs to blend into any environment the user could be in. So, make the the band easy to switch and offer just about any style one could ask for. But, at the same time, make the watch case look good with any of them. And, in allowing this level of customization it becomes more personal still.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Thoughts on the iPhone 6, 6 Plus, Apple Pay and the Apple Watch]]></title>
@@ -114,44 +125,6 @@
     <updated>2014-09-10T11:08:48+02:00</updated>
     <id>http://analogsenses.github.io/2014/09/10/apple-discontinues-ipod-classic</id>
     <content type="html"><![CDATA[<p>Perhaps this was the most surprising Apple-related thing that happened yesterday.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Predictions roundup before the Apple event]]></title>
-    <link href="http://analogsenses.github.io/2014/09/09/predictions-roundup-before-the-apple-event/"/>
-    <updated>2014-09-09T11:40:25+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/09/predictions-roundup-before-the-apple-event</id>
-    <content type="html"><![CDATA[<p>Another year, another Apple keynote. This year&rsquo;s event is particularly interesting for a couple reasons:</p>
-
-<ul>
-<li><p>Apple is widely expected to announce two new iPhones, with 4.7 and 5.5-inch displays.</p></li>
-<li><p>Apple is widely expected to unveil a wearable computing device that everyone is already calling &ldquo;iWatch&rdquo;.</p></li>
-</ul>
-
-
-<p>As always, industry analysts are singing to the tune of &ldquo;Apple needs the iWatch to be powered by unicorn blood or else they&rsquo;re doomed&rdquo;.</p>
-
-<p>Fortunately, a more sane variety of Apple reporting exists and, as usual, they have also put forth their own predictions for what we&rsquo;re likely to witness today. Here&rsquo;s a roundup of some of my favorite ones:</p>
-
-<ul>
-<li><p><a href="http://daringfireball.net/2014/09/prelude">John Gruber</a> adds to his already detailed predictions <a href="http://daringfireball.net/2014/08/larger_iphone_display_conjecture">a few weeks ago</a>. Overall, a nice and balanced prediction by John, as usual. I&rsquo;d be surprised if he doesn&rsquo;t get most of them exactly right.</p></li>
-<li><p><a href="http://www.marco.org/2014/09/08/the-wrong-size">Marco Arment</a> starts with a nice explanation of why bigger iPhones seemed quite ridiculous in 2011 but actually make a lot of sense now, and then he goes completely crazy and predicts a <a href="http://www.marco.org/2014/09/08/dell-unicorn-monitor">$2999 Retina iMac for this winter</a>. I really wish he gets this one right, despite what it would do to my wallet.</p></li>
-<li><p><a href="http://www.volleythat.com/why-not-combinator-podcast/2014/9/8/iwatch-for-runners">Max Child</a> (hat tip to Gruber&rsquo;s aforelinked piece) makes one of the most interesting propositions I&rsquo;ve read: that the iWatch could actually turn out to be quite similar to an iPod, in that it could be optimized for playing music and podcasts while people run, only this time wirelessly. It would also integrate with HealthKit and display other biometric and health-related data, opening up a whole new array of possibilities. This makes so much sense that I wonder why it hasn&rsquo;t been brought up by more people.</p></li>
-<li><p><a href="https://twitter.com/viticci/status/509059352427520000">Federico Viticci</a> has been hinting on Twitter that there are huge updates coming to several very popular iOS apps that take full advantage of iOS 8&rsquo;s new features. Also, <a href="http://www.macstories.net/news/preview-transmit-coming-to-ios-8-with-share-extension-touch-id-document-provider-and-more/">Transmit is coming to iOS</a>. That, in and of itself, is already huge, so it looks like we&rsquo;re in for a treat.</p></li>
-<li><p><a href="http://www.macworld.com/article/2600188/what-to-expect-from-apples-september-9-event.html">Dan Moren</a> of Macworld also shares their list of predictions, and all the usual suspects are there: new iPhones, iOS 8, OS X Yosemite and, of course, the iWatch. It&rsquo;s a nice recap if you haven&rsquo;t been keeping up with the rumors.</p></li>
-<li><p><a href="http://arstechnica.com/apple/2014/09/what-to-expect-at-apples-big-september-9-event/">Andrew Cunningham</a> of Ars Technica has similar predictions, all nicely laid out for your reading pleasure. Also, since September has traditionally been Apple&rsquo;s music event, they hint at other possible music-related announcements from Apple, such as maybe new iPods or anything involving the Beats brand.</p></li>
-<li><p>Josh Lowensohn of The Verge says there are <a href="http://www.theverge.com/2014/9/8/6112299/iphone-6-iwatch-apple-announcement-rumors-news">5 things to expect from Apple&rsquo;s big event</a>, although in reality he lists quite a few more, so I&rsquo;m not so sure about that title. Still, good stuff all around.</p></li>
-</ul>
-
-
-<p>As for myself, I agree with most of the conservative predictions we&rsquo;ve seen. I believe we will see two new iPhones at 4.7 and 5.5-inches, and I believe Apple will introduce a wearable computing device that may or may not be called iWatch, because there sure is a heck of a lot of smoke for there not to be a fire.</p>
-
-<p>As for the more outlandish predictions we&rsquo;ve seen (that this new device will also cure cancer and command alien species at your will, among others), I remain a bit more skeptical.</p>
-
-<p>Whatever it ends up looking like, I expect a typical Apple device: insanely good at a small set of tasks, with the potential to evolve through iteration into something much more capable and powerful.</p>
-
-<p>Luckily, we&rsquo;re just a few short hours away from finding out. If you&rsquo;re excited to see what happens, you can watch the keynote live <a href="http://www.apple.com/live/">on Apple&rsquo;s website</a>.</p>
 ]]></content>
   </entry>
   
