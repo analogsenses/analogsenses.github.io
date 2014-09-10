@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-10T11:16:05+02:00</updated>
+  <updated>2014-09-10T11:31:10+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Today's Cyanide and Happiness]]></title>
+    <link href="http://analogsenses.github.io/2014/09/10/todays-cyanide-and-happiness/"/>
+    <updated>2014-09-10T11:30:25+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/10/todays-cyanide-and-happiness</id>
+    <content type="html"><![CDATA[<p>They pretty much nail it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AnandTech's quick thoughts on the Apple Watch]]></title>
@@ -81,27 +90,6 @@
 <blockquote><p>For just $200, and a little bit of luck, I was able to successfully crack my own iCloud password and use EPPB to download my entire iCloud backup from my iPhone. For $400, I could have successfully pulled in my iCloud data without a password and with less than 60 seconds of access to a Mac or Windows computer where I was logged into iCloud.</p></blockquote>
 
 <p>It looks like iCloud backups are far more vulnerable to attack from experienced hackers than we thought.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple's two factor authentication doesn't protect iCloud backups or Photo Streams | TechCrunch]]></title>
-    <link href="http://analogsenses.github.io/2014/09/03/apples-two-factor-authentication-doesnt-protect-icloud-backups-or-photo-streams/"/>
-    <updated>2014-09-03T11:21:03+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/03/apples-two-factor-authentication-doesnt-protect-icloud-backups-or-photo-streams</id>
-    <content type="html"><![CDATA[<p>Great reporting by Matthew Panzarino:</p>
-
-<blockquote><p>[Apple&rsquo;s two-factor authentication] does not, however, make you enter a verification code if you restore a new device from an iCloud backup. And that’s the design ‘feature’ that hackers are taking advantage of here.</p>
-
-<p>(&hellip;)</p>
-
-<p>Even if the hackers do not actually download the entire backup — or if there is no backup on the account — they still have access to a user’s Photo Stream at this point, which is also not protected by two-factor authentication.</p>
-
-<p>So, even if all of the people who have had their photos compromised had two-factor enabled, their iCloud backups and Photo Streams would still be accessible.</p></blockquote>
-
-<p>It seems like a pretty big omission on Apple&rsquo;s part.</p>
-
-<p>However, even though Apple&rsquo;s two-factor authentication probably wouldn&rsquo;t have stopped these photos from leaking, it can still protect your account against many other forms of unintended access, so you should always have it enabled for your Apple ID.</p>
 ]]></content>
   </entry>
   
