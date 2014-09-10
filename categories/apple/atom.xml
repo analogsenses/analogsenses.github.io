@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-09T12:39:41+02:00</updated>
+  <updated>2014-09-10T11:10:45+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple discontinues iPod classic]]></title>
+    <link href="http://analogsenses.github.io/2014/09/10/apple-discontinues-ipod-classic/"/>
+    <updated>2014-09-10T11:08:48+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/10/apple-discontinues-ipod-classic</id>
+    <content type="html"><![CDATA[<p>Perhaps this was the most surprising Apple-related thing that happened yesterday.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Predictions roundup before the Apple event]]></title>
@@ -101,22 +110,6 @@
 <p>That&rsquo;s not very reassuring, and it doesn&rsquo;t sound like Apple to me.</p>
 
 <p>If you haven&rsquo;t done it yet, this might be a good time to set up <a href="http://support.apple.com/kb/ht5570">2-step verification for your Apple ID</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Conjecture Regarding Larger iPhone Displays]]></title>
-    <link href="http://analogsenses.github.io/2014/08/26/conjecture-regarding-larger-iphone-displays/"/>
-    <updated>2014-08-26T18:04:03+02:00</updated>
-    <id>http://analogsenses.github.io/2014/08/26/conjecture-regarding-larger-iphone-displays</id>
-    <content type="html"><![CDATA[<p>John Gruber has published an amazingly in-depth analysis about the hypothetical display resolutions that could work well for the upcoming new iPhone models, which are rumored to sport bigger displays, at 4.7 and 5.5 inches.</p>
-
-<p>Gruber&rsquo;s logic is sound, and I agree with his conclusions. It all hinges on this:</p>
-
-<blockquote>But what they have never done, and I believe never will do, is redefine the virtual point to something other than 1/44th the recommended minimum tap target size for every device.</blockquote>
-
-
-<p>Tap target size has been a constant since the original iPhone, and with good reason. After all, your fingers haven&rsquo;t gotten any smaller in the past 8 years, have they?</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-09T12:39:41+02:00</updated>
+  <updated>2014-09-10T11:10:45+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple discontinues iPod classic]]></title>
+    <link href="http://analogsenses.github.io/2014/09/10/apple-discontinues-ipod-classic/"/>
+    <updated>2014-09-10T11:08:48+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/10/apple-discontinues-ipod-classic</id>
+    <content type="html"><![CDATA[<p>Perhaps this was the most surprising Apple-related thing that happened yesterday.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Predictions roundup before the Apple event]]></title>
@@ -93,19 +102,6 @@
 <blockquote><p>For just $200, and a little bit of luck, I was able to successfully crack my own iCloud password and use EPPB to download my entire iCloud backup from my iPhone. For $400, I could have successfully pulled in my iCloud data without a password and with less than 60 seconds of access to a Mac or Windows computer where I was logged into iCloud.</p></blockquote>
 
 <p>It looks like iCloud backups are far more vulnerable to attack from experienced hackers than we thought.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Honest Trailers is partly responsible for Captain America: The Winter Soldier's solid script]]></title>
-    <link href="http://analogsenses.github.io/2014/09/05/honest-trailers-is-partly-responsible-for-captain-america-the-winter-soldiers-solid-script/"/>
-    <updated>2014-09-05T12:24:34+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/05/honest-trailers-is-partly-responsible-for-captain-america-the-winter-soldiers-solid-script</id>
-    <content type="html"><![CDATA[<blockquote><p>Basically, Captain America: The Winter Soldier was too good to mock. And as it turns out, there’s a reason for that. The film’s directors are fans of Honest Trailers, and they purposefully engineered the film so it would be harder to parody.</p></blockquote>
-
-<p>Don&rsquo;t you just love the Internet sometimes?</p>
-
-<p>Via <a href="http://www.loopinsight.com/2014/09/04/parody-youtube-channel-inspires-tighter-logic-in-captain-america/">The Loop</a>.</p>
 ]]></content>
   </entry>
   
