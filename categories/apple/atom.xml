@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-10T11:10:45+02:00</updated>
+  <updated>2014-09-10T11:16:05+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[AnandTech's quick thoughts on the Apple Watch]]></title>
+    <link href="http://analogsenses.github.io/2014/09/10/anandtechs-quick-thoughts-on-the-apple-watch/"/>
+    <updated>2014-09-10T11:14:56+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/10/anandtechs-quick-thoughts-on-the-apple-watch</id>
+    <content type="html"><![CDATA[<blockquote><p>However, my reservations are largely similar to concerns that I have with all wearables. Ultimately, the Apple Watch must provide utility that&rsquo;s strong enough to make me turn around and get it if I forget it. As-is, I don&rsquo;t really think that even the Apple Watch has that level of utility, even if it is excellently executed. Of course, this is also based upon a demo unit that I wasn&rsquo;t able to touch or use.</p></blockquote>
+
+<p>Very much in line with my own thoughts. But more on that later.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple discontinues iPod classic]]></title>
@@ -91,25 +102,6 @@
 <p>It seems like a pretty big omission on Apple&rsquo;s part.</p>
 
 <p>However, even though Apple&rsquo;s two-factor authentication probably wouldn&rsquo;t have stopped these photos from leaking, it can still protect your account against many other forms of unintended access, so you should always have it enabled for your Apple ID.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple says iCloud accounts of celebrities were hacked in targeted attack | Re/code]]></title>
-    <link href="http://analogsenses.github.io/2014/09/02/apple-says-celebrities-icloud-accounts-were-hacked-in-targeted-attack/"/>
-    <updated>2014-09-02T20:57:10+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/02/apple-says-celebrities-icloud-accounts-were-hacked-in-targeted-attack</id>
-    <content type="html"><![CDATA[<p>Here&rsquo;s the statement from Apple:</p>
-
-<blockquote><p>We wanted to provide an update to our investigation into the theft of photos of certain celebrities. When we learned of the theft, we were outraged and immediately mobilized Apple’s engineers to discover the source. Our customers’ privacy and security are of utmost importance to us. After more than 40 hours of investigation, we have discovered that certain celebrity accounts were compromised by a very targeted attack on user names, passwords and security questions, a practice that has become all too common on the Internet. None of the cases we have investigated has resulted from any breach in any of Apple’s systems including iCloud or Find my iPhone. We are continuing to work with law enforcement to help identify the criminals involved.</p></blockquote>
-
-<p>So, they&rsquo;re basically saying that their systems were not at fault, and that the attackers knew which iCloud accounts they were hacking into.</p>
-
-<p>This strikes me as a very odd statement. Even if their systems were not breached, at the end of the day several high-profile accounts were hacked. Their wording makes it sound a lot like they&rsquo;re saying: &ldquo;this is life on the Internet, better get used to it&rdquo;.</p>
-
-<p>That&rsquo;s not very reassuring, and it doesn&rsquo;t sound like Apple to me.</p>
-
-<p>If you haven&rsquo;t done it yet, this might be a good time to set up <a href="http://support.apple.com/kb/ht5570">2-step verification for your Apple ID</a>.</p>
 ]]></content>
   </entry>
   
