@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-12T12:03:33+02:00</updated>
+  <updated>2014-09-14T13:08:18+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Why archaeologists hate Indiana Jones →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.lastwordonnothing.com/2014/09/09/why-archeologists-hate-indiana-jones/"/>
+	
+    <updated>2014-09-14T13:03:41+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/14/why-archaeologists-hate-indiana-jones</id>
+  	
+  	<content type="html"><![CDATA[<p>Erik Vance:</p>
+
+<blockquote><p>“That first scene, where he’s in the temple and he’s replacing that statue with a bag of sand – that’s what looters do,” Canuto says, grinning. “[The temple builders] are using these amazing mechanisms of engineering and all he wants to do is steal the stupid gold statue.”</p></blockquote>
+
+<p>What a fascinating read. Via <a href="http://kottke.org/14/09/why-archaeologists-hate-indiana-jones">Kottke</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/14/why-archaeologists-hate-indiana-jones/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
+  <entry>
+  
+	<title type="html"><![CDATA[The watch punt →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.marco.org/2014/09/12/apple-watch-punt"/>
+	
+    <updated>2014-09-14T12:54:24+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/14/the-watch-punt</id>
+  	
+  	<content type="html"><![CDATA[<p>Marco Arment:</p>
+
+<blockquote><p>Apple didn’t find a way around the laws of physics. They didn’t somehow unveil a revolutionary battery or screen technology that the world had never seen before. They punted again. In the absence of any better alternative approaches, they just did what they could with today’s technology.</p></blockquote>
+
+<p>The number of times Apple has caught everyone by surprise by unveiling something truly revolutionary is strikingly small. I can think of the original Macintosh and the original iPhone, and that&rsquo;s basically it. We shouldn&rsquo;t keep expecting them to do the impossible, and then fault them for not keeping up with our own unrealistic expectations.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/14/the-watch-punt/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Pilot Iroshizuku Kon-Peki | The Newsprint →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -145,7 +179,7 @@
 
 <p>Much of the emphasis about Apple Watch was emotional. They want us to think about it as a way to connect with people on an emotional level, even going as far as to let us send our own heartbeat to someone else in real time. I thought that looked pretty cool, but again, it didn&rsquo;t feel particularly Apple-like to me. The visual design carries a very different tone than what we&rsquo;re used to seeing from Apple. This is the first child of new Apple: closer, more personal, more open. It&rsquo;s a remarkable product, but it <em>feels</em> strange. Not wrong, just <em>different</em>.</p>
 
-<p>Whenever there&rsquo;s a visual design departure, it&rsquo;s difficult to evaluate the new visual language because your instincts are telling you that everythign is different, and we typically don&rsquo;t like different. It takes us a while to get used to new things. This is a change similar in scope to what iOS was when it was announced. We don&rsquo;t have a way to measure if it&rsquo;s good or bad yet, and it will take some time for our instincts to adapt. But we&rsquo;ll get there.</p>
+<p>Whenever there&rsquo;s a visual design departure, it&rsquo;s difficult to evaluate the new visual language because your instincts are telling you that everything is different, and we typically don&rsquo;t like different. It takes us a while to get used to new things. This is a change similar in scope to what iOS was when it was announced. We don&rsquo;t have a way to measure if it&rsquo;s good or bad yet, and it will take some time for our instincts to adapt. But we&rsquo;ll get there.</p>
 
 <p>Ultimately, the Apple Watch will thrive or wither depending on the answer to a very simple question: does it truly add value to our lives? The fact that it requires an iPhone for most of its functionality is kind of a bummer. After all, most times it&rsquo;s really not that hard to get the iPhone out of your pocket to do whatever it is you need to do. And the experience of using an iPhone is still leaps and bounds ahead of doing the same things on the watch. Is it compelling enough to justify its purchase for the small number of occasions when it is more convenient? For now, I&rsquo;m not so sure. Fitness-wise, I think it will be nice, but again, I wish I could just leave the phone at home. One use case that I think will be awesome is using Maps while riding my bike. Having your route displayed on your wrist eliminates the need for bulky iPhone mounts and it&rsquo;s a considerably better solution.</p>
 
@@ -472,46 +506,6 @@
 
 <p>Now I&rsquo;m intrigued.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/04/shawn-blanc-on-the-new-olympus-e-pl7-mirrorless-camera/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Ben Brooks on the leaked pictures scandal →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://brooksreview.net/2014/09/j-leak/"/>
-	
-    <updated>2014-09-04T00:33:22+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/04/ben-brooks-on-the-leaked-pictures-scandal</id>
-  	
-  	<content type="html"><![CDATA[<p>Speaking of the leaked celebrity pictures:</p>
-
-<blockquote><p>It doesn’t matter if the stolen pictures were of landscapes or boobs, it was still theft and the only person to blame is the person who did the theft. Not the victim.</p>
-
-<p>If your house is broken into you, don’t call Schlage and get pissed at them because the lock on your door was bypassed — you call the cops and they go after the person who broke in (not you, not Schlage).</p></blockquote>
-
-<p>That&rsquo;s precisely what most people seem to forget with this whole thing. There is not a system in the world that is 100% impervious to malicious attacks. However secure a system may be, there is always some risk that your data may be accessed.</p>
-
-<p>Instead of obsessing over who&rsquo;s to blame, perhaps we should all be focusing more on finding the people responsible.</p>
-
-<p>PS: At the time of publication (September 3, 2014), this article was only accessible to members of The Brooks Review. If you enjoy it, you should consider <a href="https://brooksreview.net/members/">becoming a member</a> and supporting Ben&rsquo;s work.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/04/ben-brooks-on-the-leaked-pictures-scandal/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Security Trade-Offs | Daring Fireball →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://daringfireball.net/2014/09/security_tradeoffs"/>
-	
-    <updated>2014-09-04T00:04:44+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/04/security-trade-offs-|-daring-fireball</id>
-  	
-  	<content type="html"><![CDATA[<p>John Gruber on the intrinsic risks associated with cloud-based backups:</p>
-
-<blockquote><p>It is thus, in my opinion, terribly irresponsible to advise people to blindly not trust Apple (or Google, or Dropbox, or Microsoft, etc.) with “any of your data” without emphasizing, clearly and adamantly, that by only storing their data on-device, they greatly increase the risk of losing everything.</p></blockquote>
-
-<p>Well said. &ldquo;Just don&rsquo;t put your stuff in the cloud&rdquo; is about the worst advice you can give.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/04/security-trade-offs-%7C-daring-fireball/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
