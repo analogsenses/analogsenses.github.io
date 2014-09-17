@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-17T15:57:01+02:00</updated>
+  <updated>2014-09-17T16:55:26+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Apple's two-factor authentication now protects iCloud backups | Ars Technica →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://arstechnica.com/security/2014/09/apples-two-factor-authentication-now-protects-icloud-backups/"/>
+	
+    <updated>2014-09-17T16:53:36+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/17/apples-two-factor-authentication-now-protects-icloud-backups</id>
+  	
+  	<content type="html"><![CDATA[<p>Your naughty pictures are now a little safer from prying eyes.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/17/apples-two-factor-authentication-now-protects-icloud-backups/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The reviews of the iPhones 6 are out]]></title>
@@ -513,21 +526,6 @@
 
 <p>Via <a href="http://www.loopinsight.com/2014/09/04/parody-youtube-channel-inspires-tighter-logic-in-captain-america/">The Loop</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/05/honest-trailers-is-partly-responsible-for-captain-america-the-winter-soldiers-solid-script/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[mattgemmell.com turns 10 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://mattgemmell.com/ten-years/"/>
-	
-    <updated>2014-09-05T11:35:01+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/05/mattgemmell-dot-com-turns-10</id>
-  	
-  	<content type="html"><![CDATA[<blockquote><p>Today marks a decade since I started writing here at mattgemmell.com. I’d like to thank you for reading my words throughout the years.</p></blockquote>
-
-<p>Huge congratulations to Matt. I&rsquo;m sure the next ten years will be even better.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/05/mattgemmell-dot-com-turns-10/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
