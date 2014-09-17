@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-17T16:55:26+02:00</updated>
+  <updated>2014-09-17T17:07:20+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[John Gruber's thoughts on the Apple Watch →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://daringfireball.net/2014/09/apple_watch"/>
+	
+    <updated>2014-09-17T16:58:39+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/17/john-grubers-thoughts-on-the-apple-watch</id>
+  	
+  	<content type="html"><![CDATA[<p>John has taken a few days to think about the Apple Watch, and these are his conclusions. I like how he looks at the entry-model, the $349 Sport edition, as the modern incarnation of an iPod. That actually makes a lot of sense, and contrary to what I thought, it looks like the watch will support it:</p>
+
+<blockquote><p>It has internal storage and Bluetooth, so you’ll be able to use it for music playback <em>without</em> taking your iPhone with you. With just your Apple Watch and Bluetooth earbuds you’ll be able to listen to music (and make Apple Pay purchases). I’d probably pay $349 just for that, using the Sport edition as a modern day iPod. Even better, though, I strongly suspect that WatchKit will allow for something like a native version of <a href="https://overcast.fm/">Overcast</a> — syncing while within Bluetooth range of your iPhone, but working entirely independently as a podcast player, using the watch’s internal storage, when you’re out of range. A version of Vesper where you can dictate new notes on the fly? Now you’ve got something I’d pay at least $349 for in a heartbeat.</p></blockquote>
+
+<p>If that usage pattern is possible, I could easily see myself buying one. The Overcast example is genius, I think. I just hope Marco is listening.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/17/john-grubers-thoughts-on-the-apple-watch/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Apple's two-factor authentication now protects iCloud backups | Ars Technica →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -509,23 +526,6 @@
 
 <p>It looks like iCloud backups are far more vulnerable to attack from experienced hackers than we thought.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/05/christina-warren-hacks-her-own-icloud-account/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Honest Trailers is partly responsible for Captain America: The Winter Soldier's solid script →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.dailydot.com/entertainment/captain-america-honest-trailer-proof/"/>
-	
-    <updated>2014-09-05T12:24:34+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/05/honest-trailers-is-partly-responsible-for-captain-america-the-winter-soldiers-solid-script</id>
-  	
-  	<content type="html"><![CDATA[<blockquote><p>Basically, Captain America: The Winter Soldier was too good to mock. And as it turns out, there’s a reason for that. The film’s directors are fans of Honest Trailers, and they purposefully engineered the film so it would be harder to parody.</p></blockquote>
-
-<p>Don&rsquo;t you just love the Internet sometimes?</p>
-
-<p>Via <a href="http://www.loopinsight.com/2014/09/04/parody-youtube-channel-inspires-tighter-logic-in-captain-america/">The Loop</a>.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/05/honest-trailers-is-partly-responsible-for-captain-america-the-winter-soldiers-solid-script/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

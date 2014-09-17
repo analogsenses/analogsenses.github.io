@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-17T16:55:26+02:00</updated>
+  <updated>2014-09-17T17:07:20+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[John Gruber's thoughts on the Apple Watch]]></title>
+    <link href="http://analogsenses.github.io/2014/09/17/john-grubers-thoughts-on-the-apple-watch/"/>
+    <updated>2014-09-17T16:58:39+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/17/john-grubers-thoughts-on-the-apple-watch</id>
+    <content type="html"><![CDATA[<p>John has taken a few days to think about the Apple Watch, and these are his conclusions. I like how he looks at the entry-model, the $349 Sport edition, as the modern incarnation of an iPod. That actually makes a lot of sense, and contrary to what I thought, it looks like the watch will support it:</p>
+
+<blockquote><p>It has internal storage and Bluetooth, so you’ll be able to use it for music playback <em>without</em> taking your iPhone with you. With just your Apple Watch and Bluetooth earbuds you’ll be able to listen to music (and make Apple Pay purchases). I’d probably pay $349 just for that, using the Sport edition as a modern day iPod. Even better, though, I strongly suspect that WatchKit will allow for something like a native version of <a href="https://overcast.fm/">Overcast</a> — syncing while within Bluetooth range of your iPhone, but working entirely independently as a podcast player, using the watch’s internal storage, when you’re out of range. A version of Vesper where you can dictate new notes on the fly? Now you’ve got something I’d pay at least $349 for in a heartbeat.</p></blockquote>
+
+<p>If that usage pattern is possible, I could easily see myself buying one. The Overcast example is genius, I think. I just hope Marco is listening.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple's two-factor authentication now protects iCloud backups | Ars Technica]]></title>
@@ -153,19 +166,6 @@
 <p>There is much truth in this essay. Traveling on your own to a foreign country is a fantastic way to get to know yourself better than you ever thought was possible. I&rsquo;ve done it twice: back in 2005 when I moved to Finland for a year as an Erasmus exchange student, and then again in 2011, when I took a 3-week trip across Brazil. These were two of the most amazing experiences of my life, and I believe that the fact that I was on my own was an key part of it all: it forced me to figure things out by myself, be more open and put myself out there in a way that I normally don&rsquo;t, and it was fantastic.</p>
 
 <p>These experiences can provide clarity and perspective at a time when we need them the most, and that&rsquo;s something we ought to always keep in mind.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Olympus OM-D E-M1 now available in silver]]></title>
-    <link href="http://analogsenses.github.io/2014/09/15/olympus-om-d-e-m1-now-available-in-silver/"/>
-    <updated>2014-09-15T10:57:09+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/15/olympus-om-d-e-m1-now-available-in-silver</id>
-    <content type="html"><![CDATA[<p>Damn. That is a fine-looking camera. The only thing I didn&rsquo;t love about the E-M1 was the fact that it didn&rsquo;t come in silver, and now it finally does.</p>
-
-<p>The E-M1 is way more camera than I need, but if I were in the market for a top-shelf mirrorless camera, this one would certainly top my list of candidates.</p>
-
-<p>Disclaimer: the above is an Amazon affiliate link. If you follow it and then buy <em>anything</em> from Amazon you&rsquo;ll be supporting my work and contributing to keep the lights on around here. Thanks!</p>
 ]]></content>
   </entry>
   
