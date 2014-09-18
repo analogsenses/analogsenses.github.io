@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-18T11:41:58+02:00</updated>
+  <updated>2014-09-18T11:55:20+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Panic launches Transmit for iOS 8]]></title>
+    <link href="http://analogsenses.github.io/2014/09/18/panic-launches-transmit-for-ios-8/"/>
+    <updated>2014-09-18T11:50:21+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/18/panic-launches-transmit-for-ios-8</id>
+    <content type="html"><![CDATA[<p>iOS 8 is here, and with it the first wave of iOS 8-optimized apps. In the case of <a href="http://panic.com">Panic</a>, it&rsquo;s a brand-new app: Transmit iOS.</p>
+
+<p>This iOS version of their popular file-transfer manager for OS X comes packed with features, such as easy and secure access to FTP, SFTP, Amazon S3 services and more. At only $10, it&rsquo;s an instant buy.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[John Gruber's thoughts on the Apple Watch]]></title>
@@ -67,19 +78,6 @@
 <blockquote><p>Apple didn’t find a way around the laws of physics. They didn’t somehow unveil a revolutionary battery or screen technology that the world had never seen before. They punted again. In the absence of any better alternative approaches, they just did what they could with today’s technology.</p></blockquote>
 
 <p>The number of times Apple has caught everyone by surprise by unveiling something truly revolutionary is strikingly small. I can think of the original Macintosh and the original iPhone, and that&rsquo;s basically it. We shouldn&rsquo;t keep expecting them to do the impossible, and then fault them for not keeping up with our own unrealistic expectations.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A watch guy's thoughts on the Apple Watch | Hodinkee]]></title>
-    <link href="http://analogsenses.github.io/2014/09/11/a-watch-guys-thoughts-on-the-apple-watch/"/>
-    <updated>2014-09-11T11:01:19+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/11/a-watch-guys-thoughts-on-the-apple-watch</id>
-    <content type="html"><![CDATA[<p>Excellent take on the Apple watch by Benjamin Clymer:</p>
-
-<blockquote><p>But what makes the millions of us that would never trade a Rolex in for an Apple is the emotion brought about by our watches – the fact that they are so timeless, so lasting, so personal. Nothing digital, no matter if Jony Ive (or Marc Newson) designed it, could ever replace that, if for no other reason than sheer life-cycle limitations. My watches will last for generations, this Apple Watch will last for five years, if we&rsquo;re lucky. On an emotional level, you can&rsquo;t compare them, and that is why I don&rsquo;t believe many serious watch lovers (who, again, would normally be racing to spend their cash on an Apple release) will go for this. It&rsquo;s directly competing for the same real estate, where as if we had seen a bracelet of some kind announced yesterday, those early adapters, myself included, would be begging Apple to take their pre-pre-pre-order (truth be told, I&rsquo;ll obviously be buying one, but you know what I&rsquo;m saying).</p></blockquote>
-
-<p>That&rsquo;s <em>exactly</em> how I feel about the Apple Watch, although of course Clymer puts it so much more eloquently. Great, great article.</p>
 ]]></content>
   </entry>
   
