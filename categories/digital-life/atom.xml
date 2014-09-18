@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-18T14:14:41+02:00</updated>
+  <updated>2014-09-19T00:39:39+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Marco Arment's Thoughts on Music Formats]]></title>
+    <link href="http://analogsenses.github.io/2014/09/19/marco-arments-thoughts-on-music-formats/"/>
+    <updated>2014-09-19T00:35:41+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/19/marco-arments-thoughts-on-music-formats</id>
+    <content type="html"><![CDATA[<p>Marco Arment, on the recent reports that Apple is collaborating with Bono to launch a new anti-piracy music format:</p>
+
+<blockquote><p>There’s nothing Apple or Bono can do to make people care enough about glorified liner notes. People care about music and convenience, period.</p>
+
+<p>A As for “music that can’t be pirated”, I ask again, what decade is this? That ship has not only sailed long ago, but has circled the world hundreds of times, sunk, been dragged up, turned into a tourist attraction, went out of business, and been gutted and retrofitted as a more profitable oil tanker. Piracy is not the music industry’s real problem and never has been, and we have yet to come up with any audio or video medium that truly can’t be pirated.</p></blockquote>
+
+<p>Excellent piece. I don&rsquo;t know if the reports are reliable, though. They idea seems pretty misguided, to say the least.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Amazon launches the new Kindle Voyage]]></title>
@@ -83,19 +98,6 @@
 <p>Some songs have the potential to truly change us forever, and Sultans of Swing is one of those songs.</p>
 
 <p>Now, go play it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[John Gruber's thoughts on the Apple Watch]]></title>
-    <link href="http://analogsenses.github.io/2014/09/17/john-grubers-thoughts-on-the-apple-watch/"/>
-    <updated>2014-09-17T16:58:39+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/17/john-grubers-thoughts-on-the-apple-watch</id>
-    <content type="html"><![CDATA[<p>John has taken a few days to think about the Apple Watch, and these are his conclusions. I like how he looks at the entry-model, the $349 Sport edition, as the modern incarnation of an iPod. That actually makes a lot of sense, and contrary to what I thought, it looks like the watch will support it:</p>
-
-<blockquote><p>It has internal storage and Bluetooth, so you’ll be able to use it for music playback <em>without</em> taking your iPhone with you. With just your Apple Watch and Bluetooth earbuds you’ll be able to listen to music (and make Apple Pay purchases). I’d probably pay $349 just for that, using the Sport edition as a modern day iPod. Even better, though, I strongly suspect that WatchKit will allow for something like a native version of <a href="https://overcast.fm/">Overcast</a> — syncing while within Bluetooth range of your iPhone, but working entirely independently as a podcast player, using the watch’s internal storage, when you’re out of range. A version of Vesper where you can dictate new notes on the fly? Now you’ve got something I’d pay at least $349 for in a heartbeat.</p></blockquote>
-
-<p>If that usage pattern is possible, I could easily see myself buying one. The Overcast example is genius, I think. I just hope Marco is listening.</p>
 ]]></content>
   </entry>
   
