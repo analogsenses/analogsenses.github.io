@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-19T16:28:30+02:00</updated>
+  <updated>2014-09-20T18:39:55+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The first week of the rest of Jason Snell's life]]></title>
+    <link href="http://analogsenses.github.io/2014/09/20/the-first-week-of-the-rest-of-jason-snells-life/"/>
+    <updated>2014-09-20T18:36:47+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/20/the-first-week-of-the-rest-of-jason-snells-life</id>
+    <content type="html"><![CDATA[<blockquote><p>This is the end of day three of me sitting in a chair in my garage and writing things and doing podcasts and calling that my job, instead of sitting in an office building in San Francisco and doing various things and calling that my job.</p></blockquote>
+
+<p>I&rsquo;m really sorry for how things ended at Macworld, but I&rsquo;m so glad we have <a href="http://sixcolors.com/post/2014/09/big-week-huge-week/">Six Colors</a> now. Jason&rsquo;s work is amazing and inspiring, and I couldn&rsquo;t imagine the Apple community without him.</p>
+
+<p>Here&rsquo;s to many more awesome weeks, Jason.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why Dan Frakes bought an iPhone 6 Plus]]></title>
@@ -73,15 +86,6 @@
 <blockquote><p>It has internal storage and Bluetooth, so you’ll be able to use it for music playback <em>without</em> taking your iPhone with you. With just your Apple Watch and Bluetooth earbuds you’ll be able to listen to music (and make Apple Pay purchases). I’d probably pay $349 just for that, using the Sport edition as a modern day iPod. Even better, though, I strongly suspect that WatchKit will allow for something like a native version of <a href="https://overcast.fm/">Overcast</a> — syncing while within Bluetooth range of your iPhone, but working entirely independently as a podcast player, using the watch’s internal storage, when you’re out of range. A version of Vesper where you can dictate new notes on the fly? Now you’ve got something I’d pay at least $349 for in a heartbeat.</p></blockquote>
 
 <p>If that usage pattern is possible, I could easily see myself buying one. The Overcast example is genius, I think. I just hope Marco is listening.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple's two-factor authentication now protects iCloud backups | Ars Technica]]></title>
-    <link href="http://analogsenses.github.io/2014/09/17/apples-two-factor-authentication-now-protects-icloud-backups/"/>
-    <updated>2014-09-17T16:53:36+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/17/apples-two-factor-authentication-now-protects-icloud-backups</id>
-    <content type="html"><![CDATA[<p>Your naughty pictures are now a little safer from prying eyes.</p>
 ]]></content>
   </entry>
   
