@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-22T16:48:59+02:00</updated>
+  <updated>2014-09-22T17:10:02+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iPhone 6 and 6 Plus benchmarks]]></title>
+    <link href="http://analogsenses.github.io/2014/09/22/iphone-6-and-6-plus-benchmarks/"/>
+    <updated>2014-09-22T17:02:16+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/22/iphone-6-and-6-plus-benchmarks</id>
+    <content type="html"><![CDATA[<p>Speaking of Rene Ritchie, he asked the makers of Geekbench to run the new iPhones through Geekbench 3, and compared their score with all previous iPhones (except for the original iPhone and the iPhone 3G). He also compared them with their main Android competitors.</p>
+
+<p>An interesting tidbit:</p>
+
+<blockquote><p>The iPhone 6 Plus has a slight edge over the iPhone 6, but not by much. Perhaps the biggest surprise is how well the iPhone 5s still holds up. Perhaps that&rsquo;s because Apple&rsquo;s second-generation 64-bit core is just that, 2nd generation, and it&rsquo;s focused on things beyond raw power, like power efficiency.</p></blockquote>
+
+<p>If you have an iPhone 5S and are not very keen on the bigger displays of the new iPhones, this is good news for you.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How the new battery usage monitor works in iOS 8]]></title>
@@ -79,17 +94,6 @@
 
 
 <p>And there&rsquo;s more. You could easily spend your whole day <a href="http://www.macstories.net">at MacStories</a> today, and it would be worth it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Panic launches Transmit for iOS 8]]></title>
-    <link href="http://analogsenses.github.io/2014/09/18/panic-launches-transmit-for-ios-8/"/>
-    <updated>2014-09-18T11:50:21+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/18/panic-launches-transmit-for-ios-8</id>
-    <content type="html"><![CDATA[<p>iOS 8 is here, and with it the first wave of iOS 8-optimized apps. In the case of <a href="http://panic.com">Panic</a>, it&rsquo;s a brand-new app: Transmit iOS.</p>
-
-<p>This iOS version of their popular file-transfer manager for OS X comes packed with features, such as easy and secure access to FTP, SFTP, Amazon S3 services and more. At only $10, it&rsquo;s an instant buy.</p>
 ]]></content>
   </entry>
   
