@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-22T16:05:01+02:00</updated>
+  <updated>2014-09-22T16:48:59+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How the new battery usage monitor works in iOS 8]]></title>
+    <link href="http://analogsenses.github.io/2014/09/22/how-the-new-battery-usage-monitor-works-in-ios-8/"/>
+    <updated>2014-09-22T16:35:14+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/22/how-the-new-battery-usage-monitor-works-in-ios-8</id>
+    <content type="html"><![CDATA[<p>Rene Ritchie:</p>
+
+<blockquote><p>Battery usage is best thought of as a sanity check. It lists each app (or service) you&rsquo;ve used in the last 24 hours or 7 days, not including apps used while charging, along with the percentage of power drain they&rsquo;ve been responsible for.</p></blockquote>
+
+<p>Since about a week ago —before I upgraded to iOS 8—, I&rsquo;ve noticed a sharp reduction in battery life on my iPhone 5S. It doesn&rsquo;t last into the evening, while previously it lasted a whole day with power to spare. It&rsquo;s weird, particularly because I&rsquo;m not using it significantly more than I always have, and I&rsquo;m yet to find a concrete cause for this. Maybe my iPhone&rsquo;s battery is damaged, or maybe there&rsquo;s an app that&rsquo;s misbehaving and draining it a lot quicker than it should. I don&rsquo;t know.</p>
+
+<p>The battery usage monitor, which is a new iOS 8 feature, is helping me find the culprit. For example, I thought <a href="http://overcast.fm">Overcast</a> would probably be using a lot of power, but it turns out it isn&rsquo;t. That&rsquo;s a relief, because I really enjoy using it. Similarly, Maps and the Phone app are the two most power-hungry apps in my phone, both due to &ldquo;Low Signal&rdquo;. Now we&rsquo;re getting somewhere.</p>
+
+<p>I think it&rsquo;s worth it to spend a while getting used to this feature. There are some important things to learn about how we use our phones, and what we can do to make them last longer.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The first week of the rest of Jason Snell's life]]></title>
@@ -73,19 +90,6 @@
     <content type="html"><![CDATA[<p>iOS 8 is here, and with it the first wave of iOS 8-optimized apps. In the case of <a href="http://panic.com">Panic</a>, it&rsquo;s a brand-new app: Transmit iOS.</p>
 
 <p>This iOS version of their popular file-transfer manager for OS X comes packed with features, such as easy and secure access to FTP, SFTP, Amazon S3 services and more. At only $10, it&rsquo;s an instant buy.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[John Gruber's thoughts on the Apple Watch]]></title>
-    <link href="http://analogsenses.github.io/2014/09/17/john-grubers-thoughts-on-the-apple-watch/"/>
-    <updated>2014-09-17T16:58:39+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/17/john-grubers-thoughts-on-the-apple-watch</id>
-    <content type="html"><![CDATA[<p>John has taken a few days to think about the Apple Watch, and these are his conclusions. I like how he looks at the entry-model, the $349 Sport edition, as the modern incarnation of an iPod. That actually makes a lot of sense, and contrary to what I thought, it looks like the watch will support it:</p>
-
-<blockquote><p>It has internal storage and Bluetooth, so you’ll be able to use it for music playback <em>without</em> taking your iPhone with you. With just your Apple Watch and Bluetooth earbuds you’ll be able to listen to music (and make Apple Pay purchases). I’d probably pay $349 just for that, using the Sport edition as a modern day iPod. Even better, though, I strongly suspect that WatchKit will allow for something like a native version of <a href="https://overcast.fm/">Overcast</a> — syncing while within Bluetooth range of your iPhone, but working entirely independently as a podcast player, using the watch’s internal storage, when you’re out of range. A version of Vesper where you can dictate new notes on the fly? Now you’ve got something I’d pay at least $349 for in a heartbeat.</p></blockquote>
-
-<p>If that usage pattern is possible, I could easily see myself buying one. The Overcast example is genius, I think. I just hope Marco is listening.</p>
 ]]></content>
   </entry>
   
