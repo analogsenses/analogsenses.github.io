@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: science | Analog Senses]]></title>
+  <link href="http://analogsenses.github.io/categories/science/atom.xml" rel="self"/>
+  <link href="http://analogsenses.github.io/"/>
+  <updated>2014-09-22T15:45:23+02:00</updated>
+  <id>http://analogsenses.github.io/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dear parents, you are being lied to]]></title>
+    <link href="http://analogsenses.github.io/2014/09/22/dear-parents-you-are-being-lied-to/"/>
+    <updated>2014-09-22T15:36:07+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/22/dear-parents-you-are-being-lied-to</id>
+    <content type="html"><![CDATA[<p>Jennifer Raff thoroughly debunks the myth that vaccination is bad for our childen:</p>
+
+<blockquote><p>They say that if other people’s children are vaccinated, there’s no need for their children to get vaccinated.</p>
+
+<p>This is one of the most despicable arguments I’ve ever heard. First of all, vaccines aren’t always 100% effective, so it is possible for a vaccinated child to still become infected if exposed to a disease. Worse, there are some people who can’t receive vaccinations, because they are immune deficient, or because they are allergic to some component. Those people depend upon <a href="http://www.vaccines.gov/basics/protection/">herd immunity</a> to protect them. People who choose not to vaccinate their children against infectious diseases are putting not only their own children at risk, but also other people’s children.</p></blockquote>
+
+<p>This is an extremely important issue, and if you&rsquo;re a parent, it&rsquo;s your responsibility to learn about it, become informed beyond Internet gossip, and make the only sensible, reasonable choice: vaccinate your kids.</p>
+
+<p>It deeply saddens me to think there are people so stubborn and irresponsible that they would gamble with their own children&rsquo;s lives like that.</p>
+
+<p>Via <a href="http://www.iflscience.com/health-and-medicine/dear-parents-you-are-being-lied">IFLS</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
