@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-24T11:38:04+02:00</updated>
+  <updated>2014-09-24T12:23:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dr. Drang explains engineering language to the masses]]></title>
+    <link href="http://analogsenses.github.io/2014/09/24/dr-drang-explains-engineering-language-to-the-masses/"/>
+    <updated>2014-09-24T11:59:11+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/24/dr-drang-explains-engineering-language-to-the-masses</id>
+    <content type="html"><![CDATA[<blockquote><p>This hybrid heritage carries through into the language of engineering, where we use everyday words (tradesman) to express precisely defined concepts (scientist). This makes it difficult to communicate engineering principles to nonengineers because we use many words in ways that don’t match up with their colloquial meaning. I’m sure you can come up with examples of this in other professions—even science does it to some extent—but in engineering, many of our most fundamental ideas and properties use common words.</p></blockquote>
+
+<p>Excellent article. My favorite example of this dual-meaning conflict is the word “theory”, as in, <a href="http://www.livescience.com/21491-what-is-a-scientific-theory-definition-of-theory.html">scientific theory</a>:</p>
+
+<blockquote><p>When used in non-scientific context, the word “theory” implies that something is unproven or speculative. As used in science, however, a theory is an explanation or model based on observation, experimentation, and reasoning, especially one that has been tested and confirmed as a general principle helping to explain and predict natural phenomena.</p></blockquote>
+
+<p>A scientific theory is far from speculative: it has been repeatedly confirmed by anecdotal and experimental evidence, and it has been thoroughly reviewed and tested by the rest of the scientific community. That&rsquo;s why I find it so laughable when creationists attempt to deride Darwin&rsquo;s theory of evolution by saying “it&rsquo;s just a theory”.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Steven Soderbergh releases black and white version of Raiders of the Lost Ark]]></title>
@@ -66,31 +81,6 @@
 <blockquote><p>If you live among strangers, chances are you are constantly becoming a private adversary to other people in ways you could never comprehend. Maybe somebody at the grocery store secretly hates you because of where you lock your bike up, or because you ride a bike at all. Or maybe you stand too close in the ATM line, or you use too many buzzwords, or you’re breaking some unwritten rule in a restaurant, or you’re in the way and have no idea. When you think of all of the petty things for which you’ve privately condemned someone at one time or another, it’s no stretch at all to imagine how often you are, in someone else’s eyes, clearly a bad person.</p></blockquote>
 
 <p>Excellent, thought-provoking piece.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[WTF happened to PG-13?]]></title>
-    <link href="http://analogsenses.github.io/2014/09/22/wtf-happened-to-pg-13/"/>
-    <updated>2014-09-22T19:52:24+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/22/wtf-happened-to-pg-13</id>
-    <content type="html"><![CDATA[<p><a href="http://www.patreon.com/goodbadflicks">Good Bad Flicks</a>, on how the movie industry&rsquo;s push for PG-13 ratings is hurting cinema as an art form. Many movies that are clearly meant to be rated R get watered down in order to achieve the less restrictive rating of PG-13. This is done to maximize their potential audience, but often results in a poor movie that ends up doing badly at the box office, because the original vision was destroyed in pursuit of a meaningless rating.</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/O-NeJRrgoTY" allowfullscreen></iframe></div></p>
-
-<p>I couldn&rsquo;t agree more, and I think it&rsquo;s ridiculous that ratings can have such a big influence on a movie&rsquo;s potential success. Our ratings system in Spain is merely informative and as far as I know, access to a movie theater is never restricted, no matter the rating of the movie.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> You could take your kid to watch <a href="http://www.imdb.com/title/tt0993846/">The Wolf of Wall Street</a>, and no one would stop you.</p>
-
-<p>Of course, the fact that you <em>can</em> doesn&rsquo;t mean that you <em>should</em>. After all, it is a parent&rsquo;s responsibility to keep an eye on what her kid watches. But these decisions are the parents&#8217; to make, not some random movie executive&rsquo;s, and certainly not for the sole purpose of making a killing.</p>
-
-<p>Via <a href="http://www.conormcclure.net/blog/2014/9/wtf-happened-to-pg-13">Connor McClure</a>.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Except for the X rating, which requires a movie to be shown exclusively at special, adults-only theaters.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
 ]]></content>
   </entry>
   
