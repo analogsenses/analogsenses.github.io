@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-25T15:44:51+02:00</updated>
+  <updated>2014-09-25T15:46:59+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -82,7 +82,7 @@
 
 <p>The fact that Apple is now rejecting apps that try to do things the right way is troubling. Twiterrific has always authenticated users the proper way: by redirecting them to Mobile Safari, where the user enters their credentials in a secure environment that&rsquo;s completely opaque to the 3rd-party app. Twitter then generates and sends an authentication token back to the app, which is used to perform the login. The whole process is effectively like trying to go to a club and asking an in-house friend to put your name on the guest list. The bouncer does not need to know how you got your name on the list, just that it <em>is</em> on the list.</p>
 
-<p>Now, however, Apple is asking 3rd-party apps to authenticate users using a WebKit view within the app itself. With this new workflow users gain in convenience, but they lose terribly in security. 3rd-party could suddenly become glorified bouncers that demand to know everything about you before they grant you access to the club. And with so many apps and services out there attempting to profit from our personal information, the one thing we don&rsquo;t need is more glorified bouncers.</p>
+<p>Now, however, Apple is requiring 3rd-party apps to authenticate users using a WebKit view within the app itself. With this new workflow users gain in convenience, but they lose terribly in security. 3rd-party could suddenly become glorified bouncers that demand to know everything about you before they grant you access to the club. And with so many apps and services out there attempting to profit from our personal information, the one thing we don&rsquo;t need is more glorified bouncers.</p>
 
 <p>The takeaway point is perfectly laid out by Hockenberry:</p>
 
