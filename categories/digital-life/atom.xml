@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-25T13:19:20+02:00</updated>
+  <updated>2014-09-25T13:55:34+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Buy a brick for the Nikola Tesla Museum]]></title>
+    <link href="http://analogsenses.github.io/2014/09/25/buy-a-brick-for-the-nikola-tesla-museum/"/>
+    <updated>2014-09-25T13:51:57+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/25/buy-a-brick-for-the-nikola-tesla-museum</id>
+    <content type="html"><![CDATA[<p>After launching a wildly successful <a href="http://theoatmeal.com/blog/tesla_museum">crowdfunding campaign</a> to save Nikola Tesla&rsquo;s old laboratory at Wardenclyffe, The Oatmeal continues his quest to build a Goddamn Tesla Museum.</p>
+
+<p>I&rsquo;m in.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[In-app browsers considered harmful]]></title>
@@ -80,27 +91,6 @@
 <p>What a fascinating experiment. Though I have a lot of conflicting emotions about this, to be honest. Raiders of the Lost Ark is one of my all-time favorite films, and I usually don&rsquo;t quite like it when people &ldquo;reimagine&rdquo; these classics.</p>
 
 <p>That being said, Mr. Soderbergh is an amazing artist, and I&rsquo;m terribly curious to see the result.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Manual for iPhone]]></title>
-    <link href="http://analogsenses.github.io/2014/09/24/manual-for-iphone/"/>
-    <updated>2014-09-24T11:16:47+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/24/manual-for-iphone</id>
-    <content type="html"><![CDATA[<p>What an awesome way to introduce an app:</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/1V802IclD-s" allowfullscreen></iframe></div></p>
-
-<p>Kidding aside, Manual is a very interesting app that lets you control all parameters of exposure when shooting with the iPhone&rsquo;s camera.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> If you want to have more control over the pictures you take, this is a great way to do it.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Well, all except aperture, because the iPhone&rsquo;s camera lens is a fixed aperture design.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
 ]]></content>
   </entry>
   
