@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-29T19:06:53+02:00</updated>
+  <updated>2014-09-29T19:11:27+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -71,7 +71,7 @@
     <id>http://analogsenses.github.io/2014/09/24/manual-for-iphone</id>
     <content type="html"><![CDATA[<p>What an awesome way to introduce an app:</p>
 
-<p>{% youtube 1V802IclD-s %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/1V802IclD-s" allowfullscreen></iframe></div></p>
 
 <p>Kidding aside, Manual is a very interesting app that lets you control all parameters of exposure when shooting with the iPhone&rsquo;s camera.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> If you want to have more control over the pictures you take, this is a great way to do it.</p>
 <div class="footnotes">
