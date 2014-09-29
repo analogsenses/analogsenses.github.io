@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-29T20:13:18+02:00</updated>
+  <updated>2014-09-29T20:39:16+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Jean-Louis Gassée on Blackberry's grim prospects →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.mondaynote.com/2014/09/28/blackberry-the-endgame/"/>
+	
+    <updated>2014-09-29T20:37:24+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/29/jean-louis-gassee-on-blackberrys-grim-prospects</id>
+  	
+  	<content type="html"><![CDATA[<blockquote><p>In reality, RIM was much more than three years behind iOS (and, later, Android). Depending on whom we listen to, the 2007 iPhone didn’t just stand on a modern (if incomplete) OS, it stood on <a href="http://mobile-review.com/articles/2010/iphone-history3-en.shtml">3 to 5 years of development</a>, of trial and error.</p>
+
+<p>BlackBerry had lost the software battle before it could even be fought.</p>
+
+<p>All other factors that are invoked in explaining BlackBerry’s fall — company culture, hardware misdirections, loss of engineering talent — pale compared to the fundamentally unwinnable software battle.</p></blockquote>
+
+<p>Ouch.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/29/jean-louis-gassee-on-blackberrys-grim-prospects/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Behind-the-scenes images of The Dark Knight Trilogy →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -387,27 +406,6 @@
 </div>
 
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/22/wtf-happened-to-pg-13/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[A Speakeasy Luxury Bar Hidden inside a Vintage Bread Truck →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.thedieline.com/blog/2014/9/16/grey-goose-boulangerie-franois-camionnette"/>
-	
-    <updated>2014-09-22T17:13:22+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/22/a-speakeasy-luxury-bar-hidden-inside-a-vintage-bread-truck</id>
-  	
-  	<content type="html"><![CDATA[<p>The Dieline:</p>
-
-<blockquote><p>Integrated branding agency Ragged Edge has created the The World’s Most Intimate Martini Bar, hidden inside a beautifully restored Citroen van.</p></blockquote>
-
-<p><img src="https://farm6.staticflickr.com/5561/15321808335_21182e59a6_o.jpg" alt="The World’s Most Intimate Martini Bar" /></p>
-
-<p>Damn. Why didn&rsquo;t I think of that?</p>
-
-<p>Via <a href="http://www.messynessychic.com/2014/09/22/13-things-i-found-on-the-internet-today-vol-xcii/">Messy Nessy Chic</a>.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/22/a-speakeasy-luxury-bar-hidden-inside-a-vintage-bread-truck/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
