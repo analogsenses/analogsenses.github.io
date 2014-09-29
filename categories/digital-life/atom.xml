@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-29T18:00:38+02:00</updated>
+  <updated>2014-09-29T18:18:37+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jason Snell on the problem with video streaming services]]></title>
+    <link href="http://analogsenses.github.io/2014/09/29/jason-snell-on-the-problem-with-video-streaming-services/"/>
+    <updated>2014-09-29T18:09:43+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/29/jason-snell-on-the-problem-with-video-streaming-services</id>
+    <content type="html"><![CDATA[<blockquote><p>The point is, if you’re a Netflix subscriber—or an Amazon Prime customer, for that matter—you are binge-watching in a Barcalounger in a rumpus room built on shifting sands. If your service and the owner of the content can’t come to an agreement, if some competitor swoops in offering more money for exclusive rights, you’re out of luck. The rug can, and will, be pulled out from under you.</p></blockquote>
+
+<p>He has a point. I have a Spotify subscription and every time I come across an album or a song I like, I buy it so that I can own it forever. As far as video goes, there are currently no streaming video services operating in Spain, but if there was one, I&rsquo;d probably approach it with the same strategy. I don&rsquo;t like surprises when it comes to my digital media collection.</p>
+
+<p>I also happen to have a totally redundant and unnecessarily excessive backup strategy for my media files, but that&rsquo;s a story for another day.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ready for rain]]></title>
@@ -78,19 +91,6 @@
 <p>An in-app browser is a great tool for quickly viewing web content, especially for things like links in Twitterrific’s timeline. But you should always open a link in Safari if you have any concern that your information might be collected. Safari is the only app on iOS that comes with Apple’s guarantee of security.</p></blockquote>
 
 <p>This is another privacy-related mess just waiting to happen. I don&rsquo;t see how Apple can continue to enforce this behavior without significantly overhauling the way in-app browsers work. I&rsquo;m not even sure a solution within this model is technically feasible. The only clear way out is going back to the previous, slightly more inconvenient but significantly more secure workflow; the current situation is simply untenable.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jacket and tie | Sanspoint]]></title>
-    <link href="http://analogsenses.github.io/2014/09/24/jacket-and-tie/"/>
-    <updated>2014-09-24T17:13:28+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/24/jacket-and-tie</id>
-    <content type="html"><![CDATA[<p>Richard J. Anderson:</p>
-
-<blockquote><p>My outfit gives me super powers. Dressed up, I have the powers of confidence, of dependability and trust, of good first impressions. Plus, I look great. As long as I wear my jacket and tie, I feel like I can accomplish any task, surmount any hurdle, and deal with any unforeseen circumstance. Put a cup of hot coffee in my hand, and I become invincible. A set of clothes that look good and feel good have the power to change how you feel about yourself. Whatever misfortune, whatever woe has befallen you, you can look in any mirror and say, “at least I still look like I have it together.” For a lot of people out there, looking like you have it together is enough to make them think you really do.</p></blockquote>
-
-<p>Great article.</p>
 ]]></content>
   </entry>
   
