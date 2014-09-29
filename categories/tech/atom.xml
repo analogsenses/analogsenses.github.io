@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-29T20:39:16+02:00</updated>
+  <updated>2014-09-29T20:51:42+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Brent Simmons joins the Omni Group]]></title>
+    <link href="http://analogsenses.github.io/2014/09/29/brent-simmons-joins-the-omni-group/"/>
+    <updated>2014-09-29T20:49:52+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/29/brent-simmons-joins-the-omni-group</id>
+    <content type="html"><![CDATA[<blockquote><p>I start my new job as a developer at the Omni Group today. You already know them and their wonderful products, and I’ve expressed my admiration for them here on my blog many times.</p>
+
+<p>But, before I talk about how I’m excited for this new job, I’ll reassure <a href="http://vesperapp.co/">Vesper</a> users: Vesper will continue, and I will continue as its developer.</p></blockquote>
+
+<p>It seems like it&rsquo;s great news for everyone. Best of luck to Brent in his new adventure.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dropbox is a Feature | The Brooks Review]]></title>
