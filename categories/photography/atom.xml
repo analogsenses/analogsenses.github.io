@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-29T22:30:24+02:00</updated>
+  <updated>2014-09-29T22:35:24+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Last Roll]]></title>
+    <link href="http://analogsenses.github.io/2014/09/29/the-last-roll/"/>
+    <updated>2014-09-29T22:32:08+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/29/the-last-roll</id>
+    <content type="html"><![CDATA[<p>The Last Roll is a great short film about the end of slide film development:</p>
+
+<blockquote><p>At the end of February 2014, Orms, one of the most well known professional photography stores and film processors in Cape Town, stopped processing slide film (called the E6 process). Two photographers were asked to use the last few rolls of slide film to be processed here. While there, we met another photographer who only shot on slide film. This is their story about the end of slide film.</p></blockquote>
+
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/98730228 "></iframe></div></p>
+
+<p>Via <a href="http://www.thephoblographer.com/2014/09/29/last-roll-captures-emotional-end-slide-film-processing/">The Phoblographer</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mars Orbiter Mission delivers on promise of global views of Mars]]></title>
@@ -74,27 +89,6 @@
 <p>Interesting comparison. The iPhone 6 camera is vastly superior in several areas and is particularly amazing in low light. However, it also surprised me that in other examples, like daylight photography and portraits, the results between 4S, 5, 5S and 6 are almost indistinguishable from each other.</p>
 
 <p>Via <a href="http://www.macstories.net/linked/iphone-6-camera-compared-to-previous-iphone-cameras/">MacStories</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Manual for iPhone]]></title>
-    <link href="http://analogsenses.github.io/2014/09/24/manual-for-iphone/"/>
-    <updated>2014-09-24T11:16:47+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/24/manual-for-iphone</id>
-    <content type="html"><![CDATA[<p>What an awesome way to introduce an app:</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/1V802IclD-s" allowfullscreen></iframe></div></p>
-
-<p>Kidding aside, Manual is a very interesting app that lets you control all parameters of exposure when shooting with the iPhone&rsquo;s camera.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> If you want to have more control over the pictures you take, this is a great way to do it.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Well, all except aperture, because the iPhone&rsquo;s camera lens is a fixed aperture design.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
 ]]></content>
   </entry>
   
