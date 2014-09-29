@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-26T17:08:19+02:00</updated>
+  <updated>2014-09-29T11:42:27+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iOS 8 does movie quote predictions]]></title>
+    <link href="http://analogsenses.github.io/2014/09/29/ios-8-does-movie-quote-predictions/"/>
+    <updated>2014-09-29T11:30:10+02:00</updated>
+    <id>http://analogsenses.github.io/2014/09/29/ios-8-does-movie-quote-predictions</id>
+    <content type="html"><![CDATA[<p>Today&rsquo;s xkcd:</p>
+
+<p><a href="http://xkcd.com/1427/"><img src="http://imgs.xkcd.com/comics/ios_keyboard.png" alt="iOS 8 Keyboard on xkcd" /></a></p>
+
+<p>I&rsquo;m so happy I got the 4th movie reference, because in what&rsquo;s an amazing coincidence, yesterday I watched <a href="http://www.imdb.com/title/tt0379786/">Serenity</a> for the first time ever.</p>
+
+<p>It&rsquo;s actually kinda creepy how xkcd seems to do that to me every now and then.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[In-app browsers considered harmful]]></title>
@@ -76,23 +91,6 @@
 <blockquote><p>The iPhone 6 Plus has a slight edge over the iPhone 6, but not by much. Perhaps the biggest surprise is how well the iPhone 5s still holds up. Perhaps that&rsquo;s because Apple&rsquo;s second-generation 64-bit core is just that, 2nd generation, and it&rsquo;s focused on things beyond raw power, like power efficiency.</p></blockquote>
 
 <p>If you have an iPhone 5S and are not very keen on the bigger displays of the new iPhones, this is good news for you.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How the new battery usage monitor works in iOS 8]]></title>
-    <link href="http://analogsenses.github.io/2014/09/22/how-the-new-battery-usage-monitor-works-in-ios-8/"/>
-    <updated>2014-09-22T16:35:14+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/22/how-the-new-battery-usage-monitor-works-in-ios-8</id>
-    <content type="html"><![CDATA[<p>Rene Ritchie:</p>
-
-<blockquote><p>Battery usage is best thought of as a sanity check. It lists each app (or service) you&rsquo;ve used in the last 24 hours or 7 days, not including apps used while charging, along with the percentage of power drain they&rsquo;ve been responsible for.</p></blockquote>
-
-<p>Since about a week ago —before I upgraded to iOS 8—, I&rsquo;ve noticed a sharp reduction in battery life on my iPhone 5S. It doesn&rsquo;t last into the evening, while previously it lasted a whole day with power to spare. It&rsquo;s weird, particularly because I&rsquo;m not using it significantly more than I always have, and I&rsquo;m yet to find a concrete cause for this. Maybe my iPhone&rsquo;s battery is damaged, or maybe there&rsquo;s an app that&rsquo;s misbehaving and draining it a lot quicker than it should. I don&rsquo;t know.</p>
-
-<p>The battery usage monitor, which is a new iOS 8 feature, is helping me find the culprit. For example, I thought <a href="http://overcast.fm">Overcast</a> would probably be using a lot of power, but it turns out it isn&rsquo;t. That&rsquo;s a relief, because I really enjoy using it. Similarly, Maps and the Phone app are the two most power-hungry apps in my phone, both due to &ldquo;Low Signal&rdquo;. Now we&rsquo;re getting somewhere.</p>
-
-<p>I think it&rsquo;s worth it to spend a while getting used to this feature. There are some important things to learn about how we use our phones, and what we can do to make them last longer.</p>
 ]]></content>
   </entry>
   
