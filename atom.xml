@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-30T16:48:51+02:00</updated>
+  <updated>2014-09-30T17:54:49+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Apple Watch hands-on review | A Blog To Watch →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.ablogtowatch.com/apple-watch-hands-on-review/"/>
+	
+    <updated>2014-09-30T17:46:03+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/09/30/apple-watch-hands-on-review</id>
+  	
+  	<content type="html"><![CDATA[<p>Ariel Adams:</p>
+
+<blockquote><p>Yes, of course the Apple Watch is a &ldquo;watch.&rdquo; Many people, especially in the watch community, have defended their love of traditional mechanical watches by segmenting the Apple Watch in a category of high-end gadgets versus &ldquo;watches.&rdquo; While I understand and perhaps even empathize with this sentiment, I disagree. If anything, the Apple Watch is what the wrist watch is meant to be in the 21st century. You might not like that, but it is the truth, when it comes to wearable wrist technology. Traditional watch lovers know (and even relish the fact) that their timepieces employ antiquated technology. Such technology might be produced using the most modern construction equipment and with innovative materials, but at the end of the day, no one can argue that a mechanical wrist watch would be able to compete with the sheer utility of a computer.</p></blockquote>
+
+<p>That is a very good point. The day that modern smartwatch technology is able to match the craftsmanship of mechanical watches, I&rsquo;ll be happily won over in a heartbeat.</p>
+
+<p>All in all, a really great, in-depth article. It is well worth your time.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/09/30/apple-watch-hands-on-review/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The flagship iPhone]]></title>
@@ -419,25 +438,6 @@
 
 <p>Via <a href="http://www.macstories.net/linked/iphone-6-camera-compared-to-previous-iphone-cameras/">MacStories</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/24/iphone-6-camera-compared-to-all-previous-iphones/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Dr. Drang explains engineering language to the masses →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.leancrew.com/all-this/2014/09/engineering-language/"/>
-	
-    <updated>2014-09-24T11:59:11+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/24/dr-drang-explains-engineering-language-to-the-masses</id>
-  	
-  	<content type="html"><![CDATA[<blockquote><p>This hybrid heritage carries through into the language of engineering, where we use everyday words (tradesman) to express precisely defined concepts (scientist). This makes it difficult to communicate engineering principles to nonengineers because we use many words in ways that don’t match up with their colloquial meaning. I’m sure you can come up with examples of this in other professions—even science does it to some extent—but in engineering, many of our most fundamental ideas and properties use common words.</p></blockquote>
-
-<p>Excellent article. My favorite example of this dual-meaning conflict is the word “theory”, as in, <a href="http://www.livescience.com/21491-what-is-a-scientific-theory-definition-of-theory.html">scientific theory</a>:</p>
-
-<blockquote><p>When used in non-scientific context, the word “theory” implies that something is unproven or speculative. As used in science, however, a theory is an explanation or model based on observation, experimentation, and reasoning, especially one that has been tested and confirmed as a general principle helping to explain and predict natural phenomena.</p></blockquote>
-
-<p>A scientific theory is far from speculative: it has been repeatedly confirmed by anecdotal and experimental evidence, and it has been thoroughly reviewed and tested by the rest of the scientific community. That&rsquo;s why I find it so laughable when creationists attempt to deride Darwin&rsquo;s theory of evolution by saying “it&rsquo;s just a theory”.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/24/dr-drang-explains-engineering-language-to-the-masses/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
