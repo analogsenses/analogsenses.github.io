@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-09-30T18:39:45+02:00</updated>
+  <updated>2014-09-30T18:45:09+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -13,7 +13,7 @@
   
   <entry>
   
-	<title type="html"><![CDATA[The Elon Musk interview on Mars colonization | Aeon →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<title type="html"><![CDATA[An interview with Elon Musk on the colonization of Mars | Aeon →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
 	<link href="http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/"/>
 	
     <updated>2014-09-30T18:34:45+02:00</updated>
