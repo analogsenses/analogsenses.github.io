@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-01T18:44:10+02:00</updated>
+  <updated>2014-10-01T18:58:06+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Hamster Wheel standing desk →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.instructables.com/id/Hamster-Wheel-Standing-Desk/"/>
+	
+    <updated>2014-10-01T18:55:45+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/01/hamster-wheel-standing-desk</id>
+  	
+  	<content type="html"><![CDATA[<blockquote><p>Rise up, sedentary sentients, and unleash that untapped potential within by marching endlessly towards a brilliant future of focused work. Step forward into a world of infinite potential, bounded only by the smooth arcs of a wheel. Step forward into the Hamster Wheel Standing Desk that will usher in a new era of unprecedented productivity.</p></blockquote>
+
+<p>I need to get me one of these.</p>
+
+<p>Via <a href="http://coudal.com/archives/2014/10/hamster_wheel_s.php">Coudal Partners</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/01/hamster-wheel-standing-desk/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Gentleman's Wager →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -400,23 +417,6 @@
 
 <p>There a few things you should always keep in mind when taking pictures of strangers on the street.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/26/dealing-with-confrontation-in-street-photography/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The art forger who became a national hero →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://priceonomics.com/the-art-forger-who-became-a-national-hero/"/>
-	
-    <updated>2014-09-25T15:02:36+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/25/the-art-forger-who-became-a-national-hero</id>
-  	
-  	<content type="html"><![CDATA[<blockquote><p>But post-World War II, a “Vermeer” painting sold to Nazi Reichsmarschall Hermann Göring was traced back to van Meegeren &ndash; a painting of such high quality that experts agreed no one could have possibly fabricated it. Accused of plundering for the Germans, the artist was sentenced to death. In an odd twist, van Meegeren was given one last chance to prove his innocence: If he could produce a brilliant forgery before the eyes of court-appointed witnesses, he&rsquo;d be spared. What ensued would make the man one of the most popular figures in the Netherlands.</p>
-
-<p>This is the story of Han Van Meegeren, the most dramatic forger of the 20th century.</p></blockquote>
-
-<p>What a fascinating character. I&rsquo;m a sucker for white-collar crime stories.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/25/the-art-forger-who-became-a-national-hero/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
