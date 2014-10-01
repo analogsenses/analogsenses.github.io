@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-01T12:41:04+02:00</updated>
+  <updated>2014-10-01T18:23:24+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Vogue magazine profiles Jony Ive →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.vogue.com/1415025/apple-design-genius-jonathan-ive"/>
+	
+    <updated>2014-10-01T18:15:10+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive</id>
+  	
+  	<content type="html"><![CDATA[<p>Robert Sullivan:</p>
+
+<blockquote><p>Noticeably, his phone neither rings nor vibrates; he has designed the moment for concentration. He nurses a white mug of tea, and the only thing in the room besides an iPhone is the pair of reading glasses designed by his friend Marc Newson and tucked into the front of his T-shirt: simple, delicate, but clear and strong. “I wish I could articulate this more effectively,” he continues, addressing his ambitions as a designer. “But it is to have that sense that you know there couldn’t possibly be a sane or rational alternative.”</p></blockquote>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[A Dead World at Sunset | The Last Word on Nothing →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -403,21 +418,6 @@
 
 <p>If there&rsquo;s a better way to get introduced to a new podcast, I can&rsquo;t think of it.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/25/the-incomparable-episode-212-toy-story/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Buy a brick for the Nikola Tesla Museum →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://theoatmeal.com/blog/bricks_for_tesla"/>
-	
-    <updated>2014-09-25T13:51:57+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/25/buy-a-brick-for-the-nikola-tesla-museum</id>
-  	
-  	<content type="html"><![CDATA[<p>After launching a wildly successful <a href="http://theoatmeal.com/blog/tesla_museum">crowdfunding campaign</a> to save Nikola Tesla&rsquo;s old laboratory at Wardenclyffe, The Oatmeal continues his quest to build a Goddamn Tesla Museum.</p>
-
-<p>I&rsquo;m in.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/25/buy-a-brick-for-the-nikola-tesla-museum/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

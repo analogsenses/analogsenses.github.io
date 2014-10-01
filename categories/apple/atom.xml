@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-01T12:41:04+02:00</updated>
+  <updated>2014-10-01T18:23:24+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vogue magazine profiles Jony Ive]]></title>
+    <link href="http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive/"/>
+    <updated>2014-10-01T18:15:10+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive</id>
+    <content type="html"><![CDATA[<p>Robert Sullivan:</p>
+
+<blockquote><p>Noticeably, his phone neither rings nor vibrates; he has designed the moment for concentration. He nurses a white mug of tea, and the only thing in the room besides an iPhone is the pair of reading glasses designed by his friend Marc Newson and tucked into the front of his T-shirt: simple, delicate, but clear and strong. “I wish I could articulate this more effectively,” he continues, addressing his ambitions as a designer. “But it is to have that sense that you know there couldn’t possibly be a sane or rational alternative.”</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple Watch hands-on review | A Blog To Watch]]></title>
@@ -127,19 +138,6 @@
 <p>An in-app browser is a great tool for quickly viewing web content, especially for things like links in Twitterrific’s timeline. But you should always open a link in Safari if you have any concern that your information might be collected. Safari is the only app on iOS that comes with Apple’s guarantee of security.</p></blockquote>
 
 <p>This is another privacy-related mess just waiting to happen. I don&rsquo;t see how Apple can continue to enforce this behavior without significantly overhauling the way in-app browsers work. I&rsquo;m not even sure a solution within this model is technically feasible. The only clear way out is going back to the previous, slightly more inconvenient but significantly more secure workflow; the current situation is simply untenable.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iPhone 6 camera compared to all previous iPhones]]></title>
-    <link href="http://analogsenses.github.io/2014/09/24/iphone-6-camera-compared-to-all-previous-iphones/"/>
-    <updated>2014-09-24T17:02:26+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/24/iphone-6-camera-compared-to-all-previous-iphones</id>
-    <content type="html"><![CDATA[<blockquote><p>In the past seven years, each new advancement in iPhone camera technology has made dramatic improvements to image quality. The iPhone 6 is no different. Besides being faster to shoot and easier to focus, the images taken with the iPhone 6 camera show greater detail and are significantly better in low-light.</p></blockquote>
-
-<p>Interesting comparison. The iPhone 6 camera is vastly superior in several areas and is particularly amazing in low light. However, it also surprised me that in other examples, like daylight photography and portraits, the results between 4S, 5, 5S and 6 are almost indistinguishable from each other.</p>
-
-<p>Via <a href="http://www.macstories.net/linked/iphone-6-camera-compared-to-previous-iphone-cameras/">MacStories</a>.</p>
 ]]></content>
   </entry>
   

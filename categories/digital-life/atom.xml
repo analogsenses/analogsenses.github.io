@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-01T12:41:04+02:00</updated>
+  <updated>2014-10-01T18:23:24+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vogue magazine profiles Jony Ive]]></title>
+    <link href="http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive/"/>
+    <updated>2014-10-01T18:15:10+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive</id>
+    <content type="html"><![CDATA[<p>Robert Sullivan:</p>
+
+<blockquote><p>Noticeably, his phone neither rings nor vibrates; he has designed the moment for concentration. He nurses a white mug of tea, and the only thing in the room besides an iPhone is the pair of reading glasses designed by his friend Marc Newson and tucked into the front of his T-shirt: simple, delicate, but clear and strong. “I wish I could articulate this more effectively,” he continues, addressing his ambitions as a designer. “But it is to have that sense that you know there couldn’t possibly be a sane or rational alternative.”</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dear Young Men | Raptitude]]></title>
@@ -72,19 +83,6 @@
 <p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/98730228 "></iframe></div></p>
 
 <p>Via <a href="http://www.thephoblographer.com/2014/09/29/last-roll-captures-emotional-end-slide-film-processing/">The Phoblographer</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mars Orbiter Mission delivers on promise of global views of Mars]]></title>
-    <link href="http://analogsenses.github.io/2014/09/29/mars-orbiter-mission-delivers-on-promise-of-global-views-of-mars/"/>
-    <updated>2014-09-29T22:26:03+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/29/mars-orbiter-mission-delivers-on-promise-of-global-views-of-mars</id>
-    <content type="html"><![CDATA[<p>These images are breathtaking.</p>
-
-<p><img src="http://planetary.s3.amazonaws.com/assets/images/4-mars/2014/20140929_1669791_1557930277763662_2002345568908420485_o.jpg" alt="First global view of Mars" /></p>
-
-<p>Via <a href="http://coudal.com/archives/2014/09/mars_global_vie.php">Coudal Partners</a>.</p>
 ]]></content>
   </entry>
   
