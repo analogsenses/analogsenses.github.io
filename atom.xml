@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-01T18:23:24+02:00</updated>
+  <updated>2014-10-01T18:44:10+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Gentleman's Wager →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=kQ7kWpTrtJw"/>
+	
+    <updated>2014-10-01T18:40:39+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/01/the-gentlemans-wager</id>
+  	
+  	<content type="html"><![CDATA[<p>Amazing commercial for Johnnie Walker Blue Label, starring Jude Law and Giancarlo Giannini, and directed by Jake Scott.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/kQ7kWpTrtJw" allowfullscreen></iframe></div>
+
+
+<p>It&rsquo;s stuff like this that makes me wish I liked scotch.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/01/the-gentlemans-wager/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Vogue magazine profiles Jony Ive →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -399,25 +417,6 @@
 
 <p>What a fascinating character. I&rsquo;m a sucker for white-collar crime stories.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/25/the-art-forger-who-became-a-national-hero/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Incomparable, episode 212: Toy Story →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.theincomparable.com/theincomparable/212/index.php"/>
-	
-    <updated>2014-09-25T14:40:31+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/25/the-incomparable-episode-212-toy-story</id>
-  	
-  	<content type="html"><![CDATA[<p>These days it seems there are so many great podcasts it&rsquo;s almost impossible to keep up with all of them. Lately I&rsquo;m making a conscious effort to discover new shows, and I recently ran into one of the truly great ones: <a href="http://www.theincomparable.com/theincomparable/">The Incomparable</a>, hosted by Jason Snell.</p>
-
-<p>I love the feeling you get when you discover something really awesome —and popular!— that you had no idea even existed. At episode 212, The Incomparable is a veteran show and it features some of the very best podcasters on a regular basis. In this episode alone, you get to listen to Andy Ihnatko, John Siracusa, Merlin Mann, Steve Lutz, David J. Loehr and, of course, Mr. Jason Snell himself.</p>
-
-<p>And that&rsquo;s not even the best part. They&rsquo;re going to do a sweep of all the Pixar movies, and they&rsquo;re starting with <a href="http://www.imdb.com/title/tt0114709/">Toy Story</a>.</p>
-
-<p>If there&rsquo;s a better way to get introduced to a new podcast, I can&rsquo;t think of it.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/25/the-incomparable-episode-212-toy-story/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
