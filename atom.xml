@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-01T10:48:47+02:00</updated>
+  <updated>2014-10-01T12:28:29+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[A dead world at sunset | The Last Word on Nothing →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.lastwordonnothing.com/2014/10/01/1485/"/>
+	
+    <updated>2014-10-01T12:26:07+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/01/a-dead-world-at-sunset</id>
+  	
+  	<content type="html"><![CDATA[<p>Jessa Gamble:</p>
+
+<blockquote><p>In mid-bound, the dog’s head swings up and his eyes lock onto me. Halting on a dime, he stares at me, and I at him. Very close. If he were a car, I could read his license plate. After an interminable five seconds, he turns and trots along at ninety degrees.</p>
+
+<p>Then I see the others: first two, then three more. All huge, white-grey, stunning. I finally map their features onto what I know only from David Attenborough films.</p>
+
+<p>Wolves.</p></blockquote>
+
+<p>What a beautiful story.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/01/a-dead-world-at-sunset/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[What it's like to fly in Singapore Airlines Suites Class →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -397,39 +418,6 @@
 
 <p>I&rsquo;m in.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/25/buy-a-brick-for-the-nikola-tesla-museum/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[In-app browsers considered harmful →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://furbo.org/2014/09/24/in-app-browsers-considered-harmful/"/>
-	
-    <updated>2014-09-25T12:46:44+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/25/in-app-browsers-considered-harmful</id>
-  	
-  	<content type="html"><![CDATA[<p>Craig Hockenberry:</p>
-
-<blockquote><p>How many apps on your iPhone or iPad have a built-in browser?</p>
-
-<p>Would it surprise you to know that every one of those apps could eavesdrop on your typing? Even when it’s in a secure login screen with a password field?</p></blockquote>
-
-<p>I&rsquo;m willing to bet that most iOS users have absolutely no idea of the difference between opening a link in Mobile Safari vs. opening the same link in an in-app browser. And they shouldn&rsquo;t have to.</p>
-
-<p>Unfortunately, in-app browsers are ultimately in control of 3rd-party developers, and there are plenty of ways they can grab your personal information without you —or Apple— even noticing.</p>
-
-<p>The fact that Apple is now rejecting apps that try to do things the right way is troubling. Twiterrific has always authenticated users the proper way: by redirecting them to Mobile Safari, where the user enters their credentials in a secure environment that&rsquo;s completely opaque to the 3rd-party app. Twitter then generates and sends an authentication token back to the app, which is used to perform the login. The whole process is effectively like trying to go to a club and asking an in-house friend to put your name on the guest list. The bouncer does not need to know how you got your name on the list, just that it <em>is</em> on the list.</p>
-
-<p>Now, however, Apple is requiring 3rd-party apps to authenticate users using a WebKit view within the app itself. With this new workflow users gain in convenience, but they lose terribly in security. 3rd-party apps could suddenly become glorified bouncers that demand to know everything about you before they grant you access to the club. And with so many apps and services out there attempting to profit from our personal information, the one thing we don&rsquo;t need is more glorified bouncers.</p>
-
-<p>The takeaway point is perfectly laid out by Hockenberry:</p>
-
-<blockquote><p>Another goal of this essay is to increase user awareness of the potential dangers of using an in-app browser. You should <strong>never</strong> enter any private information while you’re using an app that’s not Safari.</p>
-
-<p>An in-app browser is a great tool for quickly viewing web content, especially for things like links in Twitterrific’s timeline. But you should always open a link in Safari if you have any concern that your information might be collected. Safari is the only app on iOS that comes with Apple’s guarantee of security.</p></blockquote>
-
-<p>This is another privacy-related mess just waiting to happen. I don&rsquo;t see how Apple can continue to enforce this behavior without significantly overhauling the way in-app browsers work. I&rsquo;m not even sure a solution within this model is technically feasible. The only clear way out is going back to the previous, slightly more inconvenient but significantly more secure workflow; the current situation is simply untenable.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/25/in-app-browsers-considered-harmful/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
