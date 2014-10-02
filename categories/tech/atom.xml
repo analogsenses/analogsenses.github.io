@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-01T19:00:09+02:00</updated>
+  <updated>2014-10-02T12:04:57+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Matt Gemmell on the Apple Watch]]></title>
+    <link href="http://analogsenses.github.io/2014/10/02/matt-gemmell-on-the-apple-watch/"/>
+    <updated>2014-10-02T11:56:54+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/02/matt-gemmell-on-the-apple-watch</id>
+    <content type="html"><![CDATA[<blockquote><p>There are already smartwatches available, and they’re all <em>also</em> gadgets. They live in the tech sector too, and they’ve been designed and marketed as such, to the same old crowd of consumers. They are geek toys, without exception.</p>
+
+<p>Apple doesn’t care about that market, because it’s a tiny segment of an industry they already dominate. What Apple cares about is the <em>wristwatch</em> market.</p></blockquote>
+
+<p>Excellent piece, and I&rsquo;m largely in agreement. There&rsquo;s no doubt that the Apple Watch will be extremely popular among geeks, and even mainstream consumers. What&rsquo;s not so clear is whether it will succeed in charming users of traditional, mechanical watches. Those are a different kind of customer altogether, and one that Apple has never courted before.</p>
+
+<p>That is what may ultimately make or break the Apple Watch&rsquo;s case as a timeless, iconic device, and take it beyond the space occupied by typical tech gadgets in people&rsquo;s minds. Judging from Apple&rsquo;s marketing strategy thus far, it looks like they&rsquo;re keenly aware of that, and are acting accordingly.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[An interview with Elon Musk on the colonization of Mars | Aeon]]></title>
@@ -113,22 +128,6 @@
 <p>But, before I talk about how I’m excited for this new job, I’ll reassure <a href="http://vesperapp.co/">Vesper</a> users: Vesper will continue, and I will continue as its developer.</p></blockquote>
 
 <p>It seems like it&rsquo;s great news for everyone. Best of luck to Brent in his new adventure.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dropbox is a Feature | The Brooks Review]]></title>
-    <link href="http://analogsenses.github.io/2014/09/01/dropbox-is-a-feature-%7C-the-brooks-review/"/>
-    <updated>2014-09-01T19:53:36+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/01/dropbox-is-a-feature-|-the-brooks-review</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve been so busy <a href="2014/08/31/now-serving-delicious-baked-goods">migrating the site</a> this past week that I somehow forgot to link to this great article by Ben Brooks on the uncertain future that Dropbox is facing:</p>
-
-<blockquote>Dropbox very much has to make money, which is a problem when it comes down to competing on price. Because if you can afford to ‘sell’ a feature at a loss, then pricing doesn’t matter to you, but when that feature is your business you simply must make money. And that feature in this case, very much is Dropbox’s business.</blockquote>
-
-
-<p>He&rsquo;s right on the money here. The recent move by Dropbox to lower their prices is great for their customers, but it kind of leaves them with little wiggle room, strategically speaking. Competing against platform vendors on price is always a tough game, because they don&rsquo;t need to make money in this area, and you do. It&rsquo;s what Amazon is doing to the entire retail industry and what it&rsquo;s trying to do to the smartphone and tablet industries: by commoditizing hardware, content is king.</p>
-
-<p>Can Dropbox survive in a world where automagical file syncing and sharing across devices and platforms is taken for granted? Because, make no mistake, that is <em>exactly</em> where we&rsquo;re going.</p>
 ]]></content>
   </entry>
   
