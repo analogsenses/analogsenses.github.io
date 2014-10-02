@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-02T12:26:15+02:00</updated>
+  <updated>2014-10-02T12:46:24+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Little things that improve the way Shawn Blanc works on a Mac]]></title>
+    <link href="http://analogsenses.github.io/2014/10/02/little-things-that-improve-the-way-shawn-blanc-works-on-a-mac/"/>
+    <updated>2014-10-02T12:37:27+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/02/little-things-that-improve-the-way-shawn-blanc-works-on-a-mac</id>
+    <content type="html"><![CDATA[<p>Plenty of useful tips here from Shawn on how to use automation tasks as part of your workflow to improve daily productivity:</p>
+
+<blockquote><p>Computers are great at doing the boring, automated stuff we don’t like to do. So why not automate common tasks (like performing backups of your computer), pre-make decisions for your computer to carry out on your behalf (such as auto-filing certain email newsletters), and generally just find ways to make yourself more efficient?</p></blockquote>
+
+<p>Good stuff. He makes an interesting point towards the end:</p>
+
+<blockquote><p>It can be easy to get hyper nerdy about this stuff, and to spend forever and a day tinkering and fiddling and “optimizing”. I listed out the above things not to say that you should be utilizing them as well, but instead to give you an idea of perhaps one or two ways that you could work smarter.</p></blockquote>
+
+<p>He&rsquo;s right on the money here, and it made me think of this wonderful <a href="http://xkcd.com/1205/">xkcd comic</a> from last year:</p>
+
+<p><a href="http://xkcd.com/1205/"><img src="http://imgs.xkcd.com/comics/is_it_worth_the_time.png" alt="Is It Worth the Time?" /></a></p>
+
+<p>That could every well serve as a rough guideline, before you start going crazy with the automation scripts.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ben Brooks on newsletters and magazine apps]]></title>
@@ -62,17 +83,6 @@
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/kQ7kWpTrtJw" allowfullscreen></iframe></div></p>
 
 <p>It&rsquo;s stuff like this that makes me wish I liked scotch.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Vogue magazine profiles Jony Ive]]></title>
-    <link href="http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive/"/>
-    <updated>2014-10-01T18:15:10+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive</id>
-    <content type="html"><![CDATA[<p>Robert Sullivan:</p>
-
-<blockquote><p>Noticeably, his phone neither rings nor vibrates; he has designed the moment for concentration. He nurses a white mug of tea, and the only thing in the room besides an iPhone is the pair of reading glasses designed by his friend Marc Newson and tucked into the front of his T-shirt: simple, delicate, but clear and strong. “I wish I could articulate this more effectively,” he continues, addressing his ambitions as a designer. “But it is to have that sense that you know there couldn’t possibly be a sane or rational alternative.”</p></blockquote>
 ]]></content>
   </entry>
   
