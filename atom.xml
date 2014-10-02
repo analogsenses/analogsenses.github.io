@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-02T12:04:57+02:00</updated>
+  <updated>2014-10-02T12:13:41+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Can we trust Uber? →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://medium.com/@petersimsie/can-we-trust-uber-c0e793deda36"/>
+	
+    <updated>2014-10-02T12:09:32+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/02/can-we-trust-uber</id>
+  	
+  	<content type="html"><![CDATA[<p>Peter Sims:</p>
+
+<blockquote><p>Then, a funny thing happened. One night, a couple of years ago, I was in an Uber SUV in NYC, headed to Penn Station to catch the train to Washington DC when I got a text message from a tech socialite of sorts (I’ll spare her name because Gawker has already parodied her enough), but she’s someone I hardly know, asking me if I was in an Uber car at 33th and 5th (or, something like that). I replied that I was indeed, thinking that she must be in an adjacent car. Looking around, she continued to text with updates of my car’s whereabouts, so much so that I asked the driver if others could see my Uber location profile? “No,” he replied, “that’s not possible.”</p></blockquote>
+
+<p>Of course, <a href="http://en.wikipedia.org/wiki/Betteridge's_law_of_headlines">Betteridge&rsquo;s Law of Headlines</a> applies. Shameful.</p>
+
+<p>Via <a href="https://brooksreview.net/2014/10/can-we-trust-uber-no/">Ben Brooks</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/02/can-we-trust-uber/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Matt Gemmell on the Apple Watch →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -400,25 +419,6 @@
 
 <p>Via <a href="https://brooksreview.net/2014/09/ready-for-rain/">Ben Brooks</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/29/ready-for-rain/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[iOS 8 does movie quote predictions →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://xkcd.com/1427/"/>
-	
-    <updated>2014-09-29T11:30:10+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/29/ios-8-does-movie-quote-predictions</id>
-  	
-  	<content type="html"><![CDATA[<p>Today&rsquo;s xkcd:</p>
-
-<p><a href="http://xkcd.com/1427/"><img src="http://imgs.xkcd.com/comics/ios_keyboard.png" alt="iOS 8 Keyboard on xkcd" /></a></p>
-
-<p>I&rsquo;m so happy I got the 4th movie reference, because in what&rsquo;s an amazing coincidence, yesterday I watched <a href="http://www.imdb.com/title/tt0379786/">Serenity</a> for the first time ever.</p>
-
-<p>It&rsquo;s actually kinda creepy how xkcd seems to do that to me every now and then.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/29/ios-8-does-movie-quote-predictions/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

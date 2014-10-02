@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-02T12:04:57+02:00</updated>
+  <updated>2014-10-02T12:13:41+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Can we trust Uber?]]></title>
+    <link href="http://analogsenses.github.io/2014/10/02/can-we-trust-uber/"/>
+    <updated>2014-10-02T12:09:32+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/02/can-we-trust-uber</id>
+    <content type="html"><![CDATA[<p>Peter Sims:</p>
+
+<blockquote><p>Then, a funny thing happened. One night, a couple of years ago, I was in an Uber SUV in NYC, headed to Penn Station to catch the train to Washington DC when I got a text message from a tech socialite of sorts (I’ll spare her name because Gawker has already parodied her enough), but she’s someone I hardly know, asking me if I was in an Uber car at 33th and 5th (or, something like that). I replied that I was indeed, thinking that she must be in an adjacent car. Looking around, she continued to text with updates of my car’s whereabouts, so much so that I asked the driver if others could see my Uber location profile? “No,” he replied, “that’s not possible.”</p></blockquote>
+
+<p>Of course, <a href="http://en.wikipedia.org/wiki/Betteridge's_law_of_headlines">Betteridge&rsquo;s Law of Headlines</a> applies. Shameful.</p>
+
+<p>Via <a href="https://brooksreview.net/2014/10/can-we-trust-uber-no/">Ben Brooks</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Matt Gemmell on the Apple Watch]]></title>
@@ -115,19 +130,6 @@
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Brent Simmons joins the Omni Group]]></title>
-    <link href="http://analogsenses.github.io/2014/09/29/brent-simmons-joins-the-omni-group/"/>
-    <updated>2014-09-29T20:49:52+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/29/brent-simmons-joins-the-omni-group</id>
-    <content type="html"><![CDATA[<blockquote><p>I start my new job as a developer at the Omni Group today. You already know them and their wonderful products, and I’ve expressed my admiration for them here on my blog many times.</p>
-
-<p>But, before I talk about how I’m excited for this new job, I’ll reassure <a href="http://vesperapp.co/">Vesper</a> users: Vesper will continue, and I will continue as its developer.</p></blockquote>
-
-<p>It seems like it&rsquo;s great news for everyone. Best of luck to Brent in his new adventure.</p>
 ]]></content>
   </entry>
   
