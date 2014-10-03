@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-02T21:29:05+02:00</updated>
+  <updated>2014-10-03T12:15:32+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Actual work on vintage Macs is possible →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://systemfolder.wordpress.com/2014/10/02/vintage-macs-work/"/>
+	
+    <updated>2014-10-03T12:05:56+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/03/actual-work-on-vintage-macs-is-possible</id>
+  	
+  	<content type="html"><![CDATA[<p>Riccardo Mori shares his thoughts on <a href="http://arstechnica.com/apple/2014/09/my-coworkers-made-me-use-mac-os-9-for-their-and-your-amusement/">this Ars Technica piece</a> by Andrew Cunningham:</p>
+
+<blockquote><p>I’m quite experienced when it comes to vintage Macs and optimising them to make the most of them. The Ars Technica piece by Cunningham left a bitter taste in my mouth, and as I voiced on Twitter and App.net, I believe the author (perhaps due to inexperience and impatience with vintage hardware and software) hasn’t painted a completely fair picture of how these machines and systems can actually perform.</p></blockquote>
+
+<p>Really interesting overview of his impressive collection of vintage Macs, and how he still uses them.</p>
+
+<p>Via <a href="http://www.512pixels.net/blog/2014/10/doing-actual-work-on-vintage-macs">Stephen Hackett</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/03/actual-work-on-vintage-macs-is-possible/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Faster horses]]></title>
@@ -448,23 +467,6 @@
 
 <p>Via <a href="http://coudal.com/archives/2014/09/mars_global_vie.php">Coudal Partners</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/29/mars-orbiter-mission-delivers-on-promise-of-global-views-of-mars/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Brent Simmons joins the Omni Group →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://inessential.com/2014/09/29/omni"/>
-	
-    <updated>2014-09-29T20:49:52+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/29/brent-simmons-joins-the-omni-group</id>
-  	
-  	<content type="html"><![CDATA[<blockquote><p>I start my new job as a developer at the Omni Group today. You already know them and their wonderful products, and I’ve expressed my admiration for them here on my blog many times.</p>
-
-<p>But, before I talk about how I’m excited for this new job, I’ll reassure <a href="http://vesperapp.co/">Vesper</a> users: Vesper will continue, and I will continue as its developer.</p></blockquote>
-
-<p>It seems like it&rsquo;s great news for everyone. Best of luck to Brent in his new adventure.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/29/brent-simmons-joins-the-omni-group/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
