@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travel | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/travel/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-03T12:15:32+02:00</updated>
+  <updated>2014-10-03T12:45:42+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -62,7 +62,7 @@ I love it when my imagination becomes a reality…</blockquote>
     <link href="http://analogsenses.github.io/2014/08/28/postcards-from-stockholm-on-vimeo/"/>
     <updated>2014-08-28T18:25:04+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/28/postcards-from-stockholm-on-vimeo</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/104509459 "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% vimeo 104509459 %}</p>
 
 <p>Play it on full-screen mode. What a gorgeous city.</p>
 
@@ -79,13 +79,13 @@ I love it when my imagination becomes a reality…</blockquote>
 
 <p>It starts with these words by William Scott:</p>
 
-<blockquote>&#8220;Unless a waiter can be a gentleman, democracy is a failure. If any form of service is menial, democracy is a failure. Those Americans who dislike self-respect in servants are undesirable citizens; they belong in an aristocracy.&#8221;
+<blockquote>"Unless a waiter can be a gentleman, democracy is a failure. If any form of service is menial, democracy is a failure. Those Americans who dislike self-respect in servants are undesirable citizens; they belong in an aristocracy."
 </blockquote>
 
 
 <p>There are few things in this world that upset me more than seeing someone being a jerk to a waiter, or a hotel concierge. Unfortunately, on some occasions the American tipping system actually reinforces this behavior.</p>
 
-<blockquote>Less than 100 years ago, people genuinely believed that there was no such thing as &#8220;menial service&#8221; to an American, that waiters could be gentlemen, and that service didn&#8217;t mean servitude. They believed the idea of tipping was a fundamentally demeaning and classist notion of which they wanted no part. Since then, we appear to have come a long way down a road paved with good intentions.
+<blockquote>Less than 100 years ago, people genuinely believed that there was no such thing as "menial service" to an American, that waiters could be gentlemen, and that service didn't mean servitude. They believed the idea of tipping was a fundamentally demeaning and classist notion of which they wanted no part. Since then, we appear to have come a long way down a road paved with good intentions.
 
 What the hell went wrong?</blockquote>
 

@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-03T12:15:32+02:00</updated>
+  <updated>2014-10-03T12:44:33+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Walking with open eyes | The Last Word on Nothing →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.lastwordonnothing.com/2014/10/03/walking-with-open-eyes/"/>
+	
+    <updated>2014-10-03T12:32:21+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/03/walking-with-open-eyes</id>
+  	
+  	<content type="html"><![CDATA[<p>Helen Fields:</p>
+
+<blockquote><p>Science, it turns out, backs up my love for the walking commute. For a <a href="http://www.sciencedirect.com/science/article/pii/S0091743514003144">study</a> published earlier this year in the journal <em>Preventive Medicine,</em> researchers in the United Kingdom analyzed data from a study of nearly 18,000 British <a href="http://www.eurekalert.org/pub_releases/2014-09/uoea-woc091114.php">commuters</a>. They found that those who walked to work were, psychologically speaking, better off than those who drove. People who took public transportation had more psychological wellbeing than drivers, too, although not as much as walkers.</p></blockquote>
+
+<p>Great article. She only forgot to mention that, according to <a href="http://www.sciencedirect.com/science/article/pii/S0091743514003144">the study</a>, the same health benefits also apply to those who cycle to work.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/03/walking-with-open-eyes/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Actual work on vintage Macs is possible →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -450,23 +467,6 @@
 
 <p>Via <a href="http://www.thephoblographer.com/2014/09/29/last-roll-captures-emotional-end-slide-film-processing/">The Phoblographer</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/29/the-last-roll/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Mars Orbiter Mission delivers on promise of global views of Mars →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.planetary.org/blogs/emily-lakdawalla/2014/09290843-mars-orbiter-mission-delivers.html"/>
-	
-    <updated>2014-09-29T22:26:03+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/29/mars-orbiter-mission-delivers-on-promise-of-global-views-of-mars</id>
-  	
-  	<content type="html"><![CDATA[<p>These images are breathtaking.</p>
-
-<p><img src="http://planetary.s3.amazonaws.com/assets/images/4-mars/2014/20140929_1669791_1557930277763662_2002345568908420485_o.jpg" alt="First global view of Mars" /></p>
-
-<p>Via <a href="http://coudal.com/archives/2014/09/mars_global_vie.php">Coudal Partners</a>.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/29/mars-orbiter-mission-delivers-on-promise-of-global-views-of-mars/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
