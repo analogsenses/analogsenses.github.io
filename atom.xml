@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-06T12:54:36+02:00</updated>
+  <updated>2014-10-06T13:11:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Norway — A Time-Lapse Adventure →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://vimeo.com/107469289"/>
+	
+    <updated>2014-10-06T13:04:22+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/06/norway-a-time-lapse-adventure</id>
+  	
+  	<content type="html"><![CDATA[<p>I love the Nordic countries:</p>
+
+<blockquote><p>The aim of this 5 minute short film is to show the variety of Norway, everything from the deep fjords in the Southwest, to the moon landscape in the North, the Aurora Borealis (Nothern Lights) and the settlements and cities around the country, both in summer and wintertime. The video shows some of the most scenic places in Norway, such as Lofoten, Senja, Helgelandskysten, Geirangerfjorden, Nærøyfjorden and Preikestolen.</p></blockquote>
+
+<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/107469289 "></iframe></div>
+
+
+<p>Via <a href="http://parislemon.com/post/99276412272/laughingsquid-a-breathtaking-time-lapse-film-of">MG Siegler</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/06/norway-a-time-lapse-adventure/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[A 15 year old's amazing project to support caregivers of Alzheimer's patients →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -401,27 +421,6 @@
 
 <p>What an amazing letter.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/09/30/dear-young-men/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[An interview with Elon Musk on the colonization of Mars | Aeon →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://aeon.co/magazine/technology/the-elon-musk-interview-on-mars/"/>
-	
-    <updated>2014-09-30T18:34:45+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/09/30/the-elon-musk-interview-on-mars-colonization</id>
-  	
-  	<content type="html"><![CDATA[<p>Ross Andersen interviews Elon Musk on the feasibility of an imminent human colonization of Mars.</p>
-
-<blockquote><p>In September, NASA selected SpaceX, along with Boeing, to become the first private company to launch astronauts to the International Space Station (ISS). Musk is on an epic run. But he keeps pushing his luck. In every interview, there is an outlandish new claim, a seeming impossibility, to which he attaches a tangible date. He is always giving you new reasons to doubt him.</p></blockquote>
-
-<p>It&#8217;a lovely interview, and it gives a glimpse of Musk&rsquo;s genius:</p>
-
-<blockquote><p>‘I think there is a strong humanitarian argument for making life multi-planetary,’ he told me, ‘in order to safeguard the existence of humanity in the event that something catastrophic were to happen, in which case being poor or having a disease would be irrelevant, because humanity would be extinct. It would be like, “Good news, the problems of poverty and disease have been solved, but the bad news is there aren’t any humans left.”’</p></blockquote>
-
-<p>Elon Musk is the Nikola Tesla of our time. He&rsquo;s a real-life Tony Stark. You should doubt him only at your own risk.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/09/30/the-elon-musk-interview-on-mars-colonization/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
