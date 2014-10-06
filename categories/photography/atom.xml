@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-06T13:11:46+02:00</updated>
+  <updated>2014-10-06T13:22:44+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to manually control the exposure in the Camera app on iOS 8]]></title>
+    <link href="http://analogsenses.github.io/2014/10/06/how-to-manually-control-the-exposure-in-the-camera-app-on-ios-8/"/>
+    <updated>2014-10-06T13:17:15+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/06/how-to-manually-control-the-exposure-in-the-camera-app-on-ios-8</id>
+    <content type="html"><![CDATA[<p>Sarah Guarino, 9to5 Mac:</p>
+
+<blockquote><p>To do so open up the Camera app. Then you are going to tap on the focus point. The focus point is the subject point of the picture. When tapping to focus, a yellow square appears around the subject. To adjust the exposure level, tap on the yellow sun and slide it up and down. Sliding the sun up will make the picture lighter, and sliding the sun down will make the picture darker.</p></blockquote>
+
+<p>Excellent tip for a very cool and useful feature. It must have been mentioned in some of the iOS 8 reviews, but somehow I missed it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Norway — A Time-Lapse Adventure]]></title>
@@ -62,19 +75,6 @@
 <p><img src="http://planetary.s3.amazonaws.com/assets/images/4-mars/2014/20140929_1669791_1557930277763662_2002345568908420485_o.jpg" alt="First global view of Mars" /></p>
 
 <p>Via <a href="http://coudal.com/archives/2014/09/mars_global_vie.php">Coudal Partners</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dealing with confrontation in street photography | The Phoblographer]]></title>
-    <link href="http://analogsenses.github.io/2014/09/26/dealing-with-confrontation-in-street-photography/"/>
-    <updated>2014-09-26T17:03:38+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/26/dealing-with-confrontation-in-street-photography</id>
-    <content type="html"><![CDATA[<p>Julius Motal:</p>
-
-<blockquote><p>Several months back, a reader emailed us about how to <a href="http://www.thephoblographer.com/2014/03/26/reader-question-avoid-getting-punched-nose-street-photography/">avoid confrontation</a> in street photography. Up until that point and beyond, I had successfully photographed without incident. That, however, has changed. I was walking up towards the train when I saw this man with his cat. I knelt down to get a photo on their level and made two images before inching slightly closer to get a tighter frame. He looked up just as I made the shot, and that’s when it all went wrong.</p></blockquote>
-
-<p>There a few things you should always keep in mind when taking pictures of strangers on the street.</p>
 ]]></content>
   </entry>
   

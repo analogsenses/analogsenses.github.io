@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-06T13:11:46+02:00</updated>
+  <updated>2014-10-06T13:22:44+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to manually control the exposure in the Camera app on iOS 8]]></title>
+    <link href="http://analogsenses.github.io/2014/10/06/how-to-manually-control-the-exposure-in-the-camera-app-on-ios-8/"/>
+    <updated>2014-10-06T13:17:15+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/06/how-to-manually-control-the-exposure-in-the-camera-app-on-ios-8</id>
+    <content type="html"><![CDATA[<p>Sarah Guarino, 9to5 Mac:</p>
+
+<blockquote><p>To do so open up the Camera app. Then you are going to tap on the focus point. The focus point is the subject point of the picture. When tapping to focus, a yellow square appears around the subject. To adjust the exposure level, tap on the yellow sun and slide it up and down. Sliding the sun up will make the picture lighter, and sliding the sun down will make the picture darker.</p></blockquote>
+
+<p>Excellent tip for a very cool and useful feature. It must have been mentioned in some of the iOS 8 reviews, but somehow I missed it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How the Apple Watch is a huge step forward for haptic technology | Macworld]]></title>
@@ -112,17 +125,6 @@
 <p>Excellent piece, and I&rsquo;m largely in agreement. There&rsquo;s no doubt that the Apple Watch will be extremely popular among geeks, and even mainstream consumers. What&rsquo;s not so clear is whether it will succeed in charming users of traditional, mechanical watches. Those are a different kind of customer altogether, one that Apple has never courted before.</p>
 
 <p>That is what may ultimately make or break the Apple Watch&rsquo;s case as a timeless, iconic device, and take it beyond the space occupied by typical tech gadgets in people&rsquo;s minds. Judging from Apple&rsquo;s marketing strategy thus far, it looks like they&rsquo;re keenly aware of that, and are acting accordingly.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Vogue magazine profiles Jony Ive]]></title>
-    <link href="http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive/"/>
-    <updated>2014-10-01T18:15:10+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive</id>
-    <content type="html"><![CDATA[<p>Robert Sullivan:</p>
-
-<blockquote><p>Noticeably, his phone neither rings nor vibrates; he has designed the moment for concentration. He nurses a white mug of tea, and the only thing in the room besides an iPhone is the pair of reading glasses designed by his friend Marc Newson and tucked into the front of his T-shirt: simple, delicate, but clear and strong. “I wish I could articulate this more effectively,” he continues, addressing his ambitions as a designer. “But it is to have that sense that you know there couldn’t possibly be a sane or rational alternative.”</p></blockquote>
 ]]></content>
   </entry>
   
