@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-08T10:08:21+02:00</updated>
+  <updated>2014-10-08T10:30:08+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -35,7 +35,7 @@
 
 <blockquote><p>The aim of this 5 minute short film is to show the variety of Norway, everything from the deep fjords in the Southwest, to the moon landscape in the North, the Aurora Borealis (Nothern Lights) and the settlements and cities around the country, both in summer and wintertime. The video shows some of the most scenic places in Norway, such as Lofoten, Senja, Helgelandskysten, Geirangerfjorden, Nærøyfjorden and Preikestolen.</p></blockquote>
 
-<p>{% vimeo 107469289 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/107469289 "></iframe></div></p>
 
 <p>Via <a href="http://parislemon.com/post/99276412272/laughingsquid-a-breathtaking-time-lapse-film-of">MG Siegler</a>.</p>
 ]]></content>
@@ -59,7 +59,7 @@
 
 <blockquote><p>At the end of February 2014, Orms, one of the most well known professional photography stores and film processors in Cape Town, stopped processing slide film (called the E6 process). Two photographers were asked to use the last few rolls of slide film to be processed here. While there, we met another photographer who only shot on slide film. This is their story about the end of slide film.</p></blockquote>
 
-<p>{% vimeo 98730228 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/98730228 "></iframe></div></p>
 
 <p>Via <a href="http://www.thephoblographer.com/2014/09/29/last-roll-captures-emotional-end-slide-film-processing/">The Phoblographer</a>.</p>
 ]]></content>

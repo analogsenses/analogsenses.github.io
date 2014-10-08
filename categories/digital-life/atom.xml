@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-08T10:08:21+02:00</updated>
+  <updated>2014-10-08T10:30:08+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dustin Curtis on Privacy vs. User Experience]]></title>
+    <link href="http://analogsenses.github.io/2014/10/08/dustin-curtis-on-privacy-vs-user-experience/"/>
+    <updated>2014-10-08T10:27:22+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/08/dustin-curtis-on-privacy-vs-user-experience</id>
+    <content type="html"><![CDATA[<p>Another way to look at the implications behind Apple and Google&rsquo;s very different privacy policies:</p>
+
+<blockquote><p>The real issue that Apple is trying to address is not really privacy, but rather security. Though Google has all of my data, it is still private. Google does not sell access to my data; it sells access to my attention. Advertisers do not get my information from Google. So as long as I trust Google’s employees, the only two potential breaches of my privacy are from the government or from a hacker. If we accept this as a fact, the fundamental privacy question changes from, “Do you respect my privacy?” to “Is the user experience improvement worth the security risk to my private information?”</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Technology's War on Women | Sanspoint]]></title>
@@ -65,7 +76,7 @@
 
 <p>Kenneth’s solution won him one of the 15 finalist slots at the 2014 Google Science Fair. Watch the video. Incredible work.</p></blockquote>
 
-<p>{% youtube xXi4WiMdNEA %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/xXi4WiMdNEA" allowfullscreen></iframe></div></p>
 
 <p>What an amazingly clever idea. This one hit very close to home, for very personal reasons. Last year I lost my uncle to Alzheimer&rsquo;s, and his last few months at home were an incredible ordeal for my dad, who was his primary caregiver. I can definitely vouch for the need for new and better ways to support caregivers and family members through such a difficult time.</p>
 
@@ -76,17 +87,6 @@
 <p>With the global population <a href="http://www.un.org/esa/population/publications/worldageing19502050/">aging at an unprecedented rate</a>, things are only going to get worse before they get better. This is not only an emotional and personal problem. As more diseases become chronic thanks to the advancements in modern medicine, the burden to a country&rsquo;s healthcare system becomes untenable. We desperately need to raise awareness on this topic. We need many more Kenneths out there, dreaming up a better future for our loved ones — and for ourselves, in 40 years time.</p>
 
 <p>Just because a problem seems to be far away in the future, it doesn&rsquo;t mean it&rsquo;s not coming.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[One village, 150 street artists | Messy Nessy Chic]]></title>
-    <link href="http://analogsenses.github.io/2014/10/03/one-village-150-street-artists/"/>
-    <updated>2014-10-03T13:15:42+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/03/one-village-150-street-artists</id>
-    <content type="html"><![CDATA[<blockquote><p>Everywhere you turn in Er-Riadh, there’s art. It’s everywhere. The ancient village on the Tunisian island of Djerba, has spent the last several months of high summer being slowly transformed from a sleepy, traditional little corner of North Africa that has never heard of street art, into a world stage for one of the most vibrant and ambitious street art projects ever imagined.</p></blockquote>
-
-<p>Stunning images.</p>
 ]]></content>
   </entry>
   
