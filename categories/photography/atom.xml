@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-08T16:17:50+02:00</updated>
+  <updated>2014-10-08T22:46:45+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Relonch, a case that brings high-end camera features to the iPhone]]></title>
+    <link href="http://analogsenses.github.io/2014/10/08/relonch-a-case-that-brings-high-end-camera-features-to-the-iphone/"/>
+    <updated>2014-10-08T22:44:45+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/08/relonch-a-case-that-brings-high-end-camera-features-to-the-iphone</id>
+    <content type="html"><![CDATA[<p>Brian Heater, Laughing Squid:</p>
+
+<blockquote><p>Relonch is a forthcoming case for the iPhone 5/5s and 6 that brings “magazine-class” photography to the smartphones. The hardware includes a large lens, a shutter button, and a Lightning connector for charging the phone while in use. The company has also created an app for shooting and instantly sharing photos via social networks. Relonch is currently taking pre-orders and expects to begin delivery in late 2015.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to manually control the exposure in the Camera app on iOS 8]]></title>
@@ -62,19 +73,6 @@
 <p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/98730228 "></iframe></div></p>
 
 <p>Via <a href="http://www.thephoblographer.com/2014/09/29/last-roll-captures-emotional-end-slide-film-processing/">The Phoblographer</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mars Orbiter Mission delivers on promise of global views of Mars]]></title>
-    <link href="http://analogsenses.github.io/2014/09/29/mars-orbiter-mission-delivers-on-promise-of-global-views-of-mars/"/>
-    <updated>2014-09-29T22:26:03+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/29/mars-orbiter-mission-delivers-on-promise-of-global-views-of-mars</id>
-    <content type="html"><![CDATA[<p>These images are breathtaking.</p>
-
-<p><img src="http://planetary.s3.amazonaws.com/assets/images/4-mars/2014/20140929_1669791_1557930277763662_2002345568908420485_o.jpg" alt="First global view of Mars" /></p>
-
-<p>Via <a href="http://coudal.com/archives/2014/09/mars_global_vie.php">Coudal Partners</a>.</p>
 ]]></content>
   </entry>
   
