@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-07T20:02:11+02:00</updated>
+  <updated>2014-10-08T10:05:40+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Technology's War on Women | Sanspoint →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.sanspoint.com/archives/2014/10/07/technologys-war-women/"/>
+	
+    <updated>2014-10-08T10:02:12+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/08/technologys-war-on-women</id>
+  	
+  	<content type="html"><![CDATA[<p>Richard J. Anderson:</p>
+
+<blockquote><p>This problem isn’t just something women face. It’s a problem experienced by gays and lesbians, by trans and genderqueer individuals, and by minorities in technology. It needs to end. Many men, too many men, don’t see this as their problem. This is the fundamental issue behind the infamous #NotAllMen hashtag. When you say “Not All Men,” what you mean is “I’m not contributing to the problem, therefore it is not a problem.” As long as it is men who are disenfranchising women, men sending rape threats, and publishing personal information about their “targets” for having the temerity to just be female and exist in a public space, it is our problem. We created it. To sit idly by as people like us make the lives of women and other groups a living hell is shameful. If you’re upset by being lumped in with the angry masses of misogynist men, stand up against them—don’t just blithely wash your hands of it.</p></blockquote>
+
+<p>If you&rsquo;re not part of the solution, you&rsquo;re part of the problem. Excellent article.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/08/technologys-war-on-women/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The new Tools And Toys website by Shawn Blanc and friends is live →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -404,21 +421,6 @@
 
 <p>It&rsquo;s stuff like this that makes me wish I liked scotch.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/01/the-gentlemans-wager/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Vogue magazine profiles Jony Ive →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.vogue.com/1415025/apple-design-genius-jonathan-ive"/>
-	
-    <updated>2014-10-01T18:15:10+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive</id>
-  	
-  	<content type="html"><![CDATA[<p>Robert Sullivan:</p>
-
-<blockquote><p>Noticeably, his phone neither rings nor vibrates; he has designed the moment for concentration. He nurses a white mug of tea, and the only thing in the room besides an iPhone is the pair of reading glasses designed by his friend Marc Newson and tucked into the front of his T-shirt: simple, delicate, but clear and strong. “I wish I could articulate this more effectively,” he continues, addressing his ambitions as a designer. “But it is to have that sense that you know there couldn’t possibly be a sane or rational alternative.”</p></blockquote>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/01/vogue-magazine-profiles-jony-ive/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

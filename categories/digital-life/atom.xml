@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-07T20:02:11+02:00</updated>
+  <updated>2014-10-08T10:08:21+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Technology's War on Women | Sanspoint]]></title>
+    <link href="http://analogsenses.github.io/2014/10/08/technologys-war-on-women/"/>
+    <updated>2014-10-08T10:02:12+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/08/technologys-war-on-women</id>
+    <content type="html"><![CDATA[<p>Richard J. Anderson:</p>
+
+<blockquote><p>This problem isn’t just something women face. It’s a problem experienced by gays and lesbians, by trans and genderqueer individuals, and by minorities in technology. It needs to end. Many men, too many men, don’t see this as their problem. This is the fundamental issue behind the infamous #NotAllMen hashtag. When you say “Not All Men,” what you mean is “I’m not contributing to the problem, therefore it is not a problem.” As long as it is men who are disenfranchising women, men sending rape threats, and publishing personal information about their “targets” for having the temerity to just be female and exist in a public space, it is our problem. We created it. To sit idly by as people like us make the lives of women and other groups a living hell is shameful. If you’re upset by being lumped in with the angry masses of misogynist men, stand up against them—don’t just blithely wash your hands of it.</p></blockquote>
+
+<p>If you&rsquo;re not part of the solution, you&rsquo;re part of the problem. Excellent article.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The new Tools And Toys website by Shawn Blanc and friends is live]]></title>
@@ -52,7 +65,7 @@
 
 <p>Kenneth’s solution won him one of the 15 finalist slots at the 2014 Google Science Fair. Watch the video. Incredible work.</p></blockquote>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/xXi4WiMdNEA" allowfullscreen></iframe></div></p>
+<p>{% youtube xXi4WiMdNEA %}</p>
 
 <p>What an amazingly clever idea. This one hit very close to home, for very personal reasons. Last year I lost my uncle to Alzheimer&rsquo;s, and his last few months at home were an incredible ordeal for my dad, who was his primary caregiver. I can definitely vouch for the need for new and better ways to support caregivers and family members through such a difficult time.</p>
 
@@ -74,21 +87,6 @@
     <content type="html"><![CDATA[<blockquote><p>Everywhere you turn in Er-Riadh, there’s art. It’s everywhere. The ancient village on the Tunisian island of Djerba, has spent the last several months of high summer being slowly transformed from a sleepy, traditional little corner of North Africa that has never heard of street art, into a world stage for one of the most vibrant and ambitious street art projects ever imagined.</p></blockquote>
 
 <p>Stunning images.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Actual work on vintage Macs is possible]]></title>
-    <link href="http://analogsenses.github.io/2014/10/03/actual-work-on-vintage-macs-is-possible/"/>
-    <updated>2014-10-03T12:05:56+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/03/actual-work-on-vintage-macs-is-possible</id>
-    <content type="html"><![CDATA[<p>Riccardo Mori shares his thoughts on <a href="http://arstechnica.com/apple/2014/09/my-coworkers-made-me-use-mac-os-9-for-their-and-your-amusement/">this Ars Technica piece</a> by Andrew Cunningham:</p>
-
-<blockquote><p>I’m quite experienced when it comes to vintage Macs and optimising them to make the most of them. The Ars Technica piece by Cunningham left a bitter taste in my mouth, and as I voiced on Twitter and App.net, I believe the author (perhaps due to inexperience and impatience with vintage hardware and software) hasn’t painted a completely fair picture of how these machines and systems can actually perform.</p></blockquote>
-
-<p>Really interesting overview of his impressive collection of vintage Macs, and how he still uses them.</p>
-
-<p>Via <a href="http://www.512pixels.net/blog/2014/10/doing-actual-work-on-vintage-macs">Stephen Hackett</a>.</p>
 ]]></content>
   </entry>
   
