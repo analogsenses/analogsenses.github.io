@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-09T18:23:13+02:00</updated>
+  <updated>2014-10-09T21:03:37+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -63,7 +63,7 @@
 
 <blockquote><p>The aim of this 5 minute short film is to show the variety of Norway, everything from the deep fjords in the Southwest, to the moon landscape in the North, the Aurora Borealis (Nothern Lights) and the settlements and cities around the country, both in summer and wintertime. The video shows some of the most scenic places in Norway, such as Lofoten, Senja, Helgelandskysten, Geirangerfjorden, Nærøyfjorden and Preikestolen.</p></blockquote>
 
-<p>{% vimeo 107469289 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/107469289 "></iframe></div></p>
 
 <p>Via <a href="http://parislemon.com/post/99276412272/laughingsquid-a-breathtaking-time-lapse-film-of">MG Siegler</a>.</p>
 ]]></content>
