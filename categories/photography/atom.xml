@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-09T18:07:51+02:00</updated>
+  <updated>2014-10-09T18:23:13+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Breathtaking photos of the Matterhorn lit up by hikers]]></title>
+    <link href="http://analogsenses.github.io/2014/10/09/breathtaking-photos-of-the-matterhorn-lit-up-for-monumental-jubilee/"/>
+    <updated>2014-10-09T18:10:31+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/09/breathtaking-photos-of-the-matterhorn-lit-up-for-monumental-jubilee</id>
+    <content type="html"><![CDATA[<p>Daisy Qin:</p>
+
+<blockquote><p>Swiss photographer Robert Bösch has captured a series of absolutely stunning photographs of the Matterhorn mountain lit up by courageous mountain guides.</p></blockquote>
+
+<p>Pretty much.</p>
+
+<p><a href="http://blog.nuvango.com/photos-matterhorn/"><img src="https://farm6.staticflickr.com/5607/15487889112_b883e2c6e0_o.jpg" alt="The Matterhorn" /></a></p>
+
+<p>Via <a href="http://laughingsquid.com/the-matterhorn-lit-up-at-night-by-a-trail-of-hikers/">Laughing Squid</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Relonch, a case that brings high-end camera features to the iPhone]]></title>
@@ -46,7 +63,7 @@
 
 <blockquote><p>The aim of this 5 minute short film is to show the variety of Norway, everything from the deep fjords in the Southwest, to the moon landscape in the North, the Aurora Borealis (Nothern Lights) and the settlements and cities around the country, both in summer and wintertime. The video shows some of the most scenic places in Norway, such as Lofoten, Senja, Helgelandskysten, Geirangerfjorden, Nærøyfjorden and Preikestolen.</p></blockquote>
 
-<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/107469289 "></iframe></div></p>
+<p>{% vimeo 107469289 %}</p>
 
 <p>Via <a href="http://parislemon.com/post/99276412272/laughingsquid-a-breathtaking-time-lapse-film-of">MG Siegler</a>.</p>
 ]]></content>
@@ -58,21 +75,6 @@
     <updated>2014-10-03T13:00:21+02:00</updated>
     <id>http://analogsenses.github.io/2014/10/03/12-weekend-photo-projects-you-can-do-at-35mm</id>
     <content type="html"><![CDATA[<p>Chris Gampat has some fun ideas to help keep the magic flowing.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Last Roll]]></title>
-    <link href="http://analogsenses.github.io/2014/09/29/the-last-roll/"/>
-    <updated>2014-09-29T22:32:08+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/29/the-last-roll</id>
-    <content type="html"><![CDATA[<p>The Last Roll is a great short film about the end of slide film development:</p>
-
-<blockquote><p>At the end of February 2014, Orms, one of the most well known professional photography stores and film processors in Cape Town, stopped processing slide film (called the E6 process). Two photographers were asked to use the last few rolls of slide film to be processed here. While there, we met another photographer who only shot on slide film. This is their story about the end of slide film.</p></blockquote>
-
-<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/98730228 "></iframe></div></p>
-
-<p>Via <a href="http://www.thephoblographer.com/2014/09/29/last-roll-captures-emotional-end-slide-film-processing/">The Phoblographer</a>.</p>
 ]]></content>
   </entry>
   
