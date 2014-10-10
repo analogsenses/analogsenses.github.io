@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-10T16:57:45+02:00</updated>
+  <updated>2014-10-10T17:16:34+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Robin Wong reviews the Olympus M. Zuiko 40-150mm F2.8 PRO lens →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://robinwong.blogspot.co.uk/2014/10/olympus-mzuiko-40-150mm-f28-pro-lens.html"/>
+	
+    <updated>2014-10-10T17:07:14+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/10/robin-wong-reviews-the-olympus-m-zuiko-40-150mm-f2-dot-8-pro-lens</id>
+  	
+  	<content type="html"><![CDATA[<p>He seems to like it:</p>
+
+<blockquote><p>So is this M.Zuiko 40-150mm F2.8 Pro lens near perfect? It certainly is. I am scratching my head hard to find the flaws, which, honestly I dare say, is almost non-existent. The lens is incredibly sharp, capable of capturing amazing amount of fine detail, with almost no technical imperfections (well controlled Chromatic Aberration, distortion, etc). The bokeh quality is excellent, and handling with E-M1 (using HLD-7) is great. Focusing was extremely fast and accurate, with respectable close up shooting performance. You have all that in a pro lens, which is weather sealed against the elements, in much lesser size and weight than competition. Furthermore  it is about 20-25% cheaper too.</p></blockquote>
+
+<p>Robin Wong is an Olympus Malaysia employee, so take these words with a grain of salt. That said, it&rsquo;s hard to argue with some of the absolutely stunning images in this review:</p>
+
+<p><a href="http://robinwong.blogspot.co.uk/2014/10/olympus-mzuiko-40-150mm-f28-pro-lens.html"><img src="https://farm4.staticflickr.com/3935/15496383435_9700316541_o.jpg" alt="Tiger, by Robin Wong" /></a></p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/10/robin-wong-reviews-the-olympus-m-zuiko-40-150mm-f2-dot-8-pro-lens/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Josh Ginter introduces himself →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -492,21 +511,6 @@
 
 <p>I don&rsquo;t get why anybody would want to replicate the prick of a blood glucose monitor, but the rest are all great.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/03/how-the-apple-watch-is-a-huge-step-forward-for-haptic-technology/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[One village, 150 street artists | Messy Nessy Chic →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.messynessychic.com/2014/10/02/one-village-150-street-artists-a-sleepy-tunisian-town-turned-vibrant-open-air-museum/"/>
-	
-    <updated>2014-10-03T13:15:42+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/03/one-village-150-street-artists</id>
-  	
-  	<content type="html"><![CDATA[<blockquote><p>Everywhere you turn in Er-Riadh, there’s art. It’s everywhere. The ancient village on the Tunisian island of Djerba, has spent the last several months of high summer being slowly transformed from a sleepy, traditional little corner of North Africa that has never heard of street art, into a world stage for one of the most vibrant and ambitious street art projects ever imagined.</p></blockquote>
-
-<p>Stunning images.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/03/one-village-150-street-artists/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
