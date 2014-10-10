@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-10T16:34:14+02:00</updated>
+  <updated>2014-10-10T16:57:45+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Josh Ginter introduces himself →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.thenewsprint.co/2014/10/10/an-introduction/"/>
+	
+    <updated>2014-10-10T16:49:35+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/10/josh-ginter-introduces-himself</id>
+  	
+  	<content type="html"><![CDATA[<blockquote><p>So, with that said, I wanted to say hello — a true hello — for the first time. As The Newsprint grows and as I try new things, I want everyone to know there is a very average human being on the other side of this screen who merely hopes to impress you for about 30 to 90 seconds once a week. Here goes.</p></blockquote>
+
+<p>Refreshingly honest article, that all but confirms what we already suspected: that on top of being a great writer, Josh Ginter is a pretty decent human being.</p>
+
+<p>Thanks so much for writing this, Josh. It takes a lot <a href="http://www.analogsenses.com/2014/09/15/catharsis/">to put yourself out there</a> and I, for one, am very glad that we got to know you a little bit better today. Hopefully one day we&rsquo;ll get to introduce ourselves in person. I&rsquo;d like that.</p>
+
+<p>Here&rsquo;s to more introductions, and more great writing.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/10/josh-ginter-introduces-himself/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Pixel Art, a tribute to Hayao Miyazaki →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -488,19 +507,6 @@
 
 <p>Stunning images.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/03/one-village-150-street-artists/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[12 weekend photo projects you can do at 35mm | The Phoblographer →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.thephoblographer.com/2014/10/03/12-weekend-photo-projects-can-35mm/"/>
-	
-    <updated>2014-10-03T13:00:21+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/03/12-weekend-photo-projects-you-can-do-at-35mm</id>
-  	
-  	<content type="html"><![CDATA[<p>Chris Gampat has some fun ideas to help keep the magic flowing.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/03/12-weekend-photo-projects-you-can-do-at-35mm/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
