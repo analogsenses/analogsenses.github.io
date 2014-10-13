@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-10T17:37:36+02:00</updated>
+  <updated>2014-10-13T12:06:47+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[On Mindfulness and Quality | Tools and Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/editorials/on-mindfulness-and-quality/"/>
+	
+    <updated>2014-10-13T12:03:39+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/13/on-mindfulness-and-quality</id>
+  	
+  	<content type="html"><![CDATA[<p>Chris Bowler:</p>
+
+<blockquote><p>The fact that our culture attempts to identify humans as <em>consumers</em> is a terrible reality. But if we all make conscious choices to buy quality items — ones we will use and ones that will last — and for which the human beings who are involved in the creation process are paid and treated appropriately, we’ll make this world a little better.</p></blockquote>
+
+<p>I&rsquo;m really liking the new focus and direction of Tools and Toys.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/13/on-mindfulness-and-quality/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Tesla unveils new Model S with Dual Motor and Autopilot →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -484,36 +501,6 @@
 
 <p>Via <a href="http://parislemon.com/post/99276412272/laughingsquid-a-breathtaking-time-lapse-film-of">MG Siegler</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/06/norway-a-time-lapse-adventure/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[A 15 year old's amazing project to support caregivers of Alzheimer's patients →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.loopinsight.com/2014/10/05/15-year-old-google-science-fair-finalist-an-iphone-and-a-huge-boost-for-alzheimers-patients/"/>
-	
-    <updated>2014-10-06T11:39:20+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/06/15-year-old-google-science-fair-finalists-amazing-project-to-support-caregivers-of-alzheimers-patients</id>
-  	
-  	<content type="html"><![CDATA[<p>Dave Mark, The Loop:</p>
-
-<blockquote><p>Kenneth’s grandfather suffers from Alzheimer’s and tended to wander out of their apartment at night, getting out in the streets of New York City, causing a number of accidents, not to mention a lot of worry.</p>
-
-<p>Kenneth’s solution won him one of the 15 finalist slots at the 2014 Google Science Fair. Watch the video. Incredible work.</p></blockquote>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/xXi4WiMdNEA" allowfullscreen></iframe></div>
-
-
-<p>What an amazingly clever idea. This one hit very close to home, for very personal reasons. Last year I lost my uncle to Alzheimer&rsquo;s, and his last few months at home were an incredible ordeal for my dad, who was his primary caregiver. I can definitely vouch for the need for new and better ways to support caregivers and family members through such a difficult time.</p>
-
-<p>I have also been professionally close to this problem for a long time, which has only strengthened my appreciation for how important this is. For the past 6 years I used to work at a biomedical engineering research center. One of the center&rsquo;s main research areas is precisely on the topic of <a href="http://www.gbt.tfo.upm.es/Ambient+assisted+living">Ambient Assisted Living</a>, which focuses on active aging, and the development of technology to support caregivers of the elderly which, as in the case of my dad, are often close relatives of the person in need.</p>
-
-<p>Caring for an elderly family member is a truly exhausting activity that keeps caregivers busy 24/7 and invades all areas of their personal lives. Many families suffer a great deal of stress due to this problem and, for the most part, receive very little help, if any, from their governments in this critical task.</p>
-
-<p>With the global population <a href="http://www.un.org/esa/population/publications/worldageing19502050/">aging at an unprecedented rate</a>, things are only going to get worse before they get better. This is not only an emotional and personal problem. As more diseases become chronic thanks to the advancements in modern medicine, the burden to a country&rsquo;s healthcare system becomes untenable. We desperately need to raise awareness on this topic. We need many more Kenneths out there, dreaming up a better future for our loved ones — and for ourselves, in 40 years time.</p>
-
-<p>Just because a problem seems to be far away in the future, it doesn&rsquo;t mean it&rsquo;s not coming.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/06/15-year-old-google-science-fair-finalists-amazing-project-to-support-caregivers-of-alzheimers-patients/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
