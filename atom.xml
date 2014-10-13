@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-13T12:41:56+02:00</updated>
+  <updated>2014-10-13T12:45:22+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Why nerd culture must die →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://petewarden.com/2014/10/05/why-nerd-culture-must-die/"/>
+	
+    <updated>2014-10-13T12:40:58+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/13/why-nerd-culture-must-die</id>
+  	
+  	<content type="html"><![CDATA[<p>Pete Warden:</p>
+
+<blockquote><p>And that’s where the problem lies. We’re still behaving like the rebel alliance, but now we’re the Empire. We got where we are by ignoring outsiders and believing in ourselves even when nobody else would. The decades have proved that our way was largely right and the critics were wrong, so our habit of not listening has become deeply entrenched.</p></blockquote>
+
+<p>Sad, but true.</p>
+
+<p>Via <a href="http://randsinrepose.com/links/2014/10/10/were-still-behaving-like-the-rebel-alliance-but-now-were-the-empire/">Rands</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/13/why-nerd-culture-must-die/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Cure for Aging | Raptitude →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -485,19 +504,6 @@
 
 <p>Congratulations on the relaunch guys, and keep up the awesome work!</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/07/the-new-tools-and-toys-website-is-live/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Jerry Seinfeld's Clio Acceptance Speech →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=uHWX4pG0FNY"/>
-	
-    <updated>2014-10-06T17:19:23+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/06/jerry-seinfelds-clio-acceptance-speech</id>
-  	
-  	<content type="html"><![CDATA[<p>Via Marco Arment, who <a href="http://www.marco.org/2014/10/06/seinfeld-clio">nails the description</a>.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/06/jerry-seinfelds-clio-acceptance-speech/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
