@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-13T12:24:22+02:00</updated>
+  <updated>2014-10-13T12:35:00+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Cure for Aging | Raptitude →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.raptitude.com/2014/10/the-cure-for-aging/"/>
+	
+    <updated>2014-10-13T12:31:27+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/13/the-cure-for-aging</id>
+  	
+  	<content type="html"><![CDATA[<p>David Cain:</p>
+
+<blockquote><p>Of course, getting better year after year requires an intention to get better year after year. Self-improvement doesn’t happen by accident. A lot of what age apparently “takes” from us — health, possibility, optimism, confidence, personal power — is really just what we’ve given up on voluntarily. If you make a standing priority of improving in the areas that matter to you, then your birthdays will come to mark increases in capability and skill, rather than atrophy and loss.</p></blockquote>
+
+<p>Wonderful essay. We have a much greater say in what happens in our lives than we realize.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/13/the-cure-for-aging/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Raiders of the Lost Ark 1-Page Film School →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -481,23 +498,6 @@
   	
   	<content type="html"><![CDATA[<p>Via Marco Arment, who <a href="http://www.marco.org/2014/10/06/seinfeld-clio">nails the description</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/06/jerry-seinfelds-clio-acceptance-speech/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[How to manually control the exposure in the Camera app on iOS 8 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://9to5mac.com/2014/10/05/ios-8-how-to-manually-control-the-exposure-in-the-camera-app/"/>
-	
-    <updated>2014-10-06T13:17:15+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/06/how-to-manually-control-the-exposure-in-the-camera-app-on-ios-8</id>
-  	
-  	<content type="html"><![CDATA[<p>Sarah Guarino, 9to5 Mac:</p>
-
-<blockquote><p>To do so open up the Camera app. Then you are going to tap on the focus point. The focus point is the subject point of the picture. When tapping to focus, a yellow square appears around the subject. To adjust the exposure level, tap on the yellow sun and slide it up and down. Sliding the sun up will make the picture lighter, and sliding the sun down will make the picture darker.</p></blockquote>
-
-<p>Excellent tip for a very cool and useful feature. It must have been mentioned in some of the iOS 8 reviews, but somehow I missed it.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/06/how-to-manually-control-the-exposure-in-the-camera-app-on-ios-8/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
