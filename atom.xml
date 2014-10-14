@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-14T17:47:03+02:00</updated>
+  <updated>2014-10-14T19:27:12+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Macworld Expo is over →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://sixcolors.com/post/2014/10/macworld-expo-is-over/"/>
+	
+    <updated>2014-10-14T19:25:53+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/14/macworld-expo-is-over</id>
+  	
+  	<content type="html"><![CDATA[<p>Jason Snell:</p>
+
+<blockquote><p>While technically this is a “hiatus,” I think it’s safe to assume that the Macworld Expo as we knew it won’t come back. Maybe it will take some other form—there are lots of amazing Apple-themed events out there—but I’ve got my doubts. The MacIT conference is a good one, and I’m glad it will be continuing.</p></blockquote>
+
+<p>Sad news.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/14/macworld-expo-is-over/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The iPhone 6 Plus review by Josh Ginter →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -364,27 +381,6 @@
 
 <p>Sad news, no doubt. You can help them go out in style by backing their <a href="https://www.kickstarter.com/projects/glennf/the-magazines-year-two-book-an-anthology-of-curios">Year Two anthology book</a> on Kickstarter.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/10/the-magazine-is-shutting-down/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Breathtaking photos of the Matterhorn lit up by hikers →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://blog.nuvango.com/photos-matterhorn/"/>
-	
-    <updated>2014-10-09T18:10:31+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/09/breathtaking-photos-of-the-matterhorn-lit-up-for-monumental-jubilee</id>
-  	
-  	<content type="html"><![CDATA[<p>Daisy Qin:</p>
-
-<blockquote><p>Swiss photographer Robert Bösch has captured a series of absolutely stunning photographs of the Matterhorn mountain lit up by courageous mountain guides.</p></blockquote>
-
-<p>Pretty much.</p>
-
-<p><a href="http://blog.nuvango.com/photos-matterhorn/"><img src="https://farm6.staticflickr.com/5607/15487889112_b883e2c6e0_o.jpg" alt="The Matterhorn" /></a></p>
-
-<p>Via <a href="http://laughingsquid.com/the-matterhorn-lit-up-at-night-by-a-trail-of-hikers/">Laughing Squid</a>.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/09/breathtaking-photos-of-the-matterhorn-lit-up-for-monumental-jubilee/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-14T17:47:03+02:00</updated>
+  <updated>2014-10-14T19:27:12+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Macworld Expo is over]]></title>
+    <link href="http://analogsenses.github.io/2014/10/14/macworld-expo-is-over/"/>
+    <updated>2014-10-14T19:25:53+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/14/macworld-expo-is-over</id>
+    <content type="html"><![CDATA[<p>Jason Snell:</p>
+
+<blockquote><p>While technically this is a “hiatus,” I think it’s safe to assume that the Macworld Expo as we knew it won’t come back. Maybe it will take some other form—there are lots of amazing Apple-themed events out there—but I’ve got my doubts. The MacIT conference is a good one, and I’m glad it will be continuing.</p></blockquote>
+
+<p>Sad news.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The iPhone 6 Plus review by Josh Ginter]]></title>
@@ -64,17 +77,6 @@
 <blockquote><p>Haptic technology —haptics— uses force upon the skin to deliver real-time tactile feedback. These physical sensations are created by tiny motors called actuators. Done right, haptics can mimic the feeling of a pin prick by a wearable that tracks your blood sugar, simulate the plucking of virtual guitar strings on a tablet screen, or re-create the physical recoil of a phaser from your favorite game controller.</p></blockquote>
 
 <p>I don&rsquo;t get why anybody would want to replicate the prick of a blood glucose monitor, but the rest are all great.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ben Brooks on newsletters and magazine apps]]></title>
-    <link href="http://analogsenses.github.io/2014/10/02/ben-brooks-on-newsletters-and-magazine-apps/"/>
-    <updated>2014-10-02T12:23:20+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/02/ben-brooks-on-newsletters-and-magazine-apps</id>
-    <content type="html"><![CDATA[<p>Speaking of Ben Brooks, this is a great essay:</p>
-
-<blockquote><p>I could have a magazine, but what do I decide to publish in the magazine versus here? And when someone asks me to define my rules, and I cannot define them, that’s how and when I know there are no rules and thus no need for two publishing platforms.</p></blockquote>
 ]]></content>
   </entry>
   
