@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-14T17:25:20+02:00</updated>
+  <updated>2014-10-14T17:47:03+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The iPhone 6 Plus review by Josh Ginter →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/reviews/the-iphone-6-plus/"/>
+	
+    <updated>2014-10-14T17:38:56+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/14/the-iphone-6-plus-review-by-josh-ginter</id>
+  	
+  	<content type="html"><![CDATA[<p>Excellent review of the iPhone 6 Plus over at Tools and Toys. I was really looking forward to a review that focused more on the personal side of these devices, and not so much on the technical aspects. Josh nailed this perfectly:</p>
+
+<blockquote><p>Of course, the star performer of this show is that beautifully gigantic 5.5″ screen. I believe the specification goes something like “401 PPI”, which means <strong>sharp</strong> in English.</p></blockquote>
+
+<p>Also, his photography is outstanding, as usual.</p>
+
+<p>I love the warmth that Josh captures in his pictures, it gives a great sense of personality that is uniquely his. In my opinion, he makes the device look even better than in Apple&rsquo;s own promotional materials.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/14/the-iphone-6-plus-review-by-josh-ginter/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Lawyer and the Lady | Humans of New York →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -366,27 +385,6 @@
 
 <p>Via <a href="http://laughingsquid.com/the-matterhorn-lit-up-at-night-by-a-trail-of-hikers/">Laughing Squid</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/09/breathtaking-photos-of-the-matterhorn-lit-up-for-monumental-jubilee/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[What is Gamergate, and why is Intel so afraid of it? →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://recode.net/2014/10/09/what-is-gamergate-and-why-is-intel-so-afraid-of-it/"/>
-	
-    <updated>2014-10-09T17:56:25+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/09/what-is-gamergate-and-why-is-intel-so-afraid-of-it</id>
-  	
-  	<content type="html"><![CDATA[<p>Eric Johnson, Re/code:</p>
-
-<blockquote><p>Gamergate has even gone so far as to convince chipmaker Intel to <a href="http://recode.net/2014/10/01/under-pressure-from-gamers-intel-pulls-advertising-from-gamasutra/">pull its advertising</a> from a gaming site seen as sympathetic to women gamers.</p>
-
-<p>And why? Because their voices are seen as a threat to the gaming community. In a twisted way, Gamergaters are battling a “corrupting” influence in the gaming press and its adherents, but that influence isn’t corporate scheming — it’s social progress.</p>
-
-<p>Let’s rewind and retrace how we got here.</p></blockquote>
-
-<p>Excellent and informative article on how this whole Gamergate mess came to be.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/09/what-is-gamergate-and-why-is-intel-so-afraid-of-it/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
