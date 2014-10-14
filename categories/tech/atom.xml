@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-13T13:48:35+02:00</updated>
+  <updated>2014-10-14T13:26:17+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dropbox denies being hacked]]></title>
+    <link href="http://analogsenses.github.io/2014/10/14/dropbox-denies-being-hacked/"/>
+    <updated>2014-10-14T13:21:33+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/14/dropbox-denies-being-hacked</id>
+    <content type="html"><![CDATA[<p>There have been several reports of <a href="http://arstechnica.com/security/2014/10/7-million-dropbox-usernamepassword-pairs-apparently-leaked/">Dropbox being hacked</a>, with up to 7 million of their user accounts being leaked. Dropbox has issued a statement on their blog denying it:</p>
+
+<blockquote><p>Recent news articles claiming that Dropbox was hacked aren’t true. Your stuff is safe. The usernames and passwords referenced in these articles were stolen from unrelated services, not Dropbox. Attackers then used these stolen credentials to try to log in to sites across the internet, including Dropbox. We have measures in place to detect suspicious login activity and we automatically reset passwords when it happens.</p></blockquote>
+
+<p>It appears to have been a false rumor. About the leaked account data:</p>
+
+<blockquote><p>A subsequent list of usernames and passwords has been posted online. We’ve checked and these are not associated with Dropbox accounts.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How the Apple Watch is a huge step forward for haptic technology | Macworld]]></title>
@@ -64,23 +79,6 @@
 <p>Excellent piece, and I&rsquo;m largely in agreement. There&rsquo;s no doubt that the Apple Watch will be extremely popular among geeks, and even mainstream consumers. What&rsquo;s not so clear is whether it will succeed in charming users of traditional, mechanical watches. Those are a different kind of customer altogether, one that Apple has never courted before.</p>
 
 <p>That is what may ultimately make or break the Apple Watch&rsquo;s case as a timeless, iconic device, and take it beyond the space occupied by typical tech gadgets in people&rsquo;s minds. Judging from Apple&rsquo;s marketing strategy thus far, it looks like they&rsquo;re keenly aware of that, and are acting accordingly.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[An interview with Elon Musk on the colonization of Mars | Aeon]]></title>
-    <link href="http://analogsenses.github.io/2014/09/30/the-elon-musk-interview-on-mars-colonization/"/>
-    <updated>2014-09-30T18:34:45+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/30/the-elon-musk-interview-on-mars-colonization</id>
-    <content type="html"><![CDATA[<p>Ross Andersen interviews Elon Musk on the feasibility of an imminent human colonization of Mars.</p>
-
-<blockquote><p>In September, NASA selected SpaceX, along with Boeing, to become the first private company to launch astronauts to the International Space Station (ISS). Musk is on an epic run. But he keeps pushing his luck. In every interview, there is an outlandish new claim, a seeming impossibility, to which he attaches a tangible date. He is always giving you new reasons to doubt him.</p></blockquote>
-
-<p>It&#8217;a lovely interview, and it gives a glimpse of Musk&rsquo;s genius:</p>
-
-<blockquote><p>‘I think there is a strong humanitarian argument for making life multi-planetary,’ he told me, ‘in order to safeguard the existence of humanity in the event that something catastrophic were to happen, in which case being poor or having a disease would be irrelevant, because humanity would be extinct. It would be like, “Good news, the problems of poverty and disease have been solved, but the bad news is there aren’t any humans left.”’</p></blockquote>
-
-<p>Elon Musk is the Nikola Tesla of our time. He&rsquo;s a real-life Tony Stark. You should doubt him only at your own risk.</p>
 ]]></content>
   </entry>
   
