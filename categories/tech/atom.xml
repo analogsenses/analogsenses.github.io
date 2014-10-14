@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-14T13:26:17+02:00</updated>
+  <updated>2014-10-14T13:29:47+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -18,7 +18,7 @@
     <link href="http://analogsenses.github.io/2014/10/14/dropbox-denies-being-hacked/"/>
     <updated>2014-10-14T13:21:33+02:00</updated>
     <id>http://analogsenses.github.io/2014/10/14/dropbox-denies-being-hacked</id>
-    <content type="html"><![CDATA[<p>There have been several reports of <a href="http://arstechnica.com/security/2014/10/7-million-dropbox-usernamepassword-pairs-apparently-leaked/">Dropbox being hacked</a>, with up to 7 million of their user accounts being leaked. Dropbox has issued a statement on their blog denying it:</p>
+    <content type="html"><![CDATA[<p>There have been several reports of <a href="http://arstechnica.com/security/2014/10/7-million-dropbox-usernamepassword-pairs-apparently-leaked/">Dropbox being hacked</a>, after up to 7 million of purported user account credentials were leaked online. Dropbox has issued a statement on their blog denying everything:</p>
 
 <blockquote><p>Recent news articles claiming that Dropbox was hacked aren’t true. Your stuff is safe. The usernames and passwords referenced in these articles were stolen from unrelated services, not Dropbox. Attackers then used these stolen credentials to try to log in to sites across the internet, including Dropbox. We have measures in place to detect suspicious login activity and we automatically reset passwords when it happens.</p></blockquote>
 
