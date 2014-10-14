@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-14T13:38:15+02:00</updated>
+  <updated>2014-10-14T13:53:28+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CSS-only iPhone 6 | CodePen]]></title>
+    <link href="http://analogsenses.github.io/2014/10/14/css-only-iphone-6/"/>
+    <updated>2014-10-14T13:50:53+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/14/css-only-iphone-6</id>
+    <content type="html"><![CDATA[<p>Wow.</p>
+
+<p>Via <a href="https://twitter.com/Malarkey/status/521990252287000577">Mr. Andrew Clarke</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dropbox denies being hacked]]></title>
@@ -64,21 +75,6 @@
 <p>Of course, <a href="http://en.wikipedia.org/wiki/Betteridge's_law_of_headlines">Betteridge&rsquo;s Law of Headlines</a> applies. Shameful.</p>
 
 <p>Via <a href="https://brooksreview.net/2014/10/can-we-trust-uber-no/">Ben Brooks</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Matt Gemmell on the Apple Watch]]></title>
-    <link href="http://analogsenses.github.io/2014/10/02/matt-gemmell-on-the-apple-watch/"/>
-    <updated>2014-10-02T11:56:54+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/02/matt-gemmell-on-the-apple-watch</id>
-    <content type="html"><![CDATA[<blockquote><p>There are already smartwatches available, and they’re all <em>also</em> gadgets. They live in the tech sector too, and they’ve been designed and marketed as such, to the same old crowd of consumers. They are geek toys, without exception.</p>
-
-<p>Apple doesn’t care about that market, because it’s a tiny segment of an industry they already dominate. What Apple cares about is the <em>wristwatch</em> market.</p></blockquote>
-
-<p>Excellent piece, and I&rsquo;m largely in agreement. There&rsquo;s no doubt that the Apple Watch will be extremely popular among geeks, and even mainstream consumers. What&rsquo;s not so clear is whether it will succeed in charming users of traditional, mechanical watches. Those are a different kind of customer altogether, one that Apple has never courted before.</p>
-
-<p>That is what may ultimately make or break the Apple Watch&rsquo;s case as a timeless, iconic device, and take it beyond the space occupied by typical tech gadgets in people&rsquo;s minds. Judging from Apple&rsquo;s marketing strategy thus far, it looks like they&rsquo;re keenly aware of that, and are acting accordingly.</p>
 ]]></content>
   </entry>
   
