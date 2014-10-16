@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-16T13:14:50+02:00</updated>
+  <updated>2014-10-16T14:01:46+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://analogsenses.github.io/2014/10/16/john-grubers-talk-at-xoxo-2014</id>
     <content type="html"><![CDATA[<p>Fantastic talk by John Gruber at XOXO 2014. He talked about his beginnings as an independent writer, and what it took to make Daring Fireball viable as a business. There are plenty of valuable lessons to be learned here.</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ufKFStaFsZs" allowfullscreen></iframe></div></p>
+<p>{% youtube ufKFStaFsZs %}</p>
 ]]></content>
   </entry>
   
@@ -66,6 +66,9 @@
 <p>The Glenfiddich distillery <a href="http://en.wikipedia.org/wiki/Glenfiddich">was founded</a> by William Grant in 1886 and is still one of the very few privately owned distilleries in all of Scotland. It is currently managed by the fifth generation of William Grant&rsquo;s descendants. Glenfiddich means &ldquo;Valley of the Deer&rdquo; in Gaelic, where the distillery has been located since its foundation.</p>
 
 <p><a href="https://www.flickr.com/photos/karstenmay/5611140769"><img src="https://farm6.staticflickr.com/5030/5611140769_56ce4c6620_b.jpg" alt="The Glenfiddich Distillery by Karsten May, on Flickr" /></a></p>
+
+<p class="photo-credit">(Photo credit: <a href="https://www.flickr.com/photos/karstenmay/">Karsten May</a>)</p>
+
 
 <p>Glenfiddich produces all of its whisky on site, using water from the Robbie Dhu springs, and it&rsquo;s the only distillery in the world that produces all of its whisky from a single source of fresh water.</p>
 
