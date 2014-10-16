@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-16T09:19:14+02:00</updated>
+  <updated>2014-10-16T13:14:50+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[John Gruber's talk at XOXO 2014]]></title>
+    <link href="http://analogsenses.github.io/2014/10/16/john-grubers-talk-at-xoxo-2014/"/>
+    <updated>2014-10-16T13:12:13+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/16/john-grubers-talk-at-xoxo-2014</id>
+    <content type="html"><![CDATA[<p>Fantastic talk by John Gruber at XOXO 2014. He talked about his beginnings as an independent writer, and what it took to make Daring Fireball viable as a business. There are plenty of valuable lessons to be learned here.</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ufKFStaFsZs" allowfullscreen></iframe></div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Geek's Introduction to Whisky: Glenfiddich 12 Year Old]]></title>
@@ -178,19 +189,6 @@
 <p>It appears to have been a false rumor. About the leaked account data:</p>
 
 <blockquote><p>A subsequent list of usernames and passwords has been posted online. We’ve checked and these are not associated with Dropbox accounts.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Commissioner Gordon's Origins | DORKLY]]></title>
-    <link href="http://analogsenses.github.io/2014/10/13/commissioner-gordons-origins/"/>
-    <updated>2014-10-13T13:17:44+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/13/commissioner-gordons-origins</id>
-    <content type="html"><![CDATA[<p>If you&rsquo;re watching <a href="http://www.imdb.com/title/tt3749900/">Gotham</a>, you may have been surprised by the physical appearance of Detective James Gordon, the man destined to become Commissioner of the Gotham City Police Department. In the show, actor <a href="http://www.imdb.com/name/nm1360270/">Ben McKenzie</a> isn&rsquo;t sporting the classic mustache and glasses that have defined the character&rsquo;s looks for decades.</p>
-
-<p>Well, now you know why:</p>
-
-<p><a href="http://www.dorkly.com/post/62579/commissioner-gordons-origins"><img src="https://farm4.staticflickr.com/3946/15522398851_7c0d3f1bc6_o.jpg" width="450" alt="Commissioner Gordon's Origins" /></a></p>
 ]]></content>
   </entry>
   
