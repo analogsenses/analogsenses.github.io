@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-16T15:21:29+02:00</updated>
+  <updated>2014-10-16T15:26:26+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -18,9 +18,9 @@
     <link href="http://analogsenses.github.io/2014/10/16/apple-temporarily-pulls-blood-glucose-measurements-from-health-app/"/>
     <updated>2014-10-16T14:37:33+02:00</updated>
     <id>http://analogsenses.github.io/2014/10/16/apple-temporarily-pulls-blood-glucose-measurements-from-health-app</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci/status/522718738962202624">Federico Viticci</a> and <a href="http://www.512pixels.net/blog/2014/10/apple-to-temporarily-pull-blood-glucose-measurement-from-health-app">Stephen Hackett</a> today pointed out that Apple is temporarily pulling support for blood glucose measurements from the Health app. I know it sound serious, but here&rsquo;s why it&rsquo;s probably not a big deal.</p>
+    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci/status/522718738962202624">Federico Viticci</a> and <a href="http://www.512pixels.net/blog/2014/10/apple-to-temporarily-pull-blood-glucose-measurement-from-health-app">Stephen Hackett</a> today pointed out that Apple is temporarily pulling support for blood glucose measurements from the Health app. I know it sounds serious, but here&rsquo;s why it&rsquo;s probably not a big deal.</p>
 
-<p>The truth is, blood glucose measurement support in the Health app is ridiculously rudimentary as it is, even if it worked properly. A typical person with diabetes needs to monitor their blood sugar levels anywhere from 3 to 10 times a day, sometimes even more (you need to take additional tests in case of <a href="http://en.wikipedia.org/wiki/Hypoglycemia">hypoglycemia</a>, which is a fairly common event). There&rsquo;s no way a significant portion of those people are going to take the extra effort to manually log each and every measurement in the Health app. I know I don&rsquo;t, and if this feature has failed to encourage <em>me</em> — an Apple enthusiast and technologically savvy young man — to use it, it&rsquo;s chances of convincing regular consumers are pretty slim.</p>
+<p>The truth is, blood glucose measurement support in the Health app is ridiculously rudimentary as it is, even if it worked properly. A typical person with diabetes needs to monitor their blood sugar levels anywhere from 3 to 10 times a day, sometimes even more (you need to take additional tests in case of <a href="http://en.wikipedia.org/wiki/Hypoglycemia">hypoglycemia</a>, which is a fairly common event). There&rsquo;s no way a significant portion of those people are going to take the extra effort to manually log each and every measurement in the Health app. I know I don&rsquo;t, and if this feature has failed to encourage <em>me</em> — an Apple enthusiast and technologically savvy young man — to use it, its chances of convincing regular users are pretty slim.</p>
 
 <p>Blood glucose tracking in the Health app, at least in its current incarnation, is an irrelevant feature, because all diabetics already have a device that can do that for them: the very glucose meter they use to take the measurement in the first place. All glucose meters have a built-in memory to store the user&rsquo;s history, and virtually all of them offer ways to export and/or visualize that data.</p>
 
