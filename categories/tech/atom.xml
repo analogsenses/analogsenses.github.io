@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-17T12:18:49+02:00</updated>
+  <updated>2014-10-17T12:49:49+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Marco Arment compares the Retina iMac and the Mac Pro (on paper)]]></title>
+    <link href="http://analogsenses.github.io/2014/10/17/marco-arment-compares-the-retina-imac-and-the-mac-pro-on-paper/"/>
+    <updated>2014-10-17T12:41:13+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/17/marco-arment-compares-the-retina-imac-and-the-mac-pro-on-paper</id>
+    <content type="html"><![CDATA[<p>Marco has an excellent and thorough article on the differences between both models:</p>
+
+<blockquote><p>The <a href="http://www.apple.com/imac-with-retina/">5K Retina iMac</a> is out, and it looks incredible so far on paper — so incredible that I’m seriously considering selling my new Mac Pro to get the Retina iMac instead. In fact, the case for the Mac Pro for anyone but advanced video editors, 3D modelers, and heavy OpenCL users is now weaker than ever.</p></blockquote>
+
+<p>I&rsquo;ve always found the iMac to be a near perfect computer but now it&rsquo;s getting ridiculous. Even the completely redesigned Mac Pro compares poorly, particularly considering it won&rsquo;t be getting an external Retina display anytime soon:</p>
+
+<blockquote><p>It may be possible to use two Thunderbolt 2 cables to power a 5K display, but only if the GPU could treat each port as its own full-bandwidth DisplayPort 1.2 channel, the sum of which represented one logical display, and had the panel using something like MST to combine the two at the other end. But the only Mac with more than one Thunderbolt bus (not port) is the current Mac Pro, and I can’t see today’s Apple shipping an external display that none of their laptops can use.</p></blockquote>
+
+<p>If you&rsquo;re in the market for a high-end desktop computer, the Retina iMac looks like a no-brainer.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Macworld Expo is over]]></title>
@@ -64,19 +81,6 @@
 <p>It appears to have been a false rumor. About the leaked account data:</p>
 
 <blockquote><p>A subsequent list of usernames and passwords has been posted online. We’ve checked and these are not associated with Dropbox accounts.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How the Apple Watch is a huge step forward for haptic technology | Macworld]]></title>
-    <link href="http://analogsenses.github.io/2014/10/03/how-the-apple-watch-is-a-huge-step-forward-for-haptic-technology/"/>
-    <updated>2014-10-03T13:28:48+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/03/how-the-apple-watch-is-a-huge-step-forward-for-haptic-technology</id>
-    <content type="html"><![CDATA[<p>Interesting article by Brian S. Hall. A bit on the touchy-feely side (pun intended), but the possibilities are exciting:</p>
-
-<blockquote><p>Haptic technology —haptics— uses force upon the skin to deliver real-time tactile feedback. These physical sensations are created by tiny motors called actuators. Done right, haptics can mimic the feeling of a pin prick by a wearable that tracks your blood sugar, simulate the plucking of virtual guitar strings on a tablet screen, or re-create the physical recoil of a phaser from your favorite game controller.</p></blockquote>
-
-<p>I don&rsquo;t get why anybody would want to replicate the prick of a blood glucose monitor, but the rest are all great.</p>
 ]]></content>
   </entry>
   
