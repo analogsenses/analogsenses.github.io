@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-20T00:26:11+02:00</updated>
+  <updated>2014-10-20T13:09:14+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -60,7 +60,7 @@
     <id>http://analogsenses.github.io/2014/10/16/john-grubers-talk-at-xoxo-2014</id>
     <content type="html"><![CDATA[<p>Fantastic talk by John Gruber at XOXO 2014. He talked about his beginnings as an independent writer, and what it took to make Daring Fireball viable as a business. There are plenty of valuable lessons to be learned here.</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ufKFStaFsZs" allowfullscreen></iframe></div></p>
+<p>{% youtube ufKFStaFsZs %}</p>
 ]]></content>
   </entry>
   
@@ -125,8 +125,7 @@
 
 <p>The iconic triangular bottle, designed by Hans Schleger, has been associated with the Glenfiddich brand ever since its introduction in 1957.</p>
 
-<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5603/15299367188_19b5d78b22_o.jpg"/></p>
-
+<p><img src="https://farm6.staticflickr.com/5603/15299367188_19b5d78b22_o.jpg" alt="Glenfiddich 12" /></p>
 
 <h2>Glenfiddich 12 Year Old</h2>
 
