@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-20T19:24:54+02:00</updated>
+  <updated>2014-10-20T19:38:52+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Ben Brooks and Bradley Chambers launch The Synopsys, a daily collection of need-to-know news →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://thesynopsis.co/2014/10/20/launch/"/>
+	
+    <updated>2014-10-20T19:30:48+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/20/ben-brooks-and-bradley-chambers-launch-the-synopsys-a-daily-collection-of-need-to-know-news</id>
+  	
+  	<content type="html"><![CDATA[<p><a href="https://brooksreview.net/2014/10/synopsis/">Ben Brooks</a>:</p>
+
+<blockquote><p>I had a crazy idea a while back: why not do my own TabDump now that it is gone? Well, I partnered up with Bradley Chambers and created just that. We will be covering a lot more than just tech news, so come look and let me know what you think.</p></blockquote>
+
+<p>What a great idea. I&rsquo;m really looking forward to seeing what they do with it.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/20/ben-brooks-and-bradley-chambers-launch-the-synopsys-a-daily-collection-of-need-to-know-news/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Apple releases iOS 8.1 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -558,23 +575,6 @@
 
 <blockquote><p>A subsequent list of usernames and passwords has been posted online. We’ve checked and these are not associated with Dropbox accounts.</p></blockquote>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/14/dropbox-denies-being-hacked/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Commissioner Gordon's Origins | DORKLY →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.dorkly.com/post/62579/commissioner-gordons-origins"/>
-	
-    <updated>2014-10-13T13:17:44+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/13/commissioner-gordons-origins</id>
-  	
-  	<content type="html"><![CDATA[<p>If you&rsquo;re watching <a href="http://www.imdb.com/title/tt3749900/">Gotham</a>, you may have been surprised by the physical appearance of Detective James Gordon, the man destined to become Commissioner of the Gotham City Police Department. In the show, actor <a href="http://www.imdb.com/name/nm1360270/">Ben McKenzie</a> isn&rsquo;t sporting the classic mustache and glasses that have defined the character&rsquo;s looks for decades.</p>
-
-<p>Well, now you know why:</p>
-
-<p><a href="http://www.dorkly.com/post/62579/commissioner-gordons-origins"><img src="https://farm4.staticflickr.com/3946/15522398851_7c0d3f1bc6_o.jpg" width="450" alt="Commissioner Gordon's Origins" /></a></p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/13/commissioner-gordons-origins/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

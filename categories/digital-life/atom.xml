@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-20T19:24:54+02:00</updated>
+  <updated>2014-10-20T19:38:52+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ben Brooks and Bradley Chambers launch The Synopsys, a daily collection of need-to-know news]]></title>
+    <link href="http://analogsenses.github.io/2014/10/20/ben-brooks-and-bradley-chambers-launch-the-synopsys-a-daily-collection-of-need-to-know-news/"/>
+    <updated>2014-10-20T19:30:48+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/20/ben-brooks-and-bradley-chambers-launch-the-synopsys-a-daily-collection-of-need-to-know-news</id>
+    <content type="html"><![CDATA[<p><a href="https://brooksreview.net/2014/10/synopsis/">Ben Brooks</a>:</p>
+
+<blockquote><p>I had a crazy idea a while back: why not do my own TabDump now that it is gone? Well, I partnered up with Bradley Chambers and created just that. We will be covering a lot more than just tech news, so come look and let me know what you think.</p></blockquote>
+
+<p>What a great idea. I&rsquo;m really looking forward to seeing what they do with it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple releases iOS 8.1]]></title>
@@ -80,17 +93,6 @@
 <p>The blood glucose feature in the Health app, as it stands today, is merely an afterthought on Apple&rsquo;s part. This bug itself is proof of that: failing to consider both mg/dL and mmol/L as valid units is not just an oversight, it&rsquo;s one of the very first things a developer has to deal with — and one of the most important ones — when designing a diabetes-related app. The fact that they didn&rsquo;t clearly shows that it&rsquo;s not a priority for them.</p>
 
 <p>In the end, the only sensible thing they could do is pull the feature. It&rsquo;s much better to not have a feature, than to have a poorly implemented version of one, particularly in an app as important as Health. I hope they take their time to fix it and bring it back with the support it deserves, because otherwise it will continue to be irrelevant to most diabetics. And that would be a shame.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[John Gruber's talk at XOXO 2014]]></title>
-    <link href="http://analogsenses.github.io/2014/10/16/john-grubers-talk-at-xoxo-2014/"/>
-    <updated>2014-10-16T13:12:13+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/16/john-grubers-talk-at-xoxo-2014</id>
-    <content type="html"><![CDATA[<p>Fantastic talk by John Gruber at XOXO 2014. He talked about his beginnings as an independent writer, and what it took to make Daring Fireball viable as a business. There are plenty of valuable lessons to be learned here.</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ufKFStaFsZs" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
