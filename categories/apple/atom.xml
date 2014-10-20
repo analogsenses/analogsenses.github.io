@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-20T18:53:54+02:00</updated>
+  <updated>2014-10-20T19:24:54+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple releases iOS 8.1]]></title>
+    <link href="http://analogsenses.github.io/2014/10/20/apple-releases-ios-8-dot-1/"/>
+    <updated>2014-10-20T19:17:30+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/20/apple-releases-ios-8-dot-1</id>
+    <content type="html"><![CDATA[<p>Apple today released iOS 8.1, the newest version of the iOS operating system for the iPhone, iPad and iPod touch.</p>
+
+<p>Jason Snell has <a href="http://sixcolors.com/2014/10/apple-releases-ios-81/">a complete list of changes</a>:</p>
+
+<blockquote><p>The big change is support for Apple Pay on the iPhone 6 and 6 Plus in the U.S. The Camera Roll is also back, and iCloud Photo Library has been added in beta. There are plenty of other changes, so check out the change notes to see if your favorite bug is being addressed. (And if you want to wait to see if the update does something weird to some people’s phones, no one will blame you.)</p></blockquote>
+
+<p>You can download and install the update right from your iOS device. And if you run into storage problems, Rene Ritchie <a href="http://www.imore.com/how-install-ios-81-your-iphone-and-ipad-even-if-youre-low-storage">has got you covered</a>.</p>
+
+<p>Happy updating!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The new iPads and the Retina iMac]]></title>
@@ -131,15 +148,6 @@
     <updated>2014-10-16T22:51:05+02:00</updated>
     <id>http://analogsenses.github.io/2014/10/16/jason-snell-reviews-os-x-yosemite</id>
     <content type="html"><![CDATA[<p>Another great review of OS X Yosemite.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[John Siracusa reviews OS X Yosemite for Ars Technica]]></title>
-    <link href="http://analogsenses.github.io/2014/10/16/john-siracusa-reviews-os-x-yosemite-for-ars-technica/"/>
-    <updated>2014-10-16T21:07:02+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/16/john-siracusa-reviews-os-x-yosemite-for-ars-technica</id>
-    <content type="html"><![CDATA[<p>Take your time with this one. At 26,485 words, it&rsquo;s not a few-minutes read, it&rsquo;s a several-days affair. Here are <a href="http://hypercritical.co/2014/10/16/yosemite">some notes from John</a>, to guide you on how to approach it.</p>
 ]]></content>
   </entry>
   
