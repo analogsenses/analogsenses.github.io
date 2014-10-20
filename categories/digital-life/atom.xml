@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-20T13:09:14+02:00</updated>
+  <updated>2014-10-20T13:55:31+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -60,7 +60,7 @@
     <id>http://analogsenses.github.io/2014/10/16/john-grubers-talk-at-xoxo-2014</id>
     <content type="html"><![CDATA[<p>Fantastic talk by John Gruber at XOXO 2014. He talked about his beginnings as an independent writer, and what it took to make Daring Fireball viable as a business. There are plenty of valuable lessons to be learned here.</p>
 
-<p>{% youtube ufKFStaFsZs %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ufKFStaFsZs" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
