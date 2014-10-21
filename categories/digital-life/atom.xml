@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-20T20:06:55+02:00</updated>
+  <updated>2014-10-21T16:42:21+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Not For Me | Minimal Mac]]></title>
+    <link href="http://analogsenses.github.io/2014/10/21/not-for-me/"/>
+    <updated>2014-10-21T16:39:24+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/21/not-for-me</id>
+    <content type="html"><![CDATA[<p>Patrick Rhone, on why the latest generation of Apple products (both hardware and software) are not for him:</p>
+
+<blockquote><p>I’ve been around too long and learned from experience that technology has to prove itself. It should <a href="http://patrickrhone.com/2013/04/10/is-this-making-me-better/">make us better</a>. It should <a href="http://minimalmac.com/post/73277791743/what-problem-does-this-solve">solve problems</a>. And, we should consider these things before allowing any new tool into our daily lives. We should ask ourselves if it’s for us.</p></blockquote>
+
+<p>My 2008 iMac, my 2010 MacBook Pro and my 1972 vinyl record player agree with this.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ben Brooks and Bradley Chambers launch The Synopsis, a daily collection of need-to-know news]]></title>
@@ -66,33 +79,6 @@
 <blockquote><p>To highlight how much more road a car requires than a bicycle, a group of cyclists recently <a href="http://vk.com/letsbikeit?z=photo-18332841_338886749%2Fwall-18332841_18770">donned car costumes</a> and took to the streets of Riga in Latvia for a whimsical protest.</p></blockquote>
 
 <p>This is awesome.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple temporarily pulls blood glucose measurements from Health app]]></title>
-    <link href="http://analogsenses.github.io/2014/10/16/apple-temporarily-pulls-blood-glucose-measurements-from-health-app/"/>
-    <updated>2014-10-16T14:37:33+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/16/apple-temporarily-pulls-blood-glucose-measurements-from-health-app</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/viticci/status/522718738962202624">Federico Viticci</a> and <a href="http://www.512pixels.net/blog/2014/10/apple-to-temporarily-pull-blood-glucose-measurement-from-health-app">Stephen Hackett</a> today pointed out that <a href="https://support.apple.com/kb/HT6533">Apple is temporarily pulling support for blood glucose measurements</a> from the Health app. I know it sounds serious, but here&rsquo;s why it&rsquo;s probably not a big deal.</p>
-
-<p>The truth is, blood glucose measurement support in the Health app is ridiculously rudimentary as it is, even if it worked properly. A typical person with diabetes needs to monitor their blood sugar levels anywhere from 3 to 10 times a day, sometimes even more (you need to take additional tests in case of <a href="http://en.wikipedia.org/wiki/Hypoglycemia">hypoglycemia</a>, which is a fairly common event). There&rsquo;s no way a significant portion of those people are going to take the extra effort to manually log each and every measurement in the Health app. I know I don&rsquo;t, and if this feature has failed to encourage <em>me</em> — an Apple enthusiast and technologically savvy young man — to use it, its chances of convincing regular users are pretty slim.</p>
-
-<p>Blood glucose tracking in the Health app, at least in its current incarnation, is an irrelevant feature, because all diabetics already have a device that can do that for them: the very glucose meter they use to take the measurement in the first place. All glucose meters have a built-in memory to store the user&rsquo;s history, and virtually all of them offer ways to export and/or visualize that data.</p>
-
-<p>The ability to manually log blood glucose measurements on an iPhone app is a complementary feature, for example in case you forget your glucose meter and need to borrow another device (I&rsquo;ve tested my levels using my father&rsquo;s glucose meter occasionally). It&rsquo;s nice to have it, but it&rsquo;s by no means an essential or particularly compelling feature.</p>
-
-<p>As a central repository of data, the Health app makes sense, but it will only be really useful for diabetics if one of these things happen first:</p>
-
-<ul>
-<li><p>Either Apple implements support for automatic data transfer between the Health app and several commercially available blood glucose meters (ideally the most popular ones), or&hellip;</p></li>
-<li><p>&hellip;3rd-party apps implement this support <em>and</em> share the blood glucose data with the Health app. In this case, though, the Health app becomes redundant because the 3rd-party app would surely support some sort of data visualization features itself. It would also be unlikely, because due to the medical nature of this data (and hence, its confidentiality), I&rsquo;m not sure a 3rd-party developer would be legally able — let alone inclined — to share that data with anyone.</p></li>
-</ul>
-
-
-<p>The blood glucose feature in the Health app, as it stands today, is merely an afterthought on Apple&rsquo;s part. This bug itself is proof of that: failing to consider both mg/dL and mmol/L as valid units is not just an oversight, it&rsquo;s one of the very first things a developer has to deal with — and one of the most important ones — when designing a diabetes-related app. The fact that they didn&rsquo;t clearly shows that it&rsquo;s not a priority for them.</p>
-
-<p>In the end, the only sensible thing they could do is pull the feature. It&rsquo;s much better to not have a feature, than to have a poorly implemented version of one, particularly in an app as important as Health. I hope they take their time to fix it and bring it back with the support it deserves, because otherwise it will continue to be irrelevant to most diabetics. And that would be a shame.</p>
 ]]></content>
   </entry>
   

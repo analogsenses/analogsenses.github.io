@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-20T20:06:55+02:00</updated>
+  <updated>2014-10-21T16:42:21+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Not For Me | Minimal Mac]]></title>
+    <link href="http://analogsenses.github.io/2014/10/21/not-for-me/"/>
+    <updated>2014-10-21T16:39:24+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/21/not-for-me</id>
+    <content type="html"><![CDATA[<p>Patrick Rhone, on why the latest generation of Apple products (both hardware and software) are not for him:</p>
+
+<blockquote><p>I’ve been around too long and learned from experience that technology has to prove itself. It should <a href="http://patrickrhone.com/2013/04/10/is-this-making-me-better/">make us better</a>. It should <a href="http://minimalmac.com/post/73277791743/what-problem-does-this-solve">solve problems</a>. And, we should consider these things before allowing any new tool into our daily lives. We should ask ourselves if it’s for us.</p></blockquote>
+
+<p>My 2008 iMac, my 2010 MacBook Pro and my 1972 vinyl record player agree with this.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple releases iOS 8.1]]></title>
@@ -139,15 +152,6 @@
 <blockquote><p>Let’s step through that one again. People will forsake their Mac Pros for this iMac, until there comes a day when a screen like this is available as an external display option for the Mac Pro. For $2500 or less. People who would never have considered buying an iMac will buy this iMac.</p></blockquote>
 
 <p>I have to say, I agree. I haven&rsquo;t even seen this iMac yet, and I already want it. <a href="http://www.analogsenses.com/2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/">A few months ago</a> I said I probably wouldn&rsquo;t replace my current iMac — a 24-inch Early 2008 model — until it died on me, but an iMac with a Retina display is a whole different animal.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jason Snell reviews OS X Yosemite]]></title>
-    <link href="http://analogsenses.github.io/2014/10/16/jason-snell-reviews-os-x-yosemite/"/>
-    <updated>2014-10-16T22:51:05+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/16/jason-snell-reviews-os-x-yosemite</id>
-    <content type="html"><![CDATA[<p>Another great review of OS X Yosemite.</p>
 ]]></content>
   </entry>
   
