@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-23T14:01:26+02:00</updated>
+  <updated>2014-10-23T14:14:59+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google launches Inbox by Gmail]]></title>
+    <link href="http://analogsenses.github.io/2014/10/23/google-launches-inbox-by-gmail/"/>
+    <updated>2014-10-23T14:08:01+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/23/google-launches-inbox-by-gmail</id>
+    <content type="html"><![CDATA[<p>Interesting new email-based product by Google. Privacy concerns aside, Google is probably the best company in the world when it comes to identifying and extracting relevant information from something as vast and opaque as an email inbox.</p>
+
+<p>I&rsquo;m interested in trying it, but for now Inbox by Gmail requires an invitation. I&rsquo;ve asked for one but I&rsquo;m yet to hear back from Google, so I can&rsquo;t say much more about it at the moment. If you can spare an invite, please get in touch. Thanks.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Marco Arment compares the Retina iMac and the Mac Pro (on paper)]]></title>
@@ -66,21 +77,6 @@
     <content type="html"><![CDATA[<p>Wow. Done by <a href="http://fabrizio.co">Fabrizio Bianchi</a>.</p>
 
 <p>Via <a href="https://twitter.com/Malarkey/status/521990252287000577">Mr. Andrew Clarke</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dropbox denies being hacked]]></title>
-    <link href="http://analogsenses.github.io/2014/10/14/dropbox-denies-being-hacked/"/>
-    <updated>2014-10-14T13:21:33+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/14/dropbox-denies-being-hacked</id>
-    <content type="html"><![CDATA[<p>There have been several reports of <a href="http://arstechnica.com/security/2014/10/7-million-dropbox-usernamepassword-pairs-apparently-leaked/">Dropbox being hacked</a>, after up to 7 million of purported user account credentials were leaked online. Dropbox has issued a statement on their blog denying everything:</p>
-
-<blockquote><p>Recent news articles claiming that Dropbox was hacked aren’t true. Your stuff is safe. The usernames and passwords referenced in these articles were stolen from unrelated services, not Dropbox. Attackers then used these stolen credentials to try to log in to sites across the internet, including Dropbox. We have measures in place to detect suspicious login activity and we automatically reset passwords when it happens.</p></blockquote>
-
-<p>It appears to have been a false rumor. About the leaked account data:</p>
-
-<blockquote><p>A subsequent list of usernames and passwords has been posted online. We’ve checked and these are not associated with Dropbox accounts.</p></blockquote>
 ]]></content>
   </entry>
   
