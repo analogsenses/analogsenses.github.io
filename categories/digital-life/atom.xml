@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-23T12:16:11+02:00</updated>
+  <updated>2014-10-23T12:39:10+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -56,7 +56,7 @@
 
 <blockquote><p>Always have an escape plan.</p></blockquote>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YjrGsNTxrUQ" allowfullscreen></iframe></div></p>
+<p>{% youtube YjrGsNTxrUQ %}</p>
 ]]></content>
   </entry>
   
