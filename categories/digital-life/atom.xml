@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-23T13:35:13+02:00</updated>
+  <updated>2014-10-23T13:45:03+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[There Is Only Coffee, an amazing look at the lives of coffee growers in Ethiopia]]></title>
+    <link href="http://analogsenses.github.io/2014/10/23/there-is-only-coffee-an-amazing-look-at-coffee-growers-in-ethiopia/"/>
+    <updated>2014-10-23T13:42:12+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/23/there-is-only-coffee-an-amazing-look-at-coffee-growers-in-ethiopia</id>
+    <content type="html"><![CDATA[<p>Fantastic video by <a href="http://www.theperennialplate.com/">The Perennial Plate</a>:</p>
+
+<blockquote><p>Unlike most coffee growing regions of the world, in Ethiopia the folks who grow the coffee, also drink the product. Long considered the birthplace of the beverage, Ethiopia produces some of the best. This little film is a love song to coffee, the grueling work that goes into producing it and the importance of small farms and cooperation in that process.</p></blockquote>
+
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/108126747 "></iframe></div></p>
+
+<p>Via <a href="http://laughingsquid.com/a-fascinating-look-at-coffee-growers-in-ethiopia/">Laughing Squid</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Student Spins Double Life Among Spanish Elite]]></title>
@@ -102,23 +117,6 @@
 <blockquote><p>I had a crazy idea a while back: why not do my own TabDump now that it is gone? Well, I partnered up with Bradley Chambers and created just that. We will be covering a lot more than just tech news, so come look and let me know what you think.</p></blockquote>
 
 <p>What a great idea. I&rsquo;m really looking forward to seeing what they do with it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple releases iOS 8.1]]></title>
-    <link href="http://analogsenses.github.io/2014/10/20/apple-releases-ios-8-dot-1/"/>
-    <updated>2014-10-20T19:17:30+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/20/apple-releases-ios-8-dot-1</id>
-    <content type="html"><![CDATA[<p>Apple today released iOS 8.1, the newest version of the iOS operating system for the iPhone, iPad and iPod touch.</p>
-
-<p>Jason Snell has <a href="http://sixcolors.com/2014/10/apple-releases-ios-81/">a complete list of changes</a>:</p>
-
-<blockquote><p>The big change is support for Apple Pay on the iPhone 6 and 6 Plus in the U.S. The Camera Roll is also back, and iCloud Photo Library has been added in beta. There are plenty of other changes, so check out the change notes to see if your favorite bug is being addressed. (And if you want to wait to see if the update does something weird to some people’s phones, no one will blame you.)</p></blockquote>
-
-<p>You can download and install the update right from your iOS device. And if you run into storage problems, Rene Ritchie <a href="http://www.imore.com/how-install-ios-81-your-iphone-and-ipad-even-if-youre-low-storage">has you covered</a>.</p>
-
-<p>Happy updating!</p>
 ]]></content>
   </entry>
   
