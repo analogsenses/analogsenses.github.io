@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-23T13:45:03+02:00</updated>
+  <updated>2014-10-23T14:01:26+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Austin Mann on what photographers need to know about Yosemite and iOS 8.1 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://austinmann.com/trek/yosemite-ios-81-for-the-photographer"/>
+	
+    <updated>2014-10-23T13:57:53+02:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/23/austin-mann-on-what-photographers-need-to-know-about-yosemite-and-ios-8-dot-1</id>
+  	
+  	<content type="html"><![CDATA[<p>Austin Mann:</p>
+
+<blockquote><p>Apple’s sharing all kinds of software updates with us these days, and a few of them are especially exciting for power user iPhone photographers. Here are my thoughts on how the new features affect how we create and share images with our iPhones.</p></blockquote>
+
+<p>Great article, chock-full of excellent tips.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/23/austin-mann-on-what-photographers-need-to-know-about-yosemite-and-ios-8-dot-1/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[There Is Only Coffee, an amazing look at the lives of coffee growers in Ethiopia →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -459,37 +476,6 @@
 
 <p>This is awesome.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/16/cyclists-in-latvia-highlight-the-road-hogging-size-of-cars-by-wearing-life-size-car-costumes-in-traffic/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Apple temporarily pulls blood glucose measurements from Health app]]></title>
-	<link href="http://analogsenses.github.io/2014/10/16/apple-temporarily-pulls-blood-glucose-measurements-from-health-app/"/>
-	
-    <updated>2014-10-16T14:37:33+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/16/apple-temporarily-pulls-blood-glucose-measurements-from-health-app</id>
-  	
-  	<content type="html"><![CDATA[<p><a href="https://twitter.com/viticci/status/522718738962202624">Federico Viticci</a> and <a href="http://www.512pixels.net/blog/2014/10/apple-to-temporarily-pull-blood-glucose-measurement-from-health-app">Stephen Hackett</a> today pointed out that <a href="https://support.apple.com/kb/HT6533">Apple is temporarily pulling support for blood glucose measurements</a> from the Health app. I know it sounds serious, but here&rsquo;s why it&rsquo;s probably not a big deal.</p>
-
-<p>The truth is, blood glucose measurement support in the Health app is ridiculously rudimentary as it is, even if it worked properly. A typical person with diabetes needs to monitor their blood sugar levels anywhere from 3 to 10 times a day, sometimes even more (you need to take additional tests in case of <a href="http://en.wikipedia.org/wiki/Hypoglycemia">hypoglycemia</a>, which is a fairly common event). There&rsquo;s no way a significant portion of those people are going to take the extra effort to manually log each and every measurement in the Health app. I know I don&rsquo;t, and if this feature has failed to encourage <em>me</em> — an Apple enthusiast and technologically savvy young man — to use it, its chances of convincing regular users are pretty slim.</p>
-
-<p>Blood glucose tracking in the Health app, at least in its current incarnation, is an irrelevant feature, because all diabetics already have a device that can do that for them: the very glucose meter they use to take the measurement in the first place. All glucose meters have a built-in memory to store the user&rsquo;s history, and virtually all of them offer ways to export and/or visualize that data.</p>
-
-<p>The ability to manually log blood glucose measurements on an iPhone app is a complementary feature, for example in case you forget your glucose meter and need to borrow another device (I&rsquo;ve tested my levels using my father&rsquo;s glucose meter occasionally). It&rsquo;s nice to have it, but it&rsquo;s by no means an essential or particularly compelling feature.</p>
-
-<p>As a central repository of data, the Health app makes sense, but it will only be really useful for diabetics if one of these things happen first:</p>
-
-<ul>
-<li><p>Either Apple implements support for automatic data transfer between the Health app and several commercially available blood glucose meters (ideally the most popular ones), or&hellip;</p></li>
-<li><p>&hellip;3rd-party apps implement this support <em>and</em> share the blood glucose data with the Health app. In this case, though, the Health app becomes redundant because the 3rd-party app would surely support some sort of data visualization features itself. It would also be unlikely, because due to the medical nature of this data (and hence, its confidentiality), I&rsquo;m not sure a 3rd-party developer would be legally able — let alone inclined — to share that data with anyone.</p></li>
-</ul>
-
-
-<p>The blood glucose feature in the Health app, as it stands today, is merely an afterthought on Apple&rsquo;s part. This bug itself is proof of that: failing to consider both mg/dL and mmol/L as valid units is not just an oversight, it&rsquo;s one of the very first things a developer has to deal with — and one of the most important ones — when designing a diabetes-related app. The fact that they didn&rsquo;t clearly shows that it&rsquo;s not a priority for them.</p>
-
-<p>In the end, the only sensible thing they could do is pull the feature. It&rsquo;s much better to not have a feature, than to have a poorly implemented version of one, particularly in an app as important as Health. I hope they take their time to fix it and bring it back with the support it deserves, because otherwise it will continue to be irrelevant to most diabetics. And that would be a shame.</p>
-]]></content>
 	
   </entry>
 
