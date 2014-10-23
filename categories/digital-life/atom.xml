@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-23T12:39:10+02:00</updated>
+  <updated>2014-10-23T12:55:16+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Student Spins Double Life Among Spanish Elite]]></title>
+    <link href="http://analogsenses.github.io/2014/10/23/student-spins-double-life-among-spanish-elite/"/>
+    <updated>2014-10-23T12:47:32+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/23/student-spins-double-life-among-spanish-elite</id>
+    <content type="html"><![CDATA[<p>Raphael Minder, The New York Times:</p>
+
+<blockquote><p>MADRID — How is it that a baby-faced, 20-year-old university student skates his way into the coronation celebration of the new king, passes himself off as a government adviser to reportedly broker a lucrative business deal, and avoids traffic jams by flashing a fake police light?</p>
+
+<p>That is the question members of <a href="http://topics.nytimes.com/top/news/international/countriesandterritories/spain/index.html?inline=nyt-geo">Spain</a>’s security services are asking themselves after the student, Francisco Nicolás Gómez Iglesias, was arrested last week and quickly <a href="http://www.elconfidencial.com/espana/2014-10-21/los-negocios-del-pequeno-nicolas-y-sus-relaciones-con-los-empresarios-de-madrid_376036/">gained prominence</a> as the country’s most notorious gate-crasher.</p>
+
+<p>The answer, disturbingly enough, is that he did it by falsifying police and secret service documents and pretending to hold several government and other official posts, <a href="http://topics.nytimes.com/top/news/international/countriesandterritories/spain/index.html?inline=nyt-geo">Spain</a>’s national police say.</p></blockquote>
+
+<p>How incredibly embarrassing. If it were a movie I&rsquo;d have trouble believing it.</p>
+
+<p>Also, the damned kid stole my idea. What am I going to do now with all these forged passports?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Thoughts On Twitter]]></title>
@@ -56,7 +75,7 @@
 
 <blockquote><p>Always have an escape plan.</p></blockquote>
 
-<p>{% youtube YjrGsNTxrUQ %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YjrGsNTxrUQ" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -100,19 +119,6 @@
 <p>You can download and install the update right from your iOS device. And if you run into storage problems, Rene Ritchie <a href="http://www.imore.com/how-install-ios-81-your-iphone-and-ipad-even-if-youre-low-storage">has you covered</a>.</p>
 
 <p>Happy updating!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Flickr announces new iPad app]]></title>
-    <link href="http://analogsenses.github.io/2014/10/20/flickr-announces-new-ipad-app/"/>
-    <updated>2014-10-20T18:29:35+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/20/flickr-announces-new-ipad-app</id>
-    <content type="html"><![CDATA[<p>Finally:</p>
-
-<blockquote><p>Today, we’re extremely excited to announce <a href="https://itunes.apple.com/us/app/flickr/id328407587?mt=8">Flickr for iPad</a>. We’ve heard you loud and clear asking for an official app on Apple’s beautiful, large retina display, which makes it easy and enjoyable to access, organize and share your stunning photos from anywhere. The new Flickr for iPad app will be available globally in eleven languages.</p></blockquote>
-
-<p>It&rsquo;s a universal app, so if you have the Flickr iPhone app installed on your iPad — like most sane people — the next time you update it you&rsquo;ll get the iPad version automatically.</p>
 ]]></content>
   </entry>
   
