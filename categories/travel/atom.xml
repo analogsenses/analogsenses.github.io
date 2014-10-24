@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travel | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/travel/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-23T14:14:59+02:00</updated>
+  <updated>2014-10-24T18:09:33+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -79,7 +79,7 @@ I love it when my imagination becomes a reality…</blockquote>
     <link href="http://analogsenses.github.io/2014/08/28/postcards-from-stockholm-on-vimeo/"/>
     <updated>2014-08-28T18:25:04+02:00</updated>
     <id>http://analogsenses.github.io/2014/08/28/postcards-from-stockholm-on-vimeo</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/104509459 "></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% vimeo 104509459 %}</p>
 
 <p>Play it on full-screen mode. What a gorgeous city.</p>
 

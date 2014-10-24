@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-23T14:14:59+02:00</updated>
+  <updated>2014-10-24T18:09:33+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -33,7 +33,7 @@
 
 <blockquote><p>Unlike most coffee growing regions of the world, in Ethiopia the folks who grow the coffee, also drink the product. Long considered the birthplace of the beverage, Ethiopia produces some of the best. This little film is a love song to coffee, the grueling work that goes into producing it and the importance of small farms and cooperation in that process.</p></blockquote>
 
-<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/108126747 "></iframe></div></p>
+<p>{% vimeo 108126747 %}</p>
 
 <p>Via <a href="http://laughingsquid.com/a-fascinating-look-at-coffee-growers-in-ethiopia/">Laughing Squid</a>.</p>
 ]]></content>
@@ -101,7 +101,7 @@
 
 <blockquote><p>Always have an escape plan.</p></blockquote>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YjrGsNTxrUQ" allowfullscreen></iframe></div></p>
+<p>{% youtube YjrGsNTxrUQ %}</p>
 ]]></content>
   </entry>
   

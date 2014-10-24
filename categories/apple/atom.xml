@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-23T14:14:59+02:00</updated>
+  <updated>2014-10-24T18:09:33+02:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jason Snell reviews the iMac with Retina 5K Display]]></title>
+    <link href="http://analogsenses.github.io/2014/10/24/jason-snell-reviews-the-imac-with-retina-5k-display/"/>
+    <updated>2014-10-24T17:38:49+02:00</updated>
+    <id>http://analogsenses.github.io/2014/10/24/jason-snell-reviews-the-imac-with-retina-5k-display</id>
+    <content type="html"><![CDATA[<blockquote><p>It looks good, but feels subtle—until you turn back to a non-Retina Mac display and are confronted with the brutal reality of a low-DPI screen. “How did we live like this?,” you’ll cry out to no one. Is a Retina display absolutely necessary in life? There are very few people who <em>need</em> this many pixels—designers and photographers come to mind. But, then, you could argue that about high-resolution displays on any device: We got along fine without them, and they’re not <em>necessary</em>, but life is sure nicer now that we’ve got them.</p></blockquote>
+
+<p><em>Exactly</em>. Once you&rsquo;ve seen a Retina display, there&rsquo;s no way you&rsquo;re going back.</p>
+
+<blockquote><p>This is the promise of the 27-inch iMac with Retina 5K Display: It’s one of the fastest Macs ever attached to the best Mac display ever. Yes, it’s an iMac, meaning you can’t attach a newer, faster computer to this thing in two or three years. But I have a feeling that these iMacs will have the processor power, and the staying power, to make the aging process much less painful.</p></blockquote>
+
+<p>Excellent review.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Austin Mann on what photographers need to know about Yosemite and iOS 8.1]]></title>
@@ -68,23 +83,6 @@
 <blockquote><p>I’ve been around too long and learned from experience that technology has to prove itself. It should <a href="http://patrickrhone.com/2013/04/10/is-this-making-me-better/">make us better</a>. It should <a href="http://minimalmac.com/post/73277791743/what-problem-does-this-solve">solve problems</a>. And, we should consider these things before allowing any new tool into our daily lives. We should ask ourselves if it’s for us.</p></blockquote>
 
 <p>My 2008 iMac, my 2010 MacBook Pro and my 1972 vinyl record player agree with this.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple releases iOS 8.1]]></title>
-    <link href="http://analogsenses.github.io/2014/10/20/apple-releases-ios-8-dot-1/"/>
-    <updated>2014-10-20T19:17:30+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/20/apple-releases-ios-8-dot-1</id>
-    <content type="html"><![CDATA[<p>Apple today released iOS 8.1, the newest version of the iOS operating system for the iPhone, iPad and iPod touch.</p>
-
-<p>Jason Snell has <a href="http://sixcolors.com/2014/10/apple-releases-ios-81/">a complete list of changes</a>:</p>
-
-<blockquote><p>The big change is support for Apple Pay on the iPhone 6 and 6 Plus in the U.S. The Camera Roll is also back, and iCloud Photo Library has been added in beta. There are plenty of other changes, so check out the change notes to see if your favorite bug is being addressed. (And if you want to wait to see if the update does something weird to some people’s phones, no one will blame you.)</p></blockquote>
-
-<p>You can download and install the update right from your iOS device. And if you run into storage problems, Rene Ritchie <a href="http://www.imore.com/how-install-ios-81-your-iphone-and-ipad-even-if-youre-low-storage">has you covered</a>.</p>
-
-<p>Happy updating!</p>
 ]]></content>
   </entry>
   
