@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-27T18:11:57+01:00</updated>
+  <updated>2014-10-27T18:22:22+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Successful Plan]]></title>
+    <link href="http://analogsenses.github.io/2014/10/27/a-successful-plan/"/>
+    <updated>2014-10-27T18:18:44+01:00</updated>
+    <id>http://analogsenses.github.io/2014/10/27/a-successful-plan</id>
+    <content type="html"><![CDATA[<p>Great article by Patrick Rhone for those of us who aspire to do great things. I don&rsquo;t want to spoil a single word of it, just go read it now.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Google launches Inbox by Gmail]]></title>
@@ -102,19 +111,6 @@
 <blockquote><p>Always have an escape plan.</p></blockquote>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YjrGsNTxrUQ" allowfullscreen></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Not For Me | Minimal Mac]]></title>
-    <link href="http://analogsenses.github.io/2014/10/21/not-for-me/"/>
-    <updated>2014-10-21T16:39:24+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/21/not-for-me</id>
-    <content type="html"><![CDATA[<p>Patrick Rhone, on why the latest generation of Apple products (both hardware and software) is not for him:</p>
-
-<blockquote><p>I’ve been around too long and learned from experience that technology has to prove itself. It should <a href="http://patrickrhone.com/2013/04/10/is-this-making-me-better/">make us better</a>. It should <a href="http://minimalmac.com/post/73277791743/what-problem-does-this-solve">solve problems</a>. And, we should consider these things before allowing any new tool into our daily lives. We should ask ourselves if it’s for us.</p></blockquote>
-
-<p>My 2008 iMac, my 2010 MacBook Pro and my 1972 vinyl record player agree with this.</p>
 ]]></content>
   </entry>
   
