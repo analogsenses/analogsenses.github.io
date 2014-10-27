@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-24T19:53:22+02:00</updated>
+  <updated>2014-10-27T18:11:57+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Apple and indie bands, what happened? →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://arstechnica.com/apple/2014/10/the-ipod-is-dead-and-apples-love-for-the-unknown-band-is-too/"/>
+	
+    <updated>2014-10-27T18:03:10+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/27/apple-and-indie-bands-what-happened</id>
+  	
+  	<content type="html"><![CDATA[<p>Interesting piece by Nathan Mattise at Ars Technica:</p>
+
+<blockquote><p>Feist wasn&rsquo;t the first musician to launch off the strength of an Apple commercial; the trend had gained enough attention that The New York Times asked “<a href="http://cityroom.blogs.nytimes.com/2008/09/30/is-apple-now-the-oprah-for-indie-bands/">Is Apple the Oprah for indie bands?</a>” But in the years after &ldquo;1234,&rdquo; Apple commercials became a less reliable way for bands to make it big. Lightning didn’t strike in the same way for <a href="https://www.youtube.com/watch?v=tZrZB_ZxbL0">The Submarines</a>, <a href="https://www.youtube.com/watch?v=ftTaWwtbvgM">Chairlift</a>, or the <a href="https://www.youtube.com/watch?v=CVTTE4YtLyA">Ting Tings</a>, for instance—and that trio is likely the most notable bunch of the post-2007 Apple ad soundtracks.</p>
+
+<p>Today, the <a href="http://www.applemusic.info/">multi-year streak</a> when lesser-to-unknown acts caught their break via iDevice ads seems to have ended. When Apple used an <a href="http://www.billboard.com/articles/columns/pop-shop/1550078/willy-moon-talks-apple-sync-and-throwback-debut-album">unknown Willy Moon</a> for its bouncy iPod reboot spot in 2012, the song (“Yeah Yeah”) only sold 155,000 copies in six months, according to <a href="http://www.billboard.com/articles/columns/pop-shop/1550078/willy-moon-talks-apple-sync-and-throwback-debut-album">Billboard</a>. (Feist&rsquo;s single sold 180,000 copies within a single month.) So sorry, <a href="http://www.cbc.ca/nb/mt/east-coast-music/2014/07/julie-doiron-lands-song-on-new-apple-ad.html">Julie Doiron</a>, you may be a few years too late.</p>
+
+<p>What changed?</p></blockquote>
+
+<p>I still have an iTunes playlist called &ldquo;Apple Music&rdquo;, which is comprised solely of artists whose music I discovered thanks to Apple events and TV ads. Now that I think of it, it&rsquo;s true that I haven&rsquo;t added any new albums to that list in a pretty long time.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/27/apple-and-indie-bands-what-happened/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[A stunning 7000-image time-lapse video of Extremadura →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -469,23 +490,6 @@
 
 <p>If you&rsquo;re in the market for a high-end desktop computer, the Retina iMac looks like a no-brainer.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/17/marco-arment-compares-the-retina-imac-and-the-mac-pro-on-paper/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Jason Snell's first thoughts about the Apple event →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://sixcolors.com/post/2014/10/apples-ipadmac-event-first-thoughts/"/>
-	
-    <updated>2014-10-17T12:10:07+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/17/jason-snells-thoughts-about-the-apple-event</id>
-  	
-  	<content type="html"><![CDATA[<p>Speaking of Jason Snell:</p>
-
-<blockquote><p>Let’s step through that one again. People will forsake their Mac Pros for this iMac, until there comes a day when a screen like this is available as an external display option for the Mac Pro. For $2500 or less. People who would never have considered buying an iMac will buy this iMac.</p></blockquote>
-
-<p>I have to say, I agree. I haven&rsquo;t even seen this iMac yet, and I already want it. <a href="http://www.analogsenses.com/2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/">A few months ago</a> I said I probably wouldn&rsquo;t replace my current iMac — a 24-inch Early 2008 model — until it died on me, but an iMac with a Retina display is a whole different animal.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/17/jason-snells-thoughts-about-the-apple-event/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
