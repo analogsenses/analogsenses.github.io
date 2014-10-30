@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-30T12:46:37+01:00</updated>
+  <updated>2014-10-30T12:59:15+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tim Cook speaks up about being gay]]></title>
+    <link href="http://analogsenses.github.io/2014/10/30/tim-cook-speaks-up-about-being-gay/"/>
+    <updated>2014-10-30T12:52:52+01:00</updated>
+    <id>http://analogsenses.github.io/2014/10/30/tim-cook-speaks-up-about-being-gay</id>
+    <content type="html"><![CDATA[<p>Fantastic, inspiring article by Tim Cook on Bloomberg Businessweek:</p>
+
+<blockquote><p>While I have never denied my sexuality, I haven’t publicly acknowledged it either, until now. So let me be clear: I’m proud to be gay, and I consider being gay among the greatest gifts God has given me.</p>
+
+<p>Being gay has given me a deeper understanding of what it means to be in the minority and provided a window into the challenges that people in other minority groups deal with every day. It’s made me more empathetic, which has led to a richer life. It’s been tough and uncomfortable at times, but it has given me the confidence to be myself, to follow my own path, and to rise above adversity and bigotry. It’s also given me the skin of a rhinoceros, which comes in handy when you’re the CEO of Apple.</p></blockquote>
+
+<p>Well said. Intolerance and bigotry have no place in modern society, and we should all do everything in our power to stop them. I have only the greatest respect for Mr. Cook for having the courage to speak up and hopefully inspire millions of others to do the same.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple and indie bands, what happened?]]></title>
@@ -66,27 +81,6 @@
     <content type="html"><![CDATA[<p>Great overview by Federico of one of the apps that were demoed on-stage during Apple&rsquo;s iPad event. It looks like an amazing app and I&rsquo;m really excited to try it, but I fear these photo-editing apps won&rsquo;t be particularly useful to me until they&rsquo;re able to handle RAW files.</p>
 
 <p>Which is to say, not anytime soon, sadly.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The reviews of the new iPads are out]]></title>
-    <link href="http://analogsenses.github.io/2014/10/22/the-reviews-of-the-new-ipads-are-out/"/>
-    <updated>2014-10-22T11:51:54+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/22/the-reviews-of-the-new-ipads-are-out</id>
-    <content type="html"><![CDATA[<p>It&rsquo;s iPad review day, and the usual suspects have all published their reviews. Let&rsquo;s have a look at what they have to say:</p>
-
-<ul>
-<li><p><a href="http://daringfireball.net/2014/10/ipad_air_2">John Gruber</a> focuses on the iPad Air 2, calling it &ldquo;a thorough refresh&rdquo;, and puts forth an interesting idea: with 2 GB of RAM and perhaps even a 3-core CPU — still unconfirmed — the iPad Air 2 makes a solid case as the best overall iOS device, surpassing the iPhone for the first time in terms of performance. In fact, the Air 2 is even faster than a 3-year-old MacBook Air. That&rsquo;s nuts.</p></li>
-<li><p><a href="http://www.loopinsight.com/2014/10/21/review-ipad-air-2-and-ipad-mini-3/">Jim Dalrymple</a> writes about the benefits of Touch ID, not only in terms of convenience, but also for security reasons. He also states that there&rsquo;s room for both new iPads in his life, since they are optimized for different situations.</p></li>
-<li><p><a href="http://www.theverge.com/2014/10/21/7027485/apple-ipad-air-2-review">Nilay Patel</a> reviews the iPad Air 2 for The Verge, and he calls it &ldquo;a monumental achievement in the field of iterative improvement&rdquo;. He also criticizes Apple for missing an opportunity to add more tablet-specific features in iOS 8.</p></li>
-<li><p><a href="http://recode.net/2014/10/21/review-apples-ipad-air-2-is-better-but-is-it-better-enough/">Walt Mossberg</a> was not impressed with the new iPads, and calls Apple out for not pushing the hardware in several important areas such as display resolution, battery life, etc. In fact, according to his tests, battery life took a noticeable hit on the Air 2 compared to last year&rsquo;s iPad Air — albeit, to be fair, it&rsquo;s still comfortably over the advertised 10-hour mark.</p></li>
-</ul>
-
-
-<p>These should give you a nice overall feeling for what the new iPads have to offer. If you&rsquo;re in the market, I encourage you to read through all of them before deciding which one to purchase.</p>
-
-<p>The general consensus seems to be quite similar to <a href="/2014/10/17/the-new-ipads-and-the-retina-imac/">my own thoughts</a>: if you already own one of last year&rsquo;s iPads (the iPad Air or the iPad mini with a Retina Display), there may not be enough improvements here to justify the upgrade. If you&rsquo;re on an iPad 4 or earlier, tough, then the upgrade is quite significant and you&rsquo;re pretty much guaranteed to love the new iPads.</p>
 ]]></content>
   </entry>
   
