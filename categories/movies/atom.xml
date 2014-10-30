@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/movies/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-30T13:18:08+01:00</updated>
+  <updated>2014-10-30T13:27:20+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://analogsenses.github.io/2014/10/23/marvel-releases-trailer-for-avengers-age-of-ultron</id>
     <content type="html"><![CDATA[<p>This thing looks awesome:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/tmeOjFno6Do" allowfullscreen></iframe></div></p>
+<p>{% youtube tmeOjFno6Do %}</p>
 
 <p>Man, I love <a href="http://www.imdb.com/name/nm0000652/">James Spader</a>&rsquo;s voice. Perfect casting for Ultron.</p>
 ]]></content>
@@ -46,7 +46,7 @@
     <id>http://analogsenses.github.io/2014/10/10/hayao-miyazaki-tribute-pixel-art</id>
     <content type="html"><![CDATA[<p>Beautiful tribute to Hayao Miyazaki&rsquo;s work:</p>
 
-<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/104063954 "></iframe></div></p>
+<p>{% vimeo 104063954 %}</p>
 
 <p>Via <a href="http://kottke.org/14/10/pixel-miyazaki">Kottke</a>, who also suggests to check out the excellent <a href="https://www.behance.net/gallery/14924437/8-bit-Ghibli">8-bit Ghibli</a>:</p>
 
