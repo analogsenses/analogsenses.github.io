@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-30T13:25:51+01:00</updated>
+  <updated>2014-10-30T13:46:57+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The 2014 National Geographic photo contest, part II →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.theatlantic.com/infocus/2014/10/2014-national-geographic-photo-contest-part-ii/100840/"/>
+	
+    <updated>2014-10-30T13:43:18+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/30/2014-national-geographic-photo-contest-part-ii</id>
+  	
+  	<content type="html"><![CDATA[<p>Stunning pictures. Be sure to also check <a href="http://www.theatlantic.com/infocus/2014/10/2014-national-geographic-photo-contest/100824/">Part I</a>.</p>
+
+<p>Via <a href="http://www.thenewsprint.co/2014/10/28/the-2014-national-geographic-photo-contest/">Josh Ginter</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/30/2014-national-geographic-photo-contest-part-ii/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Right Words →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -453,23 +468,6 @@
 
 <p>The general consensus seems to be quite similar to <a href="http://analogsenses.github.io/2014/10/17/the-new-ipads-and-the-retina-imac/">my own thoughts</a>: if you already own one of last year&rsquo;s iPads (the iPad Air or the iPad mini with a Retina Display), there may not be enough improvements here to justify the upgrade. If you&rsquo;re on an iPad 4 or earlier, tough, then the upgrade is quite significant and you&rsquo;re pretty much guaranteed to love the new iPads.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Not For Me | Minimal Mac →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://minimalmac.com/post/100558434139/not-for-me"/>
-	
-    <updated>2014-10-21T16:39:24+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/21/not-for-me</id>
-  	
-  	<content type="html"><![CDATA[<p>Patrick Rhone, on why the latest generation of Apple products (both hardware and software) is not for him:</p>
-
-<blockquote><p>I’ve been around too long and learned from experience that technology has to prove itself. It should <a href="http://patrickrhone.com/2013/04/10/is-this-making-me-better/">make us better</a>. It should <a href="http://minimalmac.com/post/73277791743/what-problem-does-this-solve">solve problems</a>. And, we should consider these things before allowing any new tool into our daily lives. We should ask ourselves if it’s for us.</p></blockquote>
-
-<p>My 2008 iMac, my 2010 MacBook Pro and my 1972 vinyl record player agree with this.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/21/not-for-me/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

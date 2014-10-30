@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-30T13:27:20+01:00</updated>
+  <updated>2014-10-30T13:46:57+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The 2014 National Geographic photo contest, part II]]></title>
+    <link href="http://analogsenses.github.io/2014/10/30/2014-national-geographic-photo-contest-part-ii/"/>
+    <updated>2014-10-30T13:43:18+01:00</updated>
+    <id>http://analogsenses.github.io/2014/10/30/2014-national-geographic-photo-contest-part-ii</id>
+    <content type="html"><![CDATA[<p>Stunning pictures. Be sure to also check <a href="http://www.theatlantic.com/infocus/2014/10/2014-national-geographic-photo-contest/100824/">Part I</a>.</p>
+
+<p>Via <a href="http://www.thenewsprint.co/2014/10/28/the-2014-national-geographic-photo-contest/">Josh Ginter</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On the roofs of Shanghai]]></title>
@@ -58,19 +69,6 @@
     <content type="html"><![CDATA[<p>Great overview by Federico of one of the apps that were demoed on-stage during Apple&rsquo;s iPad event. It looks like an amazing app and I&rsquo;m really excited to try it, but I fear these photo-editing apps won&rsquo;t be particularly useful to me until they&rsquo;re able to handle RAW files.</p>
 
 <p>Which is to say, not anytime soon, sadly.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Flickr announces new iPad app]]></title>
-    <link href="http://analogsenses.github.io/2014/10/20/flickr-announces-new-ipad-app/"/>
-    <updated>2014-10-20T18:29:35+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/20/flickr-announces-new-ipad-app</id>
-    <content type="html"><![CDATA[<p>Finally:</p>
-
-<blockquote><p>Today, we’re extremely excited to announce <a href="https://itunes.apple.com/us/app/flickr/id328407587?mt=8">Flickr for iPad</a>. We’ve heard you loud and clear asking for an official app on Apple’s beautiful, large retina display, which makes it easy and enjoyable to access, organize and share your stunning photos from anywhere. The new Flickr for iPad app will be available globally in eleven languages.</p></blockquote>
-
-<p>It&rsquo;s a universal app, so if you have the Flickr iPhone app installed on your iPad — like most sane people — the next time you update it you&rsquo;ll get the iPad version automatically.</p>
 ]]></content>
   </entry>
   
