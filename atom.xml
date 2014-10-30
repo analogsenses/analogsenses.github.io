@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-30T13:13:07+01:00</updated>
+  <updated>2014-10-30T13:18:08+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -13,8 +13,8 @@
   
   <entry>
   
-	<title type="html"><![CDATA[The Right Words]]></title>
-	<link href="http://analogsenses.github.io/2014/10/30/the-right-words/"/>
+	<title type="html"><![CDATA[The Right Words →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://patrickrhone.com/2014/10/28/the-right-words/"/>
 	
     <updated>2014-10-30T13:11:37+01:00</updated>
   	<id>http://analogsenses.github.io/2014/10/30/the-right-words</id>
@@ -22,7 +22,7 @@
   	<content type="html"><![CDATA[<p>Patrick Rhone is on fire lately:</p>
 
 <blockquote><p>It is moments like this that I am reminded why I am a writer. I’m in love with and in awe of the power of language. The way a single word or just the right ones strung together can capture the whole of something otherwise only imagined. An entire experience can be encapsulated, examined, and then set free for others to bear witness to, all in an instant, with just three simple words.</p></blockquote>
-]]></content>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/30/the-right-words/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
