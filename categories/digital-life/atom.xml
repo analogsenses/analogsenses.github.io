@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-30T16:54:48+01:00</updated>
+  <updated>2014-10-30T17:57:08+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Muhammad Ali, through the eyes of the photographers who know him best]]></title>
+    <link href="http://analogsenses.github.io/2014/10/30/muhammad-ali-through-the-eyes-of-the-photographers-who-know-him-best/"/>
+    <updated>2014-10-30T17:51:20+01:00</updated>
+    <id>http://analogsenses.github.io/2014/10/30/muhammad-ali-through-the-eyes-of-the-photographers-who-know-him-best</id>
+    <content type="html"><![CDATA[<p>Jonny Weeks, The Guardian:</p>
+
+<blockquote><p>Ali’s iconic status – and he is surely a man befitting of that word, iconic – is inextricably married to the photographs that exist of him. While his poetic tongue and rapid wit charmed us, and his poise and ruthlessness in the ring thrilled us, the imagery of him toned our appreciation of his personality, craft and beauty. Photographs are now among the defining symbols by which we remember him.</p></blockquote>
+
+<p>Great pictures tell stories, and there are very few stories as fascinating as Ali&rsquo;s.</p>
+
+<p>Via <a href="http://coudal.com/archives/2014/10/ali_through_the.php">Coudal Partners</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Paris / New York]]></title>
@@ -22,7 +37,7 @@
 
 <blockquote><p>Paris &amp; NY, like many large cities, have a lot in common; transport, infrastructure, national monuments. I wanted to explore not only these comparisons but also the differences, in order to expose the beauty and individuality of each. What you cannot deny is the vibrancy and explosion of character each city has and I thought split-screen with timelapse would be a good way to help convey this.</p></blockquote>
 
-<p>{% vimeo 108552265 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/108552265 "></iframe></div></p>
 
 <p>Beautiful.</p>
 ]]></content>
@@ -62,21 +77,6 @@
 <p>Being gay has given me a deeper understanding of what it means to be in the minority and provided a window into the challenges that people in other minority groups deal with every day. It’s made me more empathetic, which has led to a richer life. It’s been tough and uncomfortable at times, but it has given me the confidence to be myself, to follow my own path, and to rise above adversity and bigotry. It’s also given me the skin of a rhinoceros, which comes in handy when you’re the CEO of Apple.</p></blockquote>
 
 <p>Well said. Intolerance and bigotry have no place in modern society, and we should all do everything in our power to stop them. I have only the greatest respect for Mr. Cook for having the courage to speak up and hopefully inspire millions of others to do the same.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Frank Bourassa is the world's greatest counterfeiter]]></title>
-    <link href="http://analogsenses.github.io/2014/10/30/frank-bourassa-is-the-worlds-greatest-counterfeiter/"/>
-    <updated>2014-10-30T12:20:15+01:00</updated>
-    <id>http://analogsenses.github.io/2014/10/30/frank-bourassa-is-the-worlds-greatest-counterfeiter</id>
-    <content type="html"><![CDATA[<p>GQ Magazine profiles Frank Bourassa, the man who made over $200 million in counterfeit 20-dollar bills and <em>almost</em> got away with it:</p>
-
-<blockquote><p>Frank&rsquo;s self-image may be described as not merely healthy but hyperpituitary. When I asked him where he found the lunatic gumption not only to enter into the risky business of counterfeiting but to do so at the unheard-of scale of hundreds of millions of dollars, Frank replied with a shrug: &ldquo;I can do anything I want. I can go to the moon. I&rsquo;m good at figuring out stuff. I could do a heart transplant if I wanted to.&rdquo;</p></blockquote>
-
-<p>Sounds a hell of a lot like empty bragging, but just keep reading.</p>
-
-<p>Via <a href="http://kottke.org/14/10/master-counterfeiter">Kottke</a>.</p>
 ]]></content>
   </entry>
   
