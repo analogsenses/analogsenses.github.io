@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-28T22:03:16+01:00</updated>
+  <updated>2014-10-30T12:15:42+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[On the roofs of Shanghai]]></title>
+    <link href="http://analogsenses.github.io/2014/10/30/on-the-roofs-of-shanghai/"/>
+    <updated>2014-10-30T12:11:05+01:00</updated>
+    <id>http://analogsenses.github.io/2014/10/30/on-the-roofs-of-shanghai</id>
+    <content type="html"><![CDATA[<p>Vadim Makhorov and Vitaliy Raskalov take a trip to Shanghai and capture some absolutely terrifying and gorgeous images atop the city&rsquo;s tallest skyscrapers.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On craftsmanship, consumerism and zombie iPads]]></title>
@@ -47,7 +56,7 @@
 
 
 
-<p class="photo-credit">Straight razor: if it's good enough for Bond, it's good enough for you.</p>
+<p class="photo-credit">Straight razor: if it&#8217;s good enough for Bond, it&#8217;s good enough for you.</p>
 
 
 <p>It also happened with clothing. Companies like H&amp;M and Zara have made billions of dollars selling affordable clothes that self-destruct after a few washes. And god forbid you should wear the same clothes for more than one season. This breakneck pace of continuous replacement was only made possible thanks to the engineering advancements — in logistics and transportation, for example — that enabled these companies to operate efficiently at a global scale. Meanwhile, I own a hand-made leather jacket that looks better today than when I bought it 10 years ago, and they&rsquo;ll bury me in it if I can help it.</p>
@@ -122,28 +131,9 @@
 
 <blockquote><p>Unlike most coffee growing regions of the world, in Ethiopia the folks who grow the coffee, also drink the product. Long considered the birthplace of the beverage, Ethiopia produces some of the best. This little film is a love song to coffee, the grueling work that goes into producing it and the importance of small farms and cooperation in that process.</p></blockquote>
 
-<p>{% vimeo 108126747 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/108126747 "></iframe></div></p>
 
 <p>Via <a href="http://laughingsquid.com/a-fascinating-look-at-coffee-growers-in-ethiopia/">Laughing Squid</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Student Spins Double Life Among Spanish Elite]]></title>
-    <link href="http://analogsenses.github.io/2014/10/23/student-spins-double-life-among-spanish-elite/"/>
-    <updated>2014-10-23T12:47:32+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/23/student-spins-double-life-among-spanish-elite</id>
-    <content type="html"><![CDATA[<p>Raphael Minder, The New York Times:</p>
-
-<blockquote><p>MADRID — How is it that a baby-faced, 20-year-old university student skates his way into the coronation celebration of the new king, passes himself off as a government adviser to reportedly broker a lucrative business deal, and avoids traffic jams by flashing a fake police light?</p>
-
-<p>That is the question members of <a href="http://topics.nytimes.com/top/news/international/countriesandterritories/spain/index.html?inline=nyt-geo">Spain</a>’s security services are asking themselves after the student, Francisco Nicolás Gómez Iglesias, was arrested last week and quickly <a href="http://www.elconfidencial.com/espana/2014-10-21/los-negocios-del-pequeno-nicolas-y-sus-relaciones-con-los-empresarios-de-madrid_376036/">gained prominence</a> as the country’s most notorious gate-crasher.</p>
-
-<p>The answer, disturbingly enough, is that he did it by falsifying police and secret service documents and pretending to hold several government and other official posts, <a href="http://topics.nytimes.com/top/news/international/countriesandterritories/spain/index.html?inline=nyt-geo">Spain</a>’s national police say.</p></blockquote>
-
-<p>How incredibly embarrassing. If it were a movie I&rsquo;d have trouble believing it.</p>
-
-<p>Also, the damned kid stole my idea. What am I going to do now with all these forged passports?</p>
 ]]></content>
   </entry>
   
