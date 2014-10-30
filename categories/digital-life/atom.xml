@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-30T13:46:57+01:00</updated>
+  <updated>2014-10-30T16:54:48+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Paris / New York]]></title>
+    <link href="http://analogsenses.github.io/2014/10/30/paris-slash-new-york/"/>
+    <updated>2014-10-30T16:48:03+01:00</updated>
+    <id>http://analogsenses.github.io/2014/10/30/paris-slash-new-york</id>
+    <content type="html"><![CDATA[<p>Great commercial by Franck Matellini for British Airways:</p>
+
+<blockquote><p>Paris &amp; NY, like many large cities, have a lot in common; transport, infrastructure, national monuments. I wanted to explore not only these comparisons but also the differences, in order to expose the beauty and individuality of each. What you cannot deny is the vibrancy and explosion of character each city has and I thought split-screen with timelapse would be a good way to help convey this.</p></blockquote>
+
+<p>{% vimeo 108552265 %}</p>
+
+<p>Beautiful.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The 2014 National Geographic photo contest, part II]]></title>
@@ -62,15 +77,6 @@
 <p>Sounds a hell of a lot like empty bragging, but just keep reading.</p>
 
 <p>Via <a href="http://kottke.org/14/10/master-counterfeiter">Kottke</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[On the roofs of Shanghai]]></title>
-    <link href="http://analogsenses.github.io/2014/10/30/on-the-roofs-of-shanghai/"/>
-    <updated>2014-10-30T12:11:05+01:00</updated>
-    <id>http://analogsenses.github.io/2014/10/30/on-the-roofs-of-shanghai</id>
-    <content type="html"><![CDATA[<p>Vadim Makhorov and Vitaliy Raskalov take a trip to Shanghai and capture some absolutely terrifying and gorgeous images atop the city&rsquo;s tallest skyscrapers.</p>
 ]]></content>
   </entry>
   
