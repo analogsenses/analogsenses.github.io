@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-10-30T12:15:42+01:00</updated>
+  <updated>2014-10-30T12:46:37+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Frank Bourassa is the world's greatest counterfeiter →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.gq.com/long-form/the-great-paper-caper"/>
+	
+    <updated>2014-10-30T12:20:15+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/10/30/frank-bourassa-is-the-worlds-greatest-counterfeiter</id>
+  	
+  	<content type="html"><![CDATA[<p>GQ Magazine profiles Frank Bourassa, the man who made over $200 million in counterfeit 20-dollar bills and <em>almost</em> got away with it:</p>
+
+<blockquote><p>Frank&rsquo;s self-image may be described as not merely healthy but hyperpituitary. When I asked him where he found the lunatic gumption not only to enter into the risky business of counterfeiting but to do so at the unheard-of scale of hundreds of millions of dollars, Frank replied with a shrug: &ldquo;I can do anything I want. I can go to the moon. I&rsquo;m good at figuring out stuff. I could do a heart transplant if I wanted to.&rdquo;</p></blockquote>
+
+<p>Sounds a hell of a lot like empty bragging, but just keep reading.</p>
+
+<p>Via <a href="http://kottke.org/14/10/master-counterfeiter">Kottke</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/10/30/frank-bourassa-is-the-worlds-greatest-counterfeiter/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[On the roofs of Shanghai →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -455,23 +474,6 @@
 
 <p>Happy updating!</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/20/apple-releases-ios-8-dot-1/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Flickr announces new iPad app →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://blog.flickr.net/2014/10/17/announcing-flickr-for-ipad/"/>
-	
-    <updated>2014-10-20T18:29:35+02:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/20/flickr-announces-new-ipad-app</id>
-  	
-  	<content type="html"><![CDATA[<p>Finally:</p>
-
-<blockquote><p>Today, we’re extremely excited to announce <a href="https://itunes.apple.com/us/app/flickr/id328407587?mt=8">Flickr for iPad</a>. We’ve heard you loud and clear asking for an official app on Apple’s beautiful, large retina display, which makes it easy and enjoyable to access, organize and share your stunning photos from anywhere. The new Flickr for iPad app will be available globally in eleven languages.</p></blockquote>
-
-<p>It&rsquo;s a universal app, so if you have the Flickr iPhone app installed on your iPad — like most sane people — the next time you update it you&rsquo;ll get the iPad version automatically.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/20/flickr-announces-new-ipad-app/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
