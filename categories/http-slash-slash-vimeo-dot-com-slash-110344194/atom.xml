@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: http://vimeo.com/110344194 | Analog Senses]]></title>
+  <link href="http://analogsenses.github.io/categories/http-slash-slash-vimeo-dot-com-slash-110344194/atom.xml" rel="self"/>
+  <link href="http://analogsenses.github.io/"/>
+  <updated>2014-11-06T17:22:21+01:00</updated>
+  <id>http://analogsenses.github.io/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Le temps d'un Paris]]></title>
+    <link href="http://analogsenses.github.io/2014/11/06/le-temps-dun-paris/"/>
+    <updated>2014-11-06T17:14:55+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/06/le-temps-dun-paris</id>
+    <content type="html"><![CDATA[<p>Gorgeous time-lapse video by Yann Muncy, depicting Paris after the Sun sets:</p>
+
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/110344194 "></iframe></div></p>
+
+<p>Via <a href="http://laughingsquid.com/le-temps-dun-paris-beautiful-time-lapse-video-of-the-city-of-light-after-sundown/">Laughing Squid</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
