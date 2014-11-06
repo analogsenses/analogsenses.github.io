@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-06T14:36:00+01:00</updated>
+  <updated>2014-11-06T16:56:22+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Lottery Tickets →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.sanspoint.com/archives/2014/11/06/lottery-tickets/"/>
+	
+    <updated>2014-11-06T16:36:28+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/11/06/lottery-tickets</id>
+  	
+  	<content type="html"><![CDATA[<p>Fantastic essay by Richard J. Anderson:</p>
+
+<blockquote><p>Instead of success stories, I want to hear from people who failed, especially if they failed by doing the “right” thing. We have more to learn from those who lost the lottery than we do from those who won.</p></blockquote>
+
+<p>I&rsquo;m also playing the lottery here. I like to think that every day I show up is like purchasing a new ticket and the more tickets I get, the better my chances of eventually winning. I&rsquo;ve found this helps me a great deal in overcoming the uncertainty of not knowing if/when things will change.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/11/06/lottery-tickets/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Why iOS 8's Extensions don't eliminate the need for in-app integration of 3rd-party services]]></title>
@@ -558,19 +575,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[A Successful Plan →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://patrickrhone.com/2014/10/26/a-successful-plan/"/>
-	
-    <updated>2014-10-27T18:18:44+01:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/27/a-successful-plan</id>
-  	
-  	<content type="html"><![CDATA[<p>Great article by Patrick Rhone for those of us who aspire to do great things. I don&rsquo;t want to spoil a single word of it, just go read it now.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/27/a-successful-plan/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
