@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-06T17:22:21+01:00</updated>
+  <updated>2014-11-06T17:24:50+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -13,8 +13,8 @@
   
   <entry>
   
-	<title type="html"><![CDATA[Le temps d'un Paris]]></title>
-	<link href="http://analogsenses.github.io/2014/11/06/le-temps-dun-paris/"/>
+	<title type="html"><![CDATA[Le temps d'un Paris →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://vimeo.com/110344194"/>
 	
     <updated>2014-11-06T17:14:55+01:00</updated>
   	<id>http://analogsenses.github.io/2014/11/06/le-temps-dun-paris</id>
@@ -25,7 +25,7 @@
 
 
 <p>Via <a href="http://laughingsquid.com/le-temps-dun-paris-beautiful-time-lapse-video-of-the-city-of-light-after-sundown/">Laughing Squid</a>.</p>
-]]></content>
+<a rel="full-article" href="http://analogsenses.github.io/2014/11/06/le-temps-dun-paris/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
