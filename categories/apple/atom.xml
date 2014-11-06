@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-05T19:08:22+01:00</updated>
+  <updated>2014-11-06T14:36:00+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why iOS 8's Extensions don't eliminate the need for in-app integration of 3rd-party services]]></title>
+    <link href="http://analogsenses.github.io/2014/11/06/why-ios-8-s-extensions-dont-eliminate-the-need-for-in-app-integration-of-3rd-party-services/"/>
+    <updated>2014-11-06T12:45:32+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/06/why-ios-8-s-extensions-dont-eliminate-the-need-for-in-app-integration-of-3rd-party-services</id>
+    <content type="html"><![CDATA[<p>Reeder&rsquo;s iOS app, the excellent RSS reader by Silvio Rizzi, was updated today — hat tip to <a href="http://www.macstories.net/linked/reeder-for-ios-updated-with-iphone-6-support-ios-8-share-sheets/">Federico Viticci</a> — with support for the new iOS 8 Share Sheets, as well as support for the larger displays of the iPhone 6 and 6 Plus, among other features.</p>
+
+<p>The way the iOS 8 Share Sheets work is by integrating with the new iOS 8 Extensions, which are services that 3rd-party apps can now offer to the OS, so that they become available to other apps. The way this works in practice is very simple: if you have <a href="https://www.instapaper.com">Instapaper</a> installed on your iOS device, for example, then you can use the Instapaper Extension to save articles from any other iOS app that supports the new Share Sheets.</p>
+
+<p>Extensions are a great way to augment the capabilities of 3rd-party apps, and they were also meant to reduce redundancy. In many cases, this works very well: instead of having every 3rd-party developer implement <a href="https://agilebits.com/onepassword">1Password</a> integration in their apps, for instance, they can now use 1Password&rsquo;s officially supported iOS 8 Extension. This saves every developer time and effort, <em>and</em> results in a better user experience, because the 1Password Extension is maintained by the developers of 1Password itself, and is therefore expected to work reliably and securely.</p>
+
+<p>Previously, it was up to 3rd-party developers to implement individual in-app integration with each 3rd-party service they wanted to support in their apps. Reeder, for example, has long had built-in integration with several popular read-later services, such as Instapaper itself.</p>
+
+<p>With Reeder&rsquo;s iOS 8 update, this means Reeder users now have <em>two</em> different ways to send an article to Instapaper: they can use the app&rsquo;s built-in Instapaper integration, or they can use the Instapaper Extension via the Share Sheet. This looks redundant, but there&rsquo;s a catch.</p>
+
+<p>In order to use the Instapaper Extension, the Instapaper app must be installed on the device. But what happens if you don&rsquo;t want to have Instapaper on that particular device? What if, for instance, you browse through your RSS feeds on your iPhone but only read articles on your iPad? In order to do that using Extensions, you&rsquo;d need to have Instapaper installed on <em>both</em> devices. Using Reeder&rsquo;s built-in Instapaper integration, however, you&rsquo;d only need to have it installed on the iPad, which is where you&rsquo;re actually going to use it.</p>
+
+<p>This is a perfectly reasonable use case, by the way. Users shouldn&rsquo;t be required to install apps they don&rsquo;t plan to use on an iOS device for the sole purpose of accessing their Extensions. With iOS devices becoming more and more storage-constrained at the low end, being selective about the apps you install is more important than ever.</p>
+
+<p>iOS 8&rsquo;s Extensions are the way iOS apps are expected to communicate with each other going forward, and all 3rd-party developers should support them. However, developers shouldn&rsquo;t assume that Extensions will solve all of their needs, and as convenient as they are for certain use cases, they should not be seen as a complete replacement for in-app integration of 3rd-party services.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chasing Retina]]></title>
@@ -114,19 +137,6 @@
 <blockquote><p>This is the promise of the 27-inch iMac with Retina 5K Display: It’s one of the fastest Macs ever attached to the best Mac display ever. Yes, it’s an iMac, meaning you can’t attach a newer, faster computer to this thing in two or three years. But I have a feeling that these iMacs will have the processor power, and the staying power, to make the aging process much less painful.</p></blockquote>
 
 <p>Excellent review.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Austin Mann on what photographers need to know about Yosemite and iOS 8.1]]></title>
-    <link href="http://analogsenses.github.io/2014/10/23/austin-mann-on-what-photographers-need-to-know-about-yosemite-and-ios-8-dot-1/"/>
-    <updated>2014-10-23T13:57:53+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/23/austin-mann-on-what-photographers-need-to-know-about-yosemite-and-ios-8-dot-1</id>
-    <content type="html"><![CDATA[<p>Austin Mann:</p>
-
-<blockquote><p>Apple’s sharing all kinds of software updates with us these days, and a few of them are especially exciting for power user iPhone photographers. Here are my thoughts on how the new features affect how we create and share images with our iPhones.</p></blockquote>
-
-<p>Great article, chock-full of excellent tips.</p>
 ]]></content>
   </entry>
   
