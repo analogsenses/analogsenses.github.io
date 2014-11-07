@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-06T18:07:54+01:00</updated>
+  <updated>2014-11-07T12:52:52+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dustin Curtis on Amazon's Echo Chamber]]></title>
+    <link href="http://analogsenses.github.io/2014/11/07/dustin-curtis-on-amazons-echo-chamber/"/>
+    <updated>2014-11-07T12:42:41+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/07/dustin-curtis-on-amazons-echo-chamber</id>
+    <content type="html"><![CDATA[<blockquote><p>It’s an echo chamber. They make a product, they market the product on Amazon.com, they sell the product to Amazon.com customers, they get a false sense of success, the customer puts the product in a drawer and never uses it, and then Amazon moves on to the next product. Finally, with the Fire Phone, customers have been pushing back. You can’t buy a phone and put it in a lonely drawer, never to use it again, like you would with a Fire Tablet. You can’t dupe your customers by selling them a shitty phone, because a phone becomes a part of its user’s identity.</p></blockquote>
+
+<p>It&rsquo;s kind of uncanny how Amazon can be so good at retail, and <em>so</em> bad at consumer electronics, especially considering that both industries start off with a very similar premise: that success lies in the answer to the question, &ldquo;what do people want?&rdquo;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fearless Genius, by Doug Menuez]]></title>
@@ -64,19 +75,6 @@
 <blockquote><p>It may be possible to use two Thunderbolt 2 cables to power a 5K display, but only if the GPU could treat each port as its own full-bandwidth DisplayPort 1.2 channel, the sum of which represented one logical display, and had the panel using something like MST to combine the two at the other end. But the only Mac with more than one Thunderbolt bus (not port) is the current Mac Pro, and I can’t see today’s Apple shipping an external display that none of their laptops can use.</p></blockquote>
 
 <p>If you&rsquo;re in the market for a high-end desktop computer, the Retina iMac looks like a no-brainer.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Macworld Expo is over]]></title>
-    <link href="http://analogsenses.github.io/2014/10/14/macworld-expo-is-over/"/>
-    <updated>2014-10-14T19:25:53+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/14/macworld-expo-is-over</id>
-    <content type="html"><![CDATA[<p>Jason Snell:</p>
-
-<blockquote><p>While technically this is a “hiatus,” I think it’s safe to assume that the Macworld Expo as we knew it won’t come back. Maybe it will take some other form—there are lots of amazing Apple-themed events out there—but I’ve got my doubts. The MacIT conference is a good one, and I’m glad it will be continuing.</p></blockquote>
-
-<p>Sad news.</p>
 ]]></content>
   </entry>
   
