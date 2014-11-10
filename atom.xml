@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-07T18:03:59+01:00</updated>
+  <updated>2014-11-10T15:38:09+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Five Years Old]]></title>
+	<link href="http://analogsenses.github.io/2014/11/10/5-years-old/"/>
+	
+    <updated>2014-11-10T13:35:56+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/11/10/5-years-old</id>
+  	
+  	<content type="html"><![CDATA[<p>Dear readers,</p>
+
+<p>Today, Analog Senses turns five years old. I&rsquo;d like to take a moment to thank those who have been reading since the very beginning, and to welcome the many of you that have recently joined. Without you, what I do here wouldn&rsquo;t mean anything. From the very bottom of my heart, <em>thank you.</em></p>
+
+<p>These are <a href="http://analogsenses.github.io/2014/09/15/catharsis/">interesting times</a> for Analog Senses. A lot has changed since <a href="http://analogsenses.github.io/2009/11/10/238565026/">the early days</a>, but my passion and dedication for this site have never been stronger. I&rsquo;m convinced its brightest days lie ahead, and I&rsquo;m deeply honored to have you along for the ride.</p>
+
+<p>I can&rsquo;t wait to see what the next five years look like.</p>
+
+<p>My best,<br/>
+Álvaro.</p>
+]]></content>
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Tools &amp; Toys celebrates Fountain Pen Day →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -500,21 +522,6 @@
 
 <p>Beautiful.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/10/30/paris-slash-new-york/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The 2014 National Geographic photo contest, part II →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.theatlantic.com/infocus/2014/10/2014-national-geographic-photo-contest-part-ii/100840/"/>
-	
-    <updated>2014-10-30T13:43:18+01:00</updated>
-  	<id>http://analogsenses.github.io/2014/10/30/2014-national-geographic-photo-contest-part-ii</id>
-  	
-  	<content type="html"><![CDATA[<p>Stunning pictures. Be sure to also check <a href="http://www.theatlantic.com/infocus/2014/10/2014-national-geographic-photo-contest/100824/">Part I</a>.</p>
-
-<p>Via <a href="http://www.thenewsprint.co/2014/10/28/the-2014-national-geographic-photo-contest/">Josh Ginter</a>.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/10/30/2014-national-geographic-photo-contest-part-ii/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
