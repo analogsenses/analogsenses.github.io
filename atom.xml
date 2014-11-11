@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-11T00:25:27+01:00</updated>
+  <updated>2014-11-11T23:15:44+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The $9 Billion Witness →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.rollingstone.com/politics/news/the-9-billion-witness-20141106"/>
+	
+    <updated>2014-11-11T23:09:25+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/11/11/the-9-dollars-billion-witness</id>
+  	
+  	<content type="html"><![CDATA[<p>Rolling Stone profiles Alayne Fleischmann, the woman who was forced to keep JPMorgan Chase&rsquo;s dirtiest secrets for over eight years:</p>
+
+<blockquote><p>Six years after the crisis that cratered the global economy, it&rsquo;s not exactly news that the country&rsquo;s biggest banks stole on a grand scale. That&rsquo;s why the more important part of Fleischmann&rsquo;s story is in the pains Chase and the Justice Department took to silence her.</p>
+
+<p>She was blocked at every turn: by asleep-on-the-job regulators like the Securities and Exchange Commission, by a court system that allowed Chase to use its billions to bury her evidence, and, finally, by officials like outgoing Attorney General Eric Holder, the chief architect of the crazily elaborate government policy of surrender, secrecy and cover-up. &ldquo;Every time I had a chance to talk, something always got in the way,&rdquo; Fleischmann says.</p></blockquote>
+<a rel="full-article" href="http://analogsenses.github.io/2014/11/11/the-9-dollars-billion-witness/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Oatmeal explains Net Neutrality to Senator Ted Cruz →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -449,25 +466,6 @@
 
 <p>Yep.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/11/03/the-anti-vsco-photographer/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[First impressions of the Leica M-A →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.thephoblographer.com/2014/11/03/first-impressions-leica-m/"/>
-	
-    <updated>2014-11-03T16:05:59+01:00</updated>
-  	<id>http://analogsenses.github.io/2014/11/03/first-impressions-of-the-leica-m-a</id>
-  	
-  	<content type="html"><![CDATA[<p>Chris Gampat, The Phoblographer:</p>
-
-<blockquote><p>The only word that we can use to describe this camera’s build quality is beautiful. Well, that’s a lie. You can also use timeless, ruggedized, expert, fine, and nostalgic. Veteran Leica shooters will feel right at home with this little piece of art in their hands. Photographers that have shot for many years and experimented with various cameras will also be caught smitten.</p>
-
-<p>Of anything that Leica has pushed out of its factories in the past years, this camera’s build quality and design is something that we’d truly state is worth its weight in gold due to it being truly timeless and purely analog.</p></blockquote>
-
-<p>Sounds like my kind of camera.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/11/03/first-impressions-of-the-leica-m-a/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
