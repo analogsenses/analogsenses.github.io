@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-17T16:37:36+01:00</updated>
+  <updated>2014-11-17T16:55:16+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[How a pioneering journalist won a race around the world in 1889 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://grantland.com/the-triangle/nellie-bly-around-the-world-in-seventy-two-days/"/>
+	
+    <updated>2014-11-17T16:47:52+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/11/17/how-a-pioneering-journalist-won-a-race-around-the-world-in-1889</id>
+  	
+  	<content type="html"><![CDATA[<p>Brian Phillips tells the fascinating story of Nellie Bly, a female journalist who 125 years ago set out to win a bet she made with her newspaper:</p>
+
+<blockquote><p>“It is impossible for you to do it,” he told her. “You are a woman and would need a protector.” Even if she could travel alone, he said, she’d want to take too much baggage. “There is no use talking about it,” he insisted. “No one but a man could do this.”</p>
+
+<p>“Very well,” she said. “Start the man, and I’ll start the same day for some other newspaper and beat him.”</p>
+
+<p>She was 24 when she said this. The next year, a few months after her 25th birthday, the paper said yes, and she set sail.</p>
+
+<p>She brought one suitcase.</p></blockquote>
+
+<p>So great.</p>
+
+<p>Via <a href="http://www.loopinsight.com/2014/11/16/how-a-pioneering-journalist-won-a-race-around-the-world-in-1889/">The Loop</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/11/17/how-a-pioneering-journalist-won-a-race-around-the-world-in-1889/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The case against the Panasonic Leica DG Summilux 15mm f/1.7 lens for Micro Four Thirds]]></title>
@@ -430,24 +455,6 @@
 
 <p>Wonderful reading material for a rainy weekend.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/11/07/tools-and-toys-celebrates-fountain-pen-day/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Our Magic, a documentary about magic — by magicians →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=h52G7FoW1Go"/>
-	
-    <updated>2014-11-07T14:08:02+01:00</updated>
-  	<id>http://analogsenses.github.io/2014/11/07/our-magic-a-documentary-about-magic-by-magicians</id>
-  	
-  	<content type="html"><![CDATA[<p>This documentary looks amazing. One of my closest friends is a magician, and through him I&rsquo;ve learned to appreciate and love this beautiful craft. I can&rsquo;t wait to see it.</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/h52G7FoW1Go" allowfullscreen></iframe></div>
-
-
-<p>By the way, seeing <a href="http://en.wikipedia.org/wiki/Juan_Tamariz">Juan Tamariz</a> in the trailer made me feel quite emotional. He&rsquo;s a living legend, a truly beloved icon in the world of magic. I remember I used to watch him perform unbelievable tricks on TV back when I was a little kid, and I was always enchanted by his character. A couple of years ago I finally got to meet the man  — alongside my friend — and it was one of the most, well, magical experiences of my life.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/11/07/our-magic-a-documentary-about-magic-by-magicians/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
