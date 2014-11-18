@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-18T23:58:37+01:00</updated>
+  <updated>2014-11-19T00:01:31+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -24,7 +24,7 @@
 
 <blockquote><p>Rather than just saying we only get Glances and Notifications, we get to build <strong>actual, useful</strong> watch apps. Those apps, however, are architected in such a way as to make them extremely battery conscious. I suspect the biggest power draw these apps will have is the networking between the iPhone and Watch. However, optimizing the Watch OS for efficient networking is much easier than building an entire, rich SDK that is similarly respectful.</p></blockquote>
 
-<p>I have to say, I&rsquo;m pretty excited. This SDK means the Apple Watch will support native 3rd-party apps from day one, and that&rsquo;s excellent news for everyone.</p>
+<p>I have to say, I&rsquo;m pretty excited. The fact that WatchKit is already out means the Apple Watch will support native 3rd-party apps from day one, and that&rsquo;s great for everyone.</p>
 ]]></content>
   </entry>
   
