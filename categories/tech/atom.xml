@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-18T13:13:25+01:00</updated>
+  <updated>2014-11-18T13:54:04+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Responsive Images in Practice]]></title>
+    <link href="http://analogsenses.github.io/2014/11/18/responsive-images-in-practice/"/>
+    <updated>2014-11-18T13:38:37+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/18/responsive-images-in-practice</id>
+    <content type="html"><![CDATA[<p>Eric Portis, on how to properly optimize the use of different image resolutions across varying display sizes on the web:</p>
+
+<blockquote><p><a href="http://httparchive.org/interesting.php#bytesperpage">Sixty-two percent of the weight of the web is images</a>, and we’re <a href="http://httparchive.org/trends.php?s=All&amp;minlabel=Nov+15+2010&amp;maxlabel=Oct+15+2014#bytesImg&amp;reqImg">serving more image bytes every day</a>. That would be peachy if all of those bytes were being put to good use. But on small or low-resolution screens, <a href="http://timkadlec.com/2013/06/why-we-need-responsive-images/">most of that data is waste</a>.</p></blockquote>
+
+<p>Much to digest here, set aside some time to really dive into it.</p>
+
+<p>Via <a href="http://www.loopinsight.com/2014/11/17/responsive-images-2/">The Loop</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dustin Curtis on Amazon's Echo Chamber]]></title>
@@ -58,23 +73,6 @@
     <content type="html"><![CDATA[<p>Interesting new email-based product by Google. Privacy concerns aside, Google is probably the best company in the world when it comes to identifying and extracting relevant information from something as vast and opaque as an email inbox.</p>
 
 <p>I&rsquo;m interested in trying it, but for now Inbox by Gmail requires an invitation. I&rsquo;ve asked for one but I&rsquo;m yet to hear back from Google, so I can&rsquo;t say much more about it at the moment. If you can spare an invite, please get in touch. Thanks.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Marco Arment compares the Retina iMac and the Mac Pro (on paper)]]></title>
-    <link href="http://analogsenses.github.io/2014/10/17/marco-arment-compares-the-retina-imac-and-the-mac-pro-on-paper/"/>
-    <updated>2014-10-17T12:41:13+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/17/marco-arment-compares-the-retina-imac-and-the-mac-pro-on-paper</id>
-    <content type="html"><![CDATA[<p>Marco has an excellent and thorough article on the differences between both models:</p>
-
-<blockquote><p>The <a href="http://www.apple.com/imac-with-retina/">5K Retina iMac</a> is out, and it looks incredible so far on paper — so incredible that I’m seriously considering selling my new Mac Pro to get the Retina iMac instead. In fact, the case for the Mac Pro for anyone but advanced video editors, 3D modelers, and heavy OpenCL users is now weaker than ever.</p></blockquote>
-
-<p>I&rsquo;ve always found the iMac to be a near perfect computer but now it&rsquo;s getting ridiculous. Even the completely redesigned Mac Pro compares poorly, particularly considering it won&rsquo;t be getting an external Retina display anytime soon:</p>
-
-<blockquote><p>It may be possible to use two Thunderbolt 2 cables to power a 5K display, but only if the GPU could treat each port as its own full-bandwidth DisplayPort 1.2 channel, the sum of which represented one logical display, and had the panel using something like MST to combine the two at the other end. But the only Mac with more than one Thunderbolt bus (not port) is the current Mac Pro, and I can’t see today’s Apple shipping an external display that none of their laptops can use.</p></blockquote>
-
-<p>If you&rsquo;re in the market for a high-end desktop computer, the Retina iMac looks like a no-brainer.</p>
 ]]></content>
   </entry>
   
