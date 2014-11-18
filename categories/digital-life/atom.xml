@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-18T23:41:58+01:00</updated>
+  <updated>2014-11-18T23:58:37+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple unveils WatchKit]]></title>
+    <link href="http://analogsenses.github.io/2014/11/18/apple-unveils-watchkit/"/>
+    <updated>2014-11-18T23:47:55+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/18/apple-unveils-watchkit</id>
+    <content type="html"><![CDATA[<p>Apple today unveiled WatchKit, the set of development tools that will allow 3rd-party developers to build apps for the upcoming Apple Watch.</p>
+
+<p>Underscore David Smith has <a href="http://david-smith.org/blog/2014/11/18/initial-impressions-for-watchkit/">a few interesting thoughts</a> about it (emphasis his):</p>
+
+<blockquote><p>Rather than just saying we only get Glances and Notifications, we get to build <strong>actual, useful</strong> watch apps. Those apps, however, are architected in such a way as to make them extremely battery conscious. I suspect the biggest power draw these apps will have is the networking between the iPhone and Watch. However, optimizing the Watch OS for efficient networking is much easier than building an entire, rich SDK that is similarly respectful.</p></blockquote>
+
+<p>I have to say, I&rsquo;m pretty excited. This SDK means the Apple Watch will support native 3rd-party apps from day one, and that&rsquo;s excellent news for everyone.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[It's The Sweet Setup's 1-Year Birthday]]></title>
@@ -68,27 +83,6 @@
 <p>If you were curious to see how the magic happens, this is your chance.</p>
 
 <p>P.S. To me it&rsquo;s a great honor to be featured in The Sweet Setup. Many of my favorite people on the Internet have done this interview in the past, and I&rsquo;m thrilled to now be a small part of that awesome community.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How a pioneering journalist won a race around the world in 1889]]></title>
-    <link href="http://analogsenses.github.io/2014/11/17/how-a-pioneering-journalist-won-a-race-around-the-world-in-1889/"/>
-    <updated>2014-11-17T16:47:52+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/17/how-a-pioneering-journalist-won-a-race-around-the-world-in-1889</id>
-    <content type="html"><![CDATA[<p>Brian Phillips tells the fascinating story of Nellie Bly, a female journalist who 125 years ago set out to win a bet she made with her newspaper:</p>
-
-<blockquote><p>“It is impossible for you to do it,” he told her. “You are a woman and would need a protector.” Even if she could travel alone, he said, she’d want to take too much baggage. “There is no use talking about it,” he insisted. “No one but a man could do this.”</p>
-
-<p>“Very well,” she said. “Start the man, and I’ll start the same day for some other newspaper and beat him.”</p>
-
-<p>She was 24 when she said this. The next year, a few months after her 25th birthday, the paper said yes, and she set sail.</p>
-
-<p>She brought one suitcase.</p></blockquote>
-
-<p>So great.</p>
-
-<p>Via <a href="http://www.loopinsight.com/2014/11/16/how-a-pioneering-journalist-won-a-race-around-the-world-in-1889/">The Loop</a>.</p>
 ]]></content>
   </entry>
   
