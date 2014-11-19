@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-19T18:06:22+01:00</updated>
+  <updated>2014-11-19T18:26:25+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[John Hodgman is deleting Uber from his phone now]]></title>
+    <link href="http://analogsenses.github.io/2014/11/19/john-hodgman-is-deleting-uber-from-his-phone-now/"/>
+    <updated>2014-11-19T18:14:54+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/19/john-hodgman-is-deleting-uber-from-his-phone-now</id>
+    <content type="html"><![CDATA[<p>John Hodgman has decided to stop using Uber after <a href="http://www.buzzfeed.com/bensmith/uber-executive-suggests-digging-up-dirt-on-journalists">one of its executives</a> suggested they should dig up some dirt on several journalists — particularly Sarah Lacy from PandoDaily — to protect the company from negative press coverage:</p>
+
+<blockquote><p>I like Uber. I know some don’t. I don’t intend to blackmail them.</p>
+
+<p>And I really don’t want to take that crummy car I was so glad to hang up on two years ago.</p>
+
+<p>But I just can’t get into a car with those guys anymore.</p></blockquote>
+
+<p>Well said.</p>
+
+<p><a href="http://elpais.com/elpais/2014/10/15/inenglish/1413365771_971371.html">For a series of unrelated reasons</a>, Uber is struggling to gain traction in Madrid. I admit I was curious to try it but after this, there&rsquo;s no way I&rsquo;m using the service.</p>
+
+<p>It&rsquo;s unfortunate, but companies like Uber listen only when customers speak with their wallets.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Untitled Sanspoint Podcast Project]]></title>
@@ -72,21 +93,6 @@
     <content type="html"><![CDATA[<p>Wow, these are amazing.</p>
 
 <p>Via <a href="http://coudal.com/archives/2014/11/federico_babina_1.php">Coudal Partners</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple unveils WatchKit]]></title>
-    <link href="http://analogsenses.github.io/2014/11/18/apple-unveils-watchkit/"/>
-    <updated>2014-11-18T23:47:55+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/18/apple-unveils-watchkit</id>
-    <content type="html"><![CDATA[<p>Apple today unveiled WatchKit, the set of development tools that will allow 3rd-party developers to build apps for the upcoming Apple Watch.</p>
-
-<p>Underscore David Smith has <a href="http://david-smith.org/blog/2014/11/18/initial-impressions-for-watchkit/">a few interesting thoughts</a> about it (emphasis his):</p>
-
-<blockquote><p>Rather than just saying we only get Glances and Notifications, we get to build <strong>actual, useful</strong> watch apps. Those apps, however, are architected in such a way as to make them extremely battery conscious. I suspect the biggest power draw these apps will have is the networking between the iPhone and Watch. However, optimizing the Watch OS for efficient networking is much easier than building an entire, rich SDK that is similarly respectful.</p></blockquote>
-
-<p>I have to say, I&rsquo;m pretty excited. The fact that WatchKit is already out means the Apple Watch will support native 3rd-party apps from day one, and that&rsquo;s great for everyone.</p>
 ]]></content>
   </entry>
   
