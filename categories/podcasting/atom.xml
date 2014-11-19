@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcasting | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/podcasting/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-19T17:49:10+01:00</updated>
+  <updated>2014-11-19T18:06:22+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Untitled Sanspoint Podcast Project]]></title>
+    <link href="http://analogsenses.github.io/2014/11/19/the-untitled-sanspoint-podcast-project/"/>
+    <updated>2014-11-19T17:53:03+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/19/the-untitled-sanspoint-podcast-project</id>
+    <content type="html"><![CDATA[<p>Richard J. Anderson is back on the podcasting seat:</p>
+
+<blockquote><p><a href="http://www.sanspoint.com/archives/podcast">The Untitled Sanspoint Podcast Project</a> is a weekly podcast, about technology and culture. It’s fifteen minutes or less, and features only me, talking about what’s caught my attention. It also will feature a plug for something cool. New episodes will be released every Monday, but <a href="http://www.sanspoint.com/archives/podcast/1-toothpaste-tube/">Episode 1 is available now, for your listening pleasure</a>. It’s not on iTunes yet, but should be shortly. In the interim, <a href="http://www.sanspoint.com/?feed=podcast">you can subscribe by dropping this link in your podcast client of choice</a>.</p></blockquote>
+
+<p>Interesting format. Finding the exact sweet spot both in terms of length and frequency of episodes for a one-man tech podcast is a tricky thing to do well. I find the 15-minute mark to be a natural choice for this type of shows, and here it seems to work well.</p>
+
+<p>From what I&rsquo;ve seen so far, I&rsquo;d say The Untitled Sanspoint Podcast Project is off to a great start.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Overcast 1.1 adds iPad support, rotation and CarPlay]]></title>

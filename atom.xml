@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-19T17:49:10+01:00</updated>
+  <updated>2014-11-19T18:06:22+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -13,7 +13,26 @@
   
   <entry>
   
-	<title type="html"><![CDATA[Barbie F*cks It Up Again →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<title type="html"><![CDATA[The Untitled Sanspoint Podcast Project →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.sanspoint.com/archives/2014/11/19/the-untitled-sanspoint-podcast-project/"/>
+	
+    <updated>2014-11-19T17:53:03+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/11/19/the-untitled-sanspoint-podcast-project</id>
+  	
+  	<content type="html"><![CDATA[<p>Richard J. Anderson is back on the podcasting seat:</p>
+
+<blockquote><p><a href="http://www.sanspoint.com/archives/podcast">The Untitled Sanspoint Podcast Project</a> is a weekly podcast, about technology and culture. It’s fifteen minutes or less, and features only me, talking about what’s caught my attention. It also will feature a plug for something cool. New episodes will be released every Monday, but <a href="http://www.sanspoint.com/archives/podcast/1-toothpaste-tube/">Episode 1 is available now, for your listening pleasure</a>. It’s not on iTunes yet, but should be shortly. In the interim, <a href="http://www.sanspoint.com/?feed=podcast">you can subscribe by dropping this link in your podcast client of choice</a>.</p></blockquote>
+
+<p>Interesting format. Finding the exact sweet spot both in terms of length and frequency of episodes for a one-man tech podcast is a tricky thing to do well. I find the 15-minute mark to be a natural choice for this type of shows, and here it seems to work well.</p>
+
+<p>From what I&rsquo;ve seen so far, I&rsquo;d say The Untitled Sanspoint Podcast Project is off to a great start.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/11/19/the-untitled-sanspoint-podcast-project/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
+  <entry>
+  
+	<title type="html"><![CDATA[Barbie Fucks It Up Again →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
 	<link href="http://pamie.com/2014/11/barbie-fucks-it-up-again/"/>
 	
     <updated>2014-11-19T17:22:31+01:00</updated>
@@ -448,25 +467,6 @@
 
 <p>For a more detailed look at the changes, check out <a href="http://www.macstories.net/ios/overcast-1-1-brings-ipad-app-new-landscape-mode/">Federico Viticci&rsquo;s excellent overview</a>.</p>
 <a rel="full-article" href="http://analogsenses.github.io/2014/11/12/overcast-1-dot-1-adds-ipad-support-rotation-and-carplay/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Writer Emergency Pack →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.kickstarter.com/projects/913409803/writer-emergency-pack-helping-writers-get-unstuck"/>
-	
-    <updated>2014-11-12T12:09:16+01:00</updated>
-  	<id>http://analogsenses.github.io/2014/11/12/writer-emergency-pack</id>
-  	
-  	<content type="html"><![CDATA[<p>What a fantastic idea for a Kickstarter project. It&rsquo;s a beautiful deck of cards with helpful tips for writers who are stuck.</p>
-
-<p>Via <a href="http://daringfireball.net/linked/2014/11/11/writer-emergency-pack">John Gruber</a>, who adds:</p>
-
-<blockquote><p>Nicely illustrated and designed (including excellent use of Univers). It’s a Kickstarter campaign that aimed small and has exploded way past their original goal. But the coolest thing is they’re donating packs of the cards to youth writing programs, and the more decks they sell, the cheaper each deck becomes to produce, and the more they’ll have to donate.</p></blockquote>
-
-<p>If you do any type of long-form writing regularly, either professionally or as a hobby, this is well worth your consideration.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/11/12/writer-emergency-pack/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

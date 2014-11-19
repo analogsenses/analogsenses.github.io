@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-19T17:49:10+01:00</updated>
+  <updated>2014-11-19T18:06:22+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -14,7 +14,22 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Barbie F*cks It Up Again]]></title>
+    <title type="html"><![CDATA[The Untitled Sanspoint Podcast Project]]></title>
+    <link href="http://analogsenses.github.io/2014/11/19/the-untitled-sanspoint-podcast-project/"/>
+    <updated>2014-11-19T17:53:03+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/19/the-untitled-sanspoint-podcast-project</id>
+    <content type="html"><![CDATA[<p>Richard J. Anderson is back on the podcasting seat:</p>
+
+<blockquote><p><a href="http://www.sanspoint.com/archives/podcast">The Untitled Sanspoint Podcast Project</a> is a weekly podcast, about technology and culture. It’s fifteen minutes or less, and features only me, talking about what’s caught my attention. It also will feature a plug for something cool. New episodes will be released every Monday, but <a href="http://www.sanspoint.com/archives/podcast/1-toothpaste-tube/">Episode 1 is available now, for your listening pleasure</a>. It’s not on iTunes yet, but should be shortly. In the interim, <a href="http://www.sanspoint.com/?feed=podcast">you can subscribe by dropping this link in your podcast client of choice</a>.</p></blockquote>
+
+<p>Interesting format. Finding the exact sweet spot both in terms of length and frequency of episodes for a one-man tech podcast is a tricky thing to do well. I find the 15-minute mark to be a natural choice for this type of shows, and here it seems to work well.</p>
+
+<p>From what I&rsquo;ve seen so far, I&rsquo;d say The Untitled Sanspoint Podcast Project is off to a great start.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Barbie Fucks It Up Again]]></title>
     <link href="http://analogsenses.github.io/2014/11/19/barbie-fcks-it-up-again/"/>
     <updated>2014-11-19T17:22:31+01:00</updated>
     <id>http://analogsenses.github.io/2014/11/19/barbie-fcks-it-up-again</id>
@@ -72,21 +87,6 @@
 <blockquote><p>Rather than just saying we only get Glances and Notifications, we get to build <strong>actual, useful</strong> watch apps. Those apps, however, are architected in such a way as to make them extremely battery conscious. I suspect the biggest power draw these apps will have is the networking between the iPhone and Watch. However, optimizing the Watch OS for efficient networking is much easier than building an entire, rich SDK that is similarly respectful.</p></blockquote>
 
 <p>I have to say, I&rsquo;m pretty excited. The fact that WatchKit is already out means the Apple Watch will support native 3rd-party apps from day one, and that&rsquo;s great for everyone.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[It's The Sweet Setup's 1-Year Birthday]]></title>
-    <link href="http://analogsenses.github.io/2014/11/18/its-the-sweet-setups-1-year-birthday/"/>
-    <updated>2014-11-18T23:30:39+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/18/its-the-sweet-setups-1-year-birthday</id>
-    <content type="html"><![CDATA[<p>Shawn Blanc:</p>
-
-<blockquote><p>I’d like to think that a year in, and The Sweet Setup has now found a good groove. There are <a href="http://thesweetsetup.com/colophon/">5 of us behind the scenes</a>: Stephen Hackett, Jeff Abbott, Chris Gonzales, and Bradley Chambers, and we’ve found an editorial pace that works for us: one setup interview and a quick tip per week, and two app reviews per month.</p></blockquote>
-
-<p>An awesome team for an awesome website.</p>
-
-<p>Happy birthday, guys.</p>
 ]]></content>
   </entry>
   
