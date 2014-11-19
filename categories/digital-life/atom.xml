@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-19T17:09:34+01:00</updated>
+  <updated>2014-11-19T17:41:49+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Barbie F*cks It Up Again]]></title>
+    <link href="http://analogsenses.github.io/2014/11/19/barbie-fcks-it-up-again/"/>
+    <updated>2014-11-19T17:22:31+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/19/barbie-fcks-it-up-again</id>
+    <content type="html"><![CDATA[<p>Pamela Ribon takes Susan Marenco to the woodshed on account of <a href="http://www.amazon.com/gp/product/0449816192/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0449816192&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=RU6KZWIRCLVSSL6I">her new Barbie double-book</a>, titled <em>&ldquo;I can be an Actress / I can be a Computer Engineer&rdquo;:</em></p>
+
+<blockquote><p>THE FUCKING END, PEOPLE. Despite having ruined her own laptop, her sister&rsquo;s laptop, and the library&rsquo;s computers, not to mention Steven and Brian&rsquo;s afternoon, she takes full credit for her game design— only to get extra credit and decide she&rsquo;s an awesome computer engineer! &ldquo;I did it all by myself!&rdquo;</p></blockquote>
+
+<p>Wait, there&rsquo;s more:</p>
+
+<blockquote><p>When you hold the book in your hands to read a story, the opposite book is upside down, facing out. So the final insult to this entire literary disaster is that when you read &ldquo;Barbie: I Can Be a Computer Engineer,&rdquo; it appears that you are so fucking dumb, you&rsquo;re reading &ldquo;Barbie: I Can Be an Actress&rdquo; <em>upside down</em>.</p></blockquote>
+
+<p>See also, <a href="https://storify.com/Spacekatgal/compu">Brianna Wu&rsquo;s take</a> on the same book.</p>
+
+<p>Like they say, <em>&ldquo;the road to Hell is paved with good intentions&rdquo;</em>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The minimalist packing list]]></title>
@@ -66,21 +85,6 @@
 <p>An awesome team for an awesome website.</p>
 
 <p>Happy birthday, guys.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Responsive Images in Practice]]></title>
-    <link href="http://analogsenses.github.io/2014/11/18/responsive-images-in-practice/"/>
-    <updated>2014-11-18T13:38:37+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/18/responsive-images-in-practice</id>
-    <content type="html"><![CDATA[<p>Eric Portis, on how to properly optimize the use of different image resolutions across varying display sizes on the web:</p>
-
-<blockquote><p><a href="http://httparchive.org/interesting.php#bytesperpage">Sixty-two percent of the weight of the web is images</a>, and we’re <a href="http://httparchive.org/trends.php?s=All&amp;minlabel=Nov+15+2010&amp;maxlabel=Oct+15+2014#bytesImg&amp;reqImg">serving more image bytes every day</a>. That would be peachy if all of those bytes were being put to good use. But on small or low-resolution screens, <a href="http://timkadlec.com/2013/06/why-we-need-responsive-images/">most of that data is waste</a>.</p></blockquote>
-
-<p>Much to digest here, set aside some time to really dive into it.</p>
-
-<p>Via <a href="http://www.loopinsight.com/2014/11/17/responsive-images-2/">The Loop</a>.</p>
 ]]></content>
   </entry>
   
