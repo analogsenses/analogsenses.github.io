@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-20T12:59:37+01:00</updated>
+  <updated>2014-11-20T16:17:54+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[There’s no such thing as a Get lunch (or app)]]></title>
+    <link href="http://analogsenses.github.io/2014/11/20/theres-no-such-thing-as-a-get-lunch-or-app/"/>
+    <updated>2014-11-20T16:15:01+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/20/theres-no-such-thing-as-a-get-lunch-or-app</id>
+    <content type="html"><![CDATA[<p>Jason Snell:</p>
+
+<blockquote><p>Apple today has apparently done a giant search-and-replace on the App Store to replace the word FREE with the word GET. This is apparently related to an EU ruling that it’s misleading to call <a href="http://techcrunch.com/2014/07/18/google-to-stop-labelling-games-with-in-app-purchases-free-in-the-eu-apple-touts-its-controls/">apps with in-app purchases “free”</a>.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple unveils WatchKit]]></title>
@@ -74,15 +85,6 @@
     <content type="html"><![CDATA[<p>Nice update to my favorite podcast player for iOS. I don&rsquo;t usually listen to podcasts on the iPad, but I have to say the new interface looks great.</p>
 
 <p>For a more detailed look at the changes, check out <a href="http://www.macstories.net/ios/overcast-1-1-brings-ipad-app-new-landscape-mode/">Federico Viticci&rsquo;s excellent overview</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The iPad Air 2 | Tools &amp; Toys]]></title>
-    <link href="http://analogsenses.github.io/2014/11/10/the-ipad-air-2-review-%7C-tools-and-toys/"/>
-    <updated>2014-11-10T16:35:33+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/10/the-ipad-air-2-review-|-tools-and-toys</id>
-    <content type="html"><![CDATA[<p>Fantastic review by Josh Ginter, as usual. Beautifully written, masterfully photographed, and with the personal warmth that Josh so skillfully imbues into his pieces. I really enjoyed this one, and I&rsquo;m sure you will too.</p>
 ]]></content>
   </entry>
   
