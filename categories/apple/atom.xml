@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-20T17:46:21+01:00</updated>
+  <updated>2014-11-20T17:54:06+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[11 things we just learned about how the Apple Watch works]]></title>
+    <link href="http://analogsenses.github.io/2014/11/20/11-things-we-just-learned-about-how-the-apple-watch-works/"/>
+    <updated>2014-11-20T17:52:27+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/20/11-things-we-just-learned-about-how-the-apple-watch-works</id>
+    <content type="html"><![CDATA[<p>Ross Miller, The Verge:</p>
+
+<blockquote><p>We&rsquo;ve been combing through all of <a href="https://developer.apple.com/watchkit/">Apple&rsquo;s publicly-released documentation</a> and watching the WatchKit introduction video. This is everything we&rsquo;ve learned about Apple Watch and how it works.</p></blockquote>
+
+<p>Interesting.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[There’s no such thing as a Get lunch (or app)]]></title>
@@ -74,17 +87,6 @@
 <p>I don&rsquo;t play many games on my iOS devices, but I just bought Monument Valley and, after playing through the first five levels, gave it a well-deserved 5-star rating and a glowing review. It&rsquo;s a beautiful, engaging game with amazing scenarios and extremely clever mechanics. Well-worth the asking price in my book.</p>
 
 <p>Via <a href="http://daringfireball.net/linked/2014/11/12/monument-valley">Daring Fireball</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Overcast 1.1 adds iPad support, rotation and CarPlay]]></title>
-    <link href="http://analogsenses.github.io/2014/11/12/overcast-1-dot-1-adds-ipad-support-rotation-and-carplay/"/>
-    <updated>2014-11-12T12:22:06+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/12/overcast-1-dot-1-adds-ipad-support-rotation-and-carplay</id>
-    <content type="html"><![CDATA[<p>Nice update to my favorite podcast player for iOS. I don&rsquo;t usually listen to podcasts on the iPad, but I have to say the new interface looks great.</p>
-
-<p>For a more detailed look at the changes, check out <a href="http://www.macstories.net/ios/overcast-1-1-brings-ipad-app-new-landscape-mode/">Federico Viticci&rsquo;s excellent overview</a>.</p>
 ]]></content>
   </entry>
   
