@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-20T17:54:06+01:00</updated>
+  <updated>2014-11-20T19:19:58+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The mesmerizing sketches of Shanghai Tango →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://tango2010weibo.tumblr.com"/>
+	
+    <updated>2014-11-20T18:56:45+01:00</updated>
+  	<id>http://analogsenses.github.io/2014/11/20/shanghai-tango</id>
+  	
+  	<content type="html"><![CDATA[<p>Mind-blowingly great:</p>
+
+<p class="extra-width"><a href="http://tango2010weibo.tumblr.com/image/100702407192"><img src="https://farm8.staticflickr.com/7545/15649455809_ab182a289e_o.jpg"></a></p>
+
+
+<p>Via <a href="http://coudal.com/archives/2014/11/shanghai_tango.php">Coudal Partners</a>.</p>
+<a rel="full-article" href="http://analogsenses.github.io/2014/11/20/shanghai-tango/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[11 things we just learned about how the Apple Watch works →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -435,27 +453,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The warped astrophysics of Interstellar →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.wired.com/2014/10/astrophysics-interstellar-black-hole/"/>
-	
-    <updated>2014-11-15T13:35:29+01:00</updated>
-  	<id>http://analogsenses.github.io/2014/11/15/the-warped-astrophysics-of-interstellar</id>
-  	
-  	<content type="html"><![CDATA[<p>Adam Rogers tells the story of how renowned astrophysicist Kip Thorne helped Christopher Nolan portray gravitational singularities — worm holes and black holes — in a scientifically accurate way:</p>
-
-<blockquote><p>Von Tunzelmann tried a tricky demo. She generated a flat, multicolored ring—a stand-in for the accretion disk—and positioned it around their spinning black hole. Something very, very weird happened. “We found that warping space around the black hole also warps the accretion disk,” Franklin says. “So rather than looking like Saturn&rsquo;s rings around a black sphere, the light creates this extraordinary halo.”</p>
-
-<p>That&rsquo;s what led Thorne to his “why, of course” moment when he first saw the final effect. The Double Negative team thought it must be a bug in the renderer. But Thorne realized that they had correctly modeled a phenomenon inherent in the math he&rsquo;d supplied.</p></blockquote>
-
-<p>This is what happens when incredibly smart people trained in different scientific disciplines are locked in a room together for a few months. Fascinating.</p>
-
-<p>Via <a href="http://toolsandtoys.net/editorials/comet-landings-solar-flares-and-interstellar-black-holes/">Tools &amp; Toys</a>.</p>
-<a rel="full-article" href="http://analogsenses.github.io/2014/11/15/the-warped-astrophysics-of-interstellar/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
