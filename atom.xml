@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://analogsenses.github.io/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-20T12:57:10+01:00</updated>
+  <updated>2014-11-20T12:59:37+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -13,8 +13,8 @@
   
   <entry>
   
-	<title type="html"><![CDATA[All Aboard AirBnB's Airplane Apartment]]></title>
-	<link href="http://analogsenses.github.io/2014/11/20/all-aboard-airbnbs-airplane-apartment/"/>
+	<title type="html"><![CDATA[All Aboard AirBnB's Airplane Apartment →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.messynessychic.com/2014/11/18/all-aboard-airbnbs-airplane-apartment/"/>
 	
     <updated>2014-11-20T12:53:33+01:00</updated>
   	<id>http://analogsenses.github.io/2014/11/20/all-aboard-airbnbs-airplane-apartment</id>
@@ -24,7 +24,7 @@
 <blockquote><p>As part of Airbnb’s “Night At” campaign, the company giving away the chance to stay in <a href="https://www.airbnb.com/rooms/4516821">this 366m², 116 window KLM airplane</a>. Three dates are up for grabs this month to stay in the recently decommissioned aircraft that had crossed globe 3675 times and now sits beside the runway of Amsterdam’s bustling Schiphol airport. Beautifully decorated inside by Dutch design company TANK, to honour the plane’s retirement, the blue and white jet has been converted into a luxury loft that sleeps four (but conveniently has more than 8 bathrooms).</p></blockquote>
 
 <p>This is one of the weirdest — and strangely, one of the most interesting — things I&rsquo;ve seen in a long time.</p>
-]]></content>
+<a rel="full-article" href="http://analogsenses.github.io/2014/11/20/all-aboard-airbnbs-airplane-apartment/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
