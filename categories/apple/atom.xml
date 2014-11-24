@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-24T20:45:22+01:00</updated>
+  <updated>2014-11-24T20:55:48+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple Announces World AIDS Day 2014 Campaign for (RED)]]></title>
+    <link href="http://analogsenses.github.io/2014/11/24/apple-announces-world-aids-day-2014-campaign-for-red/"/>
+    <updated>2014-11-24T20:52:12+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/24/apple-announces-world-aids-day-2014-campaign-for-red</id>
+    <content type="html"><![CDATA[<p>Apple, in an official statement:</p>
+
+<blockquote><p>To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store℠ called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p></blockquote>
+
+<p>What a great idea. If you wanted to try some new apps, this might be a good time to do it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AirParrot 2]]></title>
@@ -97,19 +110,6 @@
 <blockquote><p>Rather than just saying we only get Glances and Notifications, we get to build <strong>actual, useful</strong> watch apps. Those apps, however, are architected in such a way as to make them extremely battery conscious. I suspect the biggest power draw these apps will have is the networking between the iPhone and Watch. However, optimizing the Watch OS for efficient networking is much easier than building an entire, rich SDK that is similarly respectful.</p></blockquote>
 
 <p>I have to say, I&rsquo;m pretty excited. The fact that WatchKit is already out means the Apple Watch will support native 3rd-party apps from day one, and that&rsquo;s great for everyone.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Sweet Setup]]></title>
-    <link href="http://analogsenses.github.io/2014/11/17/my-sweet-setup/"/>
-    <updated>2014-11-17T17:25:46+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/17/my-sweet-setup</id>
-    <content type="html"><![CDATA[<p>This week I was invited to do an interview over at The Sweet Setup about the tools and gear I use every day. I think it went pretty well, and I hope you find it interesting.</p>
-
-<p>If you were curious to see how the magic happens, this is your chance.</p>
-
-<p>P.S. To me it&rsquo;s a great honor to be featured in The Sweet Setup. Many of my favorite people on the Internet have done this interview in the past, and I&rsquo;m thrilled to now be a small part of that awesome community.</p>
 ]]></content>
   </entry>
   
