@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-24T18:04:06+01:00</updated>
+  <updated>2014-11-24T20:34:31+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The New York Project, by Pavel Tenyakov]]></title>
+    <link href="http://analogsenses.github.io/2014/11/24/the-new-york-project-by-pavel-tenyakov/"/>
+    <updated>2014-11-24T20:27:48+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/24/the-new-york-project-by-pavel-tenyakov</id>
+    <content type="html"><![CDATA[<p>I love how these stunning time-lapse videos keep surfacing <a href="http://www.thenewsprint.co/2014/11/22/two-lands-gorgeous-timelapse-of-the-aurora-borealis/">every week</a>. This is one of my favorites so far:</p>
+
+<p>{% vimeo 110704674 %}</p>
+
+<p>Breathtaking.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The New York Times faces layoffs if buyout offer falls short]]></title>
@@ -128,21 +141,6 @@
 
 
 <p>Via <a href="http://coudal.com/archives/2014/11/shanghai_tango.php">Coudal Partners</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Surprising Complexity of Old-School Calculators]]></title>
-    <link href="http://analogsenses.github.io/2014/11/20/the-surprising-complexity-of-old-school-calculators/"/>
-    <updated>2014-11-20T17:37:56+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/20/the-surprising-complexity-of-old-school-calculators</id>
-    <content type="html"><![CDATA[<p>Jordan G. Teicher, Wired:</p>
-
-<blockquote><p>Before the electronic calculator, there was the mechanical calculator, a heavy device often about the size of a small computer that cost thousands in today’s dollars. They were indispensable tools used for the most complex business and engineering problems of the time. The machines that have survived are of little value now, and often in need of repairs.</p>
-
-<p>Kevin Twomey captures their mechanical beauty in his series <a href="http://kevintwomey.com/lowtech.html"><em>Low Tech</em></a>. His images are as complex as the machines; Twomey takes several shots at different focus distances, then uses a program called Helicon Focus to stitch them together so every detail is perfectly clear and sharply focused. The photos reveal a crowded cacophony of rods, springs, and even motors.</p></blockquote>
-
-<p>Gorgeous.</p>
 ]]></content>
   </entry>
   

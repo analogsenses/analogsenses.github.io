@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/photography/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-24T18:04:06+01:00</updated>
+  <updated>2014-11-24T20:34:31+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The New York Project, by Pavel Tenyakov]]></title>
+    <link href="http://analogsenses.github.io/2014/11/24/the-new-york-project-by-pavel-tenyakov/"/>
+    <updated>2014-11-24T20:27:48+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/24/the-new-york-project-by-pavel-tenyakov</id>
+    <content type="html"><![CDATA[<p>I love how these stunning time-lapse videos keep surfacing <a href="http://www.thenewsprint.co/2014/11/22/two-lands-gorgeous-timelapse-of-the-aurora-borealis/">every week</a>. This is one of my favorites so far:</p>
+
+<p>{% vimeo 110704674 %}</p>
+
+<p>Breathtaking.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Russian miner spends his breaks taking photos of foxes in the Arctic Circle]]></title>
@@ -128,23 +141,6 @@
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Floating Basket Homes of Iraq: A Paradise almost Lost to Saddam]]></title>
-    <link href="http://analogsenses.github.io/2014/11/13/the-floating-basket-homes-of-iraq-a-paradise-almost-lost-to-saddam/"/>
-    <updated>2014-11-13T12:33:12+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/13/the-floating-basket-homes-of-iraq-a-paradise-almost-lost-to-saddam</id>
-    <content type="html"><![CDATA[<p>Messy Nessy:</p>
-
-<blockquote><p>It was Iraq’s ‘Garden of Eden&#8217;; unique wetlands in southern Iraq where a people known as the Ma’dan, or ‘Arabs of the marsh’, lived in a Mesopotamian Venice, characterised by beautifully elaborate floating houses made entirely of reeds harvested from the open water.</p></blockquote>
-
-<p>Incredibly beautiful images and a sad, sad story:</p>
-
-<blockquote><p>During the 1991 uprisings in Iraq, Saddam Hussein drained the unique wetlands of southern Iraq as a punishment to the marsh arabs who had backed the uprising and allegedly given refuge to militiamen the government regarded as terrorists.</p>
-
-<p>The Iraqi government aggressively revived a 1970s irrigation project that had initially been abandoned after it began to disrupt the flow of water to the marshes. Very quickly, their food source was eliminated, their villages were attached and burnt down and their lush paradise systematically converted into a desert. What little water remained was reportedly poisoned.</p></blockquote>
 ]]></content>
   </entry>
   
