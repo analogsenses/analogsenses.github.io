@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-24T15:27:06+01:00</updated>
+  <updated>2014-11-24T18:04:06+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The New York Times faces layoffs if buyout offer falls short]]></title>
+    <link href="http://analogsenses.github.io/2014/11/24/the-new-york-times-could-face-layoffs-if-buyout-offer-falls-short/"/>
+    <updated>2014-11-24T17:25:52+01:00</updated>
+    <id>http://analogsenses.github.io/2014/11/24/the-new-york-times-could-face-layoffs-if-buyout-offer-falls-short</id>
+    <content type="html"><![CDATA[<p>Edmund Lee, Re/code:</p>
+
+<blockquote><p>So far, 29 people have applied for the exit and 14 have been accepted by management, according to two insiders. Applications, due Dec. 1, are still incoming, but based on an informal survey, the Times could fall short of its goal by as many as 25 to 30 positions, according to one person with knowledge of the matter. The Times could also be satisfied with less than 100 volunteers so long as the jobs being eliminated allow the Times to hit their financial goals.</p></blockquote>
+
+<p>The New York Times is in a tough spot. Of course, a significant part of the problem lies in their lack of understanding of digital media:</p>
+
+<blockquote><p>A big part of the reason for the cutbacks is that the paper’s new subscription strategy, based on the idea of multiple apps, isn’t working. The Times has already planned to shut down its NYTOpinion app, four months after it launched, because not enough people were buying subscriptions for the service, marketed at $6 a month.</p>
+
+<p>And while the Times’ slimmed-down digital subscription app, NYT Now, will continue to operate, it hasn’t seen the adoption the company has hoped for, the Times has said.</p></blockquote>
+
+<p>It&rsquo;s sad to see the Times struggling but let&rsquo;s face it, their digital subscription model is <a href="http://www.nytimes.com/subscriptions/Multiproduct/lp3LWL6.html">downright ridiculous</a>. For example, the smartphone and tablet subscriptions are priced separately, and if you want to read the NYT in both your phone and your tablet you need to pay for both.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> It feels like 2010 all over again.</p>
+
+<p>I can&rsquo;t believe we still have to say this in 2014, because it&rsquo;s just obvious: people pay for the content, not the app. And the New York Times is the same whether your read it on your computer, your tablet or your smartphone. Trying to charge separately for these types of access is simply shameful, and it will only hurt them in the long run.</p>
+
+<p>This is a problem that all newspapers are facing, and it&rsquo;s caused by their institutionalized — and completely illogical — fear of digital media. And the problem is not going away.</p>
+
+<p>It may take a long time for them to die, but make no mistake, the Times is in trouble. Either they change their ways — and soon — or I&rsquo;m afraid they&rsquo;ll continue to struggle until their eventual demise. And it won&rsquo;t be pretty.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Technically, you&rsquo;re paying for a combined, &ldquo;All Digital Access&rdquo; subscription that includes both the smartphone and tablet apps, and that conveniently costs <em>exactly</em> the same as buying them separately. So, you know, it&rsquo;s totally <em>not</em> paying for both. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The tall tales of “Little Nicolás”]]></title>
@@ -110,21 +143,6 @@
 <p>Kevin Twomey captures their mechanical beauty in his series <a href="http://kevintwomey.com/lowtech.html"><em>Low Tech</em></a>. His images are as complex as the machines; Twomey takes several shots at different focus distances, then uses a program called Helicon Focus to stitch them together so every detail is perfectly clear and sharply focused. The photos reveal a crowded cacophony of rods, springs, and even motors.</p></blockquote>
 
 <p>Gorgeous.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The New Way to Edit Photos]]></title>
-    <link href="http://analogsenses.github.io/2014/11/20/the-new-way-to-edit-photos/"/>
-    <updated>2014-11-20T17:03:33+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/20/the-new-way-to-edit-photos</id>
-    <content type="html"><![CDATA[<p>Ben Brooks has a great article for those looking for an alternative to Adobe Lightroom:</p>
-
-<blockquote><p>I briefly thought about buying or subscribing just for Lightroom, but that seemed silly. So I kept thinking and I came across a new app in my Reading List: <a href="http://flareapp.com/">Flare 2</a>.</p>
-
-<p>I never gave Flare a go, it looked gimmicky to me when it came out — like Instagram for the Mac — but in truth it is exactly what I want. And probably just about what every normal photographer needs: a quick way to get your photos ready to share.</p>
-
-<p>It’s dead simple.</p></blockquote>
 ]]></content>
   </entry>
   
