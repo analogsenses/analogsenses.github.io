@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-24T20:34:31+01:00</updated>
+  <updated>2014-11-24T20:45:22+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://analogsenses.github.io/2014/11/24/the-new-york-project-by-pavel-tenyakov</id>
     <content type="html"><![CDATA[<p>I love how these stunning time-lapse videos keep surfacing <a href="http://www.thenewsprint.co/2014/11/22/two-lands-gorgeous-timelapse-of-the-aurora-borealis/">every week</a>. This is one of my favorites so far:</p>
 
-<p>{% vimeo 110704674 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/110704674 "></iframe></div></p>
 
 <p>Breathtaking.</p>
 ]]></content>

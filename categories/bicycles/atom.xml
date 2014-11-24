@@ -4,7 +4,7 @@
   <title><![CDATA[Category: bicycles | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/bicycles/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-24T20:34:31+01:00</updated>
+  <updated>2014-11-24T20:45:22+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -26,7 +26,7 @@
 
 <p>I know this individual. I work three metres from him every day. Ole Kassow is his name.</p></blockquote>
 
-<p>{% youtube O6Ti4qUa-OU %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/O6Ti4qUa-OU" allowfullscreen></iframe></div></p>
 
 <p>Humanity at its best.</p>
 ]]></content>
@@ -92,7 +92,7 @@
 
 <p>They&rsquo;re definitely setting a strong example. Here&rsquo;s hoping others will follow.</p>
 
-<p>{% vimeo 97097924 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/97097924 "></iframe></div></p>
 ]]></content>
   </entry>
   
