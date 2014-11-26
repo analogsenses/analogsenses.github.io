@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: podcasting | Analog Senses]]></title>
-  <link href="http://analogsenses.github.io/categories/podcasting/atom.xml" rel="self"/>
-  <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:36:15+01:00</updated>
-  <id>http://analogsenses.github.io/</id>
+  <link href="http://www.analogsenses.com/categories/podcasting/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-11-26T12:51:55+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Untitled Sanspoint Podcast Project]]></title>
-    <link href="http://analogsenses.github.io/2014/11/19/the-untitled-sanspoint-podcast-project/"/>
+    <link href="http://www.analogsenses.com/2014/11/19/the-untitled-sanspoint-podcast-project/"/>
     <updated>2014-11-19T17:53:03+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/19/the-untitled-sanspoint-podcast-project</id>
+    <id>http://www.analogsenses.com/2014/11/19/the-untitled-sanspoint-podcast-project</id>
     <content type="html"><![CDATA[<p>Richard J. Anderson is back on the podcasting seat:</p>
 
 <blockquote><p><a href="http://www.sanspoint.com/archives/podcast">The Untitled Sanspoint Podcast Project</a> is a weekly podcast, about technology and culture. It’s fifteen minutes or less, and features only me, talking about what’s caught my attention. It also will feature a plug for something cool. New episodes will be released every Monday, but <a href="http://www.sanspoint.com/archives/podcast/1-toothpaste-tube/">Episode 1 is available now, for your listening pleasure</a>. It’s not on iTunes yet, but should be shortly. In the interim, <a href="http://www.sanspoint.com/?feed=podcast">you can subscribe by dropping this link in your podcast client of choice</a>.</p></blockquote>
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Overcast 1.1 adds iPad support, rotation and CarPlay]]></title>
-    <link href="http://analogsenses.github.io/2014/11/12/overcast-1-dot-1-adds-ipad-support-rotation-and-carplay/"/>
+    <link href="http://www.analogsenses.com/2014/11/12/overcast-1-dot-1-adds-ipad-support-rotation-and-carplay/"/>
     <updated>2014-11-12T12:22:06+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/12/overcast-1-dot-1-adds-ipad-support-rotation-and-carplay</id>
+    <id>http://www.analogsenses.com/2014/11/12/overcast-1-dot-1-adds-ipad-support-rotation-and-carplay</id>
     <content type="html"><![CDATA[<p>Nice update to my favorite podcast player for iOS. I don&rsquo;t usually listen to podcasts on the iPad, but I have to say the new interface looks great.</p>
 
 <p>For a more detailed look at the changes, check out <a href="http://www.macstories.net/ios/overcast-1-1-brings-ipad-app-new-landscape-mode/">Federico Viticci&rsquo;s excellent overview</a>.</p>
@@ -41,9 +41,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Incomparable, episode 212: Toy Story]]></title>
-    <link href="http://analogsenses.github.io/2014/09/25/the-incomparable-episode-212-toy-story/"/>
+    <link href="http://www.analogsenses.com/2014/09/25/the-incomparable-episode-212-toy-story/"/>
     <updated>2014-09-25T14:40:31+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/25/the-incomparable-episode-212-toy-story</id>
+    <id>http://www.analogsenses.com/2014/09/25/the-incomparable-episode-212-toy-story</id>
     <content type="html"><![CDATA[<p>These days it seems there are so many great podcasts it&rsquo;s almost impossible to keep up with all of them. Lately I&rsquo;m making a conscious effort to discover new shows, and I recently ran into one of the truly great ones: <a href="http://www.theincomparable.com/theincomparable/">The Incomparable</a>, hosted by Jason Snell.</p>
 
 <p>I love the feeling you get when you discover something really awesome —and popular!— that you had no idea even existed. At episode 212, The Incomparable is a veteran show and it features some of the very best podcasters on a regular basis. In this episode alone, you get to listen to Andy Ihnatko, John Siracusa, Merlin Mann, Steve Lutz, David J. Loehr and, of course, Mr. Jason Snell himself.</p>

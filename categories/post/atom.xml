@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: post | Analog Senses]]></title>
-  <link href="http://analogsenses.github.io/categories/post/atom.xml" rel="self"/>
-  <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:36:15+01:00</updated>
-  <id>http://analogsenses.github.io/</id>
+  <link href="http://www.analogsenses.com/categories/post/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-11-26T12:51:55+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Déjà vu]]></title>
-    <link href="http://analogsenses.github.io/2011/05/02/deja-vu/"/>
+    <link href="http://www.analogsenses.com/2011/05/02/deja-vu/"/>
     <updated>2011-05-02T02:54:34+02:00</updated>
-    <id>http://analogsenses.github.io/2011/05/02/deja-vu</id>
+    <id>http://www.analogsenses.com/2011/05/02/deja-vu</id>
     <content type="html"><![CDATA[<p>I collect memories.</p>
 
 <p>This is the story of one of my favorite ones. It&rsquo;s the best kind of story: the one that doesn&rsquo;t have an ending yet. It&rsquo;s about character, and it involves two cities, two airports, and two friends.</p>
@@ -50,9 +50,9 @@
   
   <entry>
     <title type="html"><![CDATA[Licence to Cure]]></title>
-    <link href="http://analogsenses.github.io/2011/04/14/licence-to-cure/"/>
+    <link href="http://www.analogsenses.com/2011/04/14/licence-to-cure/"/>
     <updated>2011-04-14T16:16:02+02:00</updated>
-    <id>http://analogsenses.github.io/2011/04/14/licence-to-cure</id>
+    <id>http://www.analogsenses.com/2011/04/14/licence-to-cure</id>
     <content type="html"><![CDATA[<p>These are interesting times to be an engineer. For the past 3 years I have been working as a researcher in the <a href="http://lobezno.gbt.tfo.upm.es/portalGBT/index.php?lang=english">Bioengineering and Telemedicine Group</a> at <a href="http://www.upm.es/internacional">Technical University of Madrid</a> (GBT-UPM), where I&rsquo;ve been lucky enough to be involved in a number of exciting projects. I feel very fortunate to be a part of this group, because every day I get to work with extremely talented people who are just as passionate about their work as I am.</p>
 
 <p>I&rsquo;ve always found the engineering occupation to be very rewarding. It is an engineer&rsquo;s privilege, and his duty[1. DISCLAIMER: The male form &ldquo;his&rdquo; is used throughout this article simply as a convenience. There are plenty of female engineers out there, you know.], to summon every ounce of human knowledge and use it to build something that will actually improve people&rsquo;s lives. In a way, <a href="http://en.wikipedia.org/wiki/Biomedical_engineering">biomedical engineering</a> is perhaps one of the truest engineering disciplines: it lies very close to the core values of our profession.</p>
@@ -91,9 +91,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Weekend Edition Linked-List]]></title>
-    <link href="http://analogsenses.github.io/2011/03/28/the-weekend-edition-linked-list/"/>
+    <link href="http://www.analogsenses.com/2011/03/28/the-weekend-edition-linked-list/"/>
     <updated>2011-03-28T11:43:14+02:00</updated>
-    <id>http://analogsenses.github.io/2011/03/28/the-weekend-edition-linked-list</id>
+    <id>http://www.analogsenses.com/2011/03/28/the-weekend-edition-linked-list</id>
     <content type="html"><![CDATA[<p>Admittedly, I&rsquo;ve been giggling over the iPad 2 like a little girl since <a href="http://analogsenses.com/2011/03/25/enter-the-ipad-2/">I got it on Friday</a>, which hasn&rsquo;t left me much time to write a decent post, or compile the hottest stories of the past two days. That is not to say that there weren&rsquo;t any stories, on the contrary: some of them were pretty good, and a couple were simply hilarious.</p>
 
 <p>The problem with being a little late is that most of these stories have already been reported in many fine places all over the Web, so instead of sounding like broken record, I&rsquo;m just going to point you towards them and let you see for yourself.</p>
@@ -123,9 +123,9 @@
   
   <entry>
     <title type="html"><![CDATA[Enter the iPad 2]]></title>
-    <link href="http://analogsenses.github.io/2011/03/26/enter-the-ipad-2/"/>
+    <link href="http://www.analogsenses.com/2011/03/26/enter-the-ipad-2/"/>
     <updated>2011-03-26T02:14:19+01:00</updated>
-    <id>http://analogsenses.github.io/2011/03/26/enter-the-ipad-2</id>
+    <id>http://www.analogsenses.com/2011/03/26/enter-the-ipad-2</id>
     <content type="html"><![CDATA[<p>As of today, I&rsquo;m the proud owner of a 32 GB, WiFi-only white iPad 2. If you don&rsquo;t get it on Day One, it doesn&rsquo;t count ;)</p>
 
 <p>I have to admit that this is not the first time I&rsquo;ve done something like this: I waited more than 6 hours in line to get my iPhone 3G, the first one that was sold in Spain, on July 11th 2008, Day One. I still use it as my one and only phone.</p>
@@ -142,9 +142,9 @@
   
   <entry>
     <title type="html"><![CDATA[Martinis on the Titanic]]></title>
-    <link href="http://analogsenses.github.io/2011/03/22/martinis-on-the-titanic/"/>
+    <link href="http://www.analogsenses.com/2011/03/22/martinis-on-the-titanic/"/>
     <updated>2011-03-22T23:03:52+01:00</updated>
-    <id>http://analogsenses.github.io/2011/03/22/martinis-on-the-titanic</id>
+    <id>http://www.analogsenses.com/2011/03/22/martinis-on-the-titanic</id>
     <content type="html"><![CDATA[<p>In the interest of full disclosure, let me get something out of the way:</p>
 
 <p>Sometimes I can be an ass.</p>

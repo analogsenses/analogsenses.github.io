@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: humor | Analog Senses]]></title>
-  <link href="http://analogsenses.github.io/categories/humor/atom.xml" rel="self"/>
-  <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:36:15+01:00</updated>
-  <id>http://analogsenses.github.io/</id>
+  <link href="http://www.analogsenses.com/categories/humor/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-11-26T12:51:55+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Commissioner Gordon's Origins | DORKLY]]></title>
-    <link href="http://analogsenses.github.io/2014/10/13/commissioner-gordons-origins/"/>
+    <link href="http://www.analogsenses.com/2014/10/13/commissioner-gordons-origins/"/>
     <updated>2014-10-13T13:17:44+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/13/commissioner-gordons-origins</id>
+    <id>http://www.analogsenses.com/2014/10/13/commissioner-gordons-origins</id>
     <content type="html"><![CDATA[<p>If you&rsquo;re watching <a href="http://www.imdb.com/title/tt3749900/">Gotham</a>, you may have been surprised by the physical appearance of Detective James Gordon, the man destined to become Commissioner of the Gotham City Police Department. In the show, actor <a href="http://www.imdb.com/name/nm1360270/">Ben McKenzie</a> isn&rsquo;t sporting the classic mustache and glasses that have defined the character&rsquo;s looks for decades.</p>
 
 <p>Well, now you know why:</p>

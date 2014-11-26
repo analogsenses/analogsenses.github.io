@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /error/
 
-Sitemap: http://analogsenses.github.io/sitemap.xml 
+Sitemap: http://www.analogsenses.com/sitemap.xml 
