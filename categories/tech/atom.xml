@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: tech | Analog Senses]]></title>
-  <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
-  <link href="http://www.analogsenses.com/"/>
-  <updated>2014-11-26T12:51:55+01:00</updated>
-  <id>http://www.analogsenses.com/</id>
+  <link href="http://analogsenses.github.io/categories/tech/atom.xml" rel="self"/>
+  <link href="http://analogsenses.github.io/"/>
+  <updated>2014-11-26T12:54:15+01:00</updated>
+  <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[You Can Now Search for Every Tweet Ever Sent in the Twitter App]]></title>
-    <link href="http://www.analogsenses.com/2014/11/20/you-can-now-search-for-every-tweet-ever-sent-in-the-twitter-app/"/>
+    <link href="http://analogsenses.github.io/2014/11/20/you-can-now-search-for-every-tweet-ever-sent-in-the-twitter-app/"/>
     <updated>2014-11-20T16:21:30+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/20/you-can-now-search-for-every-tweet-ever-sent-in-the-twitter-app</id>
+    <id>http://analogsenses.github.io/2014/11/20/you-can-now-search-for-every-tweet-ever-sent-in-the-twitter-app</id>
     <content type="html"><![CDATA[<p>Federico Viticci:</p>
 
 <blockquote><p>In <a href="https://blog.twitter.com/2014/building-a-complete-tweet-index">a blog post published today</a>, Twitter announced that every tweet sent since 2006 is indexed and can be searched in the Twitter apps for the web and mobile devices.</p></blockquote>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[John Hodgman is deleting Uber from his phone now]]></title>
-    <link href="http://www.analogsenses.com/2014/11/19/john-hodgman-is-deleting-uber-from-his-phone-now/"/>
+    <link href="http://analogsenses.github.io/2014/11/19/john-hodgman-is-deleting-uber-from-his-phone-now/"/>
     <updated>2014-11-19T18:14:54+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/19/john-hodgman-is-deleting-uber-from-his-phone-now</id>
+    <id>http://analogsenses.github.io/2014/11/19/john-hodgman-is-deleting-uber-from-his-phone-now</id>
     <content type="html"><![CDATA[<p>John Hodgman has decided to stop using Uber after <a href="http://www.buzzfeed.com/bensmith/uber-executive-suggests-digging-up-dirt-on-journalists">one of its executives</a> suggested they should dig up some dirt on several journalists — particularly Sarah Lacy from PandoDaily — to protect the company from negative press coverage:</p>
 
 <blockquote><p>I like Uber. I know some don’t. I don’t intend to blackmail them.</p>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[Barbie Fucks It Up Again]]></title>
-    <link href="http://www.analogsenses.com/2014/11/19/barbie-fcks-it-up-again/"/>
+    <link href="http://analogsenses.github.io/2014/11/19/barbie-fcks-it-up-again/"/>
     <updated>2014-11-19T17:22:31+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/19/barbie-fcks-it-up-again</id>
+    <id>http://analogsenses.github.io/2014/11/19/barbie-fcks-it-up-again</id>
     <content type="html"><![CDATA[<p>Pamela Ribon takes Susan Marenco to the woodshed on account of <a href="http://www.amazon.com/gp/product/0449816192/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0449816192&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=RU6KZWIRCLVSSL6I">her new Barbie double-book</a>, titled <em>&ldquo;I can be an Actress / I can be a Computer Engineer&rdquo;:</em></p>
 
 <blockquote><p>THE FUCKING END, PEOPLE.</p>
@@ -70,9 +70,9 @@
   
   <entry>
     <title type="html"><![CDATA[Responsive Images in Practice]]></title>
-    <link href="http://www.analogsenses.com/2014/11/18/responsive-images-in-practice/"/>
+    <link href="http://analogsenses.github.io/2014/11/18/responsive-images-in-practice/"/>
     <updated>2014-11-18T13:38:37+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/18/responsive-images-in-practice</id>
+    <id>http://analogsenses.github.io/2014/11/18/responsive-images-in-practice</id>
     <content type="html"><![CDATA[<p>Eric Portis, on how to properly optimize the use of different image resolutions across varying display sizes on the web:</p>
 
 <blockquote><p><a href="http://httparchive.org/interesting.php#bytesperpage">Sixty-two percent of the weight of the web is images</a>, and we’re <a href="http://httparchive.org/trends.php?s=All&amp;minlabel=Nov+15+2010&amp;maxlabel=Oct+15+2014#bytesImg&amp;reqImg">serving more image bytes every day</a>. That would be peachy if all of those bytes were being put to good use. But on small or low-resolution screens, <a href="http://timkadlec.com/2013/06/why-we-need-responsive-images/">most of that data is waste</a>.</p></blockquote>
@@ -85,9 +85,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dustin Curtis on Amazon's Echo Chamber]]></title>
-    <link href="http://www.analogsenses.com/2014/11/07/dustin-curtis-on-amazons-echo-chamber/"/>
+    <link href="http://analogsenses.github.io/2014/11/07/dustin-curtis-on-amazons-echo-chamber/"/>
     <updated>2014-11-07T12:42:41+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/07/dustin-curtis-on-amazons-echo-chamber</id>
+    <id>http://analogsenses.github.io/2014/11/07/dustin-curtis-on-amazons-echo-chamber</id>
     <content type="html"><![CDATA[<blockquote><p>It’s an echo chamber. They make a product, they market the product on Amazon.com, they sell the product to Amazon.com customers, they get a false sense of success, the customer puts the product in a drawer and never uses it, and then Amazon moves on to the next product. Finally, with the Fire Phone, customers have been pushing back. You can’t buy a phone and put it in a lonely drawer, never to use it again, like you would with a Fire Tablet. You can’t dupe your customers by selling them a shitty phone, because a phone becomes a part of its user’s identity.</p></blockquote>
 
 <p>It&rsquo;s kind of uncanny how Amazon can be so good at retail, and <em>so</em> bad at consumer electronics, especially considering that both industries start off with a very similar premise: that success lies in the answer to the question, &ldquo;what do people want?&rdquo;</p>

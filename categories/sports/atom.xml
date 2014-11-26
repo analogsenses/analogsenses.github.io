@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: sports | Analog Senses]]></title>
-  <link href="http://www.analogsenses.com/categories/sports/atom.xml" rel="self"/>
-  <link href="http://www.analogsenses.com/"/>
-  <updated>2014-11-26T12:51:55+01:00</updated>
-  <id>http://www.analogsenses.com/</id>
+  <link href="http://analogsenses.github.io/categories/sports/atom.xml" rel="self"/>
+  <link href="http://analogsenses.github.io/"/>
+  <updated>2014-11-26T12:54:15+01:00</updated>
+  <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Roger Federer’s Nine Racquets | The New Yorker]]></title>
-    <link href="http://www.analogsenses.com/2014/08/31/roger-federers-nine-racquets-the-new-yorker/"/>
+    <link href="http://analogsenses.github.io/2014/08/31/roger-federers-nine-racquets-the-new-yorker/"/>
     <updated>2014-08-31T12:55:37+02:00</updated>
-    <id>http://www.analogsenses.com/2014/08/31/roger-federers-nine-racquets-the-new-yorker</id>
+    <id>http://analogsenses.github.io/2014/08/31/roger-federers-nine-racquets-the-new-yorker</id>
     <content type="html"><![CDATA[<p>Nice piece by Michael Steinberger on Priority 1 (P1), the company formed by Nate Ferguson and Ron Yu, who have been stringing racquets for professional tennis players for decades:</p>
 
 <blockquote>Federer hired the duo on a trial basis at the Italian Open in May, 2004.  Two months later, Federer successfully defended his Wimbledon title. A few hours after the match, Ferguson and Yu heard a knock on the door of their rented house. Federer, dressed in a tuxedo for the Champions Ball, had stopped by to let them know that he was hiring them full-time.</blockquote>
@@ -34,18 +34,18 @@
   
   <entry>
     <title type="html"><![CDATA[Greatness Meets Greatness]]></title>
-    <link href="http://www.analogsenses.com/2014/08/27/greatness-meets-greatness/"/>
+    <link href="http://analogsenses.github.io/2014/08/27/greatness-meets-greatness/"/>
     <updated>2014-08-27T17:14:16+02:00</updated>
-    <id>http://www.analogsenses.com/2014/08/27/greatness-meets-greatness</id>
+    <id>http://analogsenses.github.io/2014/08/27/greatness-meets-greatness</id>
     <content type="html"><![CDATA[<p>Roger Federer and Michael Jordan unveil the new Zoom Vapor AJ3 shoes at the 2014 US Open.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Steve Ballmer is really excited to own the Clippers]]></title>
-    <link href="http://www.analogsenses.com/2014/08/26/steve-ballmer-is-really-excited-to-own-the-clippers/"/>
+    <link href="http://analogsenses.github.io/2014/08/26/steve-ballmer-is-really-excited-to-own-the-clippers/"/>
     <updated>2014-08-26T18:13:05+02:00</updated>
-    <id>http://www.analogsenses.com/2014/08/26/steve-ballmer-is-really-excited-to-own-the-clippers</id>
+    <id>http://analogsenses.github.io/2014/08/26/steve-ballmer-is-really-excited-to-own-the-clippers</id>
     <content type="html"><![CDATA[<p>I love this guy.</p>
 
 <p>Via <a href="http://parislemon.com/post/95815641617/shortformblog-this-wonderful-clip-is-proof-that">MG Siegler</a>.</p>
@@ -54,9 +54,9 @@
   
   <entry>
     <title type="html"><![CDATA[Roger Federer qualifies for the ATP World Tour Finals for a record 13th consecutive year]]></title>
-    <link href="http://www.analogsenses.com/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year/"/>
+    <link href="http://analogsenses.github.io/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year/"/>
     <updated>2014-08-18T20:53:04+02:00</updated>
-    <id>http://www.analogsenses.com/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year</id>
+    <id>http://analogsenses.github.io/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year</id>
     <content type="html"><![CDATA[<blockquote>The 33-year-old Swiss is the most successful player to compete at the Barclays ATP World Tour Finals, compiling a 44-11 record and claiming a record six titles in 2003-04, 2006-07 and 2010-11. He breaks the record of consecutive years qualifying for the championship, a mark he previously shared with Ivan Lendl (1980-91).</blockquote>
 
 
@@ -66,9 +66,9 @@
   
   <entry>
     <title type="html"><![CDATA[Novak Djokovic triumphs in five-set thriller | Wimbledon]]></title>
-    <link href="http://www.analogsenses.com/2014/07/07/novak-djokovic-triumphs-in-five-set-thriller/"/>
+    <link href="http://analogsenses.github.io/2014/07/07/novak-djokovic-triumphs-in-five-set-thriller/"/>
     <updated>2014-07-07T18:10:06+02:00</updated>
-    <id>http://www.analogsenses.com/2014/07/07/novak-djokovic-triumphs-in-five-set-thriller</id>
+    <id>http://analogsenses.github.io/2014/07/07/novak-djokovic-triumphs-in-five-set-thriller</id>
     <content type="html"><![CDATA[<blockquote>To describe this final as riveting is to sell it a long way short. We knew beforehand that it would be intense. But there must be some official IBM match statistic somewhere to prove that the near-15,000 spectators on the Centre Court and goodness knows how many millions at home were entirely shorn of all fingernails at the conclusion, such was the nervous chewing of digits inspired by the extraordinary exploits on court.</blockquote>
 
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: apple | Analog Senses]]></title>
-  <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
-  <link href="http://www.analogsenses.com/"/>
-  <updated>2014-11-26T12:51:55+01:00</updated>
-  <id>http://www.analogsenses.com/</id>
+  <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
+  <link href="http://analogsenses.github.io/"/>
+  <updated>2014-11-26T12:54:15+01:00</updated>
+  <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Apple Watch as a remote for Apple TV]]></title>
-    <link href="http://www.analogsenses.com/2014/11/26/craig-federighi-demoes-apple-watch-as-remote-for-apple-tv/"/>
+    <link href="http://analogsenses.github.io/2014/11/26/craig-federighi-demoes-apple-watch-as-remote-for-apple-tv/"/>
     <updated>2014-11-26T11:29:32+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/26/craig-federighi-demoes-apple-watch-as-remote-for-apple-tv</id>
+    <id>http://analogsenses.github.io/2014/11/26/craig-federighi-demoes-apple-watch-as-remote-for-apple-tv</id>
     <content type="html"><![CDATA[<p>During <a href="http://daringfireball.net/thetalkshow/2014/11/25/ep-101">the latest episode</a> of The Talk Show, John Gruber and Christa Mrgan talked about the possibility that the upcoming Apple Watch may be able to act as a remote for Apple TV. They mention Tim Cook making an offhand comment about this during an interview as the source of the idea.</p>
 
 <p>The truth is, not only did Tim Cook say it, but Craig Federighi actually demoed that very same feature on stage in October, during the last <a href="http://www.apple.com/apple-events/2014-oct-event/">Apple keynote</a>. It was towards the end of the segment with the phone call by Stephen Colbert. You can see it in the video below, starting at about the 4:15 mark. Federighi is applying the final tweaks to his <em>&ldquo;Tripling Down on Secrecy&rdquo;</em> presentation and uses AirPlay to preview it on an Apple TV:</p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[Apple Announces World AIDS Day 2014 Campaign for (RED)]]></title>
-    <link href="http://www.analogsenses.com/2014/11/24/apple-announces-world-aids-day-2014-campaign-for-red/"/>
+    <link href="http://analogsenses.github.io/2014/11/24/apple-announces-world-aids-day-2014-campaign-for-red/"/>
     <updated>2014-11-24T20:52:12+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/24/apple-announces-world-aids-day-2014-campaign-for-red</id>
+    <id>http://analogsenses.github.io/2014/11/24/apple-announces-world-aids-day-2014-campaign-for-red</id>
     <content type="html"><![CDATA[<p>Apple, in an official statement:</p>
 
 <blockquote><p>To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store℠ called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p></blockquote>
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[AirParrot 2]]></title>
-    <link href="http://www.analogsenses.com/2014/11/21/airparrot-2/"/>
+    <link href="http://analogsenses.github.io/2014/11/21/airparrot-2/"/>
     <updated>2014-11-21T18:48:05+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/21/airparrot-2</id>
+    <id>http://analogsenses.github.io/2014/11/21/airparrot-2</id>
     <content type="html"><![CDATA[<p>Today Squirrels introduced <a href="http://www.airsquirrels.com/airparrot/">AirParrot 2</a>, the next major version of their excellent screen-mirroring app for OS X (and Windows).</p>
 
 <p><a href="http://en.wikipedia.org/wiki/AirPlay">AirPlay</a> is an Apple technology that Macs and iOS devices use to stream audio and video to the Apple TV, among other things. It works great and it&rsquo;s the perfect way to watch all of your iTunes movies and TV shows on your big-screen TV instead of on your device. However, as with most Apple technologies, there are several areas where AirPlay falls short.</p>
@@ -99,9 +99,9 @@
   
   <entry>
     <title type="html"><![CDATA[11 things we just learned about how the Apple Watch works]]></title>
-    <link href="http://www.analogsenses.com/2014/11/20/11-things-we-just-learned-about-how-the-apple-watch-works/"/>
+    <link href="http://analogsenses.github.io/2014/11/20/11-things-we-just-learned-about-how-the-apple-watch-works/"/>
     <updated>2014-11-20T17:52:27+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/20/11-things-we-just-learned-about-how-the-apple-watch-works</id>
+    <id>http://analogsenses.github.io/2014/11/20/11-things-we-just-learned-about-how-the-apple-watch-works</id>
     <content type="html"><![CDATA[<p>Ross Miller, The Verge:</p>
 
 <blockquote><p>We&rsquo;ve been combing through all of <a href="https://developer.apple.com/watchkit/">Apple&rsquo;s publicly-released documentation</a> and watching the WatchKit introduction video. This is everything we&rsquo;ve learned about Apple Watch and how it works.</p></blockquote>
@@ -112,9 +112,9 @@
   
   <entry>
     <title type="html"><![CDATA[There’s no such thing as a Get lunch (or app)]]></title>
-    <link href="http://www.analogsenses.com/2014/11/20/theres-no-such-thing-as-a-get-lunch-or-app/"/>
+    <link href="http://analogsenses.github.io/2014/11/20/theres-no-such-thing-as-a-get-lunch-or-app/"/>
     <updated>2014-11-20T16:15:01+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/20/theres-no-such-thing-as-a-get-lunch-or-app</id>
+    <id>http://analogsenses.github.io/2014/11/20/theres-no-such-thing-as-a-get-lunch-or-app</id>
     <content type="html"><![CDATA[<p>Jason Snell:</p>
 
 <blockquote><p>Apple today has apparently done a giant search-and-replace on the App Store to replace the word FREE with the word GET. This is apparently related to an EU ruling that it’s misleading to call <a href="http://techcrunch.com/2014/07/18/google-to-stop-labelling-games-with-in-app-purchases-free-in-the-eu-apple-touts-its-controls/">apps with in-app purchases “free”</a>.</p></blockquote>
