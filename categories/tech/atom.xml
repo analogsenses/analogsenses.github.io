@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-11-26T19:13:08+01:00</updated>
+  <updated>2014-11-26T20:01:55+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Twitter may be tracking which apps are installed on your mobile device]]></title>
+    <link href="http://www.analogsenses.com/2014/11/26/twitter-is-tracking-which-apps-are-installed-on-your-device/"/>
+    <updated>2014-11-26T19:55:14+01:00</updated>
+    <id>http://www.analogsenses.com/2014/11/26/twitter-is-tracking-which-apps-are-installed-on-your-device</id>
+    <content type="html"><![CDATA[<p>Twitter, on a support page for their “app graph”:</p>
+
+<blockquote><p>To help build a more personal Twitter experience for you, we are collecting and occasionally updating the list of apps installed on your mobile device so we can deliver tailored content that you might be interested in. If you’re not interested in a tailored experience you can adjust your preferences at any time (read below). Additionally, if you have previously opted out of interest-based ads by turning on “Limit Ad Tracking” on your iOS device or by adjusting your Android device settings to “Opt out of interest-based ads,” we will not collect your apps unless you adjust your device settings.</p></blockquote>
+
+<p>This only applies to Twitter&rsquo;s first party clients but still, it&rsquo;s pretty worrisome and a blatant invasion of their users&#8217; privacy. Even if most users were interested in having “tailored content” delivered to them, this is something that clearly should be opt-in.</p>
+
+<p>Via <a href="https://twitter.com/Gromble/status/537673884083191808">Chris Gonzales</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[You Can Now Search for Every Tweet Ever Sent in the Twitter App]]></title>
@@ -80,17 +95,6 @@
 <p>Much to digest here, set aside some time to really dive into it.</p>
 
 <p>Via <a href="http://www.loopinsight.com/2014/11/17/responsive-images-2/">The Loop</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dustin Curtis on Amazon's Echo Chamber]]></title>
-    <link href="http://www.analogsenses.com/2014/11/07/dustin-curtis-on-amazons-echo-chamber/"/>
-    <updated>2014-11-07T12:42:41+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/07/dustin-curtis-on-amazons-echo-chamber</id>
-    <content type="html"><![CDATA[<blockquote><p>It’s an echo chamber. They make a product, they market the product on Amazon.com, they sell the product to Amazon.com customers, they get a false sense of success, the customer puts the product in a drawer and never uses it, and then Amazon moves on to the next product. Finally, with the Fire Phone, customers have been pushing back. You can’t buy a phone and put it in a lonely drawer, never to use it again, like you would with a Fire Tablet. You can’t dupe your customers by selling them a shitty phone, because a phone becomes a part of its user’s identity.</p></blockquote>
-
-<p>It&rsquo;s kind of uncanny how Amazon can be so good at retail, and <em>so</em> bad at consumer electronics, especially considering that both industries start off with a very similar premise: that success lies in the answer to the question, &ldquo;what do people want?&rdquo;</p>
 ]]></content>
   </entry>
   
