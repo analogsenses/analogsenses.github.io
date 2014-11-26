@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://analogsenses.github.io/categories/apple/atom.xml" rel="self"/>
   <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:30:50+01:00</updated>
+  <updated>2014-11-26T12:36:15+01:00</updated>
   <id>http://analogsenses.github.io/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Apple Watch as a remote for Apple TV]]></title>
-    <link href="http://analogsenses.github.io/2014/11/26/the-apple-watch-as-a-remote-for-apple-tv/"/>
+    <link href="http://analogsenses.github.io/2014/11/26/craig-federighi-demoes-apple-watch-as-remote-for-apple-tv/"/>
     <updated>2014-11-26T11:29:32+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/26/the-apple-watch-as-a-remote-for-apple-tv</id>
+    <id>http://analogsenses.github.io/2014/11/26/craig-federighi-demoes-apple-watch-as-remote-for-apple-tv</id>
     <content type="html"><![CDATA[<p>During <a href="http://daringfireball.net/thetalkshow/2014/11/25/ep-101">the latest episode</a> of The Talk Show, John Gruber and Christa Mrgan talked about the possibility that the upcoming Apple Watch may be able to act as a remote for Apple TV. They mention Tim Cook making an offhand comment about this during an interview as the source of the idea.</p>
 
 <p>The truth is, not only did Tim Cook say it, but Craig Federighi actually demoed that very same feature on stage in October, during the last <a href="http://www.apple.com/apple-events/2014-oct-event/">Apple keynote</a>. It was towards the end of the segment with the phone call by Stephen Colbert. You can see it in the video below, starting at about the 4:15 mark. Federighi is applying the final tweaks to his <em>&ldquo;Tripling Down on Secrecy&rdquo;</em> presentation and uses AirPlay to preview it on an Apple TV:</p>
