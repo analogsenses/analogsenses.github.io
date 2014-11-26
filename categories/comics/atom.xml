@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: comics | Analog Senses]]></title>
-  <link href="http://analogsenses.github.io/categories/comics/atom.xml" rel="self"/>
-  <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:54:15+01:00</updated>
-  <id>http://analogsenses.github.io/</id>
+  <link href="http://www.analogsenses.com/categories/comics/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-11-26T13:05:03+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Comic strip artists drawing blindfolded]]></title>
-    <link href="http://analogsenses.github.io/2014/09/29/comic-strip-artists-drawing-blindfolded/"/>
+    <link href="http://www.analogsenses.com/2014/09/29/comic-strip-artists-drawing-blindfolded/"/>
     <updated>2014-09-29T22:52:14+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/29/comic-strip-artists-drawing-blindfolded</id>
+    <id>http://www.analogsenses.com/2014/09/29/comic-strip-artists-drawing-blindfolded</id>
     <content type="html"><![CDATA[<blockquote><p>In 1947 Life Magazine asked some famous comic strip artists to to draw their famous characters while wearing a blindfold. The results are interesting.</p></blockquote>
 
 <p><img src="https://farm4.staticflickr.com/3929/15372365536_892afa7e19_o.gif" alt="Steve Canyon" /></p>

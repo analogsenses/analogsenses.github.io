@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: development | Analog Senses]]></title>
-  <link href="http://analogsenses.github.io/categories/development/atom.xml" rel="self"/>
-  <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:54:15+01:00</updated>
-  <id>http://analogsenses.github.io/</id>
+  <link href="http://www.analogsenses.com/categories/development/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-11-26T13:05:03+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[How the new HTML 'Picture' element will make the Web faster | Ars Technica]]></title>
-    <link href="http://analogsenses.github.io/2014/09/02/new-html-picture-element-will-make-the-web-faster/"/>
+    <link href="http://www.analogsenses.com/2014/09/02/new-html-picture-element-will-make-the-web-faster/"/>
     <updated>2014-09-02T15:49:39+02:00</updated>
-    <id>http://analogsenses.github.io/2014/09/02/new-html-picture-element-will-make-the-web-faster</id>
+    <id>http://www.analogsenses.com/2014/09/02/new-html-picture-element-will-make-the-web-faster</id>
     <content type="html"><![CDATA[<p>Scott Gilbertson on the new HTML Picture element, which will allow mobile devices to selectively load smaller-res images on websites:</p>
 
 <blockquote>
@@ -31,9 +31,9 @@ Web developers recognized this problem very early on in the growth of what was c
   
   <entry>
     <title type="html"><![CDATA[Now serving delicious baked goods]]></title>
-    <link href="http://analogsenses.github.io/2014/08/31/now-serving-delicious-baked-goods/"/>
+    <link href="http://www.analogsenses.com/2014/08/31/now-serving-delicious-baked-goods/"/>
     <updated>2014-08-31T12:59:01+02:00</updated>
-    <id>http://analogsenses.github.io/2014/08/31/now-serving-delicious-baked-goods</id>
+    <id>http://www.analogsenses.com/2014/08/31/now-serving-delicious-baked-goods</id>
     <content type="html"><![CDATA[<p>If you&rsquo;re a frequent reader of the site, you may have noticed some changes around here recently. There&rsquo;s been a subtle redesign: the theme&rsquo;s header is less cluttered, I&rsquo;ve done away with the sidebar and I&rsquo;ve bumped up the font size a bit. I&rsquo;ve also consolidated several pieces of information that were scattered all around the place into one, very specific location: the all-important About page.</p>
 
 <h2>The look</h2>

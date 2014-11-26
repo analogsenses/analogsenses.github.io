@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: design | Analog Senses]]></title>
-  <link href="http://analogsenses.github.io/categories/design/atom.xml" rel="self"/>
-  <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:54:15+01:00</updated>
-  <id>http://analogsenses.github.io/</id>
+  <link href="http://www.analogsenses.com/categories/design/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-11-26T13:05:03+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The amazing interior designs of BRICKS Amsterdam]]></title>
-    <link href="http://analogsenses.github.io/2014/11/25/the-amazing-interior-designs-of-bricks-amsterdam/"/>
+    <link href="http://www.analogsenses.com/2014/11/25/the-amazing-interior-designs-of-bricks-amsterdam/"/>
     <updated>2014-11-25T13:15:58+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/25/the-amazing-interior-designs-of-bricks-amsterdam</id>
+    <id>http://www.analogsenses.com/2014/11/25/the-amazing-interior-designs-of-bricks-amsterdam</id>
     <content type="html"><![CDATA[<p>BRICKS Amsterdam is an Amsterdam-based interior design studio created by James van der Velden. They have some incredible projects, including <a href="http://www.bricksamsterdam.com/project/garage-loft-amsterdam/">this stunning industrial loft</a> that they created in what used to be an old garage:</p>
 
 <p class="extra-width"><img src="https://farm8.staticflickr.com/7560/15873604691_f9507e8eb2_h.jpg" alt="Garage Loft by BRICKS Amsterdam"/></p>

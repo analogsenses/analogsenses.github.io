@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: productivity | Analog Senses]]></title>
-  <link href="http://analogsenses.github.io/categories/productivity/atom.xml" rel="self"/>
-  <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:54:15+01:00</updated>
-  <id>http://analogsenses.github.io/</id>
+  <link href="http://www.analogsenses.com/categories/productivity/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-11-26T13:05:03+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Little things that improve the way Shawn Blanc works on a Mac]]></title>
-    <link href="http://analogsenses.github.io/2014/10/02/little-things-that-improve-the-way-shawn-blanc-works-on-a-mac/"/>
+    <link href="http://www.analogsenses.com/2014/10/02/little-things-that-improve-the-way-shawn-blanc-works-on-a-mac/"/>
     <updated>2014-10-02T12:37:27+02:00</updated>
-    <id>http://analogsenses.github.io/2014/10/02/little-things-that-improve-the-way-shawn-blanc-works-on-a-mac</id>
+    <id>http://www.analogsenses.com/2014/10/02/little-things-that-improve-the-way-shawn-blanc-works-on-a-mac</id>
     <content type="html"><![CDATA[<p>Plenty of useful tips from Shawn here on how to use automation tasks as part of your workflow to improve daily productivity:</p>
 
 <blockquote><p>Computers are great at doing the boring, automated stuff we don’t like to do. So why not automate common tasks (like performing backups of your computer), pre-make decisions for your computer to carry out on your behalf (such as auto-filing certain email newsletters), and generally just find ways to make yourself more efficient?</p></blockquote>

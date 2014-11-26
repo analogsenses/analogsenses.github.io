@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: magic | Analog Senses]]></title>
-  <link href="http://analogsenses.github.io/categories/magic/atom.xml" rel="self"/>
-  <link href="http://analogsenses.github.io/"/>
-  <updated>2014-11-26T12:54:15+01:00</updated>
-  <id>http://analogsenses.github.io/</id>
+  <link href="http://www.analogsenses.com/categories/magic/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-11-26T13:05:03+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Our Magic, a documentary about magic — by magicians]]></title>
-    <link href="http://analogsenses.github.io/2014/11/07/our-magic-a-documentary-about-magic-by-magicians/"/>
+    <link href="http://www.analogsenses.com/2014/11/07/our-magic-a-documentary-about-magic-by-magicians/"/>
     <updated>2014-11-07T14:08:02+01:00</updated>
-    <id>http://analogsenses.github.io/2014/11/07/our-magic-a-documentary-about-magic-by-magicians</id>
+    <id>http://www.analogsenses.com/2014/11/07/our-magic-a-documentary-about-magic-by-magicians</id>
     <content type="html"><![CDATA[<p>This documentary looks amazing. One of my closest friends is a magician, and through him I&rsquo;ve learned to appreciate and love this beautiful craft. I can&rsquo;t wait to see it.</p>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/h52G7FoW1Go" allowfullscreen></iframe></div></p>
