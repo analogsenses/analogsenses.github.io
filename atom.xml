@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-11-26T23:40:25+01:00</updated>
+  <updated>2014-11-27T21:54:33+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Web apps, native apps, and app ecosystems →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://sixcolors.com/post/2014/11/web-apps-native-apps-and-app-ecosystems/"/>
+	
+    <updated>2014-11-27T21:49:22+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/11/27/web-apps-native-apps-and-app-ecosystems</id>
+  	
+  	<content type="html"><![CDATA[<p>Glenn Fleishman compares the strengths and weaknesses of native apps vs Web apps from a development standpoint. In the end, what are the factors that may make a developer choose one over the other?</p>
+
+<blockquote><p>I’d argue that it boils down to several app ecosystem features, rather than native code advantages. When there’s a genuine choice between building a Web app or native app, and when audience and revenue are important, the ecosystem makes the difference.</p>
+
+<p>Let me take <em>The Magazine</em> as an example, since I’ve lived with it for over two years, and most of that as its owner. What does Apple offer (and Google and other platforms as well)?</p></blockquote>
+<a rel="full-article" href="http://www.analogsenses.com/2014/11/27/web-apps-native-apps-and-app-ecosystems/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Sony A7 Mk II Gets Officially Announced in America →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -460,25 +477,6 @@
 
 <p>Interesting.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/11/20/11-things-we-just-learned-about-how-the-apple-watch-works/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Surprising Complexity of Old-School Calculators →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.wired.com/2014/11/kevin-twomey-low-tech/"/>
-	
-    <updated>2014-11-20T17:37:56+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/11/20/the-surprising-complexity-of-old-school-calculators</id>
-  	
-  	<content type="html"><![CDATA[<p>Jordan G. Teicher, Wired:</p>
-
-<blockquote><p>Before the electronic calculator, there was the mechanical calculator, a heavy device often about the size of a small computer that cost thousands in today’s dollars. They were indispensable tools used for the most complex business and engineering problems of the time. The machines that have survived are of little value now, and often in need of repairs.</p>
-
-<p>Kevin Twomey captures their mechanical beauty in his series <a href="http://kevintwomey.com/lowtech.html"><em>Low Tech</em></a>. His images are as complex as the machines; Twomey takes several shots at different focus distances, then uses a program called Helicon Focus to stitch them together so every detail is perfectly clear and sharply focused. The photos reveal a crowded cacophony of rods, springs, and even motors.</p></blockquote>
-
-<p>Gorgeous.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/11/20/the-surprising-complexity-of-old-school-calculators/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
