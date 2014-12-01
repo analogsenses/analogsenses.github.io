@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-01T17:15:10+01:00</updated>
+  <updated>2014-12-01T17:31:12+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jeffrey Zeldman is also pissed at Yahoo for selling his Flickr photos]]></title>
+    <link href="http://www.analogsenses.com/2014/12/01/jeffrey-zeldman-is-also-pissed-at-yahoo-for-selling-his-flickr-photos/"/>
+    <updated>2014-12-01T17:27:32+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/01/jeffrey-zeldman-is-also-pissed-at-yahoo-for-selling-his-flickr-photos</id>
+    <content type="html"><![CDATA[<p>Jeffrey Zeldman:</p>
+
+<blockquote><p>I want people to use my photos. That’s why I take them. I want that usage to be unencumbered. That’s why I chose a Creative Commons license. Some of the publications and businesses that use my photos make no money at all. Others make a little something. I don’t care either way. That’s why I chose a Commercial Attribution license. The license makes my work available to all publications and products, whether commercial or non-commercial. Fine with me.</p>
+
+<p>But Yahoo selling the stuff? Cheesy, desperate, and not at all fine with me. I pay for a Flickr Pro account, and am happy to do so. That’s how Yahoo is supposed to make money from my hobby.</p></blockquote>
+
+<p>Exactly.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Yahoo may start selling Creative Commons-licensed Flickr pictures — and keeping the profits]]></title>
@@ -105,21 +120,6 @@
 <blockquote><p>It was a lot less dramatic this time, however. There were no wars or illnesses or bad GPAs involved. It began when I went hyper-frugal to <a href="http://www.raptitude.com/2013/04/how-much-of-your-life-are-you-selling-off/">save up a job-quitting fund</a>. I didn’t want to spend money on booze or restaurants or parties any more, so I said no to almost every invitation for nearly a year. Eventually the inviters stopped bothering, and I lost track of my biggest circle of friends. I did, however, still spend a ton of time with my girlfriend at the time, who is now my best friend. I would have been up the creek without her.</p>
 
 <p>Then when I finally did quit my job in the fall, I stopped seeing a lot of another good friend, because we had worked out of the same office. He was, of course, another vital connecting piece, this time to my oldest and most important circle of friends. And they began to drift into the fog too.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Twitter may be tracking which apps are installed on your mobile device]]></title>
-    <link href="http://www.analogsenses.com/2014/11/26/twitter-is-tracking-which-apps-are-installed-on-your-device/"/>
-    <updated>2014-11-26T19:55:14+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/26/twitter-is-tracking-which-apps-are-installed-on-your-device</id>
-    <content type="html"><![CDATA[<p>Twitter, on a support page for their “app graph”:</p>
-
-<blockquote><p>To help build a more personal Twitter experience for you, we are collecting and occasionally updating the list of apps installed on your mobile device so we can deliver tailored content that you might be interested in. If you’re not interested in a tailored experience you can adjust your preferences at any time (read below). Additionally, if you have previously opted out of interest-based ads by turning on “Limit Ad Tracking” on your iOS device or by adjusting your Android device settings to “Opt out of interest-based ads,” we will not collect your apps unless you adjust your device settings.</p></blockquote>
-
-<p>This only applies to Twitter&rsquo;s first party clients but still, it&rsquo;s pretty worrisome and a blatant invasion of their users&#8217; privacy. Even if most users were interested in having “tailored content” delivered to them, this is something that clearly should be opt-in.</p>
-
-<p>Via <a href="https://twitter.com/Gromble/status/537673884083191808">Chris Gonzales</a>.</p>
 ]]></content>
   </entry>
   
