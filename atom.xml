@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-01T12:33:54+01:00</updated>
+  <updated>2014-12-01T12:41:17+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -14,7 +14,7 @@
   <entry>
   
 	<title type="html"><![CDATA[Wanderers — a short film by Erik Wernquist →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://vimeo.com/108650530"/>
+	<link href="http://www.erikwernquist.com/wanderers/"/>
 	
     <updated>2014-12-01T12:21:05+01:00</updated>
   	<id>http://www.analogsenses.com/2014/12/01/wanderers-a-short-film-by-erik-wernquist</id>
