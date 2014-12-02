@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://www.analogsenses.com/2014/12/02/americas-malls/</loc>
+    <lastmod>2014-12-02T17:44:40+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://www.analogsenses.com/2014/12/02/the-newsprint-enters-year-two/</loc>
     <lastmod>2014-12-02T16:22:00+01:00</lastmod>
     <priority>0.8</priority>
@@ -4073,28 +4079,28 @@
   
   <url>
     <loc>http://www.analogsenses.com/404.html</loc>
-    <lastmod>2014-12-02T16:58:14+01:00</lastmod>
+    <lastmod>2014-12-02T17:53:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.analogsenses.com/</loc>
-    <lastmod>2014-12-02T16:58:14+01:00</lastmod>
+    <lastmod>2014-12-02T17:53:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://www.analogsenses.com/archive/</loc>
-    <lastmod>2014-12-02T16:58:14+01:00</lastmod>
+    <lastmod>2014-12-02T17:53:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.analogsenses.com/about/</loc>
-    <lastmod>2014-12-02T16:58:14+01:00</lastmod>
+    <lastmod>2014-12-02T17:53:40+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
