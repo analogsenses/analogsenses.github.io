@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: typography | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/typography/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2014-12-02T21:24:01+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Typeset in the Future: The Typography of Alien]]></title>
+    <link href="http://www.analogsenses.com/2014/12/02/typeset-in-the-future-the-typography-of-alien/"/>
+    <updated>2014-12-02T21:19:42+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/02/typeset-in-the-future-the-typography-of-alien</id>
+    <content type="html"><![CDATA[<p>Whoa. This is <em>so</em> painstakingly detailed it makes my head hurt:</p>
+
+<blockquote><p>At this point, you might be thinking: “Wait – why are we talking about units of measurement? Why should I, Joe or Jane Blog-Reader, care about a typographic anomaly in the measurement units of a space-based computer?”</p>
+
+<p>You really should know the answer to that by now. Typography is <em>always</em> important.</p></blockquote>
+
+<p>You just <em>know</em> this is going to end badly.</p>
+]]></content>
+  </entry>
+  
+</feed>
