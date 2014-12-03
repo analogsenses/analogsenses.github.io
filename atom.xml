@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-03T19:54:00+01:00</updated>
+  <updated>2014-12-03T20:19:30+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Stephen Colbert settles the three-bladed lightsaber debate for good →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=TiabUnjU84w"/>
+	
+    <updated>2014-12-03T20:05:57+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/03/stephen-colbert-settles-the-three-bladed-lightsaber-debate-for-good</id>
+  	
+  	<content type="html"><![CDATA[<p>Ok, this is admittedly silly, but it&rsquo;s just too funny to not link it.</p>
+
+<p>The three-bladed lightsaber that appears in <a href="http://www.analogsenses.com/2014/11/29/the-first-teaser-for-star-wars-the-force-awakens-is-out/">the teaser trailer</a> for <em>‘Star Wars Episode VII: The Force Awakens’</em> has proven to be an incredibly controversial topic on Twitter, with people arguing <em>ad nauseam</em> over the feasibility of such an exotic design.</p>
+
+<p>Thankfully, the other day Stephen Colbert took it upon himself to settle the discussion once and for all:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/TiabUnjU84w" allowfullscreen></iframe></div>
+
+
+<p>Well played, Mr. Colbert. Well played.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/03/stephen-colbert-settles-the-three-bladed-lightsaber-debate-for-good/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[One year in one image →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -575,23 +597,6 @@
 
 <p>Via <a href="http://www.thenewsprint.co/2014/11/27/historic-moments-in-photographs/">Josh Ginter</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/11/28/historic-moments-in-photographs/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Web apps, native apps, and app ecosystems →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://sixcolors.com/post/2014/11/web-apps-native-apps-and-app-ecosystems/"/>
-	
-    <updated>2014-11-27T21:49:22+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/11/27/web-apps-native-apps-and-app-ecosystems</id>
-  	
-  	<content type="html"><![CDATA[<p>Glenn Fleishman compares the strengths and weaknesses of native apps vs Web apps from a development standpoint. In the end, what are the factors that may make a developer choose one over the other?</p>
-
-<blockquote><p>I’d argue that it boils down to several app ecosystem features, rather than native code advantages. When there’s a genuine choice between building a Web app or native app, and when audience and revenue are important, the ecosystem makes the difference.</p>
-
-<p>Let me take <em>The Magazine</em> as an example, since I’ve lived with it for over two years, and most of that as its owner. What does Apple offer (and Google and other platforms as well)?</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2014/11/27/web-apps-native-apps-and-app-ecosystems/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
