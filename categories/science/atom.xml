@@ -4,7 +4,7 @@
   <title><![CDATA[Category: science | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/science/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-04T11:10:20+01:00</updated>
+  <updated>2014-12-04T11:52:43+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[TED-Ed animation explains the nature of floaters, the blurry moving things that sometimes swim across our field of vision]]></title>
+    <link href="http://www.analogsenses.com/2014/12/04/ted-ed-animation-explains-the-nature-of-floaters-the-tiny-blurry-moving-things-that-sometimes-swim-across-our-field-of-vision/"/>
+    <updated>2014-12-04T11:23:38+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/04/ted-ed-animation-explains-the-nature-of-floaters-the-tiny-blurry-moving-things-that-sometimes-swim-across-our-field-of-vision</id>
+    <content type="html"><![CDATA[<p>A couple months ago I started noticing some weird floating things in the corner of my left eye. I became somewhat concerned, especially because once I noticed them, it became really difficult to stop noticing them <em>all the time</em>. I even started to obsessively check my corner vision every few minutes to see if they were still there and whether they changed position/size. As you can imagine, believing there may be something wrong with your eyes is not a particularly fun experience.</p>
+
+<p>Luckily, today <a href="http://laughingsquid.com/a-ted-ed-animation-explaining-the-nature-of-those-floating-things-that-sometimes-appear-in-the-eye/">Laughing Squid</a> pointed me towards this excellent TED-Ed animation, in which the nature of such phenomena is explained. It turns out, these things are commonly known as <a href="http://en.wikipedia.org/wiki/Floater">“floaters”</a>, and they&rsquo;re usually safe. They&rsquo;re caused by tiny particles floating in the liquid <a href="http://en.wikipedia.org/wiki/Vitreous_humour">vitreous humor</a> inside the eye and casting shadows on the retina.</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Y6e_m9iq-4Q" allowfullscreen></iframe></div></p>
+
+<p>So, while in some extreme cases floaters may be the result of a more serious condition, their presence in small quantities is a very common occurrence and is usually no cause for concern. That said, if you&rsquo;re experiencing similar symptoms and are still unsure as to what it could be, the best course of action is always to check with your doctor.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Volkswagen’s New 300 MPG Car Is Not Allowed In America Because It’s Too Efficient]]></title>
@@ -82,19 +97,6 @@
 <p>What a historic achievement for Science.</p>
 
 <p>See also, <a href="http://xkcd.com/1446/">xkcd&rsquo;s live coverage of the landing</a>. Brilliant as always.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Yale scientists achieve the world's coolest molecules]]></title>
-    <link href="http://www.analogsenses.com/2014/10/23/yale-scientists-achieve-the-worlds-coolest-molecules/"/>
-    <updated>2014-10-23T12:31:48+02:00</updated>
-    <id>http://www.analogsenses.com/2014/10/23/yale-scientists-achieve-the-worlds-coolest-molecules</id>
-    <content type="html"><![CDATA[<p>Impressive milestone:</p>
-
-<blockquote><p>The tiny titans in question are bits of strontium monofluoride, dropped to 2.5 thousandths of a degree above absolute zero through a laser cooling and isolating process called magneto-optical trapping (MOT). They are the coldest molecules ever achieved through direct cooling, and they represent a physics milestone likely to prompt new research in areas ranging from quantum chemistry to tests of the most basic theories in particle physics.</p></blockquote>
-
-<p>Cool (no pun intended). Now we&rsquo;re one step closer to cryo-sleep and interstellar travel. I just hope there are no actual <a href="http://en.wikipedia.org/wiki/Alien_(creature_in_Alien_franchise)">xenomorphs</a> out there.</p>
 ]]></content>
   </entry>
   
