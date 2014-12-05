@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-04T20:41:48+01:00</updated>
+  <updated>2014-12-05T18:45:50+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[“Liftoff at Dawn, the Dawn of Orion” →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=6Hn8qnsucwo"/>
+	
+    <updated>2014-12-05T18:43:04+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/05/liftoff-of-orion-at-dawn</id>
+  	
+  	<content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/6Hn8qnsucwo" allowfullscreen></iframe></div>
+
+
+<p>Breathtaking.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/05/liftoff-of-orion-at-dawn/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The problem with High Frame Rate (HFR) films]]></title>
@@ -524,30 +540,6 @@
 
 <p>Via <a href="http://www.loopinsight.com/2014/11/30/stunning-photos-that-made-you-appreciate-earth-in-2014/">The Loop</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/01/50-stunning-photos-that-made-you-appreciate-earth-in-2014/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Wanderers — a short film by Erik Wernquist →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.erikwernquist.com/wanderers/"/>
-	
-    <updated>2014-12-01T12:21:05+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/01/wanderers-a-short-film-by-erik-wernquist</id>
-  	
-  	<content type="html"><![CDATA[<p><em>“Wanderers”</em> is an awe-inspiring video narrated by Carl Sagan, depicting the likely future of the human race as we go beyond the confines of the Earth and venture into the far reaches of the Solar System:</p>
-
-<blockquote><p>Wanderers is a vision of humanity&rsquo;s expansion into the Solar System, based on scientific ideas and concepts of what our future in space might look like, if it ever happens. The locations depicted in the film are digital recreations of actual places in the Solar System, built from real photos and map data where available.</p>
-
-<p>Without any apparent story, other than what you may fill in by yourself, the idea of the film is primarily to show a glimpse of the fantastic and beautiful nature that surrounds us on our neighboring worlds - and above all, how it might appear to us if we were there.</p></blockquote>
-
-<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/108650530 "></iframe></div>
-
-
-<p>Stunning.</p>
-
-<p>Via <a href="http://kottke.org/14/11/our-future-in-the-solar-system">Kottke</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/01/wanderers-a-short-film-by-erik-wernquist/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
