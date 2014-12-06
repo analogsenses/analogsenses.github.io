@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-05T19:57:35+01:00</updated>
+  <updated>2014-12-06T20:36:10+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[‘Uncharted 4: A Thief’s End’ Gameplay Video →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=Ow2cL-pp6p8"/>
+	
+    <updated>2014-12-06T20:01:18+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/06/uncharted-4-a-thiefs-end-gameplay-video</id>
+  	
+  	<content type="html"><![CDATA[<p>Sony unveiled the first official gameplay demo of <a href="http://www.amazon.com/gp/product/B00GODZYNA/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00GODZYNA&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=H7QLRD7DL3HRZ3QH"><em>‘Uncharted 4: A Thief&rsquo;s End’</em></a> during today&rsquo;s PlayStation Experience event. Even in its current unfinished state, the game looks absolutely stunning:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Ow2cL-pp6p8" allowfullscreen></iframe></div>
+
+
+<p>I&rsquo;ve always enjoyed adventure games, but during the past decade I missed a lot of them. I took a seven-year hiatus from gaming between 2005 and 2012, during which time I didn&rsquo;t even own a console. When I decided to start gaming again last year I thought about buying <a href="http://www.amazon.com/gp/product/B00M37WR90/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00M37WR90&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=U3KMMWX4URZWKBAP">a PlayStation 4</a> or an <a href="http://www.amazon.com/gp/product/B00CMQTVUA/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00CMQTVUA&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=UBHDGTZ4Q7B6U3F5">Xbox One</a>, but I figured this was a great opportunity to discover all the great games of the last generation that I had missed.</p>
+
+<p>At that time, both <a href="http://www.amazon.com/gp/product/B00E369SDM/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00E369SDM&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=MLWU2YUAHWIFLRIS">the PlayStation 3</a> and the <a href="http://www.amazon.com/gp/product/B00D9EPI38/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00D9EPI38&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=K2A4FU7MK5AFSMO3">Xbox 360</a> were heavily discounted, and most games were easy to find in used condition for just a few bucks. The only reason I chose the PS3 over the slightly cheaper Xbox 360 was just so that I could play through the Uncharted games, and I&rsquo;m <em>so</em> gad I did. After finishing them all, I can confidently say Uncharted may be my favorite video game series of all time.</p>
+
+<p>Judging from what I just saw on this video, it looks like Nathan Drake&rsquo;s next adventure will be his best ever, and I can hardly wait to get my hands on it. I may have to seriously reconsider my decision to not buy the PS4 when this game comes out.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/06/uncharted-4-a-thiefs-end-gameplay-video/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Layer Tennis Season 4 Championship Match: “Smells Like Vectory” →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -430,85 +452,6 @@
 
 <p>Happy birthday, Josh. Here&rsquo;s to another great year, and to many more after that.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/02/the-newsprint-enters-year-two/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The ultimate guide to podcasting guides]]></title>
-	<link href="http://www.analogsenses.com/2014/12/01/the-ultimate-guide-to-podcasting-guides/"/>
-	
-    <updated>2014-12-01T19:30:29+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/01/the-ultimate-guide-to-podcasting-guides</id>
-  	
-  	<content type="html"><![CDATA[<p>It&rsquo;s no secret that over the past few years, podcasting as a medium has been steadily on the rise. It used to be that podcasts were seen as a unprofessional creative outlet mostly populated by geeks. Now, even <a href="http://nymag.com/daily/intelligencer/2014/10/whats-behind-the-great-podcast-renaissance.html">the mainstream press</a> is talking about them, in no small part thanks to the overwhelming popularity of the new <a href="http://serialpodcast.org">Serial podcast</a>. It would seem the entire world agrees: podcasting is the new black.</p>
-
-<p>Of course, the Internet can rarely stay in agreement for long, so over this past weekend, several of my favorite tech podcasters got into a bit of an argument on Twitter over which gear recommendations are more appropriate and helpful for people who are looking to start their first podcast. This prompted some of them to share their podcasting setups and give some advice on their respective sites. Which is totally cool, except sometimes it can feel like there are more podcasting guides out there than actual podcasts.</p>
-
-<p>But fear not, my young podcasting apprentice, because I&rsquo;ve got you covered. Allow me to walk you through what these excellent hosts had to say in each of their guides.</p>
-
-<h2>Podcasting guides galore</h2>
-
-<p>The incomparable <a href="http://sixcolors.com/post/2014/11/want-to-do-a-podcast-dont-be-intimidated/">Jason Snell</a>, one of the first ones to jump into the fray, urged people to avoid being intimidated by podcasting:</p>
-
-<blockquote><p>So start with the equipment you’ve got. You could literally do a podcast by talking into your iPhone and posting it. (I don’t recommend it, but you could do it.) Every Apple laptop comes with a built-in microphone. Again, I don’t recommend you use that microphone, but you could. You could use the EarPods that come with your iPhone—and I’d recommend them over that laptop microphone any day. Add an external microphone when you get the chance. Learn how to use GarageBand or Audacity to edit your podcast—both of them are free.</p>
-
-<p>Beyond that, here’s a tiny bit about hardware.</p></blockquote>
-
-<p>His position strikes me as eminently reasonable. There will always be time to upgrade some or all of your equipment down the road, but you must allow yourself the opportunity to simply get started.</p>
-
-<p><a href="http://www.marco.org/2014/11/29/easy-listening">Marco Arment</a> is way more into high-end audio equipment than most podcasters out there, but even he had very encouraging things to say about the need for expensive gear:</p>
-
-<blockquote><p>Arguing whether gear matters and whether you should spend money on it is a misguided and toxic diversion that’s missing the real discussion we should be having:</p>
-
-<p><strong>Making your podcast easy to listen to is worth some effort.</strong></p>
-
-<p>Just as blogs need sensible fonts, colors, layouts, and spacing to be comfortably readable, podcasts need to be <em>listenable</em>. And you can’t make easily listenable podcasts without at least <em>basic</em> equipment and production.</p></blockquote>
-
-<p>Unlike Marco, though, <a href="http://www.meonlylouder.com/blog/2014/11/28/usb-microphones-are-cheap-but-not-always-good">Marcus De Paula</a> warned about the shortcomings of cheap USB microphones:</p>
-
-<blockquote><p>One of the most popular affordable and decent USB mics is the Blue Yeti. This mic is marketed and believed to be the best podcasting mic for the money. And for $99 or less, it is… fine. It works. But it does have quite a few negative tradeoffs you should weigh against the positives of low price and “plug-and-play” of a single device with a single cable.</p></blockquote>
-
-<p>A week earlier, <a href="http://www.caseyliss.com/2014/11/22/how-i-make-podcasts">Casey Liss</a> had also given a very detailed look at his admittedly high-end setup. He probably spent more than most podcasters do, but he was quick to point out that high-end gear is not what makes a great podcast:</p>
-
-<blockquote><p>Like I said above, nothing here is really magical. The magic for both shows is giving a crap.</p></blockquote>
-
-<p>Furthermore, <a href="http://www.caseyliss.com/2014/11/29/audiophilia">he backed it up</a> on Saturday with a crystal-clear qualification:</p>
-
-<blockquote><p>Don’t let the quality snobs — including me! — get you down. Use whatever you can, even your earbuds, if you have to. The point is what you’re saying, not how it sounds.</p></blockquote>
-
-<p><a href="http://www.512pixels.net/blog/2014/11/podcasting-is-more-than-the-mic">Stephen Hackett</a> also joined the conversation, pointing out that, while he does believe that having quality gear matters, there are other factors that matter more:</p>
-
-<blockquote><p>A million factors go into making a show successful. Audio quality takes the front seat because it&rsquo;s perhaps the easiest to throw money at, but your content, show notes, release consistency, co-host chemistry, branding, website, social presence, iTunes ratings and cultivating relationships with fans all play an important role.</p>
-
-<p>The common thread? Working hard, often without direct reward.</p></blockquote>
-
-<p>Several of these articles reference Dan Benjamin&rsquo;s take in one way or another. Dan is certainly one of the most experienced and respected podcasters I know of, and he definitely knows what makes a good show. He took the trouble to set up <a href="http://podcastmethod.co">The Podcast Method</a>, an excellent website with his hardware and software recommendations for podcasters of all levels of experience.</p>
-
-<p>Regarding people who are just starting out, Dan had this to say:</p>
-
-<blockquote><p>I want everybody to podcast! And the lower the barrier of entry into the medium, the better. Fortunately, all you <em>really</em> need to get started is a mic and some headphones. That&rsquo;s good, because most new podcasters out there are hesitant, unable, or unwilling to drop a lot of cash on gear. I was too!</p>
-
-<p>Frequently, though, beginning podcasters may also have less than ideal recording conditions &ndash; noisy rooms, kids and pets running around, neighbors blaring music, lack of acoustic insulation, while still learning good <a href="http://podcastmethod.co/videos/2014/10/30/mic-technique">mic technique</a>. Combine that with a poor microphone, and you have a recipe for a less than ideal recording.</p></blockquote>
-
-<p>The Podcast Method also features some great tips on professional audio recording and editing, handling multiple callers in Skype, and even live streaming. It&rsquo;s a pretty comprehensive guide full of really good stuff.</p>
-
-<p>Finally, Dave Wiskus thinks it&rsquo;s time for a <a href="https://www.youtube.com/watch?v=tRofTIM1sP0">podcasting intervention</a>. With technology empowering everyone to make podcasts, most shows are starting to sound exactly the same:</p>
-
-<blockquote><p>Two or more white males talking to microphones for two or more hours sharing their unscripted thoughts about their phones and their computers. Sponsored by Squarespace.</p></blockquote>
-
-<p>He has a point. There&rsquo;s too much focus on technology and hardware, but in the end what makes a great podcast will always be the content. What sets your podcast apart from the rest? What do you have to say that no one else can? Before spending hours of research and a small fortune on your next microphone, make sure you&rsquo;re willing to put as much time and effort on what you&rsquo;re actually going to say with it.</p>
-
-<h2>The bottom line</h2>
-
-<p>It&rsquo;s pretty clear by now that podcasting is here to stay, and it&rsquo;s attracting more and more listeners — and sponsors — every day. It really is a fantastic way to explore certain topics and ideas, and it creates a much stronger connection between the hosts and the audience.</p>
-
-<p>I love listening to all these guys every week, and I&rsquo;m thankful to them for being generous enough to not only make great shows, but also help others do the same. Together, they&rsquo;re pushing podcasting forward as a respected medium, and that&rsquo;s awesome for everyone.</p>
-
-<p>Starting a podcast of my own is something I&rsquo;ve been considering for some time, but I won&rsquo;t do it unless I&rsquo;m positive I have something unique to add to the conversation. If there&rsquo;s one thing I&rsquo;m sure of it&rsquo;s that I won&rsquo;t be adding to the noise, not if I can help it. There&rsquo;s too much of that already.</p>
-
-<p>Still, I confess the idea excites me. My father owns a radio station and has worked as a professional broadcaster for over 30 years, so I guess you could say it runs in the family. It may never come to fruition — or it may happen sooner than you think — but at least now I know how to get started. Which, as you know, is often the hardest thing to do.</p>
-]]></content>
 	
   </entry>
 
