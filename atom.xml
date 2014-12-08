@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-08T19:35:38+01:00</updated>
+  <updated>2014-12-08T19:51:57+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Best Everyday Carry Pocket Knives →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/guides/pocket-knives/"/>
+	
+    <updated>2014-12-08T19:45:40+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/08/the-best-everyday-carry-pocket-knives</id>
+  	
+  	<content type="html"><![CDATA[<p>I&rsquo;m not much of a knife person, but even I can recognize how thorough and meticulous Ben Brooks has been in this article for Tools and Toys. Great overview and some really cool looking images that almost make me want to go buy one right now — and an entire woodshed to go with it. If you&rsquo;re in the market for a new pocket knife, check it out.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/08/the-best-everyday-carry-pocket-knives/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[How 8 Famous Photographers Have Changed Over the Past Year →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -420,23 +433,6 @@
 
 <p>You just <em>know</em> this is going to end badly.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/02/typeset-in-the-future-the-typography-of-alien/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[A great app for recording podcasts →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.allenpike.com/2014/podcast-recording/"/>
-	
-    <updated>2014-12-02T21:09:12+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/02/a-great-app-for-recording-podcasts</id>
-  	
-  	<content type="html"><![CDATA[<p>Allen Pike, on why such an app doesn&rsquo;t exist yet, and is not likely to exist anytime soon:</p>
-
-<blockquote><p>The next step, the final step before going all in on building this, was for me to figure out how to make it sustainable in such a niche market. I just had to do the “napkin math” to show that if we built the app, we could maintain it at a level we could be proud of. This step has proved problematic.</p></blockquote>
-
-<p>Unfortunately, it looks like the potential audience for an advanced, high-quality podcast recording app is not large enough to make it sustainable to develop — and more importantly, to maintain.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/02/a-great-app-for-recording-podcasts/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
