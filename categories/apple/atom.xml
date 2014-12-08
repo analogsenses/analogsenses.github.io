@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-08T19:51:57+01:00</updated>
+  <updated>2014-12-08T21:43:13+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple forces Panic to remove iCloud Drive feature]]></title>
+    <link href="http://www.analogsenses.com/2014/12/08/apple-forces-panic-to-remove-icloud-drive-feature/"/>
+    <updated>2014-12-08T21:36:42+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/08/apple-forces-panic-to-remove-icloud-drive-feature</id>
+    <content type="html"><![CDATA[<p>From the Panic Blog:</p>
+
+<blockquote><p><a href="http://panic.com/transmit-ios/">Transmit iOS 1.1.1</a> is out, fixing a few bugs in our surprisingly powerful file management app for your iPhone or iPad.</p>
+
+<p>Also, at Apple’s request, we had to remove the ability to “Send” files to other services, including iCloud Drive.</p>
+
+<p>In short, we’re told that while Transmit iOS can download content from iCloud Drive, <strong>we cannot upload content to iCloud Drive unless the content was created in the app itself.</strong> Apple says this use would violate 2.23 — “Apps must follow the <a href="https://developer.apple.com/icloud/documentation/data-storage/">iOS Data Storage Guidelines</a> or they will be rejected” — but oddly that page says nothing about iCloud Drive or appropriate uses for iCloud Drive.</p></blockquote>
+
+<p>This is getting ridiculous. <a href="http://www.marco.org/2014/12/08/transmit-rejection">Marco Arment</a> has a good theory on why these seemingly arbitrary rejections keep happening all the time:</p>
+
+<blockquote><p>One hand isn’t talking to the other: engineering makes great features available to developers that could be used to build amazingly useful and powerful applications, then the App Store bans anything beyond their most trivial uses.</p>
+
+<p>This sure feels like the ramifications of an internal turf war. I hope the higher-ups at Apple realize how important it is to resolve this quickly, because their devices, users, and developers are all suffering unnecessarily.</p></blockquote>
+
+<p>Apple needs to get their act together on this, and soon.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[An Illustrated History of Mac OS X]]></title>
@@ -72,19 +95,6 @@
 <p>We&rsquo;ll know soon enough, but this strikes me as a very easy choice for Apple. It would definitely make sense for them to use their existing installed base of Apple TV&rsquo;s — there&rsquo;s already a few million out there — to add another appealing feature to the watch and perhaps get even more people to buy it. Things may change very quickly after the watch&rsquo;s release but as of right now, it&rsquo;s the Apple TV that can help the Apple Watch gain traction in the market, not the other way around, and Apple knows it.</p>
 
 <p>Personally, I think this will prove to be one of the most popular features of the Apple Watch in everyday use. I watch a ton of movies and TV shows on my Apple TV, and I&rsquo;m always scrambling to find the remote. I can&rsquo;t wait for it to be forever glued to my wrist.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple Announces World AIDS Day 2014 Campaign for (RED)]]></title>
-    <link href="http://www.analogsenses.com/2014/11/24/apple-announces-world-aids-day-2014-campaign-for-red/"/>
-    <updated>2014-11-24T20:52:12+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/24/apple-announces-world-aids-day-2014-campaign-for-red</id>
-    <content type="html"><![CDATA[<p>Apple, in an official statement:</p>
-
-<blockquote><p>To mark World AIDS Day 2014, Apple® and leading app developers are inviting customers to help (RED) achieve the goal of an AIDS-free generation. For the next two weeks, a special section of the App Store℠ called Apps for (RED) will offer 25 apps with exclusive new content where all proceeds will go directly to the Global Fund to fight AIDS. In addition, Apple will donate a portion of sales at Apple’s retail and online stores around the world on two of the biggest shopping days of the year: Friday, November 28 and Monday, December 1.</p></blockquote>
-
-<p>What a great idea. If you wanted to try some new apps, this might be a good time to do it.</p>
 ]]></content>
   </entry>
   
