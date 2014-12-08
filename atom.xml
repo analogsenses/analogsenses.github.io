@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-08T23:28:24+01:00</updated>
+  <updated>2014-12-08T23:42:07+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Hollywood in Vivid Kodachrome →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.vanityfair.com/hollywood/photos/2013/11/rare-photographs-sinatra-lucille-ball-dietrich-kodachrome#1"/>
+	
+    <updated>2014-12-08T23:33:35+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/08/hollywood-in-vivid-kodachrome</id>
+  	
+  	<content type="html"><![CDATA[<p>Chris Rovzar, Vanity Fair:</p>
+
+<blockquote><p>Suddenly, in the late 1930s and the 1940s, the American viewing audience went from thinking of Hollywood in black and white to experiencing it in stunning, rich color. Kodachrome was the vessel that brought hyper-real, hyper-beautiful stars into movie houses, magazines, and homes. In a new book, <a href="http://www.amazon.com/gp/product/0062265547/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0062265547&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=LC2HFDNHZ5GAE4MJ"><em>Hollywood in Kodachrome</em></a>, David Wills collects some of the most brilliant images from 1940s Hollywood, including stills of Fred Astaire, Lucille Ball, Marlene Dietrich, and Frank Sinatra.</p></blockquote>
+
+<p>It&rsquo;s not Sinatra&rsquo;s best picture, but I&rsquo;ll take it anyway.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/08/hollywood-in-vivid-kodachrome/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[30 Days of Fiction, by Susannah Breslin →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -412,21 +429,6 @@
 
 <p>Good luck with that.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/03/bittorrent-goes-legit-with-its-first-original-web-series/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Right To Be Heard →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.sanspoint.com/archives/2014/12/03/the-right-to-be-heard/"/>
-	
-    <updated>2014-12-03T17:37:03+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/03/the-right-to-be-heard</id>
-  	
-  	<content type="html"><![CDATA[<p>Richard J. Anderson makes an excellent point:</p>
-
-<blockquote><p>Freedom of speech is not, and has never been the same as freedom to be heard. Censorship is an organized effort of a governing body to silence something they don’t like, and it can be done by a government or a corporation alike. Individuals choosing who they do not wish to hear, and collaboratively tuning them out is within their rights by any legal framework. If Twitter, or any other service, were bound to force users to see replies from any Tom, Dick, or Harassing Harry on their service, it would be akin to Fox News having the legal right to pre-empt you watching CNN on your TV. (And that analogy works if you flip the networks around.)</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/03/the-right-to-be-heard/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
