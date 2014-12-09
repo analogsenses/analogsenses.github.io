@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-08T23:42:07+01:00</updated>
+  <updated>2014-12-09T11:55:20+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jason Snell's favorite Mac apps]]></title>
+    <link href="http://www.analogsenses.com/2014/12/09/jason-snells-favorite-mac-apps/"/>
+    <updated>2014-12-09T10:53:39+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/09/jason-snells-favorite-mac-apps</id>
+    <content type="html"><![CDATA[<p>Solid recommendations all around from Jason:</p>
+
+<blockquote><p>I spend a lot of time at my Mac. I love my iPad and iPhone, but my Mac is still where I spend most of my time. Between writing and making podcasts, this is the place where my tools of choice reside. Since it’s the end of the year, I figured, why not mention a bunch of Mac apps that I use every day? If there were a gift-giving holiday coming up, you could even use that as an excuse to buy them.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple forces Panic to remove iCloud Drive feature]]></title>
@@ -72,29 +83,6 @@
 <p>It turns out—and thanks to Jon Gotow of St. Clair Software, maker of the excellent <a href="http://www.stclairsoft.com/DefaultFolderX/">Default Folder X</a>, for the answer to this—that there’s a bug in Yosemite that causes a sheet to grow taller by 22 pixels every time you use it.</p></blockquote>
 
 <p>If you&rsquo;re experiencing the same issues, check out the rest of the article to learn how to fix it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Apple Watch as a remote for Apple TV]]></title>
-    <link href="http://www.analogsenses.com/2014/11/26/craig-federighi-demoes-apple-watch-as-remote-for-apple-tv/"/>
-    <updated>2014-11-26T11:29:32+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/26/craig-federighi-demoes-apple-watch-as-remote-for-apple-tv</id>
-    <content type="html"><![CDATA[<p>During <a href="http://daringfireball.net/thetalkshow/2014/11/25/ep-101">the latest episode</a> of The Talk Show, John Gruber and Christa Mrgan talked about the possibility that the upcoming Apple Watch may be able to act as a remote for Apple TV. They mention Tim Cook making an offhand comment about this during an interview as the source of the idea.</p>
-
-<p>The truth is, not only did Tim Cook say it, but Craig Federighi actually demoed that very same feature on stage in October, during the last <a href="http://www.apple.com/apple-events/2014-oct-event/">Apple keynote</a>. It was towards the end of the segment with the phone call with Stephen Colbert. You can see it in the video below, starting at about the 4:15 mark. Federighi is applying the final tweaks to his <em>&ldquo;Tripling Down on Secrecy&rdquo;</em> presentation and uses AirPlay to preview it on an Apple TV:</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/mtjApsQccsY" allowfullscreen></iframe></div></p>
-
-<p>If you look closely, you&rsquo;ll notice that he&rsquo;s actually controlling the Keynote app with his Apple Watch, not just the Apple TV itself, which suggests that the remote capabilities of the Apple Watch will be more advanced than just a simple playback controller.</p>
-
-<p>Gruber also wonders whether this will be a native feature or some add-on capability via an external app, but judging from the video, I definitely believe it will be baked into the watch itself from day one. The fact that it&rsquo;s one of the very few things Apple has actually shown about the device strongly suggests so.</p>
-
-<p>As for whether this feature will require a new Apple TV to work, I&rsquo;d say that remains unclear but then again, nothing in the video suggests that there&rsquo;s anything particularly special about the Apple TV Federighi is using. He just calls it  <em>&ldquo;an Apple TV&rdquo;</em>, or even <em>&ldquo;my Apple TV&rdquo;</em>, almost suggesting that it&rsquo;s the very same one we all already own. Of course, I wouldn&rsquo;t say this is anywhere near being conclusive proof, but there you have it. Make of it what you will.</p>
-
-<p>We&rsquo;ll know soon enough, but this strikes me as a very easy choice for Apple. It would definitely make sense for them to use their existing installed base of Apple TV&rsquo;s — there&rsquo;s already a few million out there — to add another appealing feature to the watch and perhaps get even more people to buy it. Things may change very quickly after the watch&rsquo;s release but as of right now, it&rsquo;s the Apple TV that can help the Apple Watch gain traction in the market, not the other way around, and Apple knows it.</p>
-
-<p>Personally, I think this will prove to be one of the most popular features of the Apple Watch in everyday use. I watch a ton of movies and TV shows on my Apple TV, and I&rsquo;m always scrambling to find the remote. I can&rsquo;t wait for it to be forever glued to my wrist.</p>
 ]]></content>
   </entry>
   
