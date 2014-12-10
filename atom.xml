@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-10T15:26:32+01:00</updated>
+  <updated>2014-12-10T17:48:59+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The state of Twitter clients in 2014 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.macstories.net/stories/twitter-clients-in-2014/"/>
+	
+    <updated>2014-12-10T17:39:06+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/10/the-state-of-twitter-clients-in-2014</id>
+  	
+  	<content type="html"><![CDATA[<p>Just when you thought you were about to catch up to your Instapaper queue, Federico Viticci goes all Siracusa on us to analyze the three most popular Twitter clients for iOS: Tweetbot, Twiterrific and Twitter.</p>
+
+<p>This amazingly detailed review is well over 20,000 words long. It would totally make sense as a standalone Kindle book.</p>
+
+<p>Way to go, Federico. What an awesome piece of work.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/10/the-state-of-twitter-clients-in-2014/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Mesmerizing Arquitecture of Mosques →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -389,22 +406,6 @@
 
 <p>Via <a href="http://www.loopinsight.com/2014/12/05/an-illustrated-history-of-mac-os-x/">The Loop</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/05/an-illustrated-history-of-mac-os-x/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[“Liftoff at Dawn, the Dawn of Orion” →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=6Hn8qnsucwo"/>
-	
-    <updated>2014-12-05T18:43:04+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/05/liftoff-of-orion-at-dawn</id>
-  	
-  	<content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/6Hn8qnsucwo" allowfullscreen></iframe></div>
-
-
-<p>Breathtaking.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/05/liftoff-of-orion-at-dawn/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
