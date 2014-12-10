@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-10T10:59:31+01:00</updated>
+  <updated>2014-12-10T11:18:42+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Pirate Bay returns with new Costa Rican address after raid by Swedish police →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.theverge.com/2014/12/9/7364665/the-pirate-bay-goes-offline-after-police-raid-server-room"/>
+	
+    <updated>2014-12-10T11:08:23+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/10/the-pirate-bay-returns-with-new-costa-rican-address-after-raid-by-swedish-police</id>
+  	
+  	<content type="html"><![CDATA[<p>Rich McCormick, The Verge:</p>
+
+<blockquote><p>Infamous torrent site The Pirate Bay <a href="http://www.wired.com/2014/12/pirate-bay-raided-taken-down/">was taken offline</a> on Tuesday after a raid by Swedish police. Officers investigating the decade-old file-sharing portal&rsquo;s alleged copyright infringements targeted a server room in Stockholm, seizing “several servers and computers,” according to veteran file-sharing case prosecutor Fredrik Ingblad. The site only reappeared hours later, at a new address hosted in Costa Rica, and with regular 500 internal server error codes. At present, searching or browsing for torrents on the new site is impossible.</p>
+
+<p>(&hellip;)</p>
+
+<p><em>TorrentFreak</em> says The Pirate Bay might not be the only casualty of this most recent crackdown on the sharing of copyrighted material. The torrent portal&rsquo;s forum, Suprbay, and a number of other torrent-related sites have also gone down, including EZTV, Zoink, and Torrage.</p></blockquote>
+
+<p>It always amazes me how sites like The Pirate Bay manage to keep going after being raided by the police. It&rsquo;s impressive.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/10/the-pirate-bay-returns-with-new-costa-rican-address-after-raid-by-swedish-police/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Judge orders Uber to cease all operations in Spain →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -390,26 +411,6 @@
 
 <p>Also, check out <a href="http://www.theverge.com/2014/12/4/7331787/james-bond-spectre-aston-martin-db10">the new Aston Martin DB10</a>, which was built <a href="http://www.astonmartin.com/en/live/news/2014/12/04/built-for-bond-aston-martin-debuts-unique-car-for-spectre">specifically for the movie</a>. Jaw-droppingly gorgeous.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/04/the-titles-spectre-just-spectre-new-james-bond-movie-named/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[TED-Ed animation explains the nature of floaters, the blurry moving things that sometimes swim across our field of vision →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=Y6e_m9iq-4Q"/>
-	
-    <updated>2014-12-04T11:23:38+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/04/ted-ed-animation-explains-the-nature-of-floaters-the-tiny-blurry-moving-things-that-sometimes-swim-across-our-field-of-vision</id>
-  	
-  	<content type="html"><![CDATA[<p>A couple months ago I started noticing some weird floating things in the corner of my left eye. I became somewhat concerned, especially because once I noticed them, it became really difficult to stop noticing them <em>all the time</em>. I even started to obsessively check my corner vision every few minutes to see if they were still there and whether they changed position/size. As you can imagine, believing there may be something wrong with your eyes is not a particularly fun experience.</p>
-
-<p>Luckily, today <a href="http://laughingsquid.com/a-ted-ed-animation-explaining-the-nature-of-those-floating-things-that-sometimes-appear-in-the-eye/">Laughing Squid</a> pointed me towards this excellent TED-Ed animation, in which the nature of such phenomena is explained. It turns out, these things are commonly known as <a href="http://en.wikipedia.org/wiki/Floater">“floaters”</a>, and they&rsquo;re usually safe. They&rsquo;re caused by tiny particles floating in the liquid <a href="http://en.wikipedia.org/wiki/Vitreous_humour">vitreous humor</a> inside the eye and casting shadows on the retina.</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Y6e_m9iq-4Q" allowfullscreen></iframe></div>
-
-
-<p>So, while in some extreme cases floaters may be the result of a more serious condition, their presence in small quantities is a very common occurrence and is usually no cause for concern. That said, if you&rsquo;re experiencing similar symptoms and are still unsure as to what it could be, the best course of action is always to check with your doctor.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/04/ted-ed-animation-explains-the-nature-of-floaters-the-tiny-blurry-moving-things-that-sometimes-swim-across-our-field-of-vision/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
