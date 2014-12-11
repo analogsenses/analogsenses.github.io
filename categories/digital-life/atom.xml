@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-11T15:00:17+01:00</updated>
+  <updated>2014-12-11T18:12:46+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google News shuts down in Spain]]></title>
+    <link href="http://www.analogsenses.com/2014/12/11/google-news-shuts-down-in-spain/"/>
+    <updated>2014-12-11T17:38:40+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/11/google-news-shuts-down-in-spain</id>
+    <content type="html"><![CDATA[<p>Google Europe Blog:</p>
+
+<blockquote><p>But sadly, as a result of a new Spanish law, we’ll shortly have to close Google News in Spain. Let me explain why. This new legislation requires every Spanish publication to charge services like Google News for showing even the smallest snippet from their publications, whether they want to or not. As Google News itself makes no money (we do not show any advertising on the site) this new approach is simply not sustainable. So it’s with real sadness that on 16 December (before the new law comes into effect in January) we’ll remove Spanish publishers from Google News, and close Google News in Spain.</p></blockquote>
+
+<p>How disgraceful. The new law not only <em>forces</em> publishers to charge aggregators — the tax is mandatory — but they&rsquo;re actually consolidating the collection of profits into <a href="http://www.cedro.org">a legal entity</a>, sort of an association of publishers.</p>
+
+<p>This effectively means that if a small publisher is not affiliated with this entity, they will collect payment on her behalf and split it among their affiliated members, and the original publisher won&rsquo;t see a dime. And since it is mandatory, the tax will <em>always</em> be collected, <em>even if the publisher releases her work under a Creative Commons non-commercial license</em>. That&rsquo;s about how much sense this law makes. It&rsquo;s just ridiculous.</p>
+
+<p>This poorly-thought joke of a law is nothing but a desperate attempt by traditional newspaper owners, who are colluding with the government to save their own lazy asses. But if they think this is the way to survive in the digital era, they&rsquo;re in for a rude awakening.</p>
+
+<p>I&rsquo;m deeply ashamed of this law, and way too angry to write a measured article about it right now, so let&rsquo;s leave it at that.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Instagram hits 300 million monthly users]]></title>
@@ -70,29 +89,6 @@
 <p>All sequences are realtime video, no timelapse used.</p></blockquote>
 
 <p>Via <a href="http://laughingsquid.com/soaring-a-short-film-that-captures-the-real-time-beauty-of-auroras-in-the-autumn-night-sky-in-tromso-norway/">Laughing Squid</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Pirate Bay returns with new Costa Rican address after raid by Swedish police]]></title>
-    <link href="http://www.analogsenses.com/2014/12/10/the-pirate-bay-returns-with-new-costa-rican-address-after-raid-by-swedish-police/"/>
-    <updated>2014-12-10T11:08:23+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/10/the-pirate-bay-returns-with-new-costa-rican-address-after-raid-by-swedish-police</id>
-    <content type="html"><![CDATA[<p>Rich McCormick, The Verge:</p>
-
-<blockquote><p>Infamous torrent site The Pirate Bay <a href="http://www.wired.com/2014/12/pirate-bay-raided-taken-down/">was taken offline</a> on Tuesday after a raid by Swedish police. Officers investigating the decade-old file-sharing portal&rsquo;s alleged copyright infringements targeted a server room in Stockholm, seizing “several servers and computers,” according to veteran file-sharing case prosecutor Fredrik Ingblad. The site only reappeared hours later, at a new address hosted in Costa Rica, and with regular 500 internal server error codes. At present, searching or browsing for torrents on the new site is impossible.</p>
-
-<p>(&hellip;)</p>
-
-<p><em>TorrentFreak</em> says The Pirate Bay might not be the only casualty of this most recent crackdown on the sharing of copyrighted material. The torrent portal&rsquo;s forum, Suprbay, and a number of other torrent-related sites have also gone down, including EZTV, Zoink, and Torrage.</p></blockquote>
-
-<p>It always amazes me how sites like The Pirate Bay manage to keep going after being raided by the police. It&rsquo;s impressive.</p>
-
-<p><strong>UPDATE:</strong> <a href="http://torrentfreak.com/the-pirate-bay-has-not-been-resurrected-yet-141210/">According to TorrentFreak</a>, reports of TPB&rsquo;s resurrection may have been greatly exaggerated:</p>
-
-<blockquote><p>Only adding to the excitement (or perhaps causing it), plenty of posts appeared on Reddit trumpeting this domain as the site’s new home. Sadly, however, these reports are wide of [sic] the mark.</p>
-
-<p>ThePirateBay.cr is a Pirate Bay proxy/mirror service (<a href="https://proxybay.info/list.txt">it’s listed by Proxybay</a>) and as such relies entirely on The Pirate Bay for its torrent content. Currently it has none. The site appears to be operating out of the Netherlands and only became widely available in October.</p></blockquote>
 ]]></content>
   </entry>
   
