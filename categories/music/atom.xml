@@ -4,7 +4,7 @@
   <title><![CDATA[Category: music | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/music/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-11T22:14:50+01:00</updated>
+  <updated>2014-12-12T00:07:13+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -86,7 +86,7 @@
     <link href="http://www.analogsenses.com/2013/07/30/quote-of-the-day-38/"/>
     <updated>2013-07-30T15:57:27+02:00</updated>
     <id>http://www.analogsenses.com/2013/07/30/quote-of-the-day-38</id>
-    <content type="html"><![CDATA[<blockquote>It&#8217;s knowing that your door is always open
+    <content type="html"><![CDATA[<blockquote>It's knowing that your door is always open
 And your path is free to walk
 That makes me tend to leave my sleeping bag
 Rolled up and stashed behind your couch.</blockquote>
@@ -96,9 +96,7 @@ Rolled up and stashed behind your couch.</blockquote>
 
 <p>These have to be some of the greatest opening verses of all time.</p>
 
-<p><div class='spotify_play_button'>
-<iframe src='https://embed.spotify.com/?uri=spotify:track:35lBDaYBYRvWKAEc1OaVXl ' width='300' height='380' frameborder='0' allowtransparency='true'></iframe>
-</div></p>
+<p>{% spotify spotify:track:35lBDaYBYRvWKAEc1OaVXl %}</p>
 ]]></content>
   </entry>
   
