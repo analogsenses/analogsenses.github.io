@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-11T14:53:39+01:00</updated>
+  <updated>2014-12-11T15:00:17+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Instagram hits 300 million monthly users]]></title>
+    <link href="http://www.analogsenses.com/2014/12/11/instagram-hits-300-million-monthly-users/"/>
+    <updated>2014-12-11T14:57:42+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/11/instagram-hits-300-million-monthly-users</id>
+    <content type="html"><![CDATA[<p>John Constine, TechCrunch:</p>
+
+<blockquote><p>It’s no fad. Just nine months after hitting 200 million users, <a href="http://blog.instagram.com/post/104847837897/141210-300million">Instagram now says 300 million people</a> use its photo app every month, with 70% of them coming from outside the US. That makes Instagram officially bigger than <a href="http://techcrunch.com/2014/10/27/twitter-beats-in-q3-with-revenue-of-361m-but-slowing-user-growth-drags-its-shares-down-8/">Twitter, which had 284 million active users</a> as of six weeks ago.</p></blockquote>
+
+<p>That&rsquo;s impressive.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The state of Twitter clients in 2014]]></title>
@@ -76,21 +89,6 @@
 <p>That&rsquo;s unfortunate, because Samsung SSDs have all been pretty good lately. Looking at the bright side, this may be a great opportunity to pick up one of <a href="http://www.amazon.com/gp/product/B00E3W1726/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00E3W1726&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=VXO4JCLOS2A625EZ">last year&rsquo;s excellent 840 EVOs</a> instead, which have dropped quite a bit in price by now.</p>
 
 <p>I own two 840 EVOs myself (both the 250GB model), which I used to <a href="/2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/">upgrade my iMac and my MacBook Pro</a> a few months ago, and I couldn&rsquo;t be happier with them. I can recommend them without hesitation if you don&rsquo;t want to wait for <a href="http://www.amazon.com/gp/product/B00OAJ5N6I/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00OAJ5N6I&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=7YJMO4QNYKAG5TLT">the 850 EVO</a>, or if you don&rsquo;t feel like paying the $30-$50 premium it currently commands.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Twitter may be tracking which apps are installed on your mobile device]]></title>
-    <link href="http://www.analogsenses.com/2014/11/26/twitter-is-tracking-which-apps-are-installed-on-your-device/"/>
-    <updated>2014-11-26T19:55:14+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/26/twitter-is-tracking-which-apps-are-installed-on-your-device</id>
-    <content type="html"><![CDATA[<p>Twitter, on a support page for their “app graph”:</p>
-
-<blockquote><p>To help build a more personal Twitter experience for you, we are collecting and occasionally updating the list of apps installed on your mobile device so we can deliver tailored content that you might be interested in. If you’re not interested in a tailored experience you can adjust your preferences at any time (read below). Additionally, if you have previously opted out of interest-based ads by turning on “Limit Ad Tracking” on your iOS device or by adjusting your Android device settings to “Opt out of interest-based ads,” we will not collect your apps unless you adjust your device settings.</p></blockquote>
-
-<p>This only applies to Twitter&rsquo;s first party clients but still, it&rsquo;s pretty worrisome and a blatant invasion of their users&#8217; privacy. Even if most users were interested in having “tailored content” delivered to them, this is something that clearly should be opt-in.</p>
-
-<p>Via <a href="https://twitter.com/Gromble/status/537673884083191808">Chris Gonzales</a>.</p>
 ]]></content>
   </entry>
   
