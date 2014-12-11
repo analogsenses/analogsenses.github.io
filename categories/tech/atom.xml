@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-11T18:16:28+01:00</updated>
+  <updated>2014-12-11T22:14:50+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Josh Ginter reviews Reeder 2]]></title>
+    <link href="http://www.analogsenses.com/2014/12/11/josh-ginter-reviews-reeder-2/"/>
+    <updated>2014-12-11T22:08:06+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/11/josh-ginter-reviews-reeder-2</id>
+    <content type="html"><![CDATA[<p>Another excellent software review by Josh Ginter. This time, he takes a look at my favorite RSS app: Reeder 2. I use it all the time on my Macs, my iPad and my iPhone, and I vastly prefer it over the native Feedly clients.</p>
+
+<p>If you&rsquo;re curious about it, Josh&rsquo;s review has everything you want to know, and a few other things you haven&rsquo;t thought of yet. Great stuff, as ever.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Google News shuts down in Spain]]></title>
@@ -78,21 +89,6 @@
 <blockquote><p>Only adding to the excitement (or perhaps causing it), plenty of posts appeared on Reddit trumpeting this domain as the site’s new home. Sadly, however, these reports are wide of [sic] the mark.</p>
 
 <p>ThePirateBay.cr is a Pirate Bay proxy/mirror service (<a href="https://proxybay.info/list.txt">it’s listed by Proxybay</a>) and as such relies entirely on The Pirate Bay for its torrent content. Currently it has none. The site appears to be operating out of the Netherlands and only became widely available in October.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Judge orders Uber to cease all operations in Spain]]></title>
-    <link href="http://www.analogsenses.com/2014/12/10/judge-orders-uber-to-cease-all-operations-in-spain/"/>
-    <updated>2014-12-10T10:20:55+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/10/judge-orders-uber-to-cease-all-operations-in-spain</id>
-    <content type="html"><![CDATA[<blockquote><p>The precautionary measure was taken by the judge without hearing the arguments of Uber, given that the company is based in the US tax haven of Delaware. The judge’s writ also instructs telecommunications and electronic-payment firms to stop processing transactions for Uber in Spain, as well as no longer hosting its software and applications.</p></blockquote>
-
-<p>Ouch. This could be the beginning of the end for Uber in Europe. If the rest of European courts follow suit — and they often do — they&rsquo;re going to have a hard time turning this around.</p>
-
-<p>Personally, I&rsquo;m conflicted. On one hand, I&rsquo;m not a fan of countries using legal measures to hamper innovation and limit competition, and I feel tech companies face more than their share&rsquo;s worth of legal troubles. On the other hand though, Uber is a particularly sleazy company: no insurance of any kind for their drivers, no respect for their users&#8217; privacy, you name it. It&rsquo;s hard to feel sympathetic towards them.</p>
-
-<p>Of course, this may be news today, but disruption always wins in the end. Even if it takes a while, it&rsquo;s simply inevitable. A service <em>mostly</em> like Uber will probably exist sometime soon and become the new normal. But it won&rsquo;t <em>be</em> Uber, at least not in its current incarnation. And I may be wrong, but I believe that&rsquo;s a good thing.</p>
 ]]></content>
   </entry>
   
