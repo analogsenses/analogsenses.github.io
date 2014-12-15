@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-15T17:27:46+01:00</updated>
+  <updated>2014-12-15T18:55:17+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Off to work at ]]></title>
+    <link href="http://www.analogsenses.com/2014/12/15/off-to-work-at-%EF%A3%BF/"/>
+    <updated>2014-12-15T18:44:33+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/15/off-to-work-at-</id>
+    <content type="html"><![CDATA[<p>Jeremy Foo tells the story of how, after four years of trying, he managed to get a development job at Apple:</p>
+
+<blockquote><p>The code review was brutal. The author of <em>UITableView</em> eviscerated every decision I made in the design of that piece of work. It was pretty obvious that at that moment, everything was a bust. What I also did realise was also how high the bar was and that I had a lot of work to do.</p></blockquote>
+
+<p>Great story. I just hope he cleared it with someone at Apple before publishing the article. Otherwise, I don&rsquo;t imagine they&rsquo;ll be too happy about those pictures being made public by a new recruit.</p>
+
+<p>Via <a href="http://www.loopinsight.com/2014/12/15/off-to-work-at-%EF%A3%BF/">The Loop</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hacking The Tweet Stream]]></title>
+    <link href="http://www.analogsenses.com/2014/12/15/hacking-the-tweet-stream/"/>
+    <updated>2014-12-15T18:11:51+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/15/hacking-the-tweet-stream</id>
+    <content type="html"><![CDATA[<p>M.G. Siegler, on the recent trend of embedding a picture of text in a tweet to be able to tweet longer messages:</p>
+
+<blockquote><p>In the age of Tweetstorms, I thought I would grow to hate this as well. But I actually quite like it. One big reason: it maintains the flow of the tweet stream. That is, it’s one tweet with a payload, so it both flows in and out of the stream just as quickly as a regular tweet. And, more importantly, it can be retweeted (another one of those early Twitter “hacks” that has <a href="http://techcrunch.com/2009/11/11/simple-is-as-simple-does-the-risk-of-retweet/">since become part of the official canon</a>) and replied to without breaking context.</p></blockquote>
+
+<p>I&rsquo;m seeing these tweets more and more in my timeline as well. I&rsquo;m not crazy about it becoming a thing, but I can&rsquo;t say it bothers me, either.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[“It stops today”]]></title>
@@ -183,32 +211,6 @@
 <p>This poorly-thought joke of a law is nothing but a desperate attempt by traditional newspaper owners, who are colluding with the government to save their own lazy asses. But if they think this is the way to survive in the digital era, they&rsquo;re in for a rude awakening.</p>
 
 <p>As a Spanish citizen and Internet publisher, I&rsquo;m deeply ashamed of this law. I&rsquo;m also way too angry to write a measured article about it right now, so let&rsquo;s leave it at that.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Instagram hits 300 million monthly users]]></title>
-    <link href="http://www.analogsenses.com/2014/12/11/instagram-hits-300-million-monthly-users/"/>
-    <updated>2014-12-11T14:57:42+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/11/instagram-hits-300-million-monthly-users</id>
-    <content type="html"><![CDATA[<p>John Constine, TechCrunch:</p>
-
-<blockquote><p>It’s no fad. Just nine months after hitting 200 million users, <a href="http://blog.instagram.com/post/104847837897/141210-300million">Instagram now says 300 million people</a> use its photo app every month, with 70% of them coming from outside the US. That makes Instagram officially bigger than <a href="http://techcrunch.com/2014/10/27/twitter-beats-in-q3-with-revenue-of-361m-but-slowing-user-growth-drags-its-shares-down-8/">Twitter, which had 284 million active users</a> as of six weeks ago.</p></blockquote>
-
-<p>That&rsquo;s impressive.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The state of Twitter clients in 2014]]></title>
-    <link href="http://www.analogsenses.com/2014/12/10/the-state-of-twitter-clients-in-2014/"/>
-    <updated>2014-12-10T17:39:06+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/10/the-state-of-twitter-clients-in-2014</id>
-    <content type="html"><![CDATA[<p>Just when you thought you were about to catch up to your Instapaper queue, Federico Viticci goes all Siracusa on us to analyze the three most popular Twitter clients for iOS: Tweetbot, Twiterrific and Twitter.</p>
-
-<p>This amazingly detailed review is well over 20,000 words long. It would totally make sense as a standalone Kindle book.</p>
-
-<p>Way to go, Federico. What an awesome piece of work.</p>
 ]]></content>
   </entry>
   

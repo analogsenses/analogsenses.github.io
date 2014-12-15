@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-15T17:27:46+01:00</updated>
+  <updated>2014-12-15T18:55:17+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Off to work at ]]></title>
+    <link href="http://www.analogsenses.com/2014/12/15/off-to-work-at-%EF%A3%BF/"/>
+    <updated>2014-12-15T18:44:33+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/15/off-to-work-at-</id>
+    <content type="html"><![CDATA[<p>Jeremy Foo tells the story of how, after four years of trying, he managed to get a development job at Apple:</p>
+
+<blockquote><p>The code review was brutal. The author of <em>UITableView</em> eviscerated every decision I made in the design of that piece of work. It was pretty obvious that at that moment, everything was a bust. What I also did realise was also how high the bar was and that I had a lot of work to do.</p></blockquote>
+
+<p>Great story. I just hope he cleared it with someone at Apple before publishing the article. Otherwise, I don&rsquo;t imagine they&rsquo;ll be too happy about those pictures being made public by a new recruit.</p>
+
+<p>Via <a href="http://www.loopinsight.com/2014/12/15/off-to-work-at-%EF%A3%BF/">The Loop</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jason Snell's favorite Mac apps]]></title>
@@ -68,21 +83,6 @@
 <blockquote><p>I’d argue that it boils down to several app ecosystem features, rather than native code advantages. When there’s a genuine choice between building a Web app or native app, and when audience and revenue are important, the ecosystem makes the difference.</p>
 
 <p>Let me take <em>The Magazine</em> as an example, since I’ve lived with it for over two years, and most of that as its owner. What does Apple offer (and Google and other platforms as well)?</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Attack of the 50-foot Save Sheet]]></title>
-    <link href="http://www.analogsenses.com/2014/11/26/attack-of-the-50-foot-save-sheet/"/>
-    <updated>2014-11-26T16:40:29+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/26/attack-of-the-50-foot-save-sheet</id>
-    <content type="html"><![CDATA[<p>Jason Snell is having issues with his save sheets in Yosemite:</p>
-
-<blockquote><p>This morning I tried to save a file in BBEdit, only to discover that I couldn’t see half of the save sheet—it was so large, it went off the bottom of the screen.</p>
-
-<p>It turns out—and thanks to Jon Gotow of St. Clair Software, maker of the excellent <a href="http://www.stclairsoft.com/DefaultFolderX/">Default Folder X</a>, for the answer to this—that there’s a bug in Yosemite that causes a sheet to grow taller by 22 pixels every time you use it.</p></blockquote>
-
-<p>If you&rsquo;re experiencing the same issues, check out the rest of the article to learn how to fix it.</p>
 ]]></content>
   </entry>
   
