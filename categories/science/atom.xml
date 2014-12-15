@@ -4,7 +4,7 @@
   <title><![CDATA[Category: science | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/science/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-15T19:32:18+01:00</updated>
+  <updated>2014-12-15T22:50:39+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -18,7 +18,7 @@
     <link href="http://www.analogsenses.com/2014/12/05/liftoff-of-orion-at-dawn/"/>
     <updated>2014-12-05T18:43:04+01:00</updated>
     <id>http://www.analogsenses.com/2014/12/05/liftoff-of-orion-at-dawn</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/6Hn8qnsucwo" allowfullscreen></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube 6Hn8qnsucwo %}</p>
 
 <p>Breathtaking.</p>
 ]]></content>
@@ -33,7 +33,7 @@
 
 <p>Luckily, today <a href="http://laughingsquid.com/a-ted-ed-animation-explaining-the-nature-of-those-floating-things-that-sometimes-appear-in-the-eye/">Laughing Squid</a> pointed me towards this excellent TED-Ed animation, in which the nature of such phenomena is explained. It turns out, these things are commonly known as <a href="http://en.wikipedia.org/wiki/Floater">“floaters”</a>, and they&rsquo;re usually safe. They&rsquo;re caused by tiny particles floating in the liquid <a href="http://en.wikipedia.org/wiki/Vitreous_humour">vitreous humor</a> inside the eye and casting shadows on the retina.</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Y6e_m9iq-4Q" allowfullscreen></iframe></div></p>
+<p>{% youtube Y6e_m9iq-4Q %}</p>
 
 <p>So, while in some extreme cases floaters may be the result of a more serious condition, their presence in small quantities is a very common occurrence and is usually no cause for concern. That said, if you&rsquo;re experiencing similar symptoms and are still unsure as to what it could be, the best course of action is always to check with your doctor.</p>
 ]]></content>
