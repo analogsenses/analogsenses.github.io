@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-17T22:41:39+01:00</updated>
+  <updated>2014-12-18T17:24:49+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Yahoo’s Decline]]></title>
+    <link href="http://www.analogsenses.com/2014/12/18/yahoos-decline/"/>
+    <updated>2014-12-18T16:58:19+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/18/yahoos-decline</id>
+    <content type="html"><![CDATA[<p>John Gruber:</p>
+
+<blockquote><p><a href="http://archive.wired.com/wired/archive/15.02/yahoo.html">Yahoo reportedly had an opportunity to buy Google in 2002 for $5 billion</a>. Yahoo, under the leadership of CEO Terry Semel, declined. And that was the end of Yahoo. We all know hindsight is 20/20. There are all sorts of acquisitions that <em>could</em> have been made. But I would argue that acquiring Google in 2002 (if not earlier) was something Yahoo absolutely should have <em>known</em> they needed to do. The portal strategy had played itself out. All they were left with was their original purpose, serving as a starting page for finding what you were looking for on the web.</p></blockquote>
+
+<p>It&rsquo;s unfortunate to see Yahoo struggling this bad. What really worries me though, is that Yahoo&rsquo;s future also affects the rest of their properties, including Flickr. Marissa Mayer made a substantial effort to bring the service back to its glory days, but now it looks like she&rsquo;s well on her way to getting canned as Yahoo&rsquo;s CEO. Lately it seems Flickr has been doing much better, but will that be enough to survive her replacement?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hacking The Tweet Stream]]></title>
@@ -66,19 +79,6 @@
 <blockquote><p>It’s no fad. Just nine months after hitting 200 million users, <a href="http://blog.instagram.com/post/104847837897/141210-300million">Instagram now says 300 million people</a> use its photo app every month, with 70% of them coming from outside the US. That makes Instagram officially bigger than <a href="http://techcrunch.com/2014/10/27/twitter-beats-in-q3-with-revenue-of-361m-but-slowing-user-growth-drags-its-shares-down-8/">Twitter, which had 284 million active users</a> as of six weeks ago.</p></blockquote>
 
 <p>That&rsquo;s impressive.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The state of Twitter clients in 2014]]></title>
-    <link href="http://www.analogsenses.com/2014/12/10/the-state-of-twitter-clients-in-2014/"/>
-    <updated>2014-12-10T17:39:06+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/10/the-state-of-twitter-clients-in-2014</id>
-    <content type="html"><![CDATA[<p>Just when you thought you were about to catch up to your Instapaper queue, Federico Viticci goes all Siracusa on us to analyze the three most popular Twitter clients for iOS: Tweetbot, Twiterrific and Twitter.</p>
-
-<p>This amazingly detailed review is well over 20,000 words long. It would totally make sense as a standalone Kindle book.</p>
-
-<p>Way to go, Federico. What an awesome piece of work.</p>
 ]]></content>
   </entry>
   

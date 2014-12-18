@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-17T22:41:39+01:00</updated>
+  <updated>2014-12-18T17:24:49+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Yahoo’s Decline →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://daringfireball.net/2014/12/yahoo_decline"/>
+	
+    <updated>2014-12-18T16:58:19+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/18/yahoos-decline</id>
+  	
+  	<content type="html"><![CDATA[<p>John Gruber:</p>
+
+<blockquote><p><a href="http://archive.wired.com/wired/archive/15.02/yahoo.html">Yahoo reportedly had an opportunity to buy Google in 2002 for $5 billion</a>. Yahoo, under the leadership of CEO Terry Semel, declined. And that was the end of Yahoo. We all know hindsight is 20/20. There are all sorts of acquisitions that <em>could</em> have been made. But I would argue that acquiring Google in 2002 (if not earlier) was something Yahoo absolutely should have <em>known</em> they needed to do. The portal strategy had played itself out. All they were left with was their original purpose, serving as a starting page for finding what you were looking for on the web.</p></blockquote>
+
+<p>It&rsquo;s unfortunate to see Yahoo struggling this bad. What really worries me though, is that Yahoo&rsquo;s future also affects the rest of their properties, including Flickr. Marissa Mayer made a substantial effort to bring the service back to its glory days, but now it looks like she&rsquo;s well on her way to getting canned as Yahoo&rsquo;s CEO. Lately it seems Flickr has been doing much better, but will that be enough to survive her replacement?</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/18/yahoos-decline/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Bicycles in Language →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -632,28 +649,6 @@
 
 <p>BEST. DAD. EVER.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/10/before-andy-baio-let-his-son-play-any-modern-videogames-they-played-through-25-years-of-gaming-history-together-in-order/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[SOARING: Lights Over Norway →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://vimeo.com/113094940"/>
-	
-    <updated>2014-12-10T12:56:46+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/10/soaring-lights-over-norway</id>
-  	
-  	<content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/113094940 "></iframe></div>
-
-
-<p>Ole C. Salomonsen:</p>
-
-<blockquote><p>SOARING is a shortfilm showing what is keeping many photographers sleepless through the winter nights in the arctic landscapes and rural areas of northern Norway; the northern lights. The film was shot this autumn from late august to mid november in and around the areas of the city of Tromsø, as well as on the beautiful island of Senja.</p>
-
-<p>All sequences are realtime video, no timelapse used.</p></blockquote>
-
-<p>Via <a href="http://laughingsquid.com/soaring-a-short-film-that-captures-the-real-time-beauty-of-auroras-in-the-autumn-night-sky-in-tromso-norway/">Laughing Squid</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/10/soaring-lights-over-norway/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
