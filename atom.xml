@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-19T20:49:50+01:00</updated>
+  <updated>2014-12-19T21:03:53+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[National Geographic’s Photo Contest 2014: Winners Announced →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://photography.nationalgeographic.com/photography/photo-contest/2014/"/>
+	
+    <updated>2014-12-19T21:01:43+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/19/national-geographics-photo-contest-2014-winners-announced</id>
+  	
+  	<content type="html"><![CDATA[<p>Spectacular images, as expected. This year I particularly love <a href="http://photography.nationalgeographic.com/photography/photo-contest/2014/entries/gallery/nature-winners/">the Nature section</a>. So good.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/19/national-geographics-photo-contest-2014-winners-announced/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[“In Which I Fix My Girlfriend's Grandparents' WiFi and Am Hailed as a Conquering Hero” →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -612,21 +625,6 @@
 <p class="extra-width"><img src="https://farm8.staticflickr.com/7571/15974601016_d6f6235eab_h.jpg" alt="Straight Razor Shaving 101"/></p>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Josh Ginter reviews Reeder 2 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://thenewsprint.co/2014/12/11/reeder-2/"/>
-	
-    <updated>2014-12-11T22:08:06+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/11/josh-ginter-reviews-reeder-2</id>
-  	
-  	<content type="html"><![CDATA[<p>Another excellent software review by Josh Ginter. This time, he takes a look at my favorite RSS app: Reeder 2. I use it all the time on my Macs, my iPad and my iPhone, and I vastly prefer it over the native Feedly clients.</p>
-
-<p>If you&rsquo;re curious about it, Josh&rsquo;s review has everything you want to know, and a few other things you haven&rsquo;t thought of yet. Great stuff, as ever.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/11/josh-ginter-reviews-reeder-2/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
