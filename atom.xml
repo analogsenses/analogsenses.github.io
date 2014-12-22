@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-22T18:29:36+01:00</updated>
+  <updated>2014-12-22T18:38:50+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Hovercraft to Paris →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://betterelevation.com/hovercraft-to-paris/"/>
+	
+    <updated>2014-12-22T18:34:10+01:00</updated>
+  	<id>http://www.analogsenses.com/2014/12/22/hovercraft-to-paris</id>
+  	
+  	<content type="html"><![CDATA[<p>Dave Wiskus and Jaimee Newberry’s new podcast is awesome:</p>
+
+<blockquote><p>So we decided to make it asynchronous and put it all on video. Inspired by <a href="http://youtube.com/vlogbrothers">John and Hank Green</a>, we’re sending each other weekly video postcards via our new YouTube channel, called Hovercraft to Paris. This is an experiment, and all we have right now is the starting point: a conversation between friends. Like the best conversations between friends, it could go anywhere.</p></blockquote>
+
+<p>Sold.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2014/12/22/hovercraft-to-paris/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Rise and Fall of Charm in American Men →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -480,21 +497,6 @@
 
 <p>I&rsquo;m seeing these tweets more and more in my timeline as well. I&rsquo;m not crazy about it becoming a thing, but I can&rsquo;t say it bothers me, either.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/15/hacking-the-tweet-stream/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[“It stops today” →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://patrickrhone.com/2014/12/14/it-stops-today/"/>
-	
-    <updated>2014-12-15T17:20:25+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/15/it-stops-today</id>
-  	
-  	<content type="html"><![CDATA[<p>Patrick Rhone proposes an alternative to “I can&rsquo;t breathe”, the rallying cry against racial discrimination and police brutality that was widely adopted in memory of Eric Garner:</p>
-
-<blockquote><p>Let us remember him this way. The way we remember <a href="https://en.wikipedia.org/wiki/Rosa_Parks">Rosa Parks</a>. Proud, tired, and stating with fierce dignity, “It stops today”.</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/15/it-stops-today/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
