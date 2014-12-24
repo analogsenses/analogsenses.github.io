@@ -4,7 +4,7 @@
   <title><![CDATA[Category: science | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/science/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-24T12:29:38+01:00</updated>
+  <updated>2014-12-24T12:42:10+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How The Sun Sees You]]></title>
+    <link href="http://www.analogsenses.com/2014/12/24/how-the-sun-sees-you/"/>
+    <updated>2014-12-24T12:39:02+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/24/how-the-sun-sees-you</id>
+    <content type="html"><![CDATA[<p>This is one of the projects featured in <a href="/2014/12/24/the-most-amazing-science-images-of-2014/">The Most Amazing Science Images of 2014</a>, but it deserves a standalone mention:</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/o9BqrSAHbTc" allowfullscreen></iframe></div></p>
+
+<p>Beautiful.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Most Amazing Science Images of 2014]]></title>
@@ -74,23 +87,6 @@
 <p>Frankly, I&rsquo;m not entirely convinced of either version, but it&rsquo;s only fair to present both sides of the argument. That said, a healthy dose of skepticism is always a good habit to maintain and as ever, it&rsquo;s <em>your</em> duty as a reader to make up your mind in light of the facts.</p>
 
 <p>Thanks to <a href="https://twitter.com/markbylok/status/539896552618475522">Mark Bylok</a> for the heads up!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The warped astrophysics of Interstellar]]></title>
-    <link href="http://www.analogsenses.com/2014/11/15/the-warped-astrophysics-of-interstellar/"/>
-    <updated>2014-11-15T13:35:29+01:00</updated>
-    <id>http://www.analogsenses.com/2014/11/15/the-warped-astrophysics-of-interstellar</id>
-    <content type="html"><![CDATA[<p>Adam Rogers tells the story of how renowned astrophysicist Kip Thorne helped Christopher Nolan portray gravitational singularities — worm holes and black holes — in a scientifically accurate way:</p>
-
-<blockquote><p>Von Tunzelmann tried a tricky demo. She generated a flat, multicolored ring—a stand-in for the accretion disk—and positioned it around their spinning black hole. Something very, very weird happened. “We found that warping space around the black hole also warps the accretion disk,” Franklin says. “So rather than looking like Saturn&rsquo;s rings around a black sphere, the light creates this extraordinary halo.”</p>
-
-<p>That&rsquo;s what led Thorne to his “why, of course” moment when he first saw the final effect. The Double Negative team thought it must be a bug in the renderer. But Thorne realized that they had correctly modeled a phenomenon inherent in the math he&rsquo;d supplied.</p></blockquote>
-
-<p>This is what happens when incredibly smart people trained in different scientific disciplines are locked in a room together for a few months. Fascinating.</p>
-
-<p>Via <a href="http://toolsandtoys.net/editorials/comet-landings-solar-flares-and-interstellar-black-holes/">Tools &amp; Toys</a>.</p>
 ]]></content>
   </entry>
   
