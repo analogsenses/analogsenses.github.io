@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-27T13:27:47+01:00</updated>
+  <updated>2014-12-31T13:31:57+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Breathe life into an old Mac]]></title>
+    <link href="http://www.analogsenses.com/2014/12/31/breathe-life-into-an-old-mac/"/>
+    <updated>2014-12-31T12:31:40+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/31/breathe-life-into-an-old-mac</id>
+    <content type="html"><![CDATA[<p>Excellent guest post by Joe Caiati at 512 Pixels:</p>
+
+<blockquote><p>Depending on the year it was purchased or whether you configured it with top-tier specs, your once-current Mac’s performance may be less than desirable and at this point you could be facing those tough questions.</p>
+
+<p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></blockquote>
+
+<p>Sometimes it&rsquo;s not worth it to completely replace an aging Mac. A well-thought upgrade instead can save you quite a bit of money.</p>
+
+<p>If after reading the article you feel like attempting to replace your old iMac&rsquo;s hard drive with an SSD, <a href="http://www.analogsenses.com/2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/">I documented the process a few months ago</a>. My advice? Go for it. It&rsquo;s easier than it looks and makes a huge difference.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jim Dalrymple’s Thoughts on iPad Sales]]></title>
@@ -70,29 +87,6 @@
     <content type="html"><![CDATA[<p>Solid recommendations all around from Jason:</p>
 
 <blockquote><p>I spend a lot of time at my Mac. I love my iPad and iPhone, but my Mac is still where I spend most of my time. Between writing and making podcasts, this is the place where my tools of choice reside. Since it’s the end of the year, I figured, why not mention a bunch of Mac apps that I use every day? If there were a gift-giving holiday coming up, you could even use that as an excuse to buy them.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple forces Panic to remove iCloud Drive feature]]></title>
-    <link href="http://www.analogsenses.com/2014/12/08/apple-forces-panic-to-remove-icloud-drive-feature/"/>
-    <updated>2014-12-08T21:36:42+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/08/apple-forces-panic-to-remove-icloud-drive-feature</id>
-    <content type="html"><![CDATA[<p>From the Panic Blog:</p>
-
-<blockquote><p><a href="http://panic.com/transmit-ios/">Transmit iOS 1.1.1</a> is out, fixing a few bugs in our surprisingly powerful file management app for your iPhone or iPad.</p>
-
-<p>Also, at Apple’s request, we had to remove the ability to “Send” files to other services, including iCloud Drive.</p>
-
-<p>In short, we’re told that while Transmit iOS can download content from iCloud Drive, <strong>we cannot upload content to iCloud Drive unless the content was created in the app itself.</strong> Apple says this use would violate 2.23 — “Apps must follow the <a href="https://developer.apple.com/icloud/documentation/data-storage/">iOS Data Storage Guidelines</a> or they will be rejected” — but oddly that page says nothing about iCloud Drive or appropriate uses for iCloud Drive.</p></blockquote>
-
-<p>This is getting ridiculous. <a href="http://www.marco.org/2014/12/08/transmit-rejection">Marco Arment</a> has a good theory on why these seemingly arbitrary rejections keep happening all the time:</p>
-
-<blockquote><p>One hand isn’t talking to the other: engineering makes great features available to developers that could be used to build amazingly useful and powerful applications, then the App Store bans anything beyond their most trivial uses.</p>
-
-<p>This sure feels like the ramifications of an internal turf war. I hope the higher-ups at Apple realize how important it is to resolve this quickly, because their devices, users, and developers are all suffering unnecessarily.</p></blockquote>
-
-<p>Apple needs to get their act together on this, and soon.</p>
 ]]></content>
   </entry>
   
