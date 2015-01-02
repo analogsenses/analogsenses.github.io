@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-02T17:35:21+01:00</updated>
+  <updated>2015-01-02T20:52:38+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[use your online backup as cloud storage →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://sixcolors.com/post/2015/01/use-your-online-backup-as-cloud-storage/"/>
+	
+    <updated>2015-01-02T20:43:14+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/02/use-your-online-backup-as-cloud-storage</id>
+  	
+  	<content type="html"><![CDATA[<p>Clever tip by Jason Snell:</p>
+
+<blockquote><p>Both Backblaze and CrashPlan offer iOS apps, as well, letting you access all your backed-up files from your mobile devices. So if you forgot an important presentation or document on your computer, and you couldn&rsquo;t connect to that device remotely, you could still open a copy from your backups.</p></blockquote>
+
+<p>I&rsquo;ve sometimes done this with Dropbox, where you can access every file store on the service during the last 30 days. It’s a nice feature to have, but both CrashPlan and Backblaze’s systems are designed with bulk data exports in mind, that is, to allow you to download a compressed copy of all your data. Access to individual files is also granted, but it’s clearly not what the system was designed for, and therefore I wouldn’t recommend relying on it on a regular basis.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/02/use-your-online-backup-as-cloud-storage/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The basics of manual image exposure in eight minutes →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -330,23 +347,6 @@
   	
   	<content type="html"><![CDATA[<p><a href="http://fiftyfootshadows.net">John Carey</a> is in Japan, and he&rsquo;s killing it.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/22/stare-into-the-light/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Hovercraft to Paris →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://betterelevation.com/hovercraft-to-paris/"/>
-	
-    <updated>2014-12-22T18:34:10+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/22/hovercraft-to-paris</id>
-  	
-  	<content type="html"><![CDATA[<p>Dave Wiskus and Jaimee Newberry’s new show is awesome:</p>
-
-<blockquote><p>So we decided to make it asynchronous and put it all on video. Inspired by <a href="http://youtube.com/vlogbrothers">John and Hank Green</a>, we’re sending each other weekly video postcards via our new YouTube channel, called Hovercraft to Paris. This is an experiment, and all we have right now is the starting point: a conversation between friends. Like the best conversations between friends, it could go anywhere.</p></blockquote>
-
-<p>Sold.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/22/hovercraft-to-paris/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-02T17:35:21+01:00</updated>
+  <updated>2015-01-02T20:52:38+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[use your online backup as cloud storage]]></title>
+    <link href="http://www.analogsenses.com/2015/01/02/use-your-online-backup-as-cloud-storage/"/>
+    <updated>2015-01-02T20:43:14+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/02/use-your-online-backup-as-cloud-storage</id>
+    <content type="html"><![CDATA[<p>Clever tip by Jason Snell:</p>
+
+<blockquote><p>Both Backblaze and CrashPlan offer iOS apps, as well, letting you access all your backed-up files from your mobile devices. So if you forgot an important presentation or document on your computer, and you couldn&rsquo;t connect to that device remotely, you could still open a copy from your backups.</p></blockquote>
+
+<p>I&rsquo;ve sometimes done this with Dropbox, where you can access every file store on the service during the last 30 days. It’s a nice feature to have, but both CrashPlan and Backblaze’s systems are designed with bulk data exports in mind, that is, to allow you to download a compressed copy of all your data. Access to individual files is also granted, but it’s clearly not what the system was designed for, and therefore I wouldn’t recommend relying on it on a regular basis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Andrew Womack’s Top Albums of 2014]]></title>
@@ -68,23 +81,6 @@
 <p>If we want better privacy on the Internet, first we must become better people.</p>
 
 <p>Via <a href="https://brooksreview.net/2014/12/i-will-not-post-this/">Ben Brooks</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[6 things The Oatmeal learned from riding in a Google self-driving car]]></title>
-    <link href="http://www.analogsenses.com/2014/12/23/6-things-the-oatmeal-learned-from-riding-in-a-google-self-driving-car/"/>
-    <updated>2014-12-23T20:52:09+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/23/6-things-the-oatmeal-learned-from-riding-in-a-google-self-driving-car</id>
-    <content type="html"><![CDATA[<p>Matthew Inman:</p>
-
-<blockquote><p>When discussing self-driving cars, people tend to ask a lot of superficial questions: <em>how much will these cars cost? Is this supposed to replace my car at home? Is this supposed to replace taxis or Uber? What if I need to use a drive-thru?</em></p>
-
-<p>They ignore the smarter questions. They ignore the fact that 45% of disabled people in the US still work. They ignore the fact that 95% of a car&rsquo;s lifetime is spent parked. They ignore how this technology could transform the lives of the elderly, or eradicate the need for parking lots or garages or gas stations. They dismiss the entire concept because they don&rsquo;t think a computer could ever be as good at merging on the freeway as they are.</p>
-
-<p>They ignore the great, big, beautiful picture staring them right in the face: that this technology could make our lives so much <em>better</em>.</p></blockquote>
-
-<p>There are still many kinks to iron out, but these cars already sound pretty damn impressive, and their potential is truly exciting.</p>
 ]]></content>
   </entry>
   
