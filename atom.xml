@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2014-12-31T13:31:57+01:00</updated>
+  <updated>2015-01-02T17:03:40+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The dominant life form in the Universe will be superintelligent robots →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://motherboard.vice.com/read/the-dominant-life-form-in-the-cosmos-is-probably-superintelligent-robots"/>
+	
+    <updated>2015-01-02T12:31:29+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/02/the-dominant-life-form-in-the-universe-will-be-superintelligent-robots</id>
+  	
+  	<content type="html"><![CDATA[<p>Maddie Stone, writing for Motherboard:</p>
+
+<blockquote><p>If and when we finally encounter aliens, they probably won’t look like little green men, or spiny insectoids. It’s likely they won’t be biological creatures at all, but rather, advanced robots that outstrip our intelligence in every conceivable way. While scores of philosophers, scientists and futurists have <a href="http://motherboard.vice.com/read/super-intelligent-ai-could-wipe-out-humanity-if-were-not-ready-for-it">prophesied the rise of artificial intelligence</a> and the impending singularity, most have restricted their predictions to Earth. Fewer thinkers—outside the realm of science fiction, that is—have considered the notion that artificial intelligence is already out there, and has been for eons.</p></blockquote>
+
+<p>I could read these stories for hours on end. Via <a href="http://kottke.org/14/12/et-will-be-a-superintelligent-robot">Kottke</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/02/the-dominant-life-form-in-the-universe-will-be-superintelligent-robots/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Andrew Womack’s Top Albums of 2014 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -330,19 +347,6 @@
 
 <p>Charm as a personal value — that is, a quality that can and should be cultivated, as opposed to an attribute one is born with — is increasingly rarer in today&rsquo;s society and sadly, that&rsquo;s not limited to American culture.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/22/the-rise-and-fall-of-charm-in-american-men/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[National Geographic’s Photo Contest 2014: Winners Announced →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://photography.nationalgeographic.com/photography/photo-contest/2014/"/>
-	
-    <updated>2014-12-19T21:01:43+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/19/national-geographics-photo-contest-2014-winners-announced</id>
-  	
-  	<content type="html"><![CDATA[<p>Spectacular images, as expected. This year I particularly love <a href="http://photography.nationalgeographic.com/photography/photo-contest/2014/entries/gallery/nature-winners/">the Nature section</a>. So good.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/19/national-geographics-photo-contest-2014-winners-announced/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
