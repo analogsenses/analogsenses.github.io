@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-02T20:52:38+01:00</updated>
+  <updated>2015-01-02T21:02:49+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[use your online backup as cloud storage]]></title>
+    <title type="html"><![CDATA[Use your online backup as cloud storage]]></title>
     <link href="http://www.analogsenses.com/2015/01/02/use-your-online-backup-as-cloud-storage/"/>
     <updated>2015-01-02T20:43:14+01:00</updated>
     <id>http://www.analogsenses.com/2015/01/02/use-your-online-backup-as-cloud-storage</id>
@@ -22,7 +22,7 @@
 
 <blockquote><p>Both Backblaze and CrashPlan offer iOS apps, as well, letting you access all your backed-up files from your mobile devices. So if you forgot an important presentation or document on your computer, and you couldn&rsquo;t connect to that device remotely, you could still open a copy from your backups.</p></blockquote>
 
-<p>I&rsquo;ve sometimes done this with Dropbox, where you can access every file store on the service during the last 30 days. It’s a nice feature to have, but both CrashPlan and Backblaze’s systems are designed with bulk data exports in mind, that is, to allow you to download a compressed copy of all your data. Access to individual files is also granted, but it’s clearly not what the system was designed for, and therefore I wouldn’t recommend relying on it on a regular basis.</p>
+<p>I&rsquo;ve sometimes done this with Dropbox, where you can access any file ever stored on the service in the last 30 days — at least. It’s a nice feature to have but unlike Dropbox, both CrashPlan and Backblaze’s systems are designed with bulk data exports in mind, that is, to allow you to download a compressed copy of all your data. Access to individual files is also granted, but it’s clearly not what the system was designed for, and therefore I wouldn’t recommend relying on it on a regular basis.</p>
 ]]></content>
   </entry>
   
