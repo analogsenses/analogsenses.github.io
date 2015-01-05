@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-05T15:01:53+01:00</updated>
+  <updated>2015-01-05T15:11:43+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Uncertainty is not the same thing as risk →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://sethgodin.typepad.com/seths_blog/2015/01/uncertainty-risk.html"/>
+	
+    <updated>2015-01-05T15:05:21+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/05/uncertainty-is-not-the-same-thing-as-risk</id>
+  	
+  	<content type="html"><![CDATA[<p>Seth Godin:</p>
+
+<blockquote><p>A simple example: the typical high school student applying to a range of colleges has very little risk of getting in nowhere. Apply to enough schools that match what you have to offer, and the odds are high indeed you&rsquo;ll get in somewhere. Low risk but a very high uncertainty about <em>which</em> college or colleges will say yes.</p>
+
+<p>That&rsquo;s not risky. That&rsquo;s uncertain. It takes fortitude to live with a future that&rsquo;s not clearly imagined, but it&rsquo;s no reason not to apply.</p></blockquote>
+
+<p>Interesting thought. I’d argue uncertainty is almost as difficult to handle as real risk, but he’s quite right in that sometimes it’s simply due to our own inability to understand the fundamental difference between the two.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/05/uncertainty-is-not-the-same-thing-as-risk/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Copenhagen’s traffic playground for kids →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -358,27 +377,6 @@
 
 <p>Beautiful.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/24/how-the-sun-sees-you/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[I Will Not Post This →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://medium.com/sample-collection/i-will-not-post-this-575405404fca"/>
-	
-    <updated>2014-12-24T12:21:56+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/24/i-will-not-post-this</id>
-  	
-  	<content type="html"><![CDATA[<p>Dave Pell:</p>
-
-<blockquote><p>So don’t tweet. It’s not worth the risk. Don’t make phone calls. You’re being recorded. Don’t send emails. Sooner or later, we’ll all be reading them. Don’t take naked selfies, because some freak will find a way into your phone and share your photos in the seediest corners of the Internet. And the rest of us will have to look. Again, it’s not you. It’s us. On one hand, sorry for taking away your privacy, security and dignity. On the other hand, nice tits.</p></blockquote>
-
-<p>Privacy on the Internet is at an all-time low, and getting lower by the day. Companies like Google and Facebook get most of the bad press, but privacy is not invaded by companies, it&rsquo;s invaded by people. It&rsquo;s always been people. As long as there&rsquo;s money to be made by airing someone else&rsquo;s dirty secrets, this will not change.</p>
-
-<p>If we want better privacy on the Internet, first we must become better people.</p>
-
-<p>Via <a href="https://brooksreview.net/2014/12/i-will-not-post-this/">Ben Brooks</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/24/i-will-not-post-this/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
