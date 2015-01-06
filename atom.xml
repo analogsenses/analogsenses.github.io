@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-06T13:49:36+01:00</updated>
+  <updated>2015-01-06T14:10:29+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Cabel Sasser on removing Coda from the Mac App Store →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.panic.com/blog/the-2014-panic-report/"/>
+	
+    <updated>2015-01-06T14:05:41+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store</id>
+  	
+  	<content type="html"><![CDATA[<p>Cabel Sasser, on the Panic blog:</p>
+
+<blockquote><p>We’ve well-documented our struggles with Coda 2.5, Sandboxing, and the Mac App Store — <a href="http://www.panic.com/blog/coda-and-sandboxing/">first a warning in 2012</a>, then <a href="http://www.panic.com/blog/coda-2-5-and-the-mac-app-store/">this year when 2.5 shipped</a>. Apple tried their best but realistically speaking we simply would have had to cut numerous Coda features, like the Terminal, MySQL local access, editing files as root, and more. To be honest, I was pretty nervous to be pulling Coda from the Mac App Store. But when we finally did it, I felt an incredible, almost indescribable sense of relief — mostly because as we began to wrap up bug fix releases, we were able to immediately post them to our customers within minutes of qualifying them. My god. That’s how it should be. There’s just no other way to put it — that’s how you treat your customers well, by reacting quickly and having total control over your destiny. To not be beholden to someone else to do our job feels just fantastic. (Also to not pay someone 30% in exchange for frequent stress is a fine deal.)</p></blockquote>
+
+<p>I&rsquo;m happy to see removing Coda from the Mac App Store didn’t really hurt their sales. The Mac App Store is a fantastic way for developers to reach a wider audience but understandably, it’s not for everyone. Panic is a unique company, and it makes all the sense in the world for their apps to be sold independently through their own distribution channel.</p>
+
+<p>Via <a href="http://www.512pixels.net/blog/2015/1/panic-on-leaving-the-mac-app-store">512 Pixels</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Marco Arment’s way too popular day →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -370,27 +389,6 @@
 
 <p>I have long held Steve’s opinion in high esteem, and he seems to love the new A7 Mk II — with just a minor complaint about battery life.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2014/12/31/steve-huff-reviews-the-new-sony-a7-mk-ii/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Breathe life into an old Mac →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.512pixels.net/blog/2014/12/breathe-live-into-an-old-mac"/>
-	
-    <updated>2014-12-31T12:31:40+01:00</updated>
-  	<id>http://www.analogsenses.com/2014/12/31/breathe-life-into-an-old-mac</id>
-  	
-  	<content type="html"><![CDATA[<p>Excellent guest post by Joe Caiati at 512 Pixels:</p>
-
-<blockquote><p>Depending on the year it was purchased or whether you configured it with top-tier specs, your once-current Mac’s performance may be less than desirable and at this point you could be facing those tough questions.</p>
-
-<p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></blockquote>
-
-<p>Sometimes it&rsquo;s not worth it to completely replace an aging Mac. A well-thought upgrade instead can save you quite a bit of money.</p>
-
-<p>If after reading the article you feel like attempting to replace your old iMac&rsquo;s hard drive with an SSD, <a href="http://www.analogsenses.com/2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/">I documented the process a few months ago</a>. My advice? Go for it. It&rsquo;s easier than it looks and makes a huge difference.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2014/12/31/breathe-life-into-an-old-mac/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-06T13:49:36+01:00</updated>
+  <updated>2015-01-06T14:10:29+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cabel Sasser on removing Coda from the Mac App Store]]></title>
+    <link href="http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store/"/>
+    <updated>2015-01-06T14:05:41+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store</id>
+    <content type="html"><![CDATA[<p>Cabel Sasser, on the Panic blog:</p>
+
+<blockquote><p>We’ve well-documented our struggles with Coda 2.5, Sandboxing, and the Mac App Store — <a href="http://www.panic.com/blog/coda-and-sandboxing/">first a warning in 2012</a>, then <a href="http://www.panic.com/blog/coda-2-5-and-the-mac-app-store/">this year when 2.5 shipped</a>. Apple tried their best but realistically speaking we simply would have had to cut numerous Coda features, like the Terminal, MySQL local access, editing files as root, and more. To be honest, I was pretty nervous to be pulling Coda from the Mac App Store. But when we finally did it, I felt an incredible, almost indescribable sense of relief — mostly because as we began to wrap up bug fix releases, we were able to immediately post them to our customers within minutes of qualifying them. My god. That’s how it should be. There’s just no other way to put it — that’s how you treat your customers well, by reacting quickly and having total control over your destiny. To not be beholden to someone else to do our job feels just fantastic. (Also to not pay someone 30% in exchange for frequent stress is a fine deal.)</p></blockquote>
+
+<p>I&rsquo;m happy to see removing Coda from the Mac App Store didn’t really hurt their sales. The Mac App Store is a fantastic way for developers to reach a wider audience but understandably, it’s not for everyone. Panic is a unique company, and it makes all the sense in the world for their apps to be sold independently through their own distribution channel.</p>
+
+<p>Via <a href="http://www.512pixels.net/blog/2015/1/panic-on-leaving-the-mac-app-store">512 Pixels</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Marco Arment’s way too popular day]]></title>
@@ -80,25 +95,6 @@
 <p>Sometimes it&rsquo;s not worth it to completely replace an aging Mac. A well-thought upgrade instead can save you quite a bit of money.</p>
 
 <p>If after reading the article you feel like attempting to replace your old iMac&rsquo;s hard drive with an SSD, <a href="http://www.analogsenses.com/2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/">I documented the process a few months ago</a>. My advice? Go for it. It&rsquo;s easier than it looks and makes a huge difference.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jim Dalrymple’s Thoughts on iPad Sales]]></title>
-    <link href="http://www.analogsenses.com/2014/12/19/jim-dalrymples-thoughts-on-ipad-sales/"/>
-    <updated>2014-12-19T18:26:54+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/19/jim-dalrymples-thoughts-on-ipad-sales</id>
-    <content type="html"><![CDATA[<p>Jim Dalrymple nails it:</p>
-
-<blockquote><p>People treat their iPad purchases like they treat their computer purchases. They expect these devices to last longer and do more than an iPhone. In a lot of ways, it’s a bizarre thought because of the similarities of the devices, but I believe this is what’s happening.</p>
-
-<p>Simply put, the buying cycle for an iPad is a lot longer than it is for an iPhone.</p></blockquote>
-
-<p>That&rsquo;s the real reason behind the slump in iPad sales. It&rsquo;s got nothing to do with tablets being a fad or the iPad not being a desirable product anymore. iPads are still great, and anybody who owns one will tell you that much. In fact, iPads are so great that people keep them around for much longer than their iPhones, because they simply don&rsquo;t feel the need to upgrade them every year.</p>
-
-<p>The question is, once this knowledge sinks in at Apple, will the iPad refresh cycle get longer as well? On one hand, it&rsquo;s awesome that iPads keep getting better at such great pace, with significant new features being added every year. On the other hand though, it&rsquo;s hard to justify spending so many engineering resources on a product if there&rsquo;s not enough demand to drive sustainable year-over-year growth. At this point, the only reason Apple has to keep their foot on the gas is to maintain the hardware lead they still enjoy over their competitors. That&rsquo;s certainly no small thing, but is it enough for Apple to stay the course?</p>
-
-<p>Is the iPad headed towards a more Mac-like future?</p>
 ]]></content>
   </entry>
   

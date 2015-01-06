@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-06T13:49:36+01:00</updated>
+  <updated>2015-01-06T14:10:29+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cabel Sasser on removing Coda from the Mac App Store]]></title>
+    <link href="http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store/"/>
+    <updated>2015-01-06T14:05:41+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store</id>
+    <content type="html"><![CDATA[<p>Cabel Sasser, on the Panic blog:</p>
+
+<blockquote><p>We’ve well-documented our struggles with Coda 2.5, Sandboxing, and the Mac App Store — <a href="http://www.panic.com/blog/coda-and-sandboxing/">first a warning in 2012</a>, then <a href="http://www.panic.com/blog/coda-2-5-and-the-mac-app-store/">this year when 2.5 shipped</a>. Apple tried their best but realistically speaking we simply would have had to cut numerous Coda features, like the Terminal, MySQL local access, editing files as root, and more. To be honest, I was pretty nervous to be pulling Coda from the Mac App Store. But when we finally did it, I felt an incredible, almost indescribable sense of relief — mostly because as we began to wrap up bug fix releases, we were able to immediately post them to our customers within minutes of qualifying them. My god. That’s how it should be. There’s just no other way to put it — that’s how you treat your customers well, by reacting quickly and having total control over your destiny. To not be beholden to someone else to do our job feels just fantastic. (Also to not pay someone 30% in exchange for frequent stress is a fine deal.)</p></blockquote>
+
+<p>I&rsquo;m happy to see removing Coda from the Mac App Store didn’t really hurt their sales. The Mac App Store is a fantastic way for developers to reach a wider audience but understandably, it’s not for everyone. Panic is a unique company, and it makes all the sense in the world for their apps to be sold independently through their own distribution channel.</p>
+
+<p>Via <a href="http://www.512pixels.net/blog/2015/1/panic-on-leaving-the-mac-app-store">512 Pixels</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Marco Arment’s way too popular day]]></title>
@@ -74,25 +89,6 @@
 <p>That&rsquo;s not risky. That&rsquo;s uncertain. It takes fortitude to live with a future that&rsquo;s not clearly imagined, but it&rsquo;s no reason not to apply.</p></blockquote>
 
 <p>Interesting thought. I’d argue uncertainty is almost as difficult to handle as real risk, but he’s quite right in that sometimes it’s simply due to our own inability to understand the fundamental difference between the two.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Copenhagen’s traffic playground for kids]]></title>
-    <link href="http://www.analogsenses.com/2015/01/05/copenhagens-traffic-playground-for-kids/"/>
-    <updated>2015-01-05T14:28:50+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/05/copenhagens-traffic-playground-for-kids</id>
-    <content type="html"><![CDATA[<p>Mikael Colville-Andersen:</p>
-
-<blockquote><p>The traffic playground is a public playground with a “kid-sized” traffic town where children learn to move in a safe environment. The playground is staffed during business hours and children can borrow go-carts, pedal vehicles with trailers and small bikes. The children are also welcome to bring their own bikes, roller skates and scooters.</p>
-
-<p>For younger children (2-5 years), there is a small, fenced traffic lane where the little ones can borrow carts, tricycles and bicycles with trailers. Furthermore, the playground has a garage with go-carts, which are intended for children between 5 and 14 years. In the classroom, children can receive classroom teaching.</p>
-
-<p>The traffic playground consists of small roads that wind in and out between lawns, shrubs and trees. Everything on the small rehearsal roads is reduced in size to match the children&rsquo;s perspective. There are mini signals, driveways, road markings, sidewalks, crosswalks, bike paths, a gas station, a roundabout, bus stops, traffic lights and even trash cans tilted towards the cyclists - just like in real life (<a href="http://www.copenhagenize.com/2013/03/gothersgade-and-two-way-cycle-track.html">you can see one here in this earlier article</a>).</p></blockquote>
-
-<p>This is so great. Coincidentally, there’s <a href="http://www.plasencia.es/web/20-tu-ayuntamiento-interior/educacion-vial-y-formacion/64-parque-infantil-de-trafico">a remarkably similar traffic playground in my hometown</a> (Spanish page, scroll down for the pictures). I have very fond memories of the many afternoons I spent riding my bike there as a child — with training wheels at first, then proudly on my own. It was a really fun — and useful — way to learn, and become accustomed to the rules of the road. Every child should experience it.</p>
-
-<p>Sadly, the one in my hometown is now closed due to a lack of municipal funds for its proper maintenance and operation. I really hope it comes back to life at some point in the future, when the economy of the city allows for it.</p>
 ]]></content>
   </entry>
   
