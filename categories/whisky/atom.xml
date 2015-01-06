@@ -4,7 +4,7 @@
   <title><![CDATA[Category: whisky | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/whisky/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-06T14:13:40+01:00</updated>
+  <updated>2015-01-06T19:01:09+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -38,7 +38,7 @@
 
 <p>According to Wikipedia, <a href="http://en.wikipedia.org/wiki/Finishing_(whisky)">finishing</a> is <em>“the procedure that some whiskeys [sic] undergo whereby the spirit is matured in a cask of a particular origin and then spends time in a cask of different origin”.</em></p>
 
-<p>Besides The Quinta Ruban and The Original, Glenmorangie&rsquo;s core range currently includes two other 12-year-old wood-finished single malts. <a href="https://glenmorangie.com/en/glenmorangie-lasanta">The Lasanta</a> is finished in Spanish Oloroso Sherry casks and <a href="https://glenmorangie.com/en/glenmorangie-nectar-dor">The Nectar D&#8217;Or</a> is the Sauternes-finished variant.</p>
+<p>Besides The Quinta Ruban and The Original, Glenmorangie&rsquo;s core range currently includes two other 12-year-old wood-finished single malts. <a href="https://glenmorangie.com/en/glenmorangie-lasanta">The Lasanta</a> is finished in Spanish Oloroso Sherry casks and <a href="https://glenmorangie.com/en/glenmorangie-nectar-dor">The Nectar D'Or</a> is the Sauternes-finished variant.</p>
 
 <p>If you&rsquo;d like to taste all of them, Amazon UK has <a href="http://www.amazon.co.uk/gp/product/B00H8RHLAA/">a nice gift set</a> that includes a 10 cl bottle of each of the four variants for £36.99, or about $60. It would be a fantastic gift for any whisky aficionado.</p>
 
@@ -108,7 +108,7 @@
 
 
 
-<p class="photo-credit">Yes, your eyes don&#8217;t deceive you: there is more whisky — and therefore, more happiness — in the second glass</p>
+<p class="photo-credit">Yes, your eyes don't deceive you: there is more whisky — and therefore, more happiness — in the second glass</p>
 
 
 <p>This difference is not only cosmetic, mind you: unlike The Original, The Quinta Ruban is non-chill filtered and has no caramel coloring. That means the color we see is entirely due to the distillation process. In this case, The Quinta Ruban owes its darker, richer color to the time it spent maturing in port casks.</p>
@@ -117,7 +117,7 @@
 
 <p>No matter how many times I tasted The Original, I was never able to discover any fruity aromas, and that drove me mad. Here, on the other hand, they&rsquo;re present in spades, but that doesn&rsquo;t make The Quinta Ruban any easier to nose. Here&rsquo;s <a href="https://www.youtube.com/watch?v=zJQTfmilIFI">a video of the official tasting notes</a> by Glenmorangie&rsquo;s master distiller:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/zJQTfmilIFI" allowfullscreen></iframe></div></p>
+<p>{% youtube zJQTfmilIFI %}</p>
 
 <p>On my first approach I was immediately surprised by its boldness, and the overwhelming sensation that washed over me as I inhaled. A very strong aroma compared to The Original, I thought of bitter oranges and something like peaches, but not quite. There&rsquo;s also a bit of caramel, or toffee. The port comes through with a hint of sweetness in the end.</p>
 
@@ -157,7 +157,7 @@
 
 <p>Like I said, this one&rsquo;s definitely a mixed bag. While there&rsquo;s plenty to love here, I&rsquo;m still unconvinced and I can&rsquo;t help but think that if I were given the choice between this one and The Original, I would pick The Original every time.</p>
 
-<p>I&rsquo;m well aware that I haven&rsquo;t had a whole lot of time to get properly acquainted with it, and I do believe it&rsquo;s the kind of whisky that gets better with time and continued exposure. However, there are a couple things here I&rsquo;m not too fond of, such as the herbal touch in combination with its rather overpowering sweetness. These little things will probably keep me from coming back too often to this one. That said, I&rsquo;m curious to try The Lasanta and The Nectar D&#8217;Or, so perhaps I&rsquo;ll buy <a href="http://www.amazon.co.uk/gp/product/B00H8RHLAA/">the gift set</a> and give it another chance. We&rsquo;ll see.</p>
+<p>I&rsquo;m well aware that I haven&rsquo;t had a whole lot of time to get properly acquainted with it, and I do believe it&rsquo;s the kind of whisky that gets better with time and continued exposure. However, there are a couple things here I&rsquo;m not too fond of, such as the herbal touch in combination with its rather overpowering sweetness. These little things will probably keep me from coming back too often to this one. That said, I&rsquo;m curious to try The Lasanta and The Nectar D'Or, so perhaps I&rsquo;ll buy <a href="http://www.amazon.co.uk/gp/product/B00H8RHLAA/">the gift set</a> and give it another chance. We&rsquo;ll see.</p>
 
 <p>In any case, I have no doubts The Quinta Ruban is an excellent single malt, it&rsquo;s just not up my particular alley. I guess you can&rsquo;t win every game.</p>
 
@@ -219,7 +219,7 @@
 
 <p>Since its origins, the distillation process used by Glenmorangie requires a staff of 16, known as <a href="https://www.youtube.com/watch?v=9_BO7kotEBg">The 16 Men of Tain</a>, who learn the craft of distillation via hands-on experience and then personally pass on their knowledge to their successors. They work year-round with the only exception of Christmas and periods of maintenance.</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/9_BO7kotEBg" allowfullscreen></iframe></div></p>
+<p>{% youtube 9_BO7kotEBg %}</p>
 
 <h2>Glemorangie Ten Year Old - The Original</h2>
 
