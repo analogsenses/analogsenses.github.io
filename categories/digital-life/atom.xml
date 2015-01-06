@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-05T18:54:58+01:00</updated>
+  <updated>2015-01-06T13:49:36+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Marco Arment’s way too popular day]]></title>
+    <link href="http://www.analogsenses.com/2015/01/06/marco-arments-way-too-popular-day/"/>
+    <updated>2015-01-06T13:02:33+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/06/marco-arments-way-too-popular-day</id>
+    <content type="html"><![CDATA[<p>Marco Arment, on the aftermath of his <a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">“Apple has lost the functional high ground”</a> piece:</p>
+
+<blockquote><p>Instead of what was intended to be constructive criticism of the most influential company in my life, I handed the press more poorly written fuel to hamfistedly stab Apple with my name and reputation behind it. And my name will be on that forever.</p>
+
+<p>Had I known that it would go as far as it did, I never would have written it.</p></blockquote>
+
+<p>I understand his feelings, but I think he’s being way too hard on himself. I don’t believe he can be faulted for “handing the press more poorly written fuel”. It was far from being poorly written, for one, and sensationalist pieces were always going to get published, regardless of how carefully Marco had measured his words. Those outlets were obviously not interested in publishing accurate reports on his original piece, and they would have twisted his words to fit their narrative anyway.</p>
+
+<p>I believe Marco’s original piece has merit, and it needed to be published. The quality of Apple’s software is a real issue and, despite all the noise, Marco has ultimately done Apple — and all of us, really — a great service by calling them out on it.</p>
+
+<p>That said, I get how hard it must be to see your name attached to some of those sensationalist pieces, and it’s extremely unfortunate. We all end up losing when a great writer and developer like Marco gets pushed so far as to feel the need to censor his own work.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[To File or Pile?]]></title>
@@ -74,19 +93,6 @@
 <p>This is so great. Coincidentally, there’s <a href="http://www.plasencia.es/web/20-tu-ayuntamiento-interior/educacion-vial-y-formacion/64-parque-infantil-de-trafico">a remarkably similar traffic playground in my hometown</a> (Spanish page, scroll down for the pictures). I have very fond memories of the many afternoons I spent riding my bike there as a child — with training wheels at first, then proudly on my own. It was a really fun — and useful — way to learn, and become accustomed to the rules of the road. Every child should experience it.</p>
 
 <p>Sadly, the one in my hometown is now closed due to a lack of municipal funds for its proper maintenance and operation. I really hope it comes back to life at some point in the future, when the economy of the city allows for it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Use your online backup as cloud storage]]></title>
-    <link href="http://www.analogsenses.com/2015/01/02/use-your-online-backup-as-cloud-storage/"/>
-    <updated>2015-01-02T20:43:14+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/02/use-your-online-backup-as-cloud-storage</id>
-    <content type="html"><![CDATA[<p>Clever tip by Jason Snell:</p>
-
-<blockquote><p>Both Backblaze and CrashPlan offer iOS apps, as well, letting you access all your backed-up files from your mobile devices. So if you forgot an important presentation or document on your computer, and you couldn&rsquo;t connect to that device remotely, you could still open a copy from your backups.</p></blockquote>
-
-<p>I&rsquo;ve sometimes done this with Dropbox, where you can access any file ever stored on the service in the last 30 days — at least. It’s a nice feature to have but unlike Dropbox, both CrashPlan and Backblaze’s systems are designed with bulk data exports in mind, that is, to allow you to download a compressed copy of all your data. Access to individual files is also granted, but it’s clearly not what the system was designed for, and therefore I wouldn’t recommend relying on it on a regular basis.</p>
 ]]></content>
   </entry>
   
