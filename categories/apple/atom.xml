@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-09T18:50:53+01:00</updated>
+  <updated>2015-01-09T19:28:54+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jason Snell on the rumored 12” MacBook Air]]></title>
+    <link href="http://www.analogsenses.com/2015/01/09/jason-snell-on-the-rumored-12-macbook-air/"/>
+    <updated>2015-01-09T19:03:29+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/09/jason-snell-on-the-rumored-12-macbook-air</id>
+    <content type="html"><![CDATA[<p>Jason Snell:</p>
+
+<blockquote><p>If Gurman’s reports are accurate, this new model pulls the MacBook Air line away from the MacBook Pro. In fact, it returns the MacBook Air to its roots—as a product full of choices that we consider crazy at first, because they’re out of step with conventional computer design, but that will appeal to a target audience that doesn’t actually care about those <em>de rigueur</em> features.</p>
+
+<p>In other words, would Apple release a laptop with no dedicated power cable, ditch a bunch of traditional ports, and funnel every bit of power and wired connectivity through a connector that it has never before used, all in the name of creating a thinner and lighter laptop? Are you kidding? Of <em>course</em> it would.</p></blockquote>
+
+<p>If you want something like the current MacBook Air but with a Retina screen, you already have it: it’s called the 13&#8221; Retina MacBook Pro.</p>
+
+<p>There used to be a time when the 13” MacBook Air and the 13” MacBook Pro were two clearly differentiated products. However, ever since the 13” Retina MacBook Pro was introduced they’ve been awfully close in terms of size, performance and features, to the point where it doesn’t really make sense to keep them both in the lineup. This would be even more glaring if the Air were to gain a Retina screen, as the rumors seem to indicate.</p>
+
+<p>The natural choice for Apple, as Jason points out, is to return the MacBook Air to its roots as a device that sacrifices a few commonplace features in pursuit of the ultimate portability. <em>That’s</em> what the Air was always supposed to be.</p>
+
+<p>The various iterations of the MacBook Air’s design represented what “thin and light” looked like in 2008 and 2010, but what does “ultimate portability” look like in 2015?</p>
+
+<p>It appears we’re about to find out.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cabel Sasser on pulling Coda from the Mac App Store]]></title>
@@ -78,23 +101,6 @@
 <blockquote><p>Marco is right but perhaps his framing is too narrow. This simply isn’t an issue that developers grouse about and move on from. This is something that, at least in my experience, has been affecting customers who have otherwise loved their Apple devices.</p></blockquote>
 
 <p>When these perceptions reach beyond the developer community and start affecting regular users, you know you have a serious problem.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Breathe life into an old Mac]]></title>
-    <link href="http://www.analogsenses.com/2014/12/31/breathe-life-into-an-old-mac/"/>
-    <updated>2014-12-31T12:31:40+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/31/breathe-life-into-an-old-mac</id>
-    <content type="html"><![CDATA[<p>Excellent guest post by Joe Caiati at 512 Pixels:</p>
-
-<blockquote><p>Depending on the year it was purchased or whether you configured it with top-tier specs, your once-current Mac’s performance may be less than desirable and at this point you could be facing those tough questions.</p>
-
-<p>Luckily, older Macs are more flexible with hardware upgrades and coupled with third-party software, you can unlock features that Apple doesn’t support on older models. Here is how to get the most life out of an aging Mac.</p></blockquote>
-
-<p>Sometimes it&rsquo;s not worth it to completely replace an aging Mac. A well-thought upgrade instead can save you quite a bit of money.</p>
-
-<p>If after reading the article you feel like attempting to replace your old iMac&rsquo;s hard drive with an SSD, <a href="http://www.analogsenses.com/2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/">I documented the process a few months ago</a>. My advice? Go for it. It&rsquo;s easier than it looks and makes a huge difference.</p>
 ]]></content>
   </entry>
   
