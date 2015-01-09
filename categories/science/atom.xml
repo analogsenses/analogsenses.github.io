@@ -4,7 +4,7 @@
   <title><![CDATA[Category: science | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/science/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-08T22:20:41+01:00</updated>
+  <updated>2015-01-09T18:50:53+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An unbeatable computer program has finally solved two-player limit Texas hold'em poker]]></title>
+    <link href="http://www.analogsenses.com/2015/01/09/an-unbeatable-computer-program-has-finally-solved-two-player-limit-texas-holdem-poker/"/>
+    <updated>2015-01-09T18:49:07+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/09/an-unbeatable-computer-program-has-finally-solved-two-player-limit-texas-holdem-poker</id>
+    <content type="html"><![CDATA[<p>Arielle Duhaime-Ross, The Verge:</p>
+
+<blockquote><p>Two-player limit Texas hold’em poker has finally been solved, according to <a href="http://www.sciencemag.org/lookup/doi/10.1126/science.1259433">a study</a> published in Science today. Scientists have designed a computer program, named Cepheus, with a strategy for the game that is so close to perfect that statistical analysis shows it can’t be defeated by a human poker player, even if that player competed against the computer for an entire lifetime. This means that no matter how the game starts out, the computer will win or break even in the long run — making it essentially unbeatable.</p></blockquote>
+
+<p>There goes my gambling career. Oh well.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hubble’s High-Definition Panoramic View of the Andromeda Galaxy and the Pillars of Creation]]></title>
@@ -72,19 +85,6 @@
 <blockquote><p>On the station, the ordinary becomes peculiar. The exercise bike for the American astronauts has no handlebars. It also has no seat. With no gravity, it’s just as easy to pedal furiously, feet strapped in, without either. You can watch a movie while you pedal by floating a laptop anywhere you want. But station residents have to be careful about staying in one place too long. Without gravity to help circulate air, the carbon dioxide you exhale has a tendency to form an invisible cloud around your head. You can end up with what astronauts call a carbon-dioxide headache. (The station is equipped with fans to help with this problem.)</p></blockquote>
 
 <p>Via <a href="http://thenewsprint.co/2014/12/30/5200-days-in-space/">Josh Ginter</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How The Sun Sees You]]></title>
-    <link href="http://www.analogsenses.com/2014/12/24/how-the-sun-sees-you/"/>
-    <updated>2014-12-24T12:39:02+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/24/how-the-sun-sees-you</id>
-    <content type="html"><![CDATA[<p>This is one of the projects featured in <a href="/2014/12/24/the-most-amazing-science-images-of-2014/">The Most Amazing Science Images of 2014</a>, but it deserves a standalone mention:</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/o9BqrSAHbTc" allowfullscreen></iframe></div></p>
-
-<p>Beautiful.</p>
 ]]></content>
   </entry>
   
