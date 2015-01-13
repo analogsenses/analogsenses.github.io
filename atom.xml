@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-13T16:24:48+01:00</updated>
+  <updated>2015-01-13T17:33:48+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The GORUCK GR2 review over at Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/reviews/the-goruck-gr2/"/>
+	
+    <updated>2015-01-13T17:06:40+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/13/the-goruck-gr2-review-over-at-tools-and-toys</id>
+  	
+  	<content type="html"><![CDATA[<p>Over the past few weeks I’ve had the amazing opportunity to work with <a href="http://shawnblanc.net">Shawn Blanc</a> on a review of the GORUCK GR2 for his gorgeous Tools &amp; Toys website. It’s been an incredible experience, and I had <em>tons</em> of fun along the way. Tools &amp; Toys is one of my favorite websites, and seeing my own work on their homepage is a tremendous honor. I hope you guys enjoy the result as much as I enjoyed the process.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/13/the-goruck-gr2-review-over-at-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The case for interchangeable lenses in 2015]]></title>
@@ -627,25 +640,6 @@
 
 <p>I very much agree with Federico in that the right approach to improve the stability and quality of Apple software is probably not to slow down to the point of no new features. There’s quite a bit of wiggle room between “slow down” and “no new features”. The key, as ever, is finding the right compromise.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/06/federico-viticci-on-the-quality-of-apple-software/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[To File or Pile? →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.lastwordonnothing.com/2015/01/05/to-file-or-pile/"/>
-	
-    <updated>2015-01-05T18:36:07+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/05/to-file-or-pile</id>
-  	
-  	<content type="html"><![CDATA[<p>Interesting article by Roberta Kwok, on how a study found out that “filers”, the people who clean up their desks by organizing papers into files, end up keeping many more useless papers that “pilers”, those who just let papers pile up on their desks until the mess is unbearable:</p>
-
-<blockquote><p>Why? Filers, eager to clean off their desks, might automatically store papers that are in fact useless (a disorder that the study authors dub “premature filing”). Once they’ve put the effort into organizing that paper, they’re reluctant to throw it out. Pilers, on the other hand, can gleefully toss their messy stacks without feeling guilt over time wasted on sorting. As one piler explains, “[I]t really wasn’t well-organized yet, anyway… So, it wasn’t too big a thing to stand there with a pile of papers over the trash can and ruthlessly throw them in.”</p></blockquote>
-
-<p>Sounds about right. It’s surprisingly easy to convince ourselves to keep storing useless stuff forever, just in case we need it one day.</p>
-
-<p>Please note that this also affects “digital filers”: junk stored on your hard drive is still junk, even if it doesn&rsquo;t take up much physical space. This is particularly relevant in light of <a href="http://www.analogsenses.com/2015/01/05/the-tools-and-toys-guide-to-setting-up-and-maintaining-a-paperless-home-and-office/">this other linked article from earlier today</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/05/to-file-or-pile/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
