@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-14T17:22:28+01:00</updated>
+  <updated>2015-01-14T17:36:28+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Ben Brooks on the great glass →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://brooksreview.net/2015/01/the-great-glass/"/>
+	
+    <updated>2015-01-14T17:27:23+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/14/ben-brooks-on-the-great-glass</id>
+  	
+  	<content type="html"><![CDATA[<p>Continuing with <a href="http://www.analogsenses.com/2015/01/14/josh-ginter-on-the-importance-of-great-glass-in-photography/">the great glass theme</a>, here’s Ben Brooks’ take:</p>
+
+<blockquote><p>Giving buying advice to someone new to photography is nearly impossible. Lenses are very important, but so is the body. What’s even more important is understanding that everything has limitations. Josh shows some comparison photos between the lenses, and I bet some of you won’t be able to see a noticeable difference, and that’s just as important as the difference.</p>
+
+<p>There are some things that you can and cannot do with certain lenses, but more importantly than what you can’t do, is knowing those constraints. You can, and people do, take extraordinary photos with subpar camera equipment.</p></blockquote>
+
+<p>Exactly. The fact that we as nerds obsess over gear and lenses and what not should <em>never</em> discourage you from using the tools you have at your disposal. Again, there are no bad cameras or lenses out there anymore. You’d be surprised to see what you can do with a smartphone camera, and <a href="https://www.flickr.com/photos/showngo/10446441634/">Ben’s photo</a> is an amazing example.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/14/ben-brooks-on-the-great-glass/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Josh Ginter on the importance of great glass in photography →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -625,29 +644,6 @@
 
 <p>Via <a href="http://www.512pixels.net/blog/2015/1/panic-on-leaving-the-mac-app-store">512 Pixels</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Marco Arment’s way too popular day →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.marco.org/2015/01/05/popular-for-a-day"/>
-	
-    <updated>2015-01-06T13:02:33+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/06/marco-arments-way-too-popular-day</id>
-  	
-  	<content type="html"><![CDATA[<p>Marco Arment, on the aftermath of his <a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">“Apple has lost the functional high ground”</a> piece:</p>
-
-<blockquote><p>Instead of what was intended to be constructive criticism of the most influential company in my life, I handed the press more poorly written fuel to hamfistedly stab Apple with my name and reputation behind it. And my name will be on that forever.</p>
-
-<p>Had I known that it would go as far as it did, I never would have written it.</p></blockquote>
-
-<p>I understand his feelings, but I think he’s being way too hard on himself. I don’t believe he can be faulted for “handing the press more poorly written fuel”. It was far from being poorly written, for one, and sensationalist pieces were always going to get published, regardless of how carefully Marco had measured his words. Those outlets were obviously not interested in publishing accurate reports on his original piece, and they would have twisted his words to fit their narrative anyway.</p>
-
-<p>I believe Marco’s original piece has merit, and it needed to be published. The quality of Apple’s software is a real issue and, despite all the noise, Marco has ultimately done Apple — and all of us, really — a great service by calling them out on it.</p>
-
-<p>That said, I get how hard it must be to see your name attached to some of those sensationalist pieces, and it’s extremely unfortunate. We all end up losing when a great writer and developer like Marco gets pushed so far as to feel the need to censor his own work.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/06/marco-arments-way-too-popular-day/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
