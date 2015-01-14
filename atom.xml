@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-13T17:33:48+01:00</updated>
+  <updated>2015-01-14T17:18:01+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Josh Ginter on the importance of great glass in photography →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://thenewsprint.co/2015/01/13/great-glass/"/>
+	
+    <updated>2015-01-14T15:49:45+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/14/josh-ginter-on-the-importance-of-great-glass-in-photography</id>
+  	
+  	<content type="html"><![CDATA[<p>Josh Ginter touches on a related topic to my article on interchangeable lenses: the importance of using great glass with any given system. He makes a great point that the quality of a system is ultimately determined more by the lenses than it is by the camera bodies. He also made an interesting observation that caught my eye:</p>
+
+<blockquote><p>The benefits of higher quality lenses are endless. While acquiring great lenses takes time and money, it will be far cheaper to upgrade your camera body than to switch systems and acquire great lenses all over again.</p></blockquote>
+
+<p>Once you buy into a particular system there’s a fair amount of lock-in, and it’s always easier to just upgrade the camera body than it is to replace everything. This is the unfortunate side of having different proprietary lens mounts in the industry.</p>
+
+<p>In some cases, the problem can be remedied by using adapters but alas, this is not possible between the two most popular mirrorless systems. There’s no adapter to match Fuji’s APS-C mount with Micro Four Thirds lenses because the Fuji sensor is bigger than the surface MFT lenses project their image on. It doesn’t work the other way around either, because Fuji lenses have a shorter flange distance, which means they were designed to sit closer to the sensor than MFT lenses, so there’s no space for the adapter to go in.</p>
+
+<p>Not to mention that, even if it was physically possible to build an adapter, there still wouldn’t be any sort of electrical communication between the lens and the camera. That would be a serious problem, since most MFT lenses lack basic manual controls like an aperture ring, for example. Without electrical contacts it would be impossible to set the aperture using the camera body so those MFT lenses would be pretty much useless.</p>
+
+<p>The primary reason some adapters exist is to give users the possibility to keep their old manual full-frame lenses and use them with newer camera bodies. Old lenses had a much larger flange distance, so there’s plenty of space to fit an adapter, and they already have all the manual controls you need, so there’s no need for electrical contacts. And since modern mirrorless cameras meter directly off the sensor, you can even use them on Aperture Priority mode by setting the camera’s mode dial to A and then using the aperture ring on the lens.</p>
+
+<p>These adapters turn old SLR lenses into really great alternatives to modern mirrorless glass. In fact, you can easily pick up some old Canon FD lenses from the film era on eBay for much less than you think, and use them on your mirrorless camera without any issues. I own two such lenses — the 35mm f/2 and the 50mm f/1.8 — and their optical performance is excellent, although I am yet to try them with an adapter on my E-M10. I might do it at some point in the future though, just for fun, to see how they stack up.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/14/josh-ginter-on-the-importance-of-great-glass-in-photography/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The GORUCK GR2 review over at Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -623,23 +648,6 @@
 
 <p>That said, I get how hard it must be to see your name attached to some of those sensationalist pieces, and it’s extremely unfortunate. We all end up losing when a great writer and developer like Marco gets pushed so far as to feel the need to censor his own work.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/06/marco-arments-way-too-popular-day/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Federico Viticci on the quality of Apple software →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.macstories.net/stories/balance/"/>
-	
-    <updated>2015-01-06T12:53:10+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/06/federico-viticci-on-the-quality-of-apple-software</id>
-  	
-  	<content type="html"><![CDATA[<p>iOS ninja master Federico Viticci shares his view on whether Apple has really lost <a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">“the functional high ground”</a>:</p>
-
-<blockquote><p>My problem with most commentary to Marco&rsquo;s piece is the binary interpretation of Apple&rsquo;s software releases: that they should either do new stuff or fix bugs. That&rsquo;s too simplistic and shortsighted. Software is never bug-free, but there&rsquo;s a threshold where it&rsquo;s good enough to be shipped. I want to see Apple get better at releasing updates like iOS 8 and Yosemite with a better balance between novelty and stability. They shouldn&rsquo;t be mutually exclusive. I don&rsquo;t want to see Apple “taking a year off” to fix iOS, as that wouldn&rsquo;t be beneficial to the company and its developer community. Considering Apple&rsquo;s scale and the uncharted territory of several iOS 8 and Yosemite features, that&rsquo;s a tricky proposition.</p></blockquote>
-
-<p>I very much agree with Federico in that the right approach to improve the stability and quality of Apple software is probably not to slow down to the point of no new features. There’s quite a bit of wiggle room between “slow down” and “no new features”. The key, as ever, is finding the right compromise.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/06/federico-viticci-on-the-quality-of-apple-software/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
