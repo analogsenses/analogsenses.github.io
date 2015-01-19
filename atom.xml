@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-19T20:10:35+01:00</updated>
+  <updated>2015-01-19T20:42:03+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Jason Snell on podcast recording →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://sixcolors.com/post/2015/01/how-i-podcast-recording/"/>
+	
+    <updated>2015-01-19T20:40:18+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/19/jason-snell-on-podcast-recording</id>
+  	
+  	<content type="html"><![CDATA[<p>Excellent and very informative article by Jason Snell:</p>
+
+<blockquote><p>While I think it’s true that many people underestimate how much work goes into making a podcast, I also get the sense that other people overestimate the time I spend. And depending on what kind of a podcast you’re creating, the amount of time required to put it together can vary widely. The average episode of <a href="http://theincomparable.com/theincomparable/">The Incomparable</a> probably takes three or four hours to edit; the average <a href="http://theincomparable.com/tvtm">TV Talk Machine</a> I can turn around in 10 minutes.</p></blockquote>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/19/jason-snell-on-podcast-recording/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Shawn Blanc’s Core Curriculum →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -625,19 +640,6 @@
 <div class="embed-video-container"><iframe src="http://www.youtube.com/embed/IpvtTlZMt7Y" allowfullscreen></iframe></div>
 
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/07/auroras-from-the-international-space-station/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[How Jason Snell rips DVDs and Blu-rays →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://sixcolors.com/post/2015/01/how-i-rip-dvds-and-blu-rays/"/>
-	
-    <updated>2015-01-07T19:38:49+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/07/how-jason-snell-rips-dvds-and-blu-rays</id>
-  	
-  	<content type="html"><![CDATA[<p>Excellent and thorough guide by Jason Snell on how to rip DVDs and Blu-ray discs on the Mac. I’ve always wondered about this, because I didn’t know there was a Mac-compatible Blu-ray player out there. Turns out there is at least one, and it’s pretty affordable.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/07/how-jason-snell-rips-dvds-and-blu-rays/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
