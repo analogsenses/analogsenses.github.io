@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-20T23:41:59+01:00</updated>
+  <updated>2015-01-21T00:18:52+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jordan Steele reviews the Sony A7 II]]></title>
+    <link href="http://www.analogsenses.com/2015/01/21/jordan-steele-reviews-the-sony-a7-ii/"/>
+    <updated>2015-01-21T00:09:48+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/21/jordan-steele-reviews-the-sony-a7-ii</id>
+    <content type="html"><![CDATA[<p>Fantastic review, as always. I was most interested in reading Jordan’s take on the Sony A7 II’s new In-Body Image Stabilization technology (IBIS). Here’s the appropriate excerpt:</p>
+
+<blockquote><p>Sony claims 4.5 stops of extra handholdability with their IBIS system, which I found a bit too optimistic.  With both native lenses and adapted manual focus lenses I found the system to be good for an extra two to three stops of handholdability. This is below the very best optical stabilizers (and not quite as effective as Olympus’ excellent IBIS on the E-M1), but it is still a very good result, allowing me to get sharp shots in many demanding situations.</p>
+
+<p>One thing to note is that to use the in-body stabilizer with manual focus lenses, one must first enter the focal length of the lens, so the body knows how much to correct. This is done quickly and easily via an on-screen menu, and thankfully can be assigned to the camera’s Fn menu for super easy access.  One bizarre omission is that the input of focal length for IBIS is not appended to the EXIF data, which would have been very nice for helping to organize shots taken with manual focus lenses.</p></blockquote>
+
+<p>Not bad at all. The fact that it doesn’t quite seem to reach the performance of the E-M1’s IBIS is a bit disappointing, but understandable. After all, this technology is a first for Sony, and apparently it’s much harder to stabilize a full-frame sensor than a Micro Four Thirds sensor.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Korea on Film: Portra, Ektar &amp; Superia by Tyler Stalman]]></title>
@@ -66,27 +81,6 @@
 <p>There are some things that you can and cannot do with certain lenses, but more importantly than what you can’t do, is knowing those constraints. You can, and people do, take extraordinary photos with subpar camera equipment.</p></blockquote>
 
 <p>Exactly. The fact that we as nerds obsess over gear and lenses and what not should <em>never</em> discourage you from using the tools you have at your disposal. Again, there are no bad cameras or lenses out there anymore. You’d be surprised to see what you can do with a smartphone camera, and <a href="https://www.flickr.com/photos/showngo/10446441634/">Ben’s photo</a> is an amazing example.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Josh Ginter on the importance of great glass in photography]]></title>
-    <link href="http://www.analogsenses.com/2015/01/14/josh-ginter-on-the-importance-of-great-glass-in-photography/"/>
-    <updated>2015-01-14T15:49:45+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/14/josh-ginter-on-the-importance-of-great-glass-in-photography</id>
-    <content type="html"><![CDATA[<p>Josh Ginter touches on a topic related to <a href="/2015/01/13/the-case-for-interchangeable-lenses-in-2015/">my article on interchangeable lenses</a>: the importance of using great glass with any given system. He makes a great point that the quality of a system is ultimately determined more by the lenses than it is by the camera bodies. He also made an interesting observation that caught my eye:</p>
-
-<blockquote><p>The benefits of higher quality lenses are endless. While acquiring great lenses takes time and money, it will be far cheaper to upgrade your camera body than to switch systems and acquire great lenses all over again.</p></blockquote>
-
-<p>Once you buy into a particular system there’s a fair amount of lock-in, and it’s always easier to just upgrade the camera body than it is to replace everything. This is the unfortunate side of having different proprietary lens mounts in the industry.</p>
-
-<p>In some cases, the problem can be remedied by using adapters but alas, this is not possible between the two most popular mirrorless systems. There’s no adapter to match Fuji’s APS-C mount with Micro Four Thirds lenses because the Fuji sensor is bigger than the surface MFT lenses project their image on. It doesn’t work the other way around either, because Fuji lenses have a shorter flange distance, which means they were designed to sit closer to the sensor than MFT lenses, so there’s no space for the adapter to go in.</p>
-
-<p>Not to mention that, even if it was physically possible to build an adapter, there still wouldn’t be any sort of electrical communication between the lens and the camera. That would be a serious problem, since most MFT lenses lack basic manual controls like an aperture ring, for example. Without electrical contacts it would be impossible to set the aperture using the camera body so those MFT lenses would be pretty much useless.</p>
-
-<p>The primary reason some adapters exist is to give users the possibility to keep their old manual full-frame lenses and use them with newer camera bodies. Old lenses had a much larger flange distance, so there’s plenty of space to fit an adapter, and they already have all the manual controls you need, so there’s no need for electrical contacts. And since modern mirrorless cameras meter directly off the sensor, you can even use them on Aperture Priority mode by setting the camera’s mode dial to A and then using the aperture ring on the lens.</p>
-
-<p>These adapters turn old SLR lenses into really great alternatives to modern mirrorless glass. In fact, you can easily pick up some old Canon FD lenses from the film era on eBay for much less than you think, and use them on your mirrorless camera without any issues. I own two such lenses — the 35mm f/2 and the 50mm f/1.8 — and their optical performance is excellent, although I am yet to try them with an adapter on my E-M10. I might do it at some point in the future though, just for fun, to see how they stack up.</p>
 ]]></content>
   </entry>
   
