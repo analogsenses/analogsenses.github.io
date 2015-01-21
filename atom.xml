@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-21T16:24:13+01:00</updated>
+  <updated>2015-01-21T18:19:30+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[When used properly →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.allenpike.com/2015/aeropress-when-used-properly/"/>
+	
+    <updated>2015-01-21T18:15:44+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/21/when-used-properly</id>
+  	
+  	<content type="html"><![CDATA[<p>Allen Pike has some advice for the makers of <a href="http://en.wikipedia.org/wiki/AeroPress">AeroPress</a>:</p>
+
+<blockquote><p>Side by side on a shelf with a more familiar coffee machine or french press, our beloved plunger is going to lose out. It’s unattractively packaged, strange, and its price seems too good to be true. I suspect the testimonials are intended to make it seem less weird, but beside the clean lines of a Bodum’s box they do the opposite. Shoppers looking for a gift are so turned off by AeroPress’ package that there is a market for <a href="http://shop.squaremilecoffee.com/products/aeropress-gift-box">aftermarket gift boxes</a>. A sad state for a great product.</p></blockquote>
+
+<p>Sometimes it’s hard not to judge a book by its cover.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/21/when-used-properly/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Rescued Film Project discovers 31 rolls of undeveloped film from a WWII soldier →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -675,19 +692,6 @@
 <p class="photo-credit">This is me. Hi. Canon AE-1 Program film SLR with Canon FDn 50mm f/1.8 lens and Kodak Tri-X 400 black and white film.</p>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Cuba through the eyes of Chris Burkard →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://jonnymetbird.com/2015/01/06/cuba-eyes-chris-burkard/"/>
-	
-    <updated>2015-01-09T23:06:51+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/09/cuba-through-the-eyes-of-chris-burkard</id>
-  	
-  	<content type="html"><![CDATA[<p>Stunning. Via <a href="http://coudal.com/archives/2015/01/cuba.php">Coudal</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/09/cuba-through-the-eyes-of-chris-burkard/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

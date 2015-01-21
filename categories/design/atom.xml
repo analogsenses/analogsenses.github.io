@@ -4,7 +4,7 @@
   <title><![CDATA[Category: design | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/design/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-21T16:24:13+01:00</updated>
+  <updated>2015-01-21T18:19:30+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[When used properly]]></title>
+    <link href="http://www.analogsenses.com/2015/01/21/when-used-properly/"/>
+    <updated>2015-01-21T18:15:44+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/21/when-used-properly</id>
+    <content type="html"><![CDATA[<p>Allen Pike has some advice for the makers of <a href="http://en.wikipedia.org/wiki/AeroPress">AeroPress</a>:</p>
+
+<blockquote><p>Side by side on a shelf with a more familiar coffee machine or french press, our beloved plunger is going to lose out. It’s unattractively packaged, strange, and its price seems too good to be true. I suspect the testimonials are intended to make it seem less weird, but beside the clean lines of a Bodum’s box they do the opposite. Shoppers looking for a gift are so turned off by AeroPress’ package that there is a market for <a href="http://shop.squaremilecoffee.com/products/aeropress-gift-box">aftermarket gift boxes</a>. A sad state for a great product.</p></blockquote>
+
+<p>Sometimes it’s hard not to judge a book by its cover.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Layer Tennis Season 4 Championship Match: “Smells Like Vectory”]]></title>
