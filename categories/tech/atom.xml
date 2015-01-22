@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-21T22:34:17+01:00</updated>
+  <updated>2015-01-22T16:37:41+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Microsoft announces HoloLens]]></title>
+    <link href="http://www.analogsenses.com/2015/01/22/microsoft-announces-hololens/"/>
+    <updated>2015-01-22T16:30:38+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/22/microsoft-announces-hololens</id>
+    <content type="html"><![CDATA[<p>Vlad Savov, The Verge:</p>
+
+<blockquote><p>Microsoft has just revealed its next great innovation: Windows Holographic. It’s an augmented reality experience that employs a headset, much like all the VR goggles that are currently rising in popularity, but Microsoft’s solution adds holograms to the world around you. The HoloLens headset is described as “the most advanced holographic computer the world has ever seen”. It’s a self-contained computer, including a CPU, a GPU, and a dedicated holographic processor. The dark visor up front contains a see-through display, there’s spatial sound so you can “hear” holograms behind you, and HoloLens also integrates a set of motion and environmental sensors.</p></blockquote>
+
+<p>Ambitious, to say the least. I confess I’m impressed, although there are still far too many unanswered questions, and it’s early to predict how well this will work in the real world. That said, the potential is definitely there.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Walt Mossberg on why you don't need to ride the tech upgrade treadmill]]></title>
@@ -60,25 +73,6 @@
     <content type="html"><![CDATA[<p>Another excellent software review by Josh Ginter. This time, he takes a look at my favorite RSS app: Reeder 2. I use it all the time on my Macs, my iPad and my iPhone, and I vastly prefer it over the native Feedly clients.</p>
 
 <p>If you&rsquo;re curious about it, Josh&rsquo;s review has everything you want to know, and a few other things you haven&rsquo;t thought of yet. Great stuff, as ever.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Google News shuts down in Spain]]></title>
-    <link href="http://www.analogsenses.com/2014/12/11/google-news-shuts-down-in-spain/"/>
-    <updated>2014-12-11T17:38:40+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/11/google-news-shuts-down-in-spain</id>
-    <content type="html"><![CDATA[<p>Google Europe Blog:</p>
-
-<blockquote><p>But sadly, as a result of <a href="https://www.boe.es/boe/dias/2014/11/05/pdfs/BOE-A-2014-11404.pdf">a new Spanish law</a>, we’ll shortly have to close Google News in Spain. Let me explain why. This new legislation requires every Spanish publication to charge services like Google News for showing even the smallest snippet from their publications, whether they want to or not. As Google News itself makes no money (we do not show any advertising on the site) this new approach is simply not sustainable. So it’s with real sadness that on 16 December (before the new law comes into effect in January) we’ll remove Spanish publishers from Google News, and close Google News in Spain.</p></blockquote>
-
-<p>How disgraceful. The new law not only <em>forces</em> publishers to charge aggregators — the tax is mandatory — but they&rsquo;re actually consolidating the collection of profits into <a href="http://www.cedro.org">a legal entity</a>, sort of an association of publishers.</p>
-
-<p>This effectively means that if a small publisher is not affiliated with this entity, they will collect payment on her behalf and split it among their affiliated members, and the original publisher won&rsquo;t see a dime. And since it is mandatory, the tax will <em>always</em> be collected, <em>even if the publisher releases her work under a Creative Commons non-commercial license</em>. That&rsquo;s about how much sense this law makes. It&rsquo;s just ridiculous.</p>
-
-<p>This poorly-thought joke of a law is nothing but a desperate attempt by traditional newspaper owners, who are colluding with the government to save their own lazy asses. But if they think this is the way to survive in the digital era, they&rsquo;re in for a rude awakening.</p>
-
-<p>As a Spanish citizen and Internet publisher, I&rsquo;m deeply ashamed of this law. I&rsquo;m also way too angry to write a measured article about it right now, so let&rsquo;s leave it at that.</p>
 ]]></content>
   </entry>
   

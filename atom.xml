@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-21T22:34:17+01:00</updated>
+  <updated>2015-01-22T16:37:41+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Microsoft announces HoloLens →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.theverge.com/2015/1/21/7867593/microsoft-announces-windows-holographic"/>
+	
+    <updated>2015-01-22T16:30:38+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/22/microsoft-announces-hololens</id>
+  	
+  	<content type="html"><![CDATA[<p>Vlad Savov, The Verge:</p>
+
+<blockquote><p>Microsoft has just revealed its next great innovation: Windows Holographic. It’s an augmented reality experience that employs a headset, much like all the VR goggles that are currently rising in popularity, but Microsoft’s solution adds holograms to the world around you. The HoloLens headset is described as “the most advanced holographic computer the world has ever seen”. It’s a self-contained computer, including a CPU, a GPU, and a dedicated holographic processor. The dark visor up front contains a see-through display, there’s spatial sound so you can “hear” holograms behind you, and HoloLens also integrates a set of motion and environmental sensors.</p></blockquote>
+
+<p>Ambitious, to say the least. I confess I’m impressed, although there are still far too many unanswered questions, and it’s early to predict how well this will work in the real world. That said, the potential is definitely there.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/22/microsoft-announces-hololens/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[What it’s like to work for Fujifilm →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -425,25 +442,6 @@
 
 <p>Mirrorless systems are all about versatility and right now, there&rsquo;s nothing out there that can beat MFT in that regard.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/14/tyson-robichaud-reviews-the-olympus-40-150mm-f-slash-2-dot-8-pro-lens/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Ben Brooks on the great glass →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://brooksreview.net/2015/01/the-great-glass/"/>
-	
-    <updated>2015-01-14T17:27:23+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/14/ben-brooks-on-the-great-glass</id>
-  	
-  	<content type="html"><![CDATA[<p>Continuing with <a href="http://www.analogsenses.com/2015/01/14/josh-ginter-on-the-importance-of-great-glass-in-photography/">the great glass theme</a>, here’s Ben Brooks’ take:</p>
-
-<blockquote><p>Giving buying advice to someone new to photography is nearly impossible. Lenses are very important, but so is the body. What’s even more important is understanding that everything has limitations. Josh shows some comparison photos between the lenses, and I bet some of you won’t be able to see a noticeable difference, and that’s just as important as the difference.</p>
-
-<p>There are some things that you can and cannot do with certain lenses, but more importantly than what you can’t do, is knowing those constraints. You can, and people do, take extraordinary photos with subpar camera equipment.</p></blockquote>
-
-<p>Exactly. The fact that we as nerds obsess over gear and lenses and what not should <em>never</em> discourage you from using the tools you have at your disposal. Again, there are no bad cameras or lenses out there anymore. You’d be surprised to see what you can do with a smartphone camera, and <a href="https://www.flickr.com/photos/showngo/10446441634/">Ben’s photo</a> is an amazing example.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/14/ben-brooks-on-the-great-glass/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
