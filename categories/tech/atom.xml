@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-22T21:42:39+01:00</updated>
+  <updated>2015-01-22T21:47:51+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The World of Indie App Developers]]></title>
+    <link href="http://www.analogsenses.com/2015/01/22/the-world-of-indie-app-developers/"/>
+    <updated>2015-01-22T21:44:31+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/22/the-world-of-indie-app-developers</id>
+    <content type="html"><![CDATA[<p>Graham Spencer, MacStories:</p>
+
+<p>I wasn’t sure exactly where it would lead, but last month I asked on Twitter for independent developers <a href="https://twitter.com/greyham/status/544857987035062272">to @ reply me and say hi</a>. Amplified by retweets by Federico and many others, I got dozens and dozens of replies, ultimately totalling just under 200 responses. That’s both a pretty huge number (trust me, it was a time consuming process documenting them all) and also incredibly tiny (there are around <a href="http://blog.appfigures.com/app-stores-growth-accelerates-in-2014/">250,000 active developers and over a million apps</a> for sale).</p>
+
+<p>What a great idea. If you want to help support indie app development — and you totally should — remember to check this list the next time you’re in the market for a new app.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Microsoft announces HoloLens]]></title>
@@ -62,17 +75,6 @@
 <blockquote><p>In the age of Tweetstorms, I thought I would grow to hate this as well. But I actually quite like it. One big reason: it maintains the flow of the tweet stream. That is, it’s one tweet with a payload, so it both flows in and out of the stream just as quickly as a regular tweet. And, more importantly, it can be retweeted (another one of those early Twitter “hacks” that has <a href="http://techcrunch.com/2009/11/11/simple-is-as-simple-does-the-risk-of-retweet/">since become part of the official canon</a>) and replied to without breaking context.</p></blockquote>
 
 <p>I&rsquo;m seeing these tweets more and more in my timeline as well. I&rsquo;m not crazy about it becoming a thing, but I can&rsquo;t say it bothers me, either.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Josh Ginter reviews Reeder 2]]></title>
-    <link href="http://www.analogsenses.com/2014/12/11/josh-ginter-reviews-reeder-2/"/>
-    <updated>2014-12-11T22:08:06+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/11/josh-ginter-reviews-reeder-2</id>
-    <content type="html"><![CDATA[<p>Another excellent software review by Josh Ginter. This time, he takes a look at my favorite RSS app: Reeder 2. I use it all the time on my Macs, my iPad and my iPhone, and I vastly prefer it over the native Feedly clients.</p>
-
-<p>If you&rsquo;re curious about it, Josh&rsquo;s review has everything you want to know, and a few other things you haven&rsquo;t thought of yet. Great stuff, as ever.</p>
 ]]></content>
   </entry>
   
