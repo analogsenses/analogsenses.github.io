@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-23T13:47:26+01:00</updated>
+  <updated>2015-01-23T15:09:02+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Lego-style apartment in Barcelona →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://barbaraappolloni.com/en/lego-apartment/?d=1"/>
+	
+    <updated>2015-01-23T14:55:02+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/23/the-lego-style-apartment-in-barcelona</id>
+  	
+  	<content type="html"><![CDATA[<p>Architect Barbara Appolloni has designed one of the most fascinating apartments I’ve ever seen. It’s positively tiny, measuring only 24 square meters (258.3 square feet), but it includes all features traditionally found in average-sized apartments:</p>
+
+<blockquote><p>Like the game “Lego”, everything fits perfectly creating a meticulous system of pieces designed to contain the specific features of a home. Different opening mechanisms create a universe that transforms the scene according to the hour of day.</p>
+
+<p>The closet, kitchen, dining table and even washroom door are all hidden by the walls. The bench can be used as a seat and an exterior access ladder. A wheel system allows to pull out the double bed housed under the floor of the balcony. An external staircase connects the ground floor with the terrace, where a bath and a large wooden couch are placed. The magnificent views of the city complete the comfort of the home.</p></blockquote>
+
+<p>The only “minor” quibble: it’s located on a fifth floor — with no elevator. Check out the video below to see the design in action, as well as the previous state of the building. It’s such a huge difference it’s hard to believe:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/juWaO5TJS00" allowfullscreen></iframe></div>
+
+
+<p>Just amazing.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/23/the-lego-style-apartment-in-barcelona/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Star Wars Tipping Point →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -432,21 +456,6 @@
 
 <p>Via <a href="http://randsinrepose.com/links/2015/01/19/the-best-movie-ever/">Rands</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/19/cinematic-montage-ii/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Jason Snell on podcast recording →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://sixcolors.com/post/2015/01/how-i-podcast-recording/"/>
-	
-    <updated>2015-01-19T20:40:18+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/19/jason-snell-on-podcast-recording</id>
-  	
-  	<content type="html"><![CDATA[<p>Excellent and very informative article by Jason Snell:</p>
-
-<blockquote><p>While I think it’s true that many people underestimate how much work goes into making a podcast, I also get the sense that other people overestimate the time I spend. And depending on what kind of a podcast you’re creating, the amount of time required to put it together can vary widely. The average episode of <a href="http://theincomparable.com/theincomparable/">The Incomparable</a> probably takes three or four hours to edit; the average <a href="http://theincomparable.com/tvtm">TV Talk Machine</a> I can turn around in 10 minutes.</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/19/jason-snell-on-podcast-recording/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
