@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-23T15:11:12+01:00</updated>
+  <updated>2015-01-26T18:15:36+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Five Years of iPad]]></title>
+    <link href="http://www.analogsenses.com/2015/01/26/five-years-of-ipad/"/>
+    <updated>2015-01-26T18:12:02+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/26/five-years-of-ipad</id>
+    <content type="html"><![CDATA[<p>Believe it or not, it’s already been <em>five</em> years since the iPad was introduced. Stephen Hackett shows some side-by-side shots of the original iPad and the current iPad Air two.</p>
+
+<p>Five years. Time really does fly when you’re having fun.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Upgrading my Early-2008, 24-inch iMac with an SSD]]></title>
@@ -94,7 +105,7 @@
 
 <p>In other words, would Apple release a laptop with no dedicated power cable, ditch a bunch of traditional ports, and funnel every bit of power and wired connectivity through a connector that it has never before used, all in the name of creating a thinner and lighter laptop? Are you kidding? Of <em>course</em> it would.</p></blockquote>
 
-<p>If you want something like the current MacBook Air but with a Retina screen, you already have it: it’s called the 13" Retina MacBook Pro.</p>
+<p>If you want something like the current MacBook Air but with a Retina screen, you already have it: it’s called the 13&#8221; Retina MacBook Pro.</p>
 
 <p>There used to be a time when the 13” MacBook Air and the 13” MacBook Pro were two clearly differentiated products. However, ever since the 13” Retina MacBook Pro was introduced they’ve been awfully close in terms of size, performance and features, to the point where it doesn’t really make sense to keep them both in the lineup. This would be even more glaring if the Air were to gain a Retina screen, as the rumors seem to indicate.</p>
 
@@ -137,19 +148,6 @@
 <p>I believe Marco’s original piece has merit, and it needed to be published. The quality of Apple’s software is a real issue and, despite all the noise, Marco has ultimately done Apple — and all of us, really — a great service by calling them out on it.</p>
 
 <p>That said, I get how hard it must be to see your name attached to some of those sensationalist pieces, and it’s extremely unfortunate. We all end up losing when a great writer and developer like Marco gets pushed so far as to feel the need to censor his own work.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Federico Viticci on the quality of Apple software]]></title>
-    <link href="http://www.analogsenses.com/2015/01/06/federico-viticci-on-the-quality-of-apple-software/"/>
-    <updated>2015-01-06T12:53:10+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/06/federico-viticci-on-the-quality-of-apple-software</id>
-    <content type="html"><![CDATA[<p>iOS ninja master Federico Viticci shares his view on whether Apple has really lost <a href="http://www.marco.org/2015/01/04/apple-lost-functional-high-ground">“the functional high ground”</a>:</p>
-
-<blockquote><p>My problem with most commentary to Marco&rsquo;s piece is the binary interpretation of Apple&rsquo;s software releases: that they should either do new stuff or fix bugs. That&rsquo;s too simplistic and shortsighted. Software is never bug-free, but there&rsquo;s a threshold where it&rsquo;s good enough to be shipped. I want to see Apple get better at releasing updates like iOS 8 and Yosemite with a better balance between novelty and stability. They shouldn&rsquo;t be mutually exclusive. I don&rsquo;t want to see Apple “taking a year off” to fix iOS, as that wouldn&rsquo;t be beneficial to the company and its developer community. Considering Apple&rsquo;s scale and the uncharted territory of several iOS 8 and Yosemite features, that&rsquo;s a tricky proposition.</p></blockquote>
-
-<p>I very much agree with Federico in that the right approach to improve the stability and quality of Apple software is probably not to slow down to the point of no new features. There’s quite a bit of wiggle room between “slow down” and “no new features”. The key, as ever, is finding the right compromise.</p>
 ]]></content>
   </entry>
   

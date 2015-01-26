@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-23T15:11:12+01:00</updated>
+  <updated>2015-01-26T18:15:36+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Five Years of iPad]]></title>
+    <link href="http://www.analogsenses.com/2015/01/26/five-years-of-ipad/"/>
+    <updated>2015-01-26T18:12:02+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/26/five-years-of-ipad</id>
+    <content type="html"><![CDATA[<p>Believe it or not, it’s already been <em>five</em> years since the iPad was introduced. Stephen Hackett shows some side-by-side shots of the original iPad and the current iPad Air two.</p>
+
+<p>Five years. Time really does fly when you’re having fun.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The World of Indie App Developers]]></title>
@@ -62,19 +73,6 @@
 <blockquote><p><a href="http://archive.wired.com/wired/archive/15.02/yahoo.html">Yahoo reportedly had an opportunity to buy Google in 2002 for $5 billion</a>. Yahoo, under the leadership of CEO Terry Semel, declined. And that was the end of Yahoo. We all know hindsight is 20/20. There are all sorts of acquisitions that <em>could</em> have been made. But I would argue that acquiring Google in 2002 (if not earlier) was something Yahoo absolutely should have <em>known</em> they needed to do. The portal strategy had played itself out. All they were left with was their original purpose, serving as a starting page for finding what you were looking for on the web.</p></blockquote>
 
 <p>It&rsquo;s unfortunate to see Yahoo struggling this bad. What really worries me though, is that Yahoo&rsquo;s future also affects the rest of their properties, including Flickr. Marissa Mayer made a substantial effort to bring the service back to its glory days, but now it looks like she&rsquo;s well on her way to getting canned as Yahoo&rsquo;s CEO. Lately it seems Flickr has been doing much better, but will that be enough to survive her replacement?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hacking The Tweet Stream]]></title>
-    <link href="http://www.analogsenses.com/2014/12/15/hacking-the-tweet-stream/"/>
-    <updated>2014-12-15T18:11:51+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/15/hacking-the-tweet-stream</id>
-    <content type="html"><![CDATA[<p>M.G. Siegler, on the recent trend of embedding a picture of text in a tweet to be able to tweet longer messages:</p>
-
-<blockquote><p>In the age of Tweetstorms, I thought I would grow to hate this as well. But I actually quite like it. One big reason: it maintains the flow of the tweet stream. That is, it’s one tweet with a payload, so it both flows in and out of the stream just as quickly as a regular tweet. And, more importantly, it can be retweeted (another one of those early Twitter “hacks” that has <a href="http://techcrunch.com/2009/11/11/simple-is-as-simple-does-the-risk-of-retweet/">since become part of the official canon</a>) and replied to without breaking context.</p></blockquote>
-
-<p>I&rsquo;m seeing these tweets more and more in my timeline as well. I&rsquo;m not crazy about it becoming a thing, but I can&rsquo;t say it bothers me, either.</p>
 ]]></content>
   </entry>
   
