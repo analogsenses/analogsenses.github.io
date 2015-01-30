@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-01-30T22:05:33+01:00</updated>
+  <updated>2015-01-30T22:29:07+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[A Dictionary of Despicable Words →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.thewire.com/entertainment/2012/08/dictionary-despicable-words/55464/"/>
+	
+    <updated>2015-01-30T22:16:11+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/01/30/a-dictionary-of-despicable-words</id>
+  	
+  	<content type="html"><![CDATA[<p>Clever compilation of questionable words. My favorite:</p>
+
+<blockquote><p><strong>nuptials.</strong> &ldquo;Sounds like some alien genitalia,&rdquo; says he who nominated this word.</p></blockquote>
+
+<p>Via <a href="http://coudal.com/archives/2015/01/despicable_word.php">Coudal</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/01/30/a-dictionary-of-despicable-words/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Jenson and Fernando: Back to the Racetrack →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -436,30 +453,6 @@
 
 <p>Via <a href="http://kottke.org/15/01/on-the-importance-of-diners">Kottke</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/21/why-diners-are-more-important-than-ever/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[A fussy way to make coffee →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://chasegallagher.com/writing/2012/10/1/a-fussy-way-to-make-coffee"/>
-	
-    <updated>2015-01-21T18:47:30+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/21/a-fussy-way-to-make-coffee</id>
-  	
-  	<content type="html"><![CDATA[<p><a href="http://www.analogsenses.com/2015/01/21/when-used-properly/">Speaking of</a> AeroPress, Chase Gallagher’s review covers all the basics, including this wonderful <a href="http://vimeo.com/40980282">Sandwich video</a>:</p>
-
-<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/40980282 "></iframe></div>
-
-
-<p>Charming, as ever. Here’s how Gallagher describes the process of using the AeroPress:</p>
-
-<blockquote><p>Enter&hellip; the Aeropress. First, it’s the basic principle of the press pot. But they ad a syringe-style plunger (which creates serious air pressure) and the cleanliness of a paper filter. You measure out your grounds, add hot water, steep, press. That’s it. Clean up? Unscrew the filter assembly and plunge further and your grounds and filter go into the garbage (which automatically wipes clean the cylinder). A quick rinse and you’re set for a nice, gentle air dry.</p></blockquote>
-
-<p>I’ve known about the AeroPress for a while now but honestly, I never felt enough interest to try it. Sure, I appreciate the simplicity, but my home espresso machine works perfectly and I’m just too set in my ways when it comes to making coffee. That said, the other day I walked into my local coffee shop to buy some freshly roasted beans and sure enough, the AeroPress was there, in all its plastic exuberance. I’m usually not one to believe in signs from the Universe, but I may have to give it a try, after all.</p>
-
-<p>I’ll keep you posted.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/21/a-fussy-way-to-make-coffee/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
