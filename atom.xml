@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-03T17:39:18+01:00</updated>
+  <updated>2015-02-03T18:56:33+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[How Jason Snell edits his podcasts →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://sixcolors.com/post/2015/02/how-i-podcast-editing/"/>
+	
+    <updated>2015-02-03T18:44:25+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/03/how-jason-snell-edits-his-podcasts</id>
+  	
+  	<content type="html"><![CDATA[<p>Jason’s next article in his series on podcasting is a very detailed review of his editing process, and it’s awesome. Before you rush to open your editing app of choice though, be sure to keep this in mind:</p>
+
+<blockquote><p>Not to get all philosophical on you, but editing audio is a lot of work, and depending on what kind of a podcast you’re producing, most of it is probably not necessary. Just because you <em>can</em> edit a podcast within an inch of its life—clearing out pauses, removing every um and uh and awkward pause and spoken digression—doesn’t mean you <em>must.</em></p>
+
+<p>People speak with pauses and ums, with tangents and elliptical phraseology. Our brains are really, really good at taking all of that input and smoothing it out into something understandable. You could even argue that with too much editing, speaking starts to sound artificial and alien, because it no longer sounds like what we hear coming out of people’s mouths every day.</p></blockquote>
+
+<p>Agreed. The main differentiating feature of <a href="https://overcast.fm">Overcast</a>, my podcast player of choice for iOS, is Smart Speed. This feature is supposed to automatically trim these small pauses and do some editing on-the-fly to reduce the time it takes to play a given episode.</p>
+
+<p>Smart Speed in Overcast works great and yet, I hardly ever use it. I actually <em>enjoy</em> listening to those little pauses, ums and uhs, because they reveal a lot about the person who’s talking. It’s like getting a little bit closer to that person’s train of thought, and I find it very interesting.</p>
+
+<p>So yeah, I’m very much in favor of minimal editing in podcasting. Podcasts are not scripted shows, and there’s no compelling reason to make them sound like they are.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/03/how-jason-snell-edits-his-podcasts/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The GORUCK GR1 review on Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -525,30 +548,6 @@
 
 <p>Not cool, xkcd. Not cool.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/23/the-star-wars-tipping-point/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Thoughts on becoming an adventurer →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.alastairhumphreys.com/thoughts-adventurer/"/>
-	
-    <updated>2015-01-22T22:44:59+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/22/thoughts-on-becoming-an-adventurer</id>
-  	
-  	<content type="html"><![CDATA[<p><a href="http://www.analogsenses.com/2015/01/22/matt-gemmell-on-work/">Speaking of</a> finding <em>your</em> thing, Alastair Humphreys wrote a great article on how he managed to turn his passion for adventure into an actual job. This is great advice for anyone trying to make a living doing what they love. If you&rsquo;re considering something like this, you will probably recognize much of yourself in these points:</p>
-
-<blockquote><ul>
-<li>I love almost every aspect of what I do.</li>
-<li>I love being self- employed: the freedom and the responsibility and the pressure.</li>
-<li>I think I’m probably now un-employable.</li>
-<li>I love being creative.</li>
-<li>I appreciate that building a profile helps generate exciting opportunities. (And I have come to accept -though not enjoy- the weird world of relentless self-promotion that being a career adventurer requires. I remain uncomfortable with people praising me more than I deserve, and I continue to get very angry and upset with the inevitable haters that your self-promotion will attract.)</li>
-</ul>
-</blockquote>
-
-<p>Via <a href="http://kottke.org/15/01/the-journey-from-hobby-to-job">Kottke</a>, who adds a couple insightful comments you should definitely check out.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/22/thoughts-on-becoming-an-adventurer/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
