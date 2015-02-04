@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-04T17:16:13+01:00</updated>
+  <updated>2015-02-04T17:28:00+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Jason Snell on Apple’s ‘product distortion field’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://sixcolors.com/post/2015/02/product-distortion-field/"/>
+	
+    <updated>2015-02-04T17:24:00+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/04/jason-snell-on-apples-product-distortion-field</id>
+  	
+  	<content type="html"><![CDATA[<p>Jason Snell wrote a brilliant analysis on the effect that the overwhelming popularity of the iPhone could have in Apple’s corporate strategy going forward:</p>
+
+<blockquote><p>For the last two years, the iPhone has provided more than half of Apple’s corporate revenue, and in the most recent quarter it was more than two-thirds of the revenue. Apple is rapidly becoming iPhone Inc., maker of smartphones and… various other devices.</p>
+
+<p>It’s not unreasonable to assume that the sheer gravity of the iPhone might perturb Apple’s business priorities, at least somewhat. The Mac and iPad are strong businesses on their own, but companies with one huge profit center and other smaller profit centers tend to prioritize the biggest item. I’m not saying that Apple is ignoring the Mac and iPad—I really do believe that Apple is very good at seeing the forest for the trees. But I do think that the iPhone’s phenomenal success has to have <em>some</em> effect in company strategy.</p></blockquote>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/04/jason-snell-on-apples-product-distortion-field/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[How not to respond to a job rejection email →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -529,19 +546,6 @@
   	
   	<content type="html"><![CDATA[<p>Russian photographer Maksim Zavialov has a great Instagram series of “photographs within photographs”. Really cool stuff through the magic of composition.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/01/26/a-photograph-within-a-photograph/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[From Absolute Zero to ‘Absolute Hot’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.bbc.com/future/story/20131218-absolute-zero-to-absolute-hot"/>
-	
-    <updated>2015-01-26T18:25:45+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/26/from-absolute-zero-to-absolute-hot</id>
-  	
-  	<content type="html"><![CDATA[<p>Great infographic by the BBC showing the temperature scale of the universe, from Absolute Zero to Planck Temperature. Amazing.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/26/from-absolute-zero-to-absolute-hot/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

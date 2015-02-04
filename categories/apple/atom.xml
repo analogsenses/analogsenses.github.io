@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-04T17:16:13+01:00</updated>
+  <updated>2015-02-04T17:28:00+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jason Snell on Apple’s ‘product distortion field’]]></title>
+    <link href="http://www.analogsenses.com/2015/02/04/jason-snell-on-apples-product-distortion-field/"/>
+    <updated>2015-02-04T17:24:00+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/04/jason-snell-on-apples-product-distortion-field</id>
+    <content type="html"><![CDATA[<p>Jason Snell wrote a brilliant analysis on the effect that the overwhelming popularity of the iPhone could have in Apple’s corporate strategy going forward:</p>
+
+<blockquote><p>For the last two years, the iPhone has provided more than half of Apple’s corporate revenue, and in the most recent quarter it was more than two-thirds of the revenue. Apple is rapidly becoming iPhone Inc., maker of smartphones and… various other devices.</p>
+
+<p>It’s not unreasonable to assume that the sheer gravity of the iPhone might perturb Apple’s business priorities, at least somewhat. The Mac and iPad are strong businesses on their own, but companies with one huge profit center and other smaller profit centers tend to prioritize the biggest item. I’m not saying that Apple is ignoring the Mac and iPad—I really do believe that Apple is very good at seeing the forest for the trees. But I do think that the iPhone’s phenomenal success has to have <em>some</em> effect in company strategy.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why Apple selling fewer iPads is actually a huge achievement]]></title>
@@ -127,21 +140,6 @@
 <p>The various iterations of the MacBook Air’s design represented what “thin and light” looked like in 2008 and 2010, but what does “ultimate portability” look like in 2015?</p>
 
 <p>It appears we’re about to find out.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cabel Sasser on pulling Coda from the Mac App Store]]></title>
-    <link href="http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store/"/>
-    <updated>2015-01-06T14:05:41+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/06/cabel-sasser-on-removing-coda-from-the-mac-app-store</id>
-    <content type="html"><![CDATA[<p>Cabel Sasser, on the Panic blog:</p>
-
-<blockquote><p>We’ve well-documented our struggles with Coda 2.5, Sandboxing, and the Mac App Store — <a href="http://www.panic.com/blog/coda-and-sandboxing/">first a warning in 2012</a>, then <a href="http://www.panic.com/blog/coda-2-5-and-the-mac-app-store/">this year when 2.5 shipped</a>. Apple tried their best but realistically speaking we simply would have had to cut numerous Coda features, like the Terminal, MySQL local access, editing files as root, and more. To be honest, I was pretty nervous to be pulling Coda from the Mac App Store. But when we finally did it, I felt an incredible, almost indescribable sense of relief — mostly because as we began to wrap up bug fix releases, we were able to immediately post them to our customers within minutes of qualifying them. My god. That’s how it should be. There’s just no other way to put it — that’s how you treat your customers well, by reacting quickly and having total control over your destiny. To not be beholden to someone else to do our job feels just fantastic. (Also to not pay someone 30% in exchange for frequent stress is a fine deal.)</p></blockquote>
-
-<p>I&rsquo;m happy to see removing Coda from the Mac App Store didn’t really hurt their sales. The Mac App Store is a fantastic way for developers to reach a wider audience but understandably, it’s not for everyone. Panic is a unique company, and it makes all the sense in the world for their apps to be sold independently through their own distribution channel.</p>
-
-<p>Via <a href="http://www.512pixels.net/blog/2015/1/panic-on-leaving-the-mac-app-store">512 Pixels</a>.</p>
 ]]></content>
   </entry>
   
