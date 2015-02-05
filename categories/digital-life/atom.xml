@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-05T21:33:51+01:00</updated>
+  <updated>2015-02-05T23:36:43+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -96,7 +96,7 @@
     <id>http://www.analogsenses.com/2015/02/02/lucid-mediocrity</id>
     <content type="html"><![CDATA[<p>Over the weekend, Kevin Wammer posted <a href="http://kevinwammer.net/2015/01/good-taste/">a great inspirational video</a> based on a famous series of comments made by American radio and television presenter Ira Glass a few years ago. The video is <em>very</em> reminiscent of <a href="https://www.youtube.com/watch?v=VpZmIiIXuZ0">Apple’s own “Designed by Apple” video</a> and though I liked it a lot, I prefer <a href="https://www.youtube.com/watch?v=BI23U7U2aUY">this one</a> where you can see Ira Glass himself, making the same observations in their original context.</p>
 
-<p>{% youtube BI23U7U2aUY %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/BI23U7U2aUY" allowfullscreen></iframe></div></p>
 
 <p>It’s hard to argue with the message being conveyed here by Mr. Glass, and I definitely recommend watching the entire session (it’s a 4-part video) for even more context on the whole thing.</p>
 

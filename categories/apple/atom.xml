@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-05T21:33:51+01:00</updated>
+  <updated>2015-02-05T23:36:43+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[David Pogue on Apple’s new Photos for Mac app]]></title>
+    <link href="http://www.analogsenses.com/2015/02/05/david-pogue-on-apples-new-photos-for-mac-app/"/>
+    <updated>2015-02-05T23:34:03+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/05/david-pogue-on-apples-new-photos-for-mac-app</id>
+    <content type="html"><![CDATA[<p>David Pogue:</p>
+
+<blockquote><p>Photos is meant to look, feel, and work exactly like Photos on the iPhone and iPad. It is yet another attempt by Apple to both unify the learning curve across devices and to put velvet handcuffs on you. The more benefits you get from sticking to an all-Apple ecosystem, the more likely you are to stay in it.</p></blockquote>
+
+<p>If it works without hiccups — and that’s a big if — it looks like most iOS users are going to feel right at home in the new Photos for Mac app. I&rsquo;m definitely curious to try it, although most of my photos live in Lightroom these days.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jason Snell on Apple’s ‘product distortion field’]]></title>
@@ -117,29 +130,6 @@
 <h2>The Verdict</h2>
 
 <p>Upgrading my 2008 iMac with an SSD has really given it a new lease of life. I couldn’t be happier with the result, and I sincerely recommend doing the same if you own one. The performance improvement is nothing short of spectacular: apps launch instantaneously, file transfers are a breeze and the entire system keeps up with my workflow without breaking a sweat. These days, computers are so over-specced that there really is no need to upgrade as frequently as before. The 24-inch iMac is an amazing computer, and it’s so well-built that it really makes sense to keep it around for as long as you possibly can. With the added performance of an SSD, my iMac will probably always be “fast-enough” for my needs, so I intend to keep it around until it breaks apart or it is no longer supported by new releases of OS X. Whatever comes first.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jason Snell on the rumored 12” MacBook Air]]></title>
-    <link href="http://www.analogsenses.com/2015/01/09/jason-snell-on-the-rumored-12-macbook-air/"/>
-    <updated>2015-01-09T19:03:29+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/09/jason-snell-on-the-rumored-12-macbook-air</id>
-    <content type="html"><![CDATA[<p>Jason Snell:</p>
-
-<blockquote><p>If Gurman’s reports are accurate, this new model pulls the MacBook Air line away from the MacBook Pro. In fact, it returns the MacBook Air to its roots—as a product full of choices that we consider crazy at first, because they’re out of step with conventional computer design, but that will appeal to a target audience that doesn’t actually care about those <em>de rigueur</em> features.</p>
-
-<p>In other words, would Apple release a laptop with no dedicated power cable, ditch a bunch of traditional ports, and funnel every bit of power and wired connectivity through a connector that it has never before used, all in the name of creating a thinner and lighter laptop? Are you kidding? Of <em>course</em> it would.</p></blockquote>
-
-<p>If you want something like the current MacBook Air but with a Retina screen, you already have it: it’s called the 13" Retina MacBook Pro.</p>
-
-<p>There used to be a time when the 13” MacBook Air and the 13” MacBook Pro were two clearly differentiated products. However, ever since the 13” Retina MacBook Pro was introduced they’ve been awfully close in terms of size, performance and features, to the point where it doesn’t really make sense to keep them both in the lineup. This would be even more glaring if the Air were to gain a Retina screen, as the rumors seem to indicate.</p>
-
-<p>The natural choice for Apple, as Jason points out, is to return the MacBook Air to its roots as a device that sacrifices a few commonplace features in pursuit of the ultimate portability. <em>That’s</em> what the Air was always supposed to be.</p>
-
-<p>The various iterations of the MacBook Air’s design represented what “thin and light” looked like in 2008 and 2010, but what does “ultimate portability” look like in 2015?</p>
-
-<p>It appears we’re about to find out.</p>
 ]]></content>
   </entry>
   
