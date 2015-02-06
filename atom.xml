@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-06T00:32:08+01:00</updated>
+  <updated>2015-02-06T11:56:31+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Batman Visits Sacramento →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.flickr.com/photos/tags/BatmanVisitsSacramento"/>
+	
+    <updated>2015-02-06T11:47:55+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/06/batman-visits-sacramento</id>
+  	
+  	<content type="html"><![CDATA[<p>What a hilarious — and strangely gorgeous — take on travel photography. I love it.</p>
+
+<p>As a side comment, that <a href="http://www.amazon.com/gp/product/B00A35X8ZG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00A35X8ZG&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=JW7SFN6GKFCGSW3U">Sigma 35mm f/1.4 lens</a> is an absolute beast. I&rsquo;d love to get me one of those for my “new” Canon EOS 3 film camera.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/06/batman-visits-sacramento/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[“God is in the details” →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -656,19 +671,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[If Frodo had Google Maps →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.reddit.com/r/MapPorn/comments/2tvddh/if_frodo_had_google_maps_oc_3600x2700/"/>
-	
-    <updated>2015-01-29T00:41:19+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/29/if-frodo-had-google-maps</id>
-  	
-  	<content type="html"><![CDATA[<p>Epic. Via <a href="http://coudal.com/archives/2015/01/if_frodo_had_go.php">Coudal</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/29/if-frodo-had-google-maps/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
