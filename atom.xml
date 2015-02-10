@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-10T13:09:31+01:00</updated>
+  <updated>2015-02-10T19:33:50+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[James O. Thach's different take on Amazon customer reviews →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.amazon.com/gp/cdp/member-reviews/A2Q14JXZX4R807?ie=UTF8&display=public&page=1&sort_by=MostRecentReview"/>
+	
+    <updated>2015-02-10T19:13:12+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/10/james-o-thachs-different-take-on-amazon-customer-reviews</id>
+  	
+  	<content type="html"><![CDATA[<p><a href="https://twitter.com/JamesOtisThach">James O. Thach</a> is a terrific writer who specializes in a very specific brand of literature: Amazon customer reviews. For a taste of his unique approach to product reviews, take his very last one on Amazon, aptly titled “<a href="http://www.amazon.com/review/RL5LKH00EW0BG/ref=cm_cr_rdp_perm">A Helmet for Oberyn</a>”:</p>
+
+<blockquote><p>Whether you&rsquo;re a veteran biker, a new rider, or a vengeful prince facing the Mountain in a trial by combat, I can&rsquo;t stress enough the importance of proper head protection.</p>
+
+<p>There are plenty of options in the helmet world, but this model has some features to recommend it. Its open-faced design allows the freedom to deliver scathing accusations. (But don&rsquo;t talk too much&ndash; 80% of brain injuries occur while monologuing). Its light-weight, composite shell is virtually uncrushable. And most importantly, it includes goggles. No one&rsquo;s pressing their thumbs through these peeper-protectors. You may wind up with a case of raccoon eyes, but it beats the heck out of the alternative.</p>
+
+<p>The urge to go commando will always be there. But remember, whatever heroic journey you&rsquo;re on, you&rsquo;ll never get there without a head.</p></blockquote>
+
+<p>Priceless.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/10/james-o-thachs-different-take-on-amazon-customer-reviews/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Spider-Man is joining the Marvel Cinematic Universe →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -570,23 +591,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Why Apple selling fewer iPads is actually a huge achievement →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.fastcodesign.com/3041585/fast-feed/why-apple-selling-fewer-ipads-is-actually-a-huge-achievement"/>
-	
-    <updated>2015-01-31T00:03:23+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/01/31/why-apple-selling-fewer-ipads-is-actually-a-huge-achievement</id>
-  	
-  	<content type="html"><![CDATA[<p>Mark Wilson from Fast Company does a great job of articulating an idea I very much agree with: that the reason iPad sales are slowing down is because Apple has made the iPad so good that people don’t feel the need to replace them as often as they do their smartphones. He goes even further and adds that this should be cause for celebration, not criticism:</p>
-
-<blockquote><p>But please, don’t take the tone of Wall Street when critiquing iPad sales. The platform’s waning sales are a testament to the design’s longevity—a longevity that sits in some unknown expanse between the disposable iPhone and the immortal television, refrigerator, or trusty old pair of jeans. Apple will still sell tens of millions of iPads in 2015. Its competitors will sell tons of tablets, too. Forrester analyst James McQuivey says the iPad <a href="http://www.wired.com/2015/01/ipad-went-massive-meh-5-short-years/">is plateauing</a>—and investors be damned, there’s no shame in a product reaching market saturation, so long as the customer is happy.</p></blockquote>
-
-<p>Well said.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/01/31/why-apple-selling-fewer-ipads-is-actually-a-huge-achievement/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
