@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-11T22:49:43+01:00</updated>
+  <updated>2015-02-11T23:00:26+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Don Poynter invented whisky-flavored toothpaste in the 1950s →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.messynessychic.com/2015/02/06/whiskey-flavoured-toothpaste-1955/"/>
+	
+    <updated>2015-02-11T22:57:28+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/11/don-poynter-invented-whisky-flavored-toothpaste-in-the-1950s</id>
+  	
+  	<content type="html"><![CDATA[<p>Messy Nessy:</p>
+
+<blockquote><p>In 1954, Don secured a $10,000 bank loan and began manufacturing the best damn reason to brush your teeth twice a day.</p>
+
+<p>The toothpaste was available in Bourbon and Scotch flavours and contained 3% alchohol. The product gained enough buzz that LIFE magazine did a story on it and Poynter’s invention became a popular novelty product across the country in the 1950s. The idea was later copied by several other brands and Poynter ceased production soon after.</p></blockquote>
+
+<p>There goes another one of my ideas to become a millionaire. And they say we live in an advanced society.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/11/don-poynter-invented-whisky-flavored-toothpaste-in-the-1950s/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The best seat in every restaurant is right at the bar →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -471,22 +490,6 @@
 
 <p>I couldn’t agree more. Erin’s article mirrors <a href="http://www.analogsenses.com/2015/01/29/adventures-in-film-photography/">my own feelings on the matter of film photography</a> pretty closely. Also, don’t miss the incredibly emotional images of her beautiful children.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/02/03/erin-brooks-reviews-the-nikon-fe-film-camera/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Riding Light →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://vimeo.com/117815404"/>
-	
-    <updated>2015-02-03T19:49:14+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/03/riding-light</id>
-  	
-  	<content type="html"><![CDATA[<p>“Riding Light” is a mesmerizing video by Alphonse Swinehart depicting the journey of light across the Solar System in real time, from the Sun’s core until it passes Jupiter’s orbit. Such an incredible journey takes an impressive 45 minutes and it doesn’t even come close to reaching Saturn. It kind of puts the speed of light in perspective when pitted against the vast scale of the Universe. Via <a href="http://kottke.org/15/02/the-unbearable-slowness-of-light">Kottke</a>:</p>
-
-<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/117815404 "></iframe></div>
-
-<a rel="full-article" href="http://www.analogsenses.com/2015/02/03/riding-light/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
