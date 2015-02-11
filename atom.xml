@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-10T21:02:53+01:00</updated>
+  <updated>2015-02-11T22:02:19+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[A Medium experiment →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candlerblog.com/2015/02/01/a-medium-experiment/"/>
+	
+    <updated>2015-02-11T21:57:48+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/11/a-medium-experiment</id>
+  	
+  	<content type="html"><![CDATA[<p>Jonathan Poritsky tries posting an article on both The Candler Blog and Medium to see how the article fares in both places. Here&rsquo;s what he found:</p>
+
+<blockquote><p>When I started the candler blog in 2009, the best way to get your thoughts (especially longer thoughts) out onto the web was still to start a blog. I’m lucky to have this site and a readership that still drops by even if I don’t publish anything for weeks on end. The allure of Medium is that you don’t need any infrastructure whatsoever; all you need is your name and your words. For many that will likely be the way forward.</p>
+
+<p>Getting the candler blog to be what it is today was a years-long journey, and it is by no means complete. Personally, I’d rather own every last bit of my writing and how it appears online. Perhaps that’s an outdated thought. But at least now I know: I can do just as well for myself on my own as I can on Medium. If not better.</p></blockquote>
+
+<p>Own your words.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/11/a-medium-experiment/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The BookBook for iPhone 6 Plus review on Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -470,27 +489,6 @@
 
 <p>So yeah, I’m very much in favor of minimal editing in podcasting. Podcasts are not scripted shows, and there’s no compelling reason to make them sound like they are.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/02/03/how-jason-snell-edits-his-podcasts/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The GORUCK GR1 review on Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://toolsandtoys.net/reviews/goruck-gr1/"/>
-	
-    <updated>2015-02-03T17:24:42+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/03/the-goruck-gr1-review-on-tools-and-toys</id>
-  	
-  	<content type="html"><![CDATA[<p>Speaking of gorgeous reviews, Ben Brooks did a great take on the GORUCK GR1 for Tools &amp; Toys:</p>
-
-<blockquote><p>What makes the GR1 great is its versatility. I have no qualms about doing anything with this bag. I’ve taken it hiking and traveling, to on job interviews, and to the park where my kid saw fit to drag it through the mud. It still looks the same as it did when it was new. It still functions the same.</p>
-
-<p>Every little thing works. I can just as easily use this bag for clothes as I can bricks, as I can a laptop, or as I can with other delicate and expensive gadgets. The GR1 became my only bag, not because it was the perfect bag, but because it can be <em>any</em> kind of bag I need it to be.</p></blockquote>
-
-<p>This is exactly right. I don&rsquo;t personally own the GR1, because I needed a smaller bag and I went for the GR Echo instead. Since I already own a GR2 and a GR Echo, buying the GR1 always seemed a bit excessive. However, it&rsquo;s true that the GR2 is too big for everyday use and the Echo is too small for travel, and I do miss having a bag that is just the right size for almost everything. After reading Ben&rsquo;s excellent review, I may have to reconsider my position.</p>
-
-<p>As a side note, I&rsquo;m really loving the Tools &amp; Toys reviews lately. The thought and care that go into every article really shine through, and the standards are incredibly high. This is why I&rsquo;m so proud to be a contributor to the site.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/02/03/the-goruck-gr1-review-on-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

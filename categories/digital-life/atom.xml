@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-10T21:02:53+01:00</updated>
+  <updated>2015-02-11T22:02:19+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Medium experiment]]></title>
+    <link href="http://www.analogsenses.com/2015/02/11/a-medium-experiment/"/>
+    <updated>2015-02-11T21:57:48+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/11/a-medium-experiment</id>
+    <content type="html"><![CDATA[<p>Jonathan Poritsky tries posting an article on both The Candler Blog and Medium to see how the article fares in both places. Here&rsquo;s what he found:</p>
+
+<blockquote><p>When I started the candler blog in 2009, the best way to get your thoughts (especially longer thoughts) out onto the web was still to start a blog. I’m lucky to have this site and a readership that still drops by even if I don’t publish anything for weeks on end. The allure of Medium is that you don’t need any infrastructure whatsoever; all you need is your name and your words. For many that will likely be the way forward.</p>
+
+<p>Getting the candler blog to be what it is today was a years-long journey, and it is by no means complete. Personally, I’d rather own every last bit of my writing and how it appears online. Perhaps that’s an outdated thought. But at least now I know: I can do just as well for myself on my own as I can on Medium. If not better.</p></blockquote>
+
+<p>Own your words.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[James O. Thach's different take on Amazon customer reviews]]></title>
@@ -76,21 +91,6 @@
 <blockquote><p><strong>On the surface this would suggest that Patreon is effectively off limits for digital creators within Europe.</strong> Those who choose to use it will have to personally query each European patron for their tax status, VAT number, IP address, and/or any of the information required to substantiate the proof of supply. They will be responsible for issuing their own tax invoices to their patrons. They will have to supply the invoice and proof of supply data with their VATMOSS return. They will also, of course, have to store this information in a secure format on an EU-based and data protection compliant server for ten years.</p></blockquote>
 
 <p>If Patreon doesn’t modify their stance, EU-based creators will effectively be forced away from using the service. Via <a href="https://twitter.com/mattgemmell/status/564815180321030144">Matt Gemmell</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Village Idiot of Urban Innovation]]></title>
-    <link href="http://www.analogsenses.com/2015/02/06/the-village-idiot-of-urban-innovation/"/>
-    <updated>2015-02-06T16:02:01+01:00</updated>
-    <id>http://www.analogsenses.com/2015/02/06/the-village-idiot-of-urban-innovation</id>
-    <content type="html"><![CDATA[<p>Mikael Colville-Andersen, Copenhagenize Design Co.:</p>
-
-<blockquote><p>I meet amazing, inspiring people when I travel the world with my work. I see a lot of things. Many of the things are good. Many are, however, strange and frustrating. Especially regarding infrastructure. It boggles my mind every time I [see] - or worse, ride on - bike lanes on the wrong side of parked cars in between the door zone of primarily single-occupant vehicles and moving traffic in North American cities and I thumb my nose at every sharrow I see. That fakest of all fake bicycle infrastructure. That sheep in wolf’s clothing.</p>
-
-<p>Despite a century of Best Practice in bicycle infrastructure and tried and tested networks occupied by tens of thousands of daily cyclists in cities that “get it”, there are still so many mistakes being made elsewhere. I see stuff slapped lazily into place by engineers and planners who don’t ride bicycles in their city and who haven’t even tried it. Mutant Frankeninfrastructure from the lab of a Marvel Comics nemesis’ laboratory.</p></blockquote>
-
-<p>The Madrid Mayor has led a city-wide campaign to fill the streets with those infamous sharrows, and so far the results have been pretty underwhelming. No matter how nice you paint them, sharrows are not real bike lanes, and people don’t trust them.</p>
 ]]></content>
   </entry>
   
