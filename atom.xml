@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-17T17:12:47+01:00</updated>
+  <updated>2015-02-18T17:30:46+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Inquisitive: Behind the App →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.relay.fm/inquisitive/27"/>
+	
+    <updated>2015-02-18T17:24:44+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/18/inquisitive-behind-the-app</id>
+  	
+  	<content type="html"><![CDATA[<p>Myke Hurley:</p>
+
+<blockquote><p>In the first episode of “Behind the App”, a special series of Inquisitive, we take a look at the beginnings of iOS app development, by focusing on the introduction of the iPhone and the App Store.</p></blockquote>
+
+<p>Interesting new series, and the production values are the best I’ve seen in a good, long while. Absolutely recommended.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/18/inquisitive-behind-the-app/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The SIRUI T-025X travel tripod on Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -364,25 +381,6 @@
 
 <p>Via <a href="https://twitter.com/mbs_p_b/status/565111730309578752">Mike Bates</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/02/10/spider-man-is-joining-the-marvel-cinematic-universe/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Shawn Blanc announces ‘The Power of a Focused Life’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://shawnblanc.net/focus/"/>
-	
-    <updated>2015-02-09T18:54:39+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/09/shawn-blanc-announces-the-power-of-a-focused-life</id>
-  	
-  	<content type="html"><![CDATA[<p>I’ve been waiting for this book to be announced since this past Summer, when Shawn started talking about it on his <a href="http://shawnblanc.net/members/">members-only</a> podcast, Shawn Today. It’s a topic I’m incredibly interested in, and I don’t think there’s anyone better than Shawn to guide us through it. In <a href="http://shawnblanc.net/2015/02/power-of-a-focused-life/">his own words</a>:</p>
-
-<blockquote><p>In short, <em>The Power of a Focused Life</em> is about living without regret in the Age of Distraction. I’ll admit, it sounds a bit melodramatic — but I’m serious. I’ve been working on this book for over a year. I’ve spent hundreds of hours reading and doing research (with much more to do still). And I’ve been applying these principles and ideas to my own life for over a decade.</p></blockquote>
-
-<p>Shawn has always been one to walk the talk, and it shows. His previous book, <a href="http://shawnblanc.net/thedetails/"><em>Delight is in the Details</em></a>, literally changed my life and was one of my main inspirations when I decided to take my chances with Analog Senses. I trust Shawn, and usually share his views on life, work and the relationship between them. I couldn’t be more excited to read what he has to say about this.</p>
-
-<p>Also, whatever you do, don’t miss that introductory video. Now <em>that&rsquo;s</em> how you announce a product.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/02/09/shawn-blanc-announces-the-power-of-a-focused-life/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
