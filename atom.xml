@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-18T18:48:24+01:00</updated>
+  <updated>2015-02-18T18:59:28+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Matthew Butterick’s ‘Typography in ten minutes’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://practicaltypography.com/typography-in-ten-minutes.html"/>
+	
+    <updated>2015-02-18T18:52:45+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/18/buttericks-typography-in-ten-minues</id>
+  	
+  	<content type="html"><![CDATA[<p>Matthew Butterick, in the first chapter of his wonderful “<a href="http://practicaltypography.com/index.html">Butterick’s Practical Typography</a>” book:</p>
+
+<blockquote><p><strong>This is a bold claim, but I stand be­hind it:</strong> if you learn and fol­low these five ty­pog­ra­phy rules, you will be a bet­ter ty­pog­ra­pher than 95% of pro­fes­sional writ­ers and 70% of pro­fes­sional de­sign­ers. (The rest of this book will raise you to the 99th per­centile in both categories.)</p>
+
+<p>All it takes is ten min­utes—five min­utes to read these rules once, then five min­utes to read them again.</p></blockquote>
+
+<p>Solid advice, and it only gets better from here. If you care at all about typography, this book is a must-read.</p>
+
+<p>Via <a href="http://www.sparkjournal.net/journal/2015/2/typography-in-ten-minutes">Chris Gonzales</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/18/buttericks-typography-in-ten-minues/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Kevin Michaluk wants the Apple Watch Edition to cost $10,000 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -360,19 +381,6 @@
 
 <p>Own your words.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/02/11/a-medium-experiment/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The BookBook for iPhone 6 Plus review on Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://toolsandtoys.net/reviews/bookbook-case-iphone-6-plus/"/>
-	
-    <updated>2015-02-10T20:58:22+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/10/the-bookbook-for-iphone-6-plus-review-on-tools-and-toys</id>
-  	
-  	<content type="html"><![CDATA[<p>Somebody needs to take Josh Ginter’s camera away for a while. He’s making the rest of us look bad.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/02/10/the-bookbook-for-iphone-6-plus-review-on-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
