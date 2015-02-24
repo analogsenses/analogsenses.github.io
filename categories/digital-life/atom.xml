@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-24T16:49:17+01:00</updated>
+  <updated>2015-02-24T17:28:11+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The original Macintosh User Manual]]></title>
+    <link href="http://www.analogsenses.com/2015/02/24/the-original-macintosh-user-manual/"/>
+    <updated>2015-02-24T17:14:52+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/24/the-original-macintosh-user-manual</id>
+    <content type="html"><![CDATA[<p>Today I came across this wonderful article from 2007 thanks to <a href="https://twitter.com/pencilvspixel/status/570254944688742400">Cesar Contreras</a>. It’s an overview of the original Macintosh User Manual, over at peterme.com:</p>
+
+<blockquote><p>It’s been an intriguing read. It’s a remarkably handsome manual, beautifully typeset, which, considering par for the course at the time was probably Courier with few illustrations, is saying something.</p>
+
+<p>Also, even back in 1984, there was <a href="http://www.adaptivepath.com/blog/2007/01/22/whats-in-a-definite-article/">no definite article</a>. You get phrases like “With Macintosh, you’re in charge.” No “the”s or “a”s.</p></blockquote>
+
+<p>The lack of definite articles in Apple’s product descriptions was one of my favorite things about the company but, for whatever reason, they seem to be doing it less and less these days. If I remember correctly, the original iPhone keynote was one of the last major product introductions where everyone just said “iPhone”, without the “the”. One Steve Jobs quote from <a href="https://www.youtube.com/watch?v=e7EfxMOElBE">that keynote</a> in particular comes to mind (at about the 25:30 mark):</p>
+
+<blockquote><p>“What we want to do is make a leapfrog product that is way smarter than any mobile device has ever been, and super easy to use. This is what iPhone is”.</p></blockquote>
+
+<p>Well said, Steve. Well said. And by the way, <a href="https://twitter.com/tim_cook/status/570169805413552128">happy birthday</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Konost seeks funding for full frame digital rangefinder camera]]></title>
@@ -72,21 +91,6 @@
 <p>Well, obviously. How somebody could survive in the South Pole without a steady supply of whisky is, frankly, beyond me.</p>
 
 <p>Via <a href="http://www.messynessychic.com/2015/02/16/13-things-i-found-on-the-internet-today-vol-cxiv/">Messy Nessy</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Marco Arment on the likely future of blogs]]></title>
-    <link href="http://www.analogsenses.com/2015/02/17/marco-arment-on-the-likely-future-of-blogs/"/>
-    <updated>2015-02-17T15:29:03+01:00</updated>
-    <id>http://www.analogsenses.com/2015/02/17/marco-arment-on-the-likely-future-of-blogs</id>
-    <content type="html"><![CDATA[<p>Marco Arment:</p>
-
-<blockquote><p>Mine’s been clearly flat and slowly declining — the first time the trend has ever gone down — even in periods where I write a lot. I’ve talked to some friends who have seen similar plateaus and declines over the same period, also for the first time. Inbound links from bigger sites also aren’t worth as much as they used to be, suggesting that even big sites are struggling to maintain and grow their traffic.</p>
-
-<p>Nobody’s really talking about it, but I suspect this is a wider trend: blogs aren’t dying, but they are significantly declining. 2015 might be a rough year.</p></blockquote>
-
-<p>I, too, am sensing this trend, and I’ll be perfectly honest: it scares the crap out of me.</p>
 ]]></content>
   </entry>
   
