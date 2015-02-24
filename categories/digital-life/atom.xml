@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-24T14:54:14+01:00</updated>
+  <updated>2015-02-24T16:49:17+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Konost seeks funding for full frame digital rangefinder camera]]></title>
+    <link href="http://www.analogsenses.com/2015/02/24/konost-seeks-funding-for-full-frame-digital-rangefinder-camera/"/>
+    <updated>2015-02-24T16:32:42+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/24/konost-seeks-funding-for-full-frame-digital-rangefinder-camera</id>
+    <content type="html"><![CDATA[<p>This is interesting. Konost is a company that’s currently seeking funding for their <a href="http://konost.com/?page_id=6654">Konost FF project</a>: a full frame digital rangefinder camera, much like the Leica M.</p>
+
+<p>The prototype shown on their website is drop-dead gorgeous, with an all-metal body that looks very similar to the recently introduced Leica T. They claim the Konost FF is <em>“the world’s first true digital rangefinder”</em>. But what does that mean, exactly?:</p>
+
+<blockquote><p>There are only a handful of digital rangefinder cameras on the market today, a domination held by Leica Cameras. The Konost camera is unique in that instead of using rotating mirrors and prisms in the rangefinder mechanism, it uses a secondary image sensor and image processing algorithms to display the rangefinder patch in the viewfinder. This allows the camera to be all-digital, decreasing manufacturing costs, and does not require high maintenance or re-callibration.</p></blockquote>
+
+<p>At first sight, it looks like the Konost FF and I could get along pretty well: all manual operation, simple and elegant lines, and it uses the classic M-mount for full compatibility with Leica glass. No mention of price, though. Color me intrigued.</p>
+
+<p>Via <a href="http://www.thephoblographer.com/2015/02/24/konost-ff-digital-rangefinder-challenge-leica/">The Phoblographer</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Learning from historical bicycle posters]]></title>
@@ -70,17 +87,6 @@
 <p>Nobody’s really talking about it, but I suspect this is a wider trend: blogs aren’t dying, but they are significantly declining. 2015 might be a rough year.</p></blockquote>
 
 <p>I, too, am sensing this trend, and I’ll be perfectly honest: it scares the crap out of me.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dustin Curtis on technology as a fashion accessory]]></title>
-    <link href="http://www.analogsenses.com/2015/02/17/dustin-curtis-on-technology-as-a-fashion-accessory/"/>
-    <updated>2015-02-17T15:07:37+01:00</updated>
-    <id>http://www.analogsenses.com/2015/02/17/dustin-curtis-on-technology-as-a-fashion-accessory</id>
-    <content type="html"><![CDATA[<p>Dustin Curtis makes an interesting observation on how some technologies grow to become personality-defined choices once they mature:</p>
-
-<blockquote><p>I think the same thing is happening right now in the computer and mobile devices industry. Computers and phones have historically been sold based on performance, screen size, and battery life. The slow march of technological progress through the 1990s and 2000s was obvious to anyone who knows the word “megahertz”. But in the past couple of years, I think we have finally reached the 1945 equivalent in automobiles: all devices sold today can do everything any reasonable customer would want. The computer is now feature-complete. Almost all model segmentation is now based on the personality of the customer.</p></blockquote>
 ]]></content>
   </entry>
   
