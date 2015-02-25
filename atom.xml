@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-25T16:34:15+01:00</updated>
+  <updated>2015-02-25T17:14:07+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Stories of the past and future →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://xkcd.com/1491/"/>
+	
+    <updated>2015-02-25T17:12:55+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/02/25/stories-of-the-past-and-future</id>
+  	
+  	<content type="html"><![CDATA[<p>I love these mind-bending xkcd specials. So great.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/02/25/stories-of-the-past-and-future/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Apple featured in today’s ludicrous patent infringement case]]></title>
@@ -685,25 +698,6 @@
 
 <blockquote><p>At Jobs’s memorial, which was held on the lawn at Infinite Loop, Ive said, “Steve used to say to me—and he used to say this a lot—‘Hey, Jony, here’s a dopey idea.’ And sometimes they were: really dopey. Sometimes they were truly dreadful. But sometimes they took the air from the room, and they left us both completely silent. Bold, crazy, magnificent ideas. Or quiet, simple ones which, in their subtlety, their detail, they were utterly profound.” Ive said to me, “I couldn’t be more mindful of him. How could I not, given our personal relationship, and given that I’m still designing in the same place, at the same table, where I spent the last fifteen years with him sat next to me?”</p></blockquote>
 <a rel="full-article" href="http://www.analogsenses.com/2015/02/16/jony-ive-and-the-future-of-apple/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Today is International Verify Your Backups Day →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://tidbits.com/article/10071"/>
-	
-    <updated>2015-02-13T21:40:47+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/13/today-is-international-verify-your-backups-day</id>
-  	
-  	<content type="html"><![CDATA[<p>Adam C. Engst:</p>
-
-<blockquote><p>The best defense against entropy is a good backup strategy. To quote a long-ago ad campaign from backup software maker Dantz Development, “To go forward, you must back up.”</p>
-
-<p>But as those of us who have had to rely on our backups in the past know, the act of backing up is only the first small step in the full equation — it’s being able to <em>restore</em> that really matters.</p></blockquote>
-
-<p>I fully endorse this newly-minted tradition.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/02/13/today-is-international-verify-your-backups-day/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
