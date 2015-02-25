@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-24T17:28:11+01:00</updated>
+  <updated>2015-02-25T16:34:15+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple featured in today’s ludicrous patent infringement case]]></title>
+    <link href="http://www.analogsenses.com/2015/02/25/apple-featured-in-todays-ludicrous-patent-infringement-case/"/>
+    <updated>2015-02-25T15:06:17+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/25/apple-featured-in-todays-ludicrous-patent-infringement-case</id>
+    <content type="html"><![CDATA[<p>Today Apple was <a href="http://appleinsider.com/articles/15/02/25/jury-orders-apple-to-pay-533m-for-infringing-gaming-patents">ordered to pay $533 million</a> for infringing several gaming-related patents held by licensing firm (a.k.a. professional patent troll) Smartflash.</p>
+
+<p><a href="http://www.brianshall.com/jury-orders-apple-to-pay/">Brian S. Hall</a> has a point:</p>
+
+<blockquote><p>This huge patent loss cost the company about 2 days worth of profit. Why the fuck not infringe, copy, outright steal? I’m being serious. The money Apple has to build, buy or otherwise take is nearly unfathomable.</p></blockquote>
+
+<p>He’s absolutely correct, and it goes to show just how broken the US patent system really is. As things stand today, giant companies like Apple and Samsung can pretty much get away with stealing or copying whatever they want, while small businesses and indie developers are absolutely helpless to defend themselves against any patent infringement lawsuits.</p>
+
+<p>This gaping hole in the US legal system is what patent trolls are routinely exploiting to force individuals and smaller companies to settle, often with ludicrous terms.</p>
+
+<p>Something needs to change. Unfortunately, the problem is there’s no easy fix for this. If you raise fines to dissuade large corporations from stealing ideas, you’re collaterally granting even more power and leverage to the trolls. If, on the other hand, you make it more expensive to register and patent ideas, you’re severely hindering individuals and small businesses’ ability to protect their bread and butter, leaving them defenseless against unscrupulous competitors.</p>
+
+<p>But what if patents couldn’t be sold and their licensing under fair terms was mandatory? That would solve the troll problem (nobody would be able to buy patents to use as weapons), without stifling competition (patent holders couldn’t use them to stop competitors from entering their businesses, but would be fairly compensated for them). Add to that a reasonable expiration date (say, for example, 30 years) and we may be on to something.</p>
+
+<p>That would strike me as a sensible middle ground, where all parties’ interests would be protected.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> It still wouldn’t eliminate <em>all</em> cases where companies are accused of stealing and copying ideas, but the remaining cases would be far more legitimate because patent trolls would simply cease to exist. I’m no legal expert, but that definitely sounds better than the current situation.</p>
+
+<p>Now, would someone get me Obama’s phone number, please? I got this.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Well, all parties other than lawyers and patent trolls, that is.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The original Macintosh User Manual]]></title>
@@ -68,19 +101,6 @@
     <updated>2015-02-10T20:58:22+01:00</updated>
     <id>http://www.analogsenses.com/2015/02/10/the-bookbook-for-iphone-6-plus-review-on-tools-and-toys</id>
     <content type="html"><![CDATA[<p>Somebody needs to take Josh Ginter’s camera away for a while. He’s making the rest of us look bad.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[David Pogue on Apple’s new Photos for Mac app]]></title>
-    <link href="http://www.analogsenses.com/2015/02/05/david-pogue-on-apples-new-photos-for-mac-app/"/>
-    <updated>2015-02-05T23:34:03+01:00</updated>
-    <id>http://www.analogsenses.com/2015/02/05/david-pogue-on-apples-new-photos-for-mac-app</id>
-    <content type="html"><![CDATA[<p>David Pogue:</p>
-
-<blockquote><p>Photos is meant to look, feel, and work exactly like Photos on the iPhone and iPad. It is yet another attempt by Apple to both unify the learning curve across devices and to put velvet handcuffs on you. The more benefits you get from sticking to an all-Apple ecosystem, the more likely you are to stay in it.</p></blockquote>
-
-<p>If it works without hiccups — and that’s a big if — it looks like most iOS users are going to feel right at home in the new Photos for Mac app. I&rsquo;m definitely curious to try it, although most of my photos live in Lightroom these days.</p>
 ]]></content>
   </entry>
   
