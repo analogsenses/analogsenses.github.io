@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-26T23:14:56+01:00</updated>
+  <updated>2015-02-27T19:35:43+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Leonard Nimoy dies at 83]]></title>
+    <link href="http://www.analogsenses.com/2015/02/27/leonard-nimoy-dies-at-83/"/>
+    <updated>2015-02-27T19:21:14+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/27/leonard-nimoy-dies-at-83</id>
+    <content type="html"><![CDATA[<p>Today is a sad day.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Onion reviews ‘50 Shades of Grey’]]></title>
@@ -70,15 +79,6 @@
 <p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/117042096 "></iframe></div></p>
 
 <p>Via <a href="http://randsinrepose.com/links/2015/01/19/the-best-movie-ever/">Rands</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How Jason Snell rips DVDs and Blu-rays]]></title>
-    <link href="http://www.analogsenses.com/2015/01/07/how-jason-snell-rips-dvds-and-blu-rays/"/>
-    <updated>2015-01-07T19:38:49+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/07/how-jason-snell-rips-dvds-and-blu-rays</id>
-    <content type="html"><![CDATA[<p>Excellent and thorough guide by Jason Snell on how to rip DVDs and Blu-ray discs on the Mac. I’ve always wondered about this, because I didn’t know there was a Mac-compatible Blu-ray player out there. Turns out there is at least one, and it’s pretty affordable.</p>
 ]]></content>
   </entry>
   
