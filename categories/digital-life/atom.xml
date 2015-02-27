@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-02-27T19:35:43+01:00</updated>
+  <updated>2015-02-27T20:51:28+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[‘Dress Color’ by xkcd]]></title>
+    <link href="http://www.analogsenses.com/2015/02/27/dress-color-by-xkcd/"/>
+    <updated>2015-02-27T19:46:25+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/27/dress-color-by-xkcd</id>
+    <content type="html"><![CDATA[<p>For the past 24 hours, the entire Internet has been up in arms over a dress. More specifically, over <em>the color</em> of a dress. I kid you not. Here’s <a href="http://swiked.tumblr.com/post/112073818575/guys-please-help-me-is-this-dress-white-and">the offending image</a>:</p>
+
+<p class="extra-width"><img src="https://farm9.staticflickr.com/8618/16664793725_c0cede89ce_o.jpg" width="250"/></p>
+
+
+<p>Apparently, about half the people on the Internet look at that image and <em>swear</em> — swear, I tell you — that the dress is white and gold. The other half, however, are just as passionate when they claim the dress is blue and black. Whatever camp you’re in, something is off. Clearly the Internet loves a heated discussion, but how can this be? Luckily, xkcd has <a href="http://xkcd.com/1492/">the answer to this puzzling enigma</a>:</p>
+
+<p><img src="http://imgs.xkcd.com/comics/dress_color.png"/></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Leonard Nimoy dies at 83]]></title>
@@ -59,25 +75,6 @@ With simple legislation your community, too, can clamp down on humans moving una
     <updated>2015-02-25T17:12:55+01:00</updated>
     <id>http://www.analogsenses.com/2015/02/25/stories-of-the-past-and-future</id>
     <content type="html"><![CDATA[<p>I love these mind-bending xkcd specials. So great.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The original Macintosh User Manual]]></title>
-    <link href="http://www.analogsenses.com/2015/02/24/the-original-macintosh-user-manual/"/>
-    <updated>2015-02-24T17:14:52+01:00</updated>
-    <id>http://www.analogsenses.com/2015/02/24/the-original-macintosh-user-manual</id>
-    <content type="html"><![CDATA[<p>Today I came across this wonderful article from 2007 thanks to <a href="https://twitter.com/pencilvspixel/status/570254944688742400">Cesar Contreras</a>. It’s an overview of the original Macintosh User Manual, over at peterme.com:</p>
-
-<blockquote><p>It’s been an intriguing read. It’s a remarkably handsome manual, beautifully typeset, which, considering par for the course at the time was probably Courier with few illustrations, is saying something.</p>
-
-<p>Also, even back in 1984, there was <a href="http://www.adaptivepath.com/blog/2007/01/22/whats-in-a-definite-article/">no definite article</a>. You get phrases like “With Macintosh, you’re in charge.” No “the”s or “a”s.</p></blockquote>
-
-<p>The lack of definite articles in Apple’s product descriptions was one of my favorite things about the company but, for whatever reason, they seem to be doing it less and less these days. If I remember correctly, the original iPhone keynote was one of the last major product introductions where everyone just said “iPhone”, without the “the”. One Steve Jobs quote from <a href="https://www.youtube.com/watch?v=e7EfxMOElBE">that keynote</a> in particular comes to mind (at about the 25:30 mark):</p>
-
-<blockquote><p>“What we want to do is make a leapfrog product that is way smarter than any mobile device has ever been, and super easy to use. This is what iPhone is”.</p></blockquote>
-
-<p>Well said, Steve. Well said. And by the way, <a href="https://twitter.com/tim_cook/status/570169805413552128">happy birthday</a>.</p>
 ]]></content>
   </entry>
   
