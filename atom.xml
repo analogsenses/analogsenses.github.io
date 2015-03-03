@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-02T22:41:26+01:00</updated>
+  <updated>2015-03-03T17:04:06+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Federico Viticci’s Life After Cancer →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.macstories.net/stories/life-after-cancer-how-the-iphone-helped-me-achieve-a-healthier-lifestyle/"/>
+	
+    <updated>2015-03-03T16:45:18+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/03/federico-viticcis-life-after-cancer</id>
+  	
+  	<content type="html"><![CDATA[<p>Federico Viticci tells the story of his incredible, life-altering experience of dealing with cancer at a young age, and how the iPhone is helping him adopt a healthy lifestyle.</p>
+
+<p>There are iPhones and iPads and many other devices in the article but more than anything, this is a story about life, and how nothing should be taken for granted.</p>
+
+<p>If you can only read one thing today, let it be this.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/03/federico-viticcis-life-after-cancer/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Michael Fraser goes to Italy →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -797,23 +814,6 @@ With simple legislation your community, too, can clamp down on humans moving una
 
 <p>Via <a href="http://www.sparkjournal.net/journal/2015/2/typography-in-ten-minutes">Chris Gonzales</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/02/18/buttericks-typography-in-ten-minues/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Kevin Michaluk wants the Apple Watch Edition to cost $10,000 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.imore.com/dont-hate-me-because-i-want-gold-apple-watch-edition-cost-10000-or-more"/>
-	
-    <updated>2015-02-18T18:25:28+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/18/kevin-michaluk-wants-the-apple-watch-edition-to-cost-$10-000</id>
-  	
-  	<content type="html"><![CDATA[<p>Kevin Michaluk:</p>
-
-<blockquote><p>Functionally, there is no benefit to purchasing a gold Watch Edition model over the much less expensive Watch or Watch Sport. All three models will accomplish the same tasks on your wrist. That said, for all those out there, myself included, who have the Watch Edition on their “to buy” lists, this truth simply does not matter. It’s like telling an aficionado of luxury mechanical timepieces to buy a quartz or digital watch because it tells time more accurately. When moving into the realm of luxury watch pricing, It’s not about what the watch <em>does</em> for the owner. It’s about what the watch <em>means</em> to the owner.</p></blockquote>
-
-<p>Exactly. Some purchases are made with the heart, and they’re all about the emotions associated with the product, not necessarily the product itself. This is why Leica can get away with <a href="http://www.amazon.com/gp/product/B00MNK4BVO/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00MNK4BVO&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=LZOVGDKFY4POCNIO">charging $8,000</a> for a camera that is functionally no better than many others that cost less than $2,000.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/02/18/kevin-michaluk-wants-the-apple-watch-edition-to-cost-$10-000/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
