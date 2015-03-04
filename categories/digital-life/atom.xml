@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-03T17:58:56+01:00</updated>
+  <updated>2015-03-04T23:52:08+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Humans suck at everything that’s important]]></title>
+    <link href="http://www.analogsenses.com/2015/03/04/humans-suck-at-everything-thats-important/"/>
+    <updated>2015-03-04T23:48:45+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/04/humans-suck-at-everything-thats-important</id>
+    <content type="html"><![CDATA[<p>David Cain:</p>
+
+<blockquote><p>Essentially, this higher territory is what we call morality, and I think we tend to <em>greatly</em> overestimate how good we are at it. We’re a species who, as I <a href="http://www.raptitude.com/2014/12/the-myth-of-new-years/">point out frequently</a>, can barely uphold our New Year’s commitments to <em>ourselves</em>, yet we seem to expect everyone else to be more or less upstanding and incorruptible. Why am I so frequently appalled by how thoughtlessly other people park their cars, when I don’t think twice about spending thirty dollars on beer instead of feeding the starving?</p></blockquote>
+
+<p>Food for thought.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The depressing rise of Squiggletecture]]></title>
@@ -69,21 +82,6 @@
     <updated>2015-02-27T19:21:14+01:00</updated>
     <id>http://www.analogsenses.com/2015/02/27/leonard-nimoy-dies-at-83</id>
     <content type="html"><![CDATA[<p>Today is a sad day.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Matt Gemmell on permalinks]]></title>
-    <link href="http://www.analogsenses.com/2015/02/25/matt-gemmell-on-permalinks/"/>
-    <updated>2015-02-25T19:28:42+01:00</updated>
-    <id>http://www.analogsenses.com/2015/02/25/matt-gemmell-on-permalinks</id>
-    <content type="html"><![CDATA[<p>Matt Gemmell:</p>
-
-<blockquote><p>We’re all familiar with those URLs. The date of the post is explicit, so you need never wonder when it was written, or how recent it is.</p>
-
-<p>Here’s the thing, though: they’re <em>horrible.</em></p></blockquote>
-
-<p>Lots of interesting points and solid advice in this piece. Well worth your consideration.</p>
 ]]></content>
   </entry>
   
