@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-09T23:52:22+01:00</updated>
+  <updated>2015-03-10T00:31:32+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[How WWI made wristwatches happen →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://boingboing.net/2015/03/04/how-wwi-made-wristwatches-happ.html"/>
+	
+    <updated>2015-03-09T23:55:59+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/09/how-wwi-made-wristwatches-happen</id>
+  	
+  	<content type="html"><![CDATA[<p>And speaking about watches, here&rsquo;s an amazing story by Linda Rodriguez on how the traditional pocket watch became the wristwatch we know today:</p>
+
+<blockquote><p>It would take a global war to catapult the wristwatch onto the arms of men the world over. Though the wristwatch wasn’t exactly invented for World War I, it was during this era that it evolved from a useful but fringe piece of military kit to a nearly universal necessity. So why this war? Firstly, the development of the wristwatch was hastened by the style of warfare that soon became symbolic of the First World War: The trenches.</p>
+
+<p>“The problem with the pocket watch is that you have to hold it,” explained Doyle. That wasn’t going to work for the officer at the Western Front – when an officer lead his men “over the top”, leaving the relative safety of the trenches for the pock-marked no man’s land in between and very possible death, he had his gun in one hand and his whistle in the other. “You haven’t got another hand in which to hold your watch.”</p></blockquote>
+
+<p>Fascinating.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/09/how-wwi-made-wristwatches-happen/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
+  <entry>
+  
+	<title type="html"><![CDATA[Apple Watch Battery Information →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.apple.com/watch/battery.html"/>
+	
+    <updated>2015-03-09T23:54:36+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/09/apple-watch-battery-information</id>
+  	
+  	<content type="html"><![CDATA[<p>Battery life was one of the biggest questions we expected Apple to answer in today’s keynote about Apple Watch. The official figure given by Tim Cook on stage was “about 18 hours”, which is roughly in line with what most people expected. But battery life, of course, will vary heavily depending on your usage pattern. To give us an idea of the kind of battery life we can expect in several common scenarios, Apple has set up an official battery life info page for Apple Watch. The numbers are solid all around, but I found this bit to be particularly interesting/useful:</p>
+
+<blockquote><p>If your battery gets too low, Apple Watch automatically switches into Power Reserve mode so you can continue to see the time for up to 72 hours. Testing conducted by Apple in March 2015 using preproduction Apple Watch and software with 4 time checks (4 seconds each) per hour. Battery life varies by use, configuration, and many other factors; actual results will vary.</p></blockquote>
+
+<p>It’s so simple, but I think this will be one of the most useful features in everyday use. Personally, it’s not uncommon for me at all to have my iPhone die on me if I arrive home a little later than usual, not to mention if I go out at night. Apple Watch will be no different in this regard, but it’s good to know that even if your battery dies and you can’t use any of its fancy features, at least your watch will continue to tell the time.</p>
+
+<p>Knowing the exact time you made it home last night is important, if only just so you can feel the appropriate amount of guilt and remorse about it in the morning. It’s the little things.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/09/apple-watch-battery-information/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Stephen Hackett on the new MacBooks →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -461,66 +499,6 @@ With simple legislation your community, too, can clamp down on humans moving una
   	
   	<content type="html"><![CDATA[<p>I love these mind-bending xkcd specials. So great.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/02/25/stories-of-the-past-and-future/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Apple featured in today’s ludicrous patent infringement case]]></title>
-	<link href="http://www.analogsenses.com/2015/02/25/apple-featured-in-todays-ludicrous-patent-infringement-case/"/>
-	
-    <updated>2015-02-25T15:06:17+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/25/apple-featured-in-todays-ludicrous-patent-infringement-case</id>
-  	
-  	<content type="html"><![CDATA[<p>Today Apple was <a href="http://appleinsider.com/articles/15/02/25/jury-orders-apple-to-pay-533m-for-infringing-gaming-patents">ordered to pay $533 million</a> for infringing several gaming-related patents held by licensing firm (a.k.a. professional patent troll) Smartflash.</p>
-
-<p><a href="http://www.brianshall.com/jury-orders-apple-to-pay/">Brian S. Hall</a> has a point:</p>
-
-<blockquote><p>This huge patent loss cost the company about 2 days worth of profit. Why the fuck not infringe, copy, outright steal? I’m being serious. The money Apple has to build, buy or otherwise take is nearly unfathomable.</p></blockquote>
-
-<p>He’s absolutely correct, and it goes to show just how broken the US patent system really is. As things stand today, giant companies like Apple and Samsung can pretty much get away with stealing or copying whatever they want, while small businesses and indie developers are absolutely helpless to defend themselves against any patent infringement lawsuits.</p>
-
-<p>This gaping hole in the US legal system is what patent trolls are routinely exploiting to force individuals and smaller companies to settle, often with ludicrous terms.</p>
-
-<p>Something needs to change. Unfortunately, the problem is there’s no easy fix for this. If you raise fines to dissuade large corporations from stealing ideas, you’re collaterally granting even more power and leverage to the trolls. If, on the other hand, you make it more expensive to register and patent ideas, you’re severely hindering individuals and small businesses’ ability to protect their bread and butter, leaving them defenseless against unscrupulous competitors.</p>
-
-<p>But what if patents couldn’t be sold and their licensing under fair terms was mandatory? That would solve the troll problem (nobody would be able to buy patents to use as weapons), without stifling competition (patent holders couldn’t use them to stop competitors from entering their businesses, but would be fairly compensated for them). Add to that a reasonable expiration date (say, for example, 30 years) and we may be on to something.</p>
-
-<p>That would strike me as a sensible middle ground, where all parties’ interests would be protected.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> It still wouldn’t eliminate <em>all</em> cases where companies are accused of stealing and copying ideas, but the remaining cases would be far more legitimate because patent trolls would simply cease to exist. I’m no legal expert, but that definitely sounds better than the current situation.</p>
-
-<p>Now, would someone get me Obama’s phone number, please? I got this.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Well, all parties other than lawyers and patent trolls, that is.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
-]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The original Macintosh User Manual →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.peterme.com/2007/08/27/thoughts-on-and-pics-of-the-original-macintosh-user-manual/"/>
-	
-    <updated>2015-02-24T17:14:52+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/24/the-original-macintosh-user-manual</id>
-  	
-  	<content type="html"><![CDATA[<p>Today I came across this wonderful article from 2007 thanks to <a href="https://twitter.com/pencilvspixel/status/570254944688742400">Cesar Contreras</a>. It’s an overview of the original Macintosh User Manual, over at peterme.com:</p>
-
-<blockquote><p>It’s been an intriguing read. It’s a remarkably handsome manual, beautifully typeset, which, considering par for the course at the time was probably Courier with few illustrations, is saying something.</p>
-
-<p>Also, even back in 1984, there was <a href="http://www.adaptivepath.com/blog/2007/01/22/whats-in-a-definite-article/">no definite article</a>. You get phrases like “With Macintosh, you’re in charge.” No “the”s or “a”s.</p></blockquote>
-
-<p>The lack of definite articles in Apple’s product descriptions was one of my favorite things about the company but, for whatever reason, they seem to be doing it less and less these days. If I remember correctly, the original iPhone keynote was one of the last major product introductions where everyone just said “iPhone”, without the “the”. One Steve Jobs quote from <a href="https://www.youtube.com/watch?v=e7EfxMOElBE">that keynote</a> in particular comes to mind (at about the 25:30 mark):</p>
-
-<blockquote><p>“What we want to do is make a leapfrog product that is way smarter than any mobile device has ever been, and super easy to use. This is what iPhone is”.</p></blockquote>
-
-<p>Well said, Steve. Well said. And by the way, <a href="https://twitter.com/tim_cook/status/570169805413552128">happy birthday</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/02/24/the-original-macintosh-user-manual/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
