@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-10T20:30:14+01:00</updated>
+  <updated>2015-03-10T22:44:10+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Jason Snell’s quick thoughts on Apple’s ‘Spring Forward’ event →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://sixcolors.com/post/2015/03/quick-reactions-to-the-spring-forward-apple-event/"/>
+	
+    <updated>2015-03-10T22:35:52+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/10/jason-snells-quick-thoughts-on-apples-spring-forward-event</id>
+  	
+  	<content type="html"><![CDATA[<p>Jason Snell has another nice and comprehensive overview of everything that was announced yesterday, as well as his take on what we can realistically expect from each of the announcements. I found myself silently nodding in agreement as I read most of this piece, so I&rsquo;d like to just point you towards it without further commentary. Enjoy.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/10/jason-snells-quick-thoughts-on-apples-spring-forward-event/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[This Video Will Make You Angry →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -478,25 +491,6 @@
 
 <p>The Macallan 18 Year Old is big game, and I must finish my journey through the rest of the younger single malts first. Patience is key but rest assured, dear reader, we’ll get there soon enough.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Matt Gemmell on permalinks →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://mattgemmell.com/permalinks/"/>
-	
-    <updated>2015-02-25T19:28:42+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/02/25/matt-gemmell-on-permalinks</id>
-  	
-  	<content type="html"><![CDATA[<p>Matt Gemmell:</p>
-
-<blockquote><p>We’re all familiar with those URLs. The date of the post is explicit, so you need never wonder when it was written, or how recent it is.</p>
-
-<p>Here’s the thing, though: they’re <em>horrible.</em></p></blockquote>
-
-<p>Lots of interesting points and solid advice in this piece. Well worth your consideration.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/02/25/matt-gemmell-on-permalinks/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
