@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-10T22:44:10+01:00</updated>
+  <updated>2015-03-10T22:51:58+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -13,7 +13,7 @@
   
   <entry>
   
-	<title type="html"><![CDATA[Jason Snell’s quick thoughts on Apple’s ‘Spring Forward’ event →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<title type="html"><![CDATA[Jason Snell’s thoughts on Apple’s ‘Spring Forward’ event →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
 	<link href="http://sixcolors.com/post/2015/03/quick-reactions-to-the-spring-forward-apple-event/"/>
 	
     <updated>2015-03-10T22:35:52+01:00</updated>
