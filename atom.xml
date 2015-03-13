@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-12T23:12:26+01:00</updated>
+  <updated>2015-03-13T20:05:23+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Robert Downey Jr. delivers a real bionic arm to a kid →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=oEx5lmbCKtY"/>
+	
+    <updated>2015-03-13T19:59:06+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/13/robert-downey-jr-delivers-a-real-bionic-arm-to-a-kid</id>
+  	
+  	<content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/oEx5lmbCKtY" allowfullscreen></iframe></div>
+
+
+<p>What a cool idea and what a generous gesture by Robert Downey Jr. Via <a href="http://www.loopinsight.com/2015/03/13/robert-downey-jr-delivers-a-real-bionic-arm/">The Loop</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/13/robert-downey-jr-delivers-a-real-bionic-arm-to-a-kid/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Bill Watterson on the new ‘Exploring Calvin and Hobbes’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -759,23 +775,6 @@
 
 <p>Unbelievable, indeed.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/03/the-depressing-rise-of-squiggletecture/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Federico Viticci’s Life After Cancer →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.macstories.net/stories/life-after-cancer-how-the-iphone-helped-me-achieve-a-healthier-lifestyle/"/>
-	
-    <updated>2015-03-03T16:45:18+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/03/federico-viticcis-life-after-cancer</id>
-  	
-  	<content type="html"><![CDATA[<p>Federico Viticci tells the story of his incredible, life-altering experience of dealing with cancer at a young age, and how the iPhone is helping him adopt a healthy lifestyle.</p>
-
-<p>There are iPhones and iPads and many other devices in the article but more than anything, this is a story about life, and how nothing should be taken for granted.</p>
-
-<p>If you can only read one thing today, let it be this.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/03/federico-viticcis-life-after-cancer/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
