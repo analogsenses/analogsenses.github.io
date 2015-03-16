@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-13T20:24:34+01:00</updated>
+  <updated>2015-03-16T17:37:42+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Evolution of Steve Jobs]]></title>
+    <link href="http://www.analogsenses.com/2015/03/16/the-evolution-of-steve-jobs/"/>
+    <updated>2015-03-16T17:23:27+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/16/the-evolution-of-steve-jobs</id>
+    <content type="html"><![CDATA[<p>Rick Tetzeli, co-author of the upcoming book <em><a href="http://www.amazon.com/gp/product/0385347405/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0385347405&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=WXMP6YF3V6RJST6M">Becoming Steve Jobs</a></em>, aptly dismantles the many myths surrounding Jobs’s public persona in a fantastic piece for Fast Company:</p>
+
+<blockquote><p>What emerged from these exclusive interviews—with <a href="http://www.fastcompany.com/person/jony-ive">Jony Ive</a> and Tim Cook, <a href="http://www.fastcompany.com/person/bill-gates">Bill Gates</a> and Bob Iger, and others, including Steve’s widow, Laurene <a href="http://www.fastcompany.com/person/powell-jobs">Powell Jobs</a>—was a very different picture of Jobs. Steve was someone with a deep hunger for learning, who breathed in an education wherever he could find it, from his youthful pilgrimage to India to his key mentors and his longtime colleagues at NeXT, Pixar, and Apple. Powell Jobs goes so far as to call him a “learning machine.” He learned from his many failures and relentlessly applied those lessons. This wasn’t an obvious process—Steve always preferred to talk about the future rather than the past, so there are very few examples of him reflecting on his triumphs and missteps, or acknowledging a lesson learned. But like most of us, he tried to use what he learned to take better advantage of his strengths and temper his weaknesses. It was a lifelong effort, and, like most of us, he succeeded in some ways and failed in others.</p></blockquote>
+
+<p>A fascinating read.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jason Snell’s thoughts on Apple’s ‘Spring Forward’ event]]></title>
@@ -72,39 +85,6 @@
 <p>Some of these are so good that it’s hard to believe they came out of a smartphone camera, but the great thing about them is not that they’re <em>technically</em> great pictures, but that they’re <em>creatively</em> amazing as well.</p>
 
 <p>It’s good to know that the iPhone 6 camera is technically impressive, but no amount of camera gear will ever be able to replace a photographer’s creativity and artistic vision. Apple’s gallery does a fantastic job of telling that story.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple featured in today’s ludicrous patent infringement case]]></title>
-    <link href="http://www.analogsenses.com/2015/02/25/apple-featured-in-todays-ludicrous-patent-infringement-case/"/>
-    <updated>2015-02-25T15:06:17+01:00</updated>
-    <id>http://www.analogsenses.com/2015/02/25/apple-featured-in-todays-ludicrous-patent-infringement-case</id>
-    <content type="html"><![CDATA[<p>Today Apple was <a href="http://appleinsider.com/articles/15/02/25/jury-orders-apple-to-pay-533m-for-infringing-gaming-patents">ordered to pay $533 million</a> for infringing several gaming-related patents held by licensing firm (a.k.a. professional patent troll) Smartflash.</p>
-
-<p><a href="http://www.brianshall.com/jury-orders-apple-to-pay/">Brian S. Hall</a> has a point:</p>
-
-<blockquote><p>This huge patent loss cost the company about 2 days worth of profit. Why the fuck not infringe, copy, outright steal? I’m being serious. The money Apple has to build, buy or otherwise take is nearly unfathomable.</p></blockquote>
-
-<p>He’s absolutely correct, and it goes to show just how broken the US patent system really is. As things stand today, giant companies like Apple and Samsung can pretty much get away with stealing or copying whatever they want, while small businesses and indie developers are absolutely helpless to defend themselves against any patent infringement lawsuits.</p>
-
-<p>This gaping hole in the US legal system is what patent trolls are routinely exploiting to force individuals and smaller companies to settle, often with ludicrous terms.</p>
-
-<p>Something needs to change. Unfortunately, the problem is there’s no easy fix for this. If you raise fines to dissuade large corporations from stealing ideas, you’re collaterally granting even more power and leverage to the trolls. If, on the other hand, you make it more expensive to register and patent ideas, you’re severely hindering individuals and small businesses’ ability to protect their bread and butter, leaving them defenseless against unscrupulous competitors.</p>
-
-<p>But what if patents couldn’t be sold and their licensing under fair terms was mandatory? That would solve the troll problem (nobody would be able to buy patents to use as weapons), without stifling competition (patent holders couldn’t use them to stop competitors from entering their businesses, but would be fairly compensated for them). Add to that a reasonable expiration date (say, for example, 30 years) and we may be on to something.</p>
-
-<p>That would strike me as a sensible middle ground, where all parties’ interests would be protected.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> It still wouldn’t eliminate <em>all</em> cases where companies are accused of stealing and copying ideas, but the remaining cases would be far more legitimate because patent trolls would simply cease to exist. I’m no legal expert, but that definitely sounds better than the current situation.</p>
-
-<p>Now, would someone get me Obama’s phone number, please? I got this.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Well, all parties other than lawyers and patent trolls, that is.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
 ]]></content>
   </entry>
   
