@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-18T00:28:07+01:00</updated>
+  <updated>2015-03-18T12:33:47+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Elon Musk believes cars you can control will eventually be outlawed]]></title>
+    <link href="http://www.analogsenses.com/2015/03/18/elon-musk-believes-cars-you-can-control-will-eventually-be-outlawed/"/>
+    <updated>2015-03-18T12:14:45+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/18/elon-musk-believes-cars-you-can-control-will-eventually-be-outlawed</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s no secret that self-driving cars are relatively close to being a reality. At this point, it&rsquo;s become more a matter of <em>when</em> than a matter of <em>if</em>, and that brings certain questions about their reliability and safety compared with today&rsquo;s cars.</p>
+
+<p>But if technology has taught us anything, it&rsquo;s that humans are pretty terrible at precision-based tasks when pitted against machines. Elon Musk, one of the brightest minds of our time, believes once self-driving cars become the norm, it&rsquo;ll be a question of time before current “dumb” models are outlawed:</p>
+
+<blockquote><p>“I don&rsquo;t think we have to worry about autonomous cars, because that&rsquo;s sort of like a narrow form of AI,” Musk told NVidia co-founder and CEO Jen-Hsun Huang at the technology company&rsquo;s annual developers conference today. “It would be like an elevator. They used to have elevator operators, and then we developed some simple circuitry to have elevators just automatically come to the floor that you&rsquo;re at &hellip; the car is going to be just like that.” So what happens when we get there? Musk said that the obvious move is to outlaw driving cars. “It&rsquo;s too dangerous,” Musk said. “You can&rsquo;t have a person driving a two-ton death machine.”</p></blockquote>
+
+<p>I agree with Musk, but why society has conveniently decided to ignore this fact until self-driving cars arrive is quite frankly beyond my comprehension. Cars will always be around for some uses, but they&rsquo;re far from a necessity in everyday life, particularly in large cities with comprehensive public transportation infrastructure. Besides, it&rsquo;s not like there aren&rsquo;t any safe, affordable, convenient, reliable and sustainable alternatives <a href="http://en.wikipedia.org/wiki/Utility_cycling">out there already</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Glenn Fleishman on newsletters and podcasts]]></title>
@@ -66,19 +81,6 @@
     <content type="html"><![CDATA[<p><a href="http://xkcd.com/1497/"><img src="http://imgs.xkcd.com/comics/new_products.png" title="If you ever hear “Wait, is that Kim Dotcom's new project? I'm really excited about it and already signed up, although I'm a little nervous about whether everyone should hand over control of their medical...”, it's time to dig a bunker in your backyard."></a></p>
 
 <p>Brilliant.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This Video Will Make You Angry]]></title>
-    <link href="http://www.analogsenses.com/2015/03/10/this-video-will-make-you-angry/"/>
-    <updated>2015-03-10T20:27:33+01:00</updated>
-    <id>http://www.analogsenses.com/2015/03/10/this-video-will-make-you-angry</id>
-    <content type="html"><![CDATA[<p>Great video by CGP Grey on how thoughts can propagate like germs infecting brains on the Internet, using our own emotions as vectors:</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/rE3j_RHkqJc" allowfullscreen></iframe></div></p>
-
-<p>Via <a href="http://www.marco.org/2015/03/10/this-video-will-make-you-angry">Marco Arment</a>.</p>
 ]]></content>
   </entry>
   

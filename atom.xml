@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-18T00:28:07+01:00</updated>
+  <updated>2015-03-18T12:33:47+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Elon Musk believes cars you can control will eventually be outlawed →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.theverge.com/transportation/2015/3/17/8232187/elon-musk-human-drivers-are-dangerous"/>
+	
+    <updated>2015-03-18T12:14:45+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/18/elon-musk-believes-cars-you-can-control-will-eventually-be-outlawed</id>
+  	
+  	<content type="html"><![CDATA[<p>It&rsquo;s no secret that self-driving cars are relatively close to being a reality. At this point, it&rsquo;s become more a matter of <em>when</em> than a matter of <em>if</em>, and that brings certain questions about their reliability and safety compared with today&rsquo;s cars.</p>
+
+<p>But if technology has taught us anything, it&rsquo;s that humans are pretty terrible at precision-based tasks when pitted against machines. Elon Musk, one of the brightest minds of our time, believes once self-driving cars become the norm, it&rsquo;ll be a question of time before current “dumb” models are outlawed:</p>
+
+<blockquote><p>“I don&rsquo;t think we have to worry about autonomous cars, because that&rsquo;s sort of like a narrow form of AI,” Musk told NVidia co-founder and CEO Jen-Hsun Huang at the technology company&rsquo;s annual developers conference today. “It would be like an elevator. They used to have elevator operators, and then we developed some simple circuitry to have elevators just automatically come to the floor that you&rsquo;re at &hellip; the car is going to be just like that.” So what happens when we get there? Musk said that the obvious move is to outlaw driving cars. “It&rsquo;s too dangerous,” Musk said. “You can&rsquo;t have a person driving a two-ton death machine.”</p></blockquote>
+
+<p>I agree with Musk, but why society has conveniently decided to ignore this fact until self-driving cars arrive is quite frankly beyond my comprehension. Cars will always be around for some uses, but they&rsquo;re far from a necessity in everyday life, particularly in large cities with comprehensive public transportation infrastructure. Besides, it&rsquo;s not like there aren&rsquo;t any safe, affordable, convenient, reliable and sustainable alternatives <a href="http://en.wikipedia.org/wiki/Utility_cycling">out there already</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/18/elon-musk-believes-cars-you-can-control-will-eventually-be-outlawed/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Movie Director Portraits →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -729,25 +748,6 @@
 
 <p>Fascinating.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/09/how-wwi-made-wristwatches-happen/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Apple Watch Battery Information →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.apple.com/watch/battery.html"/>
-	
-    <updated>2015-03-09T23:54:36+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/09/apple-watch-battery-information</id>
-  	
-  	<content type="html"><![CDATA[<p>Battery life was one of the biggest questions we expected Apple to answer in today’s keynote about Apple Watch. The official figure given by Tim Cook on stage was “about 18 hours”, which is roughly in line with what most people expected. But battery life, of course, will vary heavily depending on your usage pattern. To give us an idea of the kind of battery life we can expect in several common scenarios, Apple has set up an official battery life info page for Apple Watch. The numbers are solid all around, but I found this bit to be particularly interesting/useful:</p>
-
-<blockquote><p>If your battery gets too low, Apple Watch automatically switches into Power Reserve mode so you can continue to see the time for up to 72 hours. Testing conducted by Apple in March 2015 using preproduction Apple Watch and software with 4 time checks (4 seconds each) per hour. Battery life varies by use, configuration, and many other factors; actual results will vary.</p></blockquote>
-
-<p>It’s so simple, but I think this will be one of the most useful features in everyday use. Personally, it’s not uncommon for me at all to have my iPhone die on me if I arrive home a little later than usual, not to mention if I go out at night. Apple Watch will be no different in this regard, but it’s good to know that even if your battery dies and you can’t use any of its fancy features, at least your watch will continue to tell the time.</p>
-
-<p>Knowing the exact time you made it home last night is important, if only just so you can feel the appropriate amount of guilt and remorse about it in the morning. It’s the little things.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/09/apple-watch-battery-information/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
