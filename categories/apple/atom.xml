@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-19T18:51:06+01:00</updated>
+  <updated>2015-03-19T20:01:04+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Onion compares the new MacBook and the Chromebook Pixel]]></title>
+    <link href="http://www.analogsenses.com/2015/03/19/the-onion-compares-the-new-macbook-and-the-chromebook-pixel/"/>
+    <updated>2015-03-19T19:58:12+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/19/the-onion-compares-the-new-macbook-and-the-chromebook-pixel</id>
+    <content type="html"><![CDATA[<p>I’m not usually a big fan of checklist-based comparisons, but this one by The Onion is pretty much spot on. Via <a href="http://www.loopinsight.com/2015/03/19/the-onion-compares-apples-new-macbook-with-googles-chromebook-pixel/">The Loop</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy six-month anniversary to Jason Snell and Six Colors]]></title>
@@ -56,31 +65,6 @@
 <p>It’s so simple, but I think this will be one of the most useful features in everyday use. Personally, it’s not uncommon for me at all to have my iPhone die on me if I arrive home a little later than usual, not to mention if I go out at night. Apple Watch will be no different in this regard, but it’s good to know that even if your battery dies and you can’t use any of its fancy features, at least your watch will continue to tell the time.</p>
 
 <p>Knowing the exact time you made it home last night is important, if only just so you can feel the appropriate amount of guilt and remorse about it in the morning. It’s the little things.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Stephen Hackett on the new MacBooks]]></title>
-    <link href="http://www.analogsenses.com/2015/03/09/stephen-hackett-on-the-new-macbooks/"/>
-    <updated>2015-03-09T23:28:58+01:00</updated>
-    <id>http://www.analogsenses.com/2015/03/09/stephen-hackett-on-the-new-macbooks</id>
-    <content type="html"><![CDATA[<p>Stephen Hackett has some interesting thoughts on Apple’s brand new — and <em>extremely</em> polarizing — laptop:</p>
-
-<blockquote><p>The limited I/O is interesting. The trend started with the original MacBook Air has reached its logical conclusion in this machine. Almost everything will require a dongle, and <a href="http://atp.fm/episodes/107">with no hub in sight</a>, this machine could be annoying to live with for the power user. (Oh yeah, there’s no Thunderbolt here.)</p>
-
-<p>The keyboard is all new and ditches Apple’s traditional switch design for something far thinner, meaning the travel on this keyboard is going to be less than what we’ve been used to for several years.</p>
-
-<p>More importantly, the trackpad is all new. Gone is the hardware that allows the glass surface to click. It now stays in place, and uses haptic feedback and force sensors, not unlike the Apple Watch.</p></blockquote>
-
-<p>I’m sure it’s just a matter of time before Apple or a 3rd-party manufacturer releases a fancy USB-C hub, which will take most of the connectivity issues away.</p>
-
-<p>The lack of a MagSafe port, however, I take issue with, although we don’t even know if MagSafe would actually work with a machine this light. And if it doesn’t work well, then there’s no point in having it at all.</p>
-
-<p>The keyboard is by far the most interesting thing about this laptop. I’m <em>very</em> curious to try it and see how the much shallower keys feel in actual use. I’m a big fan of Apple’s keyboards, but I do not generally enjoy shallow keys, and I find the current Airs — and, to a lesser extent, the Retina Pros — to be somewhat less comfortable to type on than my trusty old non-Retina 13&#8221; MacBook Pro. It’s a small difference, but it’s there, and it appears the new MacBooks take a step forward in this regard. A small price to pay for ultimate thinness? We’ll see.</p>
-
-<p>And about the trackpad, I honestly have no concerns about it. Apple’s been making the best trackpads in the world for a few years now, and I trust them to not screw it up this time. I actually use a Magic Trackpad with my iMac and I <em>vastly</em> prefer it to a mouse, especially with OS X’s many touch-optimized features. The fact that they’ve simultaneously incorporated these new trackpads to the 13&#8221; MacBook Pro goes a long way towards convincing me that Apple’s feeling confident about this new technology.</p>
-
-<p>All in all, the new MacBook strikes me as perhaps the most interesting laptop Apple has released in a long time. It probably isn’t the right machine for me, at least not as my only or primary Mac, but there are many thing to love here and as a secondary Mac, there’s a great case to be made for it. If you can live with its compromises — and many people undoubtedly can — the dream of a truly mobile laptop is now within grasp.</p>
 ]]></content>
   </entry>
   
