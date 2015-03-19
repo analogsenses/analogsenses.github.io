@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-19T20:17:08+01:00</updated>
+  <updated>2015-03-19T22:34:43+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -29,7 +29,7 @@
     <link href="http://www.analogsenses.com/2015/03/13/robert-downey-jr-delivers-a-real-bionic-arm-to-a-kid/"/>
     <updated>2015-03-13T19:59:06+01:00</updated>
     <id>http://www.analogsenses.com/2015/03/13/robert-downey-jr-delivers-a-real-bionic-arm-to-a-kid</id>
-    <content type="html"><![CDATA[<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/oEx5lmbCKtY" allowfullscreen></iframe></div></p>
+    <content type="html"><![CDATA[<p>{% youtube oEx5lmbCKtY %}</p>
 
 <p>What a cool idea and what a generous gesture by Robert Downey Jr. Via <a href="http://www.loopinsight.com/2015/03/13/robert-downey-jr-delivers-a-real-bionic-arm/">The Loop</a>.</p>
 ]]></content>
