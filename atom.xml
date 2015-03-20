@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-19T22:33:12+01:00</updated>
+  <updated>2015-03-20T19:45:43+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[MirrorLessons asks 30 expert photography bloggers to pick the best mirrorless cameras →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.mirrorlessons.com/2015/03/19/best-mirrorless-cameras-according-to-expert-photography-bloggers/"/>
+	
+    <updated>2015-03-20T19:41:40+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/20/mirrorlessons-asks-30-expert-photography-bloggers-to-pick-the-best-mirrorless-cameras</id>
+  	
+  	<content type="html"><![CDATA[<p>Interesting roundup. Though I’m not surprised by the results — the Fuji X-T1 came out on top — the reasons these photographers gave to justify their picks were all very insightful. Definitely worth a read.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/20/mirrorlessons-asks-30-expert-photography-bloggers-to-pick-the-best-mirrorless-cameras/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[James Joyce Link Fest →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -384,22 +397,6 @@
 
 <p>If this isn’t an instant buy, I don’t know what is.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/12/bill-watterson-on-the-new-exploring-calvin-and-hobbes/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[DigitalRev TV reviews the Olympus OM-D E-M5 Mark II →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=0xim-OQ9p1Q"/>
-	
-    <updated>2015-03-12T21:37:26+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/12/digitalrev-tv-reviews-the-olympus-om-d-e-m5-mark-ii</id>
-  	
-  	<content type="html"><![CDATA[<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/0xim-OQ9p1Q" allowfullscreen></iframe></div>
-
-
-<p>I love Kai Wong. And those Olympus colors are killer, no doubt.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/12/digitalrev-tv-reviews-the-olympus-om-d-e-m5-mark-ii/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
