@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-20T22:38:03+01:00</updated>
+  <updated>2015-03-20T23:16:51+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Marco Arment on the future of the dumbwatch]]></title>
+    <link href="http://www.analogsenses.com/2015/03/20/marco-arment-on-the-future-of-the-dumbwatch/"/>
+    <updated>2015-03-20T22:59:19+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/20/marco-arment-on-the-future-of-the-dumbwatch</id>
+    <content type="html"><![CDATA[<p>Marco Arment:</p>
+
+<blockquote><p>The Apple Watch isn’t just a watch, interchangeable like any other. It’s an entire mobile computing and communication platform, and a significant enhancement to the smartphone, which is probably the most successful, ubiquitous, and disruptive electronic device in history.</p>
+
+<p>Once you’re accustomed to wearing one, going out for a night without your Apple Watch is going to feel like going out without your phone.</p></blockquote>
+
+<p>I think his reasoning is absolutely spot-on, but I disagree with his conclusion. Yes, going out without your Apple Watch will feel a lot like going out without your phone, except <em>your phone will still be in your pocket.</em> There&rsquo;s nothing important you’re left unable to do by leaving the watch behind, because you can just use your phone instead.</p>
+
+<p>Actually, for the same reason I almost never pull my phone out of my pocket when I&rsquo;m out with friends, I believe I’d be extremely likely to <em>want</em> to leave the Apple Watch at home when I go out. I don&rsquo;t want to be interrupted by a million notifications all night long when I just want to have a good time and relax with some friends.</p>
+
+<p>So, while I definitely appreciate everything the Apple Watch can do for me during the day, at night I still see myself wearing my nice dumbwatch instead. And if there&rsquo;s something I really need to do I can just take my phone out, get it over with, put it back in my pocket and go back to my whisky.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Onion compares the new MacBook and the Chromebook Pixel]]></title>
@@ -56,19 +75,6 @@
 <blockquote><p>I wasn’t sure exactly where it would lead, but last month I asked on Twitter for independent developers <a href="https://twitter.com/greyham/status/544857987035062272">to @ reply me and say hi</a>. Amplified by retweets by Federico and many others, I got dozens and dozens of replies, ultimately totalling just under 200 responses. That’s both a pretty huge number (trust me, it was a time consuming process documenting them all) and also incredibly tiny (there are around <a href="http://blog.appfigures.com/app-stores-growth-accelerates-in-2014/">250,000 active developers and over a million apps</a> for sale).</p></blockquote>
 
 <p>What a great idea. If you want to help support indie app development — and you totally should — remember to check this list the next time you’re in the market for a new app.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Microsoft announces HoloLens]]></title>
-    <link href="http://www.analogsenses.com/2015/01/22/microsoft-announces-hololens/"/>
-    <updated>2015-01-22T16:30:38+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/22/microsoft-announces-hololens</id>
-    <content type="html"><![CDATA[<p>Vlad Savov, The Verge:</p>
-
-<blockquote><p>Microsoft has just revealed its next great innovation: Windows Holographic. It’s an augmented reality experience that employs a headset, much like all the VR goggles that are currently rising in popularity, but Microsoft’s solution adds holograms to the world around you. The HoloLens headset is described as “the most advanced holographic computer the world has ever seen”. It’s a self-contained computer, including a CPU, a GPU, and a dedicated holographic processor. The dark visor up front contains a see-through display, there’s spatial sound so you can “hear” holograms behind you, and HoloLens also integrates a set of motion and environmental sensors.</p></blockquote>
-
-<p>Ambitious, to say the least. I confess I’m impressed, although there are still far too many unanswered questions, and it’s early to predict how well this will work in the real world. That said, the potential is definitely there.</p>
 ]]></content>
   </entry>
   
