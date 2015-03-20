@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-20T23:16:51+01:00</updated>
+  <updated>2015-03-20T23:27:08+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How Life360 won its patent war]]></title>
+    <link href="http://www.analogsenses.com/2015/03/20/how-life360-won-its-patent-war/"/>
+    <updated>2015-03-20T23:20:24+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/20/how-life360-won-its-patent-war</id>
+    <content type="html"><![CDATA[<p>Great reporting by Joe Mullin of Ars Technica. Last year, Life360 CEO Chris Hulls received a patent demand letter from a company named AGIS, threatening to sue if they didn&rsquo;t agree to license four of their patents. Hulls&rsquo;s response was as hilarious as it was ballsy:</p>
+
+<blockquote><p>Dear Piece of Shit,</p>
+
+<p>We are currently in the process of retaining counsel and investigating this matter. As a result, we will not be able to meet your Friday deadline. After reviewing this matter with our counsel, we will provide a prompt response.</p>
+
+<p>I will pray tonight that karma is real, and that you are its worthy recipient,</p>
+
+<p>Chris</p></blockquote>
+
+<p>And that’s just the beginning.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Marco Arment on the future of the dumbwatch]]></title>
@@ -62,19 +81,6 @@
     <content type="html"><![CDATA[<p>Believe it or not, it’s already been <em>five</em> years since the iPad was introduced. Stephen Hackett shows some side-by-side shots of the original iPad and the current iPad Air two.</p>
 
 <p>Five years. Time really does fly when you’re having fun.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The World of Indie App Developers]]></title>
-    <link href="http://www.analogsenses.com/2015/01/22/the-world-of-indie-app-developers/"/>
-    <updated>2015-01-22T21:44:31+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/22/the-world-of-indie-app-developers</id>
-    <content type="html"><![CDATA[<p>Graham Spencer, MacStories:</p>
-
-<blockquote><p>I wasn’t sure exactly where it would lead, but last month I asked on Twitter for independent developers <a href="https://twitter.com/greyham/status/544857987035062272">to @ reply me and say hi</a>. Amplified by retweets by Federico and many others, I got dozens and dozens of replies, ultimately totalling just under 200 responses. That’s both a pretty huge number (trust me, it was a time consuming process documenting them all) and also incredibly tiny (there are around <a href="http://blog.appfigures.com/app-stores-growth-accelerates-in-2014/">250,000 active developers and over a million apps</a> for sale).</p></blockquote>
-
-<p>What a great idea. If you want to help support indie app development — and you totally should — remember to check this list the next time you’re in the market for a new app.</p>
 ]]></content>
   </entry>
   
