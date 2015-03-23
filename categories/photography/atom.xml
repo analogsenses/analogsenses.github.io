@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-23T18:19:14+01:00</updated>
+  <updated>2015-03-23T18:40:30+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Michael Fraser on color film scanning]]></title>
+    <link href="http://www.analogsenses.com/2015/03/23/michael-fraser-on-color-film-scanning/"/>
+    <updated>2015-03-23T18:30:16+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/23/michael-fraser-on-color-film-scanning</id>
+    <content type="html"><![CDATA[<p>It must be Monday, because Michael Fraser just rendered my entire color film scanning workflow obsolete in one post:</p>
+
+<blockquote><p>I decided to try to improve upon the process, and to develop an entirely Photoshop-based process for colour negative scans.  The three conditions for a successful process were:</p>
+
+<ol>
+<li><p>Output as good as — or better than — what ColorPerfect can produce (it goes without saying that image quality should be the primary concern),</p></li>
+<li><p>The ability to batch at least part of the process (it’ll never be ‘set and forget’, but if an entire roll could be ingested into Photoshop and at least inverted, with an easy way to finish the colour balancing, I’d be ok with that), and</p></li>
+<li><p>Frame-to-frame reproducibility.</p></li>
+</ol>
+</blockquote>
+
+<p>I’m intrigued to see where this ends. Judging by his results with the test image, it’s going to be a substantial improvement over my current Vuescan + ColorPerfect method.</p>
+
+<p>The biggest shortcoming of the ColorPerfect approach, as Michael clearly states, is the lack of image-to-image reproducibility. This drives me nuts and if Michael’s new workflow does away with it — even if it’s just partly — it will be a solid win in my book.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A selection of bicycle photos from Magnum Photos]]></title>
@@ -68,15 +90,6 @@
 <p>Besides the gorgeous images, Van Velzer also provides a comprehensive overview and comparison of the strengths and weaknesses of the Olympus Image Share and Fujifilm Cam Remote apps.</p>
 
 <p>I have to say, I find his technique to be incredibly ingenious. I will definitely be trying it next time I go out to shoot.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[MirrorLessons asks 30 expert photography bloggers to pick the best mirrorless cameras]]></title>
-    <link href="http://www.analogsenses.com/2015/03/20/mirrorlessons-asks-30-expert-photography-bloggers-to-pick-the-best-mirrorless-cameras/"/>
-    <updated>2015-03-20T19:41:40+01:00</updated>
-    <id>http://www.analogsenses.com/2015/03/20/mirrorlessons-asks-30-expert-photography-bloggers-to-pick-the-best-mirrorless-cameras</id>
-    <content type="html"><![CDATA[<p>Interesting roundup. Though I’m not surprised by the results — the Fuji X-T1 came out on top — the reasons these photographers gave to justify their picks were all very insightful. Definitely worth a read.</p>
 ]]></content>
   </entry>
   
