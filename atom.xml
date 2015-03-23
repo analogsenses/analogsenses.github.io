@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-20T23:40:35+01:00</updated>
+  <updated>2015-03-23T16:41:49+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[At Kodak, Clinging to a Future Beyond Film →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.nytimes.com/2015/03/22/business/at-kodak-clinging-to-a-future-beyond-film.html"/>
+	
+    <updated>2015-03-23T16:31:10+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/23/at-kodak-clinging-to-a-future-beyond-film</id>
+  	
+  	<content type="html"><![CDATA[<p>Great reporting by Quentin Hardy for The New York Times on the current state of Kodak, the company that was once the global leader in film photography and that filed for bankruptcy in 2012:</p>
+
+<blockquote><p>What happens after a tech company is left for dead but the people left behind refuse to give up the fight? At Kodak the answer is to dig deep into a legacy of innovation in the photography business and see if its remaining talent in optics and chemistry can be turned into new money in other industries.</p>
+
+<p>Once a household name as big in its day as Apple and Microsoft have been for later generations, Kodak was part of everyday life, its film — sold in a yellow box — recording births, vacations, weddings. And then Kodak became a cautionary tale about what happens when a tech company is slow to change. For Kodak, the advent of digital photography was ruinous. Today it has $2 billion in annual sales, compared with $19 billion in 1990 when consumer film was king. It now has 8,000 employees worldwide; it had 145,000 at its peak.</p></blockquote>
+
+<p>The digital photography revolution was brutal on Kodak, but the company refuses to die. If nothing else, you gotta admire their resiliency. Via <a href="http://thenewsprint.co/2015/03/22/the-sunday-edition/">The Newsprint</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/23/at-kodak-clinging-to-a-future-beyond-film/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[How Life360 won its patent war →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -391,25 +410,6 @@
 
 <p>The tech industry is still shifting to accommodate podcasts — and, to a lesser extent, newsletters — in our consciousness. We still don’t have a well defined role for them and there’s not universal agreement on what their long-term significance in the great scheme of things will be, but it’s safe to say they’re not playing second fiddle to any other medium anymore, and that’s a wonderful thing.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/16/glenn-fleishman-on-newsletters-and-podcasts/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Inside the Mad, Mad World of TripAdvisor →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.outsideonline.com/adventure-travel/diy-trips/Loudsourcing-How-TripAdvisor-Is-Changing-the-Way-We-Travel.html"/>
-	
-    <updated>2015-03-16T18:15:51+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/16/inside-the-mad-mad-world-of-tripadvisor</id>
-  	
-  	<content type="html"><![CDATA[<p>Tom Vanderbilt has a great article on the meteoric rise of TripAdvisor:</p>
-
-<blockquote><p>Those reviews carry demonstrable weight. A <a href="https://www.hotelschool.cornell.edu/research/chr/pubs/reports/abstract-16421.html">study by Cornell University’s Center for Hospitality Research</a> found that for every percentage point a hotel improves its online reputation, its “RevPAR” (revenue per available room) goes up by 1.4 percent; for every point its reputation improves on a five-point scale, a hotel can raise prices by 11 percent without seeing bookings fall off. This has been a boon for smaller, midpriced, independently owned hotels. “Twenty years ago, the brands owned the sense of quality,” says Bjorn Hanson, a professor at New York University’s Tisch Center for Hospitality and Tourism. “If I stayed at a big-name hotel, I knew what I was getting.” That sense of confidence in quality, argues Hanson, has been supplanted by TripAdvisor. Not only can there be variation within a brand, but suddenly that quirky hotel that was once the obscure favorite of a single guidebook gets lifted to market prominence.</p></blockquote>
-
-<p>There’s a flip side to this story. TripAdvisor has a huge influence over hotels, to the point where it sometimes may be considered unfair. This has become an industry where negative TripAdvisor reviews routinely cost people their jobs. A good friend of mine works as a hotel director and she always tells me that the single thing they fear most is a negative review on TripAdvisor. Due to the way ratings work, a pissed-off customer can single-handedly ruin a small hotel’s reputation on a whim, and they’re basically defenseless against that.</p>
-
-<p>Via <a href="http://www.loopinsight.com/2015/03/16/inside-the-mad-mad-world-of-tripadvisor/">The Loop</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/16/inside-the-mad-mad-world-of-tripadvisor/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
