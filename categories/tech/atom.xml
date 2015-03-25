@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-25T17:07:25+01:00</updated>
+  <updated>2015-03-25T17:55:40+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Craig Hockenberry on OLED displays]]></title>
+    <link href="http://www.analogsenses.com/2015/03/25/craig-hockenberry-on-oled-displays/"/>
+    <updated>2015-03-25T17:51:23+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/25/craig-hockenberry-on-oled-displays</id>
+    <content type="html"><![CDATA[<p>Craig Hockenberry explains the differences between LCD and OLED displays. OLED is the display technology that is expected to make its debut in Apple’s product lineup with the Apple Watch:</p>
+
+<blockquote><p>One of my first impressions of the WATCH user interface was that it used a lot of black. This makes the face of the device feel more expansive because you can’t see the edges. But more importantly, those black pixels are saving power and extending the life of the display. It’s rare that engineering and design goals can align so perfectly.</p>
+
+<p>And from what we’ve seen so far of the watch, that black is really <em>really</em> black. We’ve become accustomed to blacks on LCD displays that aren’t really dark: that’s because the crystals that are blocking light let a small amount pass through. Total darkness lets the edgeless illusion work.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How Life360 won its patent war]]></title>
@@ -70,17 +83,6 @@
 <blockquote><p>For the last two years, the iPhone has provided more than half of Apple’s corporate revenue, and in the most recent quarter it was more than two-thirds of the revenue. Apple is rapidly becoming iPhone Inc., maker of smartphones and… various other devices.</p>
 
 <p>It’s not unreasonable to assume that the sheer gravity of the iPhone might perturb Apple’s business priorities, at least somewhat. The Mac and iPad are strong businesses on their own, but companies with one huge profit center and other smaller profit centers tend to prioritize the biggest item. I’m not saying that Apple is ignoring the Mac and iPad—I really do believe that Apple is very good at seeing the forest for the trees. But I do think that the iPhone’s phenomenal success has to have <em>some</em> effect in company strategy.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Five Years of iPad]]></title>
-    <link href="http://www.analogsenses.com/2015/01/26/five-years-of-ipad/"/>
-    <updated>2015-01-26T18:12:02+01:00</updated>
-    <id>http://www.analogsenses.com/2015/01/26/five-years-of-ipad</id>
-    <content type="html"><![CDATA[<p>Believe it or not, it’s already been <em>five</em> years since the iPad was introduced. Stephen Hackett shows some side-by-side shots of the original iPad and the current iPad Air two.</p>
-
-<p>Five years. Time really does fly when you’re having fun.</p>
 ]]></content>
   </entry>
   
