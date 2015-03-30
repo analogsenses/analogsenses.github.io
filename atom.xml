@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-29T17:03:12+02:00</updated>
+  <updated>2015-03-30T17:54:27+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Jordan Steele reviews the Olympus OM-D E-M5 Mark II →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://admiringlight.com/blog/review-olympus-om-d-e-m5-mark-ii/"/>
+	
+    <updated>2015-03-30T17:43:27+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/30/jordan-steele-reviews-the-olympus-om-d-e-m5-mark-ii</id>
+  	
+  	<content type="html"><![CDATA[<p>Jordan Steele:</p>
+
+<blockquote><p>The Olympus OM-D E-M5 Mark II is a very worthy successor to the original ground-breaking E-M5.  Olympus has improved a great many things on the camera, including the direct controls, the viewfinder, the rear screen, the autofocus, the image stabilizer and more, while adding very interesting and useful new features such as Wi-Fi or the most-talked about feature, the High Resolution mode. This mode really does break new ground, allowing for 40 (JPEG) or 64 (RAW) Megapixel images for static scenes. It’s most definitely not a gimmick feature, and with a static scene and a solid tripod, will yield truly high-resolution images with good glass.</p></blockquote>
+
+<p>I really enjoy Jordan’s reviews, but they&rsquo;re usually terrible for my wallet.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/30/jordan-steele-reviews-the-olympus-om-d-e-m5-mark-ii/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The teaser trailer for ‘Spectre’ was released on Friday →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -333,32 +350,6 @@
 
 <p>Unreal.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/23/sand-dunes-a-mesmerizing-portrait-session-by-mila-stepanova/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Michael Fraser on color film scanning →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://mfphotography.ca/blog/2015/3/22/colour-film-scanning-revisited-part-1"/>
-	
-    <updated>2015-03-23T18:30:16+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/23/michael-fraser-on-color-film-scanning</id>
-  	
-  	<content type="html"><![CDATA[<p>It must be Monday, because Michael Fraser just rendered my entire color film scanning workflow obsolete in one post:</p>
-
-<blockquote><p>I decided to try to improve upon the process, and to develop an entirely Photoshop-based process for colour negative scans.  The three conditions for a successful process were:</p>
-
-<ol>
-<li><p>Output as good as — or better than — what ColorPerfect can produce (it goes without saying that image quality should be the primary concern),</p></li>
-<li><p>The ability to batch at least part of the process (it’ll never be ‘set and forget’, but if an entire roll could be ingested into Photoshop and at least inverted, with an easy way to finish the colour balancing, I’d be ok with that), and</p></li>
-<li><p>Frame-to-frame reproducibility.</p></li>
-</ol>
-</blockquote>
-
-<p>I’m intrigued to see where this ends. Judging by his results with the test image, it’s going to be a substantial improvement over my current Vuescan + ColorPerfect method.</p>
-
-<p>The biggest shortcoming of the ColorPerfect approach, as Michael clearly states, is the lack of image-to-image reproducibility. This drives me nuts and if Michael’s new workflow does away with it — even if it’s just partly — it will be a solid win in my book.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/23/michael-fraser-on-color-film-scanning/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
