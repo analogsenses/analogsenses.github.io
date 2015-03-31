@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-31T20:19:38+02:00</updated>
+  <updated>2015-03-31T21:01:52+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Nintendo’s 1-Up →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://medium.com/five-hundred-words/nintendo-s-1-up-b831d53429a7"/>
+	
+    <updated>2015-03-31T20:53:03+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/03/31/nintendos-1-up</id>
+  	
+  	<content type="html"><![CDATA[<p>M.G. Siegler:</p>
+
+<blockquote><p>At first, I thought it was <a href="https://twitter.com/mgsiegler/status/577938295352471552">kudos-worthy</a> to realize they couldn’t do this alone. But thinking about it a bit more, it’s ridiculous that they aren’t doing this themselves. This segment of the market isn’t going away, and Nintendo should be taking it far more seriously than they are.</p>
+
+<p>In a way, it reminds me of <a href="http://en.wikipedia.org/wiki/Motorola_Rokr">Apple’s partnership with Motorola on the ROKR</a> iTunes-enabled phone. How well did that work out? A couple years later, we had the iPhone.</p></blockquote>
+
+<p>Agreed. As excited as some folks seem to be about the recently-announced licensing agreement, it’s hard to see it as little more than a half-hearted effort on Nintendo’s part. If they really cared about this, they’s do it themselves, as they’ve always done.</p>
+
+<p>If Siegler’s correct, though — and I believe he is — it won’t be long before some of the higher ups at Nintendo start seeing things for what they really are.</p>
+
+<p>Here’s hoping.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/03/31/nintendos-1-up/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Car Industry Strikes Back - Volvo Paints a Grim Picture →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -339,23 +362,6 @@
   	
   	<content type="html"><![CDATA[<p>There are some really fantastic designs in this collection. Via <a href="http://www.messynessychic.com/2015/03/19/when-adverts-were-artworks/">Messy Nessy Chic</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/25/an-archive-of-vintage-printable-adverts/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Craig Hockenberry on OLED displays →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://furbo.org/2015/03/23/a-new-way-to-display/"/>
-	
-    <updated>2015-03-25T17:51:23+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/25/craig-hockenberry-on-oled-displays</id>
-  	
-  	<content type="html"><![CDATA[<p>Craig Hockenberry explains the differences between LCD and OLED displays. OLED is the display technology that is expected to make its debut in Apple’s product lineup with the Apple Watch:</p>
-
-<blockquote><p>One of my first impressions of the WATCH user interface was that it used a lot of black. This makes the face of the device feel more expansive because you can’t see the edges. But more importantly, those black pixels are saving power and extending the life of the display. It’s rare that engineering and design goals can align so perfectly.</p>
-
-<p>And from what we’ve seen so far of the watch, that black is really <em>really</em> black. We’ve become accustomed to blacks on LCD displays that aren’t really dark: that’s because the crystals that are blocking light let a small amount pass through. Total darkness lets the edgeless illusion work.</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/25/craig-hockenberry-on-oled-displays/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
