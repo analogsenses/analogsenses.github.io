@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-03-31T22:48:58+02:00</updated>
+  <updated>2015-04-01T19:50:41+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[iFixit tears down the Apple Watch →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.ifixit.com/Teardown/Apple+Watch+Teardown/38659"/>
+	
+    <updated>2015-04-01T19:50:09+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/04/01/ifixit-tears-down-the-apple-watch</id>
+  	
+  	<content type="html"><![CDATA[<p>This totally made my day.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/04/01/ifixit-tears-down-the-apple-watch/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Car Industry Strikes Back - Volvo Paints a Grim Picture →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -348,23 +361,6 @@
   	
   	<content type="html"><![CDATA[<p>The Oatmeal being The Oatmeal. So great.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/25/should-you-put-coffee-in-your-face-right-now/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[MirrorLessons takes a look at the new Panasonic 42.5mm f/1.7 and 30mm f/2.8 Macro lenses for Micro Four Thirds →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.mirrorlessons.com/2015/03/25/tps-2015-hands-on-with-the-new-panasonic-42-5mm-f1-7-and-30mm-f2-8-macro/"/>
-	
-    <updated>2015-03-25T18:43:58+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/25/mirrorlessons-takes-a-look-at-the-new-panasonic-42-dot-5mm-f-slash-1-dot-7-and-30mm-f-slash-2-dot-8-macro-lenses-for-micro-four-thirds</id>
-  	
-  	<content type="html"><![CDATA[<p>These are two <em>very</em> interesting new lenses for the MFT system, particularly the 42.5mm lens, which will be a direct competitor to the amazing <a href="http://www.amazon.com/gp/product/B00CI3R53W/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00CI3R53W&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=ZP4DKIWZOO5CC3EI">Olympus 45mm f/1.8 lens</a>:</p>
-
-<blockquote><p>The 42.5mm has some interesting characteristics however. It has an all-metal finish which should prove more resistant than the plastic finish of the M.Zuiko 45mm. But what I like the most are its close focusing capabilities (30cm) which is closer than the Olympus version. The lens seems to deliver excellent image quality with great sharpness at f/1.7. Like the M.Zuiko version, this is another lens that really proves how great the MFT system can be: so small yet such excellent IQ. It also has optical stabilisation which naturally makes it a better choice for Lumix users. The autofocus was really fast with the Lumix GX7.</p></blockquote>
-
-<p>I own the Olympus lens and it&rsquo;s easily one of the best deals in the the entire MFT system. I&rsquo;m really curious to see how this new Panasonic lens stacks up against it.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/25/mirrorlessons-takes-a-look-at-the-new-panasonic-42-dot-5mm-f-slash-1-dot-7-and-30mm-f-slash-2-dot-8-macro-lenses-for-micro-four-thirds/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
