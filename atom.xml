@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-06T18:53:56+02:00</updated>
+  <updated>2015-04-06T19:17:43+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[An interview with Kurt Vonnegut →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.theparisreview.org/interviews/3605/the-art-of-fiction-no-64-kurt-vonnegut"/>
+	
+    <updated>2015-04-06T19:03:58+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/04/06/an-interview-with-kurt-vonnegut</id>
+  	
+  	<content type="html"><![CDATA[<p>While we’re on the subject, don’t miss this terrific 4-part interview with legendary American writer Kurt Vonnegut for The Paris Review. I don’t want to spoil it too much for you, so I’ll just say that among many interesting things, he talks at length about his experience as a soldier in World War II:</p>
+
+<blockquote><p>In the same boxcars that had brought up the troops that captured us—probably in the same boxcars that had delivered Jews and Gypsies and Jehovah’s Witnesses and so on to the extermination camps. Rolling stock is rolling stock. British mosquito bombers attacked us at night a few times. I guess they thought we were strategic materials of some kind. They hit a car containing most of the officers from our battalion. Every time I say I hate officers, which I still do fairly frequently, I have to remind myself that practically none of the officers I served under survived. Christmas was in there somewhere.</p></blockquote>
+
+<p>Let this be a lesson to you: whatever you do in life, you <em>do not</em> want to piss off a great writer.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/04/06/an-interview-with-kurt-vonnegut/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Gritty 1980’s NYC and the Glorious Intuition of Richard Sandler →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -346,25 +363,6 @@
 
 <p>The new Leica T appears to be a very competent camera system, priced <em>way</em> over its current performance level. But then again, that&rsquo;s what Leica has always been so I guess, in a way, it makes sense.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/27/mirrorlessons-reviews-the-leica-t/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The case against standing desks →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://dazne.net/post/standing-doesnt-work/"/>
-	
-    <updated>2015-03-26T20:49:18+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/26/the-case-against-standing-desks</id>
-  	
-  	<content type="html"><![CDATA[<p>Rishabh R. Dassani:</p>
-
-<blockquote><p><strong>Standing</strong> as a default behavior choice doesn’t work for a variety of reasons:</p>
-
-<p>The first and the most important reason standing doesn’t work is because it isn’t productive. Standing <strong>and</strong> working at the same time affects overall performance because you’re focusing on two things. Having to distribute your cognitive capacities between standing and working nullifies the benefits you might get from standing alone because only part of your mental resources are going toward your work, thus making you less productive in the end.</p></blockquote>
-
-<p>I don’t know if I agree with that but until today, I had seen plenty of posts about how great standing desks are and not one post with an opposing view. It’s always good to hear both sides of an argument, particularly when scientific studies on the matter are not conclusive.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/26/the-case-against-standing-desks/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
