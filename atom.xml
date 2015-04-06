@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-03T19:48:52+02:00</updated>
+  <updated>2015-04-06T18:53:56+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Gritty 1980’s NYC and the Glorious Intuition of Richard Sandler →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.americansuburbx.com/2015/04/gritty-1980s-nyc-and-the-glorious-intuition-of-richard-sandler.html"/>
+	
+    <updated>2015-04-06T18:31:13+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/04/06/gritty-1980-s-nyc-and-the-glorious-intuition-of-richard-sandler</id>
+  	
+  	<content type="html"><![CDATA[<p>It’s been said before that New York City is street photography Mecca, and with good reason. Also, check out <a href="https://urbantimes.co/2014/04/an-interview-the-life-of-a-photographer-depths-into-the-work-of-richard-sandler/">this interview</a> with Sandler on Urban Times:</p>
+
+<blockquote><p>“I liked what a photograph could do. I was attracted to the idea of stopping time. I always liked films and I grew up in a family that was involved in television…very early television…. late 1940′s….But I always liked photography’s ability to stop time. Film doesn’t stop time, still photography does. That was the initial attraction to actually freeze a moment in time and make prose into poetry.….you have to add so much of your own interpretation to a still image. It becomes very much about the viewer, whereas film and video are much more literal, you see things happen through time, time is not stopped. That was the thing I liked about it, I thought and still think that photography is a very difficult and poetic medium.”</p></blockquote>
+
+<p>Lots of little gems sprinkled here and there, all through the interview. On a side note, Sandler started getting into photography when he was 31, the same age I am now. Who knows, maybe there’s still hope for me.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/04/06/gritty-1980-s-nyc-and-the-glorious-intuition-of-richard-sandler/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Best practices for standing desks →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -348,25 +365,6 @@
 
 <p>I don’t know if I agree with that but until today, I had seen plenty of posts about how great standing desks are and not one post with an opposing view. It’s always good to hear both sides of an argument, particularly when scientific studies on the matter are not conclusive.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/26/the-case-against-standing-desks/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Michael Fraser continues revisiting color film scanning →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://mfphotography.ca/blog/2015/3/23/colour-film-scanning-revisited-part-2"/>
-	
-    <updated>2015-03-26T20:45:58+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/26/michael-fraser-continues-revisiting-color-film-scanning</id>
-  	
-  	<content type="html"><![CDATA[<p>Now we’re getting somewhere. I’m really liking how thorough and efficient the new workflow is. And he’s still not done:</p>
-
-<blockquote><p>All of this (including the points in Part 1) can be made into a Lightroom preset and Photoshop Action, with the only routine user intervention being the selection of a grey point in step 1 and pressing “Auto” in step 3.  The (huge) benefit to this is that you can quickly preview the positive (but uncorrected) images before proceeding with the full conversion, which itself is only 2-3 clicks away.</p>
-
-<p>My target, however, is to remove even this much intervention.</p></blockquote>
-
-<p>You have my undivided attention, sir.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/26/michael-fraser-continues-revisiting-color-film-scanning/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
