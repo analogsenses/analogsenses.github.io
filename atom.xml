@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-07T20:37:08+02:00</updated>
+  <updated>2015-04-07T20:51:10+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Sweet Setup’s favorite podcast client for iOS →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://thesweetsetup.com/apps/our-favorite-podcast-client-for-ios/"/>
+	
+    <updated>2015-04-07T20:43:36+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/04/07/the-sweet-setups-favorite-podcast-client-for-ios</id>
+  	
+  	<content type="html"><![CDATA[<p>Speaking of Marco, my friends over at The Sweet Setup have chosen Overcast as their new favorite podcast client for iOS, and I agree. Overcast is a terrific app, I use it every single day and I love it. Absolutely recommended.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/04/07/the-sweet-setups-favorite-podcast-client-for-ios/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[An iPhone 6 owner lives with the iPhone 6 Plus →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -359,21 +372,6 @@
 
 <blockquote><p>How this years-in-the-making narrative ends for Draper — conclusively or ambiguously; with his redemption or his demise — remains a secret that Mr. Hamm isn’t sharing. He has, however, managed to portray a character that has grown over seven seasons while nonetheless remaining trapped in an existential loop. In a recent interview, he spoke about some of the moments — triumphant and otherwise — that made Don Draper who he was. In these excerpts from that conversation, he recalls how these scenes were created and shares some final insights about the man they reveal.</p></blockquote>
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/30/jon-hamm-reflects-on-don-draper/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Tyson Robichaud reviews the Sony A7 Mark II →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://tysonrobichaudphotography.wordpress.com/2015/03/27/sony-a7ii-a-game-changer-my-take-on-sonys-newest-ff-cam-a-user-review/"/>
-	
-    <updated>2015-03-30T18:42:10+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/30/tyson-robichaud-reviews-the-sony-a7-mark-ii</id>
-  	
-  	<content type="html"><![CDATA[<p>Another interesting camera review for the day:</p>
-
-<blockquote><p>The way that I tend to shoot now has largely grown into being used to some of the new technological bells and whistles like focus peaking, live exposure display, tilting high res LCD screens and EVF’s that enable a variety of information to be overlaid through the finder. They have all have spoiled me to an extent. I’ve been able to compartmentalize my “full frame” system and my micro 4/3 mirrorless setup by separating their skill sets into “work camera” and “everyday camera” which has been easy enough.  With the a7II, those lines are starting to blur.</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/30/tyson-robichaud-reviews-the-sony-a7-mark-ii/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
