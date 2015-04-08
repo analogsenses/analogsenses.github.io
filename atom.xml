@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-08T18:01:44+02:00</updated>
+  <updated>2015-04-08T18:36:38+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Scotch Whisky 101 - A Beginners Guide →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.gentlemansgazette.com/scotch-whisky101-a-beginners/"/>
+	
+    <updated>2015-04-08T18:13:32+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/04/08/scotch-whisky-101-a-beginners-guide</id>
+  	
+  	<content type="html"><![CDATA[<p>If you get tired of all the Apple Watch reviews, or if you just need a drink afterwards, allow me to point you towards this excellent primer on Scotch whisky by J. A. Shapira over at Gentleman’s Gazette:</p>
+
+<blockquote><p>I can tell you right now that if your first experience with Scotch is trying a 25 year old Lagavulin straight up, you’ll probably never try it again. When you’re selecting your first dram whether it be purchasing a bottle or trying it at the pub, choosing a Scotch will make or break your relationship very quickly. This isn’t a <a href="http://www.gentlemansgazette.com/spirits-cocktail-guide/">spirit</a> you guzzle for the fun of it like you did tequila on spring break. For one, it’s just too expensive and second it’s not intended for that. Do you really think that the crafter spent years perfecting a whisky so you could down it like jello shots? Of course not.</p></blockquote>
+
+<p>That’s a phenomenal point. I’ve been <em>extremely</em> cautious in my own <a href="http://www.analogsenses.com/2014/10/09/the-finer-things-in-life-a-geeks-introduction-to-scotch/">introduction to single malt Scotch whisky</a>, in part because the first one I ever tried was a heavily peated Talisker, which left such a terrible taste in my mouth that after that I couldn’t get anywhere near a whisky glass for <em>years</em>.</p>
+
+<p>Luckily, this time around I’m taking my time, slowly working my way up and letting my palate become accustomed to the stronger drams. After a few months, I’ve even been able to drink Talisker again and appreciate it for the excellent single malt it is.</p>
+
+<p>Strongly peated whiskies like Lagavulin and Talisker are still not my cup of tea and I doubt they ever will be, but at least now I can enjoy one on occasion without making silly faces. And I definitely enjoy more lightly peated single malts like Oban, which has become one of my favorite drams.</p>
+
+<p>Most importantly, now I know which whiskies to go for and which ones to avoid when I’m out drinking with friends, and so I’m able to enjoy them much more. That’s a measure of progress, and that’s how you want to approach these things.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/04/08/scotch-whisky-101-a-beginners-guide/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Here’s a chart of every Apple Watch review worth reading →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -392,21 +415,6 @@
 <div class="embed-video-container"><iframe src="http://www.youtube.com/embed/kRmbVOI6oIM" allowfullscreen></iframe></div>
 
 <a rel="full-article" href="http://www.analogsenses.com/2015/03/31/made-by-chris-coyier/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Lost Boys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.camposanto.com/quarterlyreview/volume-2/issue-1/lost-boys/"/>
-	
-    <updated>2015-03-31T21:05:19+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/03/31/lost-boys</id>
-  	
-  	<content type="html"><![CDATA[<p>Duncan Fyfe pens a great piece on why GamerGaters need not apply at <a href="http://www.camposanto.com">Campo Santo</a>, the video game studio currently hard at work on finishing their much-awaited upcoming game, <a href="http://www.firewatchgame.com">Firewatch</a>:</p>
-
-<blockquote><p>The whole idea that Campo Santo has a GamerGate blacklist, then—that’s imaginary? I asked Ng and Vanaman to explain. “Let’s say [you] want to work here in the future, when, hopefully, we’re looking to add one or two people to the team in the coming years,” Vanaman says. “Let’s say you think the gaming press should do a better job in informing consumers about what’s going on in the industry and what’s in a particular game. Great. Articulate your opinions and be thoughtful. Let’s say you think the harassment, doxxing and hate brought onto others under the umbrella of GG is awful and don’t associate with that part of the hashtag. Let’s say you’re able to articulate that very clearly. The problem is, your stalwart association with a hashtag shows a glaring blind spot in your ability to understand and empathize with other people. It shows you don’t get that labelling your opinions with something so compromised makes you careless at best and an asshole at worst.”</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2015/03/31/lost-boys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
