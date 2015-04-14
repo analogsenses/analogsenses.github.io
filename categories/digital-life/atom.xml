@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-14T17:41:07+02:00</updated>
+  <updated>2015-04-14T17:56:02+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Matt Gemmell on the small accessibility changes in OS X Yosemite]]></title>
+    <link href="http://www.analogsenses.com/2015/04/14/matt-gemmell-on-the-small-accessibility-changes-in-os-x-yosemite/"/>
+    <updated>2015-04-14T17:51:42+02:00</updated>
+    <id>http://www.analogsenses.com/2015/04/14/matt-gemmell-on-the-small-accessibility-changes-in-os-x-yosemite</id>
+    <content type="html"><![CDATA[<p>Nice catch by Matt Gemmell. If you rely on <em>VoiceOver</em>, the text-to-speech accessibility feature built into OS X, you may find this extremely useful.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mike Bates on picking the right bag]]></title>
@@ -94,19 +103,6 @@
 <p>Sometimes you gotta do what you gotta do and in those moments, the only way I’ve found to move forward is to keep your head down and keep pushing as hard as you can, for as long as it takes. And the thing about putting in the hours and working your ass off is, things usually get better a lot sooner than you thought they would.</p>
 
 <p>Hang in there Josh, and don’t worry about your camera. It’ll be right there waiting for you — along with the rest of us.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iMore’s ultimate guide to Photos for OS X]]></title>
-    <link href="http://www.analogsenses.com/2015/04/10/imores-ultimate-guide-to-photos-for-os-x/"/>
-    <updated>2015-04-10T19:40:20+02:00</updated>
-    <id>http://www.analogsenses.com/2015/04/10/imores-ultimate-guide-to-photos-for-os-x</id>
-    <content type="html"><![CDATA[<p>Fantastic, informative guide by Rene Ritchie, as ever:</p>
-
-<blockquote><p>From magic wand, to basic color, light, and black &amp; white tweaks, or full, granular control over exposure, saturation, intensity, and more. You can also rotate, flip, crop, and straighten, remove redeye, touch up blemishes, and more. Photos for OS X has everything you need to make your pictures look exactly how you want. What’s more, all the edits are non-destructive, so if you don’t get something perfect the first time, you can change it again whenever you like, or even go right back to the original. Combine that with the large screen, and editing photos on the Mac isn’t just easy, it’s accessible to everyone.</p></blockquote>
-
-<p>And if you’re also interested in the cloudy side of things, don’t forget to check out his equally impressive guide to <a href="http://www.imore.com/how-use-icloud-photo-library-ultimate-guide">iCloud Photo Library</a>. Great stuff.</p>
 ]]></content>
   </entry>
   
