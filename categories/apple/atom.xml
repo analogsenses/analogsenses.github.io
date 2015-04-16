@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-16T20:10:37+02:00</updated>
+  <updated>2015-04-16T20:32:24+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[John Siracusa won’t be reviewing future versions of OS X]]></title>
+    <link href="http://www.analogsenses.com/2015/04/16/john-siracusa-wont-be-reviewing-future-versions-of-os-x/"/>
+    <updated>2015-04-16T20:16:56+02:00</updated>
+    <id>http://www.analogsenses.com/2015/04/16/john-siracusa-wont-be-reviewing-future-versions-of-os-x</id>
+    <content type="html"><![CDATA[<p>John Siracusa:</p>
+
+<blockquote><p>There is no single, dramatic reason behind this. It’s an accumulation of small things—the time investment, the (admittedly, self-imposed) mental anguish, the pressure to meet my own expectations and those of my readers year after year—but it all boils down to a simple, pervasive feeling that this is the time to stop. I’ve done this. It is done.</p></blockquote>
+
+<p>Now I’m sad. I’ve read every single one of John’s OS X reviews, and I’ve deeply enjoyed them all. I have only the utmost respect from John and his work. I’m sure the decision was incredibly difficult for him, but I also believe he made the right call.</p>
+
+<p>One thing is certain, though: whoever steps up to the plate to continue his work will have some pretty huge shoes to fill.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Josh Ginter reviews the Retina iMac]]></title>
@@ -98,19 +113,6 @@
     <content type="html"><![CDATA[<p>Just like last year, tickets will be awarded at random among the developers that register to attend through <a href="https://developer.apple.com/wwdc/tickets/register/">Apple’s developer website</a>.</p>
 
 <p>Good luck to all.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[iMore’s ultimate guide to Photos for OS X]]></title>
-    <link href="http://www.analogsenses.com/2015/04/10/imores-ultimate-guide-to-photos-for-os-x/"/>
-    <updated>2015-04-10T19:40:20+02:00</updated>
-    <id>http://www.analogsenses.com/2015/04/10/imores-ultimate-guide-to-photos-for-os-x</id>
-    <content type="html"><![CDATA[<p>Fantastic, informative guide by Rene Ritchie, as ever:</p>
-
-<blockquote><p>From magic wand, to basic color, light, and black &amp; white tweaks, or full, granular control over exposure, saturation, intensity, and more. You can also rotate, flip, crop, and straighten, remove redeye, touch up blemishes, and more. Photos for OS X has everything you need to make your pictures look exactly how you want. What’s more, all the edits are non-destructive, so if you don’t get something perfect the first time, you can change it again whenever you like, or even go right back to the original. Combine that with the large screen, and editing photos on the Mac isn’t just easy, it’s accessible to everyone.</p></blockquote>
-
-<p>And if you’re also interested in the cloudy side of things, don’t forget to check out his equally impressive guide to <a href="http://www.imore.com/how-use-icloud-photo-library-ultimate-guide">iCloud Photo Library</a>. Great stuff.</p>
 ]]></content>
   </entry>
   
