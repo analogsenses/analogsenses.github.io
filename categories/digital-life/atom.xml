@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-17T19:32:14+02:00</updated>
+  <updated>2015-04-17T19:40:36+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Marco Arment on Apple’s battery design choices]]></title>
+    <link href="http://www.analogsenses.com/2015/04/17/marco-arment-on-apples-battery-design-choices/"/>
+    <updated>2015-04-17T19:36:29+02:00</updated>
+    <id>http://www.analogsenses.com/2015/04/17/marco-arment-on-apples-battery-design-choices</id>
+    <content type="html"><![CDATA[<p>Marco Arment plays “What if?(<a href="http://what-if.xkcd.com">http://what-if.xkcd.com</a>)” with Apple’s device lineup. What if Apple made some different design choices to create alternate versions of some of its products with actual all-day battery life?</p>
+
+<blockquote><p>Design is about making difficult decisions and trade-offs. Longer battery lives would make some of the products thicker and heavier, and not everyone would accept that trade-off. But today, everyone who wants an Apple product needs to accept the opposite: thinness and lightness that some of us didn’t need, at the expense of battery life that many of us could’ve really used.</p></blockquote>
+
+<p>He does have a point. I’d buy some of the devices he cites as examples in a heartbeat.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Matt Gemmell on Whisky]]></title>
@@ -70,23 +83,6 @@
 <p>Now I’m sad. I’ve read every single one of John’s OS X reviews, and I’ve deeply enjoyed them all. I have only the utmost respect for John and his work. I’m sure the decision was incredibly difficult for him, but I also believe he made the right call.</p>
 
 <p>One thing is certain, though: whoever steps up to the plate to continue his work will have some pretty huge shoes to fill.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Keeping your car safe from electronic thieves]]></title>
-    <link href="http://www.analogsenses.com/2015/04/16/keeping-your-car-safe-from-electronic-thieves/"/>
-    <updated>2015-04-16T20:00:54+02:00</updated>
-    <id>http://www.analogsenses.com/2015/04/16/keeping-your-car-safe-from-electronic-thieves</id>
-    <content type="html"><![CDATA[<p>Interesting stuff by Nick Bilton for <em>The New York Times</em>. Apparently, some thieves have found a way to get into his Toyota Prius by hacking its remote keyless system:</p>
-
-<blockquote><p>He explained it like this: In a normal scenario, when you walk up to a car with a keyless entry and try the door handle, the car wirelessly calls out for your key so you don’t have to press any buttons to get inside. If the key calls back, the door unlocks. But the keyless system is capable of searching for a key only within a couple of feet.</p>
-
-<p>Mr. Danev said that when the teenage girl turned on her device, it amplified the distance that the car can search, which then allowed my car to talk to my key, which happened to be sitting about 50 feet away, on the kitchen counter. And just like that, open sesame.</p></blockquote>
-
-<p>If it does indeed work that way, it&rsquo;s a pretty ingenious system, I’ll give them that. Luckily, there’s a way you can protect yourself:</p>
-
-<blockquote><p>While I can’t be 100 percent certain this is the device they used to get into my car, until car companies solve the problem, he said, the best way to protect my car is to “put your keys in the freezer, which acts as a <a href="http://www.faradaycage.org/">Faraday Cage</a>, and won’t allow a signal to get in or out.”</p></blockquote>
 ]]></content>
   </entry>
   

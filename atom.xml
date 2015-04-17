@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-17T19:32:14+02:00</updated>
+  <updated>2015-04-17T19:40:36+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Marco Arment on Apple’s battery design choices →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.marco.org/2015/04/17/battery-outliers"/>
+	
+    <updated>2015-04-17T19:36:29+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/04/17/marco-arment-on-apples-battery-design-choices</id>
+  	
+  	<content type="html"><![CDATA[<p>Marco Arment plays “What if?(<a href="http://what-if.xkcd.com">http://what-if.xkcd.com</a>)” with Apple’s device lineup. What if Apple made some different design choices to create alternate versions of some of its products with actual all-day battery life?</p>
+
+<blockquote><p>Design is about making difficult decisions and trade-offs. Longer battery lives would make some of the products thicker and heavier, and not everyone would accept that trade-off. But today, everyone who wants an Apple product needs to accept the opposite: thinness and lightness that some of us didn’t need, at the expense of battery life that many of us could’ve really used.</p></blockquote>
+
+<p>He does have a point. I’d buy some of the devices he cites as examples in a heartbeat.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/04/17/marco-arment-on-apples-battery-design-choices/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Matt Gemmell on Whisky →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -416,27 +433,6 @@
 <p class="photo-credit">Photo credit: “A Flood of Cherry Blossoms”, by <a href="https://www.flickr.com/photos/miquelgp/14008187943">Miquel González Page</a>.</p>
 
 <a rel="full-article" href="http://www.analogsenses.com/2015/04/13/fleeting-beauty-what-japanese-culture-teaches-us-about-the-cherry-blossoms/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Josh Ginter gets down to work →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://thenewsprint.co/2015/04/11/work/"/>
-	
-    <updated>2015-04-11T23:50:53+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/04/11/josh-ginter-gets-down-to-work</id>
-  	
-  	<content type="html"><![CDATA[<p>Fantastic, brutal and completely honest piece by Josh Ginter on how — and more importantly, why — work has been keeping him away from <em>The Newsprint</em> lately:</p>
-
-<blockquote><p>Over the past few weeks, <em>work</em> has equated to <em>progress</em>. Movement, in a forward direction. Acquisition of skills. Patience in acquiring those skills. And a work ethic I never thought I would <em>enjoy</em>.</p>
-
-<p>Progress is addicting. Growth is addicting. Accomplishing goals is addicting. My only regret is the amount of dust collecting on my camera.</p></blockquote>
-
-<p>Sometimes you gotta do what you gotta do and in those moments, the only way I’ve found to move forward is to keep your head down and keep pushing as hard as you can, for as long as it takes. And the thing about putting in the hours and working your ass off is, things usually get better a lot sooner than you thought they would.</p>
-
-<p>Hang in there Josh, and don’t worry about your camera. It’ll be right there waiting for you — along with the rest of us.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/04/11/josh-ginter-gets-down-to-work/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
