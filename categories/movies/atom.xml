@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-17T20:41:03+02:00</updated>
+  <updated>2015-04-21T16:15:06+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.analogsenses.com/2015/04/16/jj-abrams-unveils-second-teaser-for-star-wars-the-force-awakens</id>
     <content type="html"><![CDATA[<p>Full-screen is a must:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ngElkyQ6Rhs" allowfullscreen></iframe></div></p>
+<p>{% youtube ngElkyQ6Rhs %}</p>
 
 <p>I haven’t been this excited about a movie in many, many years.</p>
 ]]></content>
@@ -33,7 +33,7 @@
     <id>http://www.analogsenses.com/2015/03/29/the-teaser-trailer-for-spectre-was-released-on-friday</id>
     <content type="html"><![CDATA[<p>It looks good:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/GvQJbF2CXLQ" allowfullscreen></iframe></div></p>
+<p>{% youtube GvQJbF2CXLQ %}</p>
 
 <p>I can’t wait to see Christoph Waltz in this movie. Also, I&rsquo;m happy to see they didn&rsquo;t completely forget about Mr. White from <em>Casino Royale</em> and <em>Skyfall</em>.</p>
 ]]></content>
@@ -59,7 +59,7 @@
     <id>http://www.analogsenses.com/2015/03/25/the-rolling-boulder-scene-from-raiders-of-the-lost-ark</id>
     <content type="html"><![CDATA[<p><em>Art of the Scene</em> takes a look at one my favorite movie scenes of all time. Via <a href="http://kottke.org/15/03/the-opening-boulder-scene-from-raiders-of-the-lost-ark">Kottke</a>:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/I640Bb7j180" allowfullscreen></iframe></div></p>
+<p>{% youtube I640Bb7j180 %}</p>
 ]]></content>
   </entry>
   

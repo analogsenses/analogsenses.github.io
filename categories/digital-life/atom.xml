@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-17T20:41:03+02:00</updated>
+  <updated>2015-04-21T16:15:06+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.analogsenses.com/2015/04/17/moments-new-york-city</id>
     <content type="html"><![CDATA[<p>Stunning video by Brooklyn Aerials. Via <a href="http://coudal.com/archives/2015/04/moments_new_yor.php">Coudal Partners</a>:</p>
 
-<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/124893964 "></iframe></div></p>
+<p>{% vimeo 124893964 %}</p>
 ]]></content>
   </entry>
   
@@ -74,7 +74,7 @@
     <id>http://www.analogsenses.com/2015/04/16/jj-abrams-unveils-second-teaser-for-star-wars-the-force-awakens</id>
     <content type="html"><![CDATA[<p>Full-screen is a must:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ngElkyQ6Rhs" allowfullscreen></iframe></div></p>
+<p>{% youtube ngElkyQ6Rhs %}</p>
 
 <p>I haven’t been this excited about a movie in many, many years.</p>
 ]]></content>
