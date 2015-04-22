@@ -4,7 +4,7 @@
   <title><![CDATA[Category: typography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/typography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-22T20:06:22+02:00</updated>
+  <updated>2015-04-22T20:12:37+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -37,7 +37,7 @@
     <id>http://www.analogsenses.com/2015/01/05/the-history-of-typography</id>
     <content type="html"><![CDATA[<p>Wonderful animated short by Ben Barrett-Forrest. Via <a href="http://coudal.com/archives/2015/01/history_of_typo.php">Coudal</a>:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/wOgIkxAfJsk" allowfullscreen></iframe></div></p>
+<p>{% youtube wOgIkxAfJsk %}</p>
 ]]></content>
   </entry>
   
