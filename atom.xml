@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-27T20:42:17+02:00</updated>
+  <updated>2015-04-27T23:16:51+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[An honest college rejection letter →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.mcsweeneys.net/articles/an-honest-college-rejection-letter"/>
+	
+    <updated>2015-04-27T23:10:36+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/04/27/an-honest-college-rejection-letter</id>
+  	
+  	<content type="html"><![CDATA[<p>Mimi Evans, writing at McSweeney’s:</p>
+
+<blockquote><p>While we consider applicants from all backgrounds who excel both in and out of the classroom, we really want student savants who relentlessly pursue a single instrument, sport, or other activity. Unless you have written a <em>New York Times</em> bestseller, won first place in the Intel Science Fair, or cured type 1 diabetes using only solar power and a tampon string, we’ll put you at the bottom of the pool.</p></blockquote>
+
+<p>Sounds like a nice college.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/04/27/an-honest-college-rejection-letter/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Erin Brooks on capturing childhood →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -468,23 +485,6 @@
 <div class="embed-video-container"><iframe src="http://player.vimeo.com/video/124893964 "></iframe></div>
 
 <a rel="full-article" href="http://www.analogsenses.com/2015/04/17/moments-new-york-city/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Rinzi Ruiz talks about finding the light on ISO 400 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.thephoblographer.com/2015/04/17/iso-400-rinzi-ruiz-talks-finding-light/#.VTFOp845zzM"/>
-	
-    <updated>2015-04-17T20:23:09+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/04/17/rinzi-ruiz-talks-about-finding-the-light-on-iso-400</id>
-  	
-  	<content type="html"><![CDATA[<p>Julius Motal, <em>The Phoblographer</em>:</p>
-
-<blockquote><p>In this episode of ISO 400, we hear from Rinzi Ruiz, a street and wedding photographer based in Los Angeles. Towards the of 2011, Ruiz was laid off a job he had for 10 years, and this gave him time to focus on his photography. He found his zen in street photography on the streets of Los Angeles. His high contrast monochrome images are deeply meditative, and they have excellent lighting.</p></blockquote>
-
-<p>I absolutely love Rinzi Ruiz’s photographic style, and the way he paints incredible scenes with light in some of the most mundane places, like subways, coffee shops and the like.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/04/17/rinzi-ruiz-talks-about-finding-the-light-on-iso-400/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
