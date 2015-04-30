@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-04-30T20:38:16+02:00</updated>
+  <updated>2015-04-30T21:04:21+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Kevin Spacey and Charlie Cox interview each other →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?t=64&v=Gh0nIWg7EvI"/>
+	
+    <updated>2015-04-30T21:00:51+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/04/30/kevin-spacey-and-charlie-cox-interview-each-other</id>
+  	
+  	<content type="html"><![CDATA[<p>Great interview with the main leads of two of Netflix’s Original shows. Kevin Spacey, who plays Frank Underwood in House of Cards, and Charlie Cox, who plays the title character in Netflix’s new <em>Daredevil</em> series:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Gh0nIWg7EvI" allowfullscreen></iframe></div>
+
+<a rel="full-article" href="http://www.analogsenses.com/2015/04/30/kevin-spacey-and-charlie-cox-interview-each-other/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[You can now travel with your own personal photographer →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -356,22 +372,6 @@
 
 <p>The helmet debate is one of the most annoying, time-consuming “issues” in modern urban cycling, and it&rsquo;s still far from being resolved.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/04/24/felix-and-the-danish-cyclist-test/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Chile's Calbuco volcano erupting →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=_MdUQY6xQG4"/>
-	
-    <updated>2015-04-23T19:58:06+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/04/23/chiles-calbuco-volcano-erupting</id>
-  	
-  	<content type="html"><![CDATA[<p>As you may know, Chile&rsquo;s Calbuco volcano <a href="http://edition.cnn.com/2015/04/23/americas/chile-volcano/">erupted yesterday</a> for the first time since 1972. This amazing time-lapse footage shows the magnitude of the eruption. Via <a href="http://coudal.com/archives/2015/04/chiles_calbuco.php">Coudal Partners</a>:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/_MdUQY6xQG4" allowfullscreen></iframe></div>
-
-<a rel="full-article" href="http://www.analogsenses.com/2015/04/23/chiles-calbuco-volcano-erupting/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
