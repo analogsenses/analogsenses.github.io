@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-04T19:42:14+02:00</updated>
+  <updated>2015-05-04T20:02:09+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Quest for Transgender Equality →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.nytimes.com/2015/05/04/opinion/the-quest-for-transgender-equality.html"/>
+	
+    <updated>2015-05-04T19:54:22+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/05/04/the-quest-for-transgender-equality</id>
+  	
+  	<content type="html"><![CDATA[<p>Fantastic new series over at <em>The New York Times</em>:</p>
+
+<blockquote><p>Being transgender today remains unreasonably and unnecessarily hard. But it is far from hopeless. More Americans who have wrestled with gender identity are transitioning openly, propelling <a href="http://transequality.org/">a civil rights movement</a> that has struggled even as gays and lesbians have reached irreversible momentum <a href="http://www.nytimes.com/2015/04/29/opinion/a-landmark-gay-marriagecase-at-the-supreme-court.html">in their fight for equality</a>. Those coming out now are doing so with trepidation, realizing that while pockets of tolerance are expanding, discriminatory policies and hostile, uninformed attitudes remain widespread.</p>
+
+<p>They deserve to come out in a nation where stories of compassion and support vastly outnumber those that end with a suicide note. The tide is shifting, but far too slowly, while lives, careers and dreams hang in the balance.</p></blockquote>
+
+<p>So great. The Times at its best.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/05/04/the-quest-for-transgender-equality/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Brent Simmons is the man who deleted all his tweets →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -415,19 +434,6 @@
 
 <p>It’s unreal, but this is how far people are willing to go to protect their homes.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/04/24/the-nail-houses-of-china/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[iFixit tears down the Apple Watch →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.ifixit.com/Teardown/Apple+Watch+Teardown/40655"/>
-	
-    <updated>2015-04-24T19:54:08+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/04/24/ifixit-tears-down-the-apple-watch</id>
-  	
-  	<content type="html"><![CDATA[<p>I always feel a new Apple product isn&rsquo;t officially real until I&rsquo;ve seen the iFixit teardown. This is a great one.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/04/24/ifixit-tears-down-the-apple-watch/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
