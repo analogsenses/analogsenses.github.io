@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-04T20:30:44+02:00</updated>
+  <updated>2015-05-04T20:34:49+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -13,8 +13,8 @@
   
   <entry>
   
-	<title type="html"><![CDATA[Jonathan Poritsky on where he fits on the Web]]></title>
-	<link href="http://www.analogsenses.com/2015/05/04/jonathan-poritsky-on-where-he-fits-on-the-web/"/>
+	<title type="html"><![CDATA[Jonathan Poritsky on where he fits on the Web →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candlerblog.com/2015/05/01/where-i-fit-on-the-web/"/>
 	
     <updated>2015-05-04T20:26:18+02:00</updated>
   	<id>http://www.analogsenses.com/2015/05/04/jonathan-poritsky-on-where-he-fits-on-the-web</id>
@@ -26,7 +26,7 @@
 <p>I honestly don’t know whether or not there will always be a Google or a Facebook to help readers find me. I do know that I’m in control of whether or not there’s a <em>candler blog</em>.</p></blockquote>
 
 <p>Jonathan’s thinking here is very similar to what recently moved Brent Simmons <a href="http://www.analogsenses.com/2015/05/04/brent-simmons-is-the-man-who-deleted-all-his-tweets/">to delete all his tweets</a>.</p>
-]]></content>
+<a rel="full-article" href="http://www.analogsenses.com/2015/05/04/jonathan-poritsky-on-where-he-fits-on-the-web/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
