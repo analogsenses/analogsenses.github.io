@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-02T19:23:00+02:00</updated>
+  <updated>2015-05-04T19:42:14+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Brent Simmons is the man who deleted all his tweets →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://inessential.com/2015/05/03/the_man_who_deleted_all_his_tweets"/>
+	
+    <updated>2015-05-04T19:37:23+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/05/04/brent-simmons-is-the-man-who-deleted-all-his-tweets</id>
+  	
+  	<content type="html"><![CDATA[<p>Excellent piece by Brent Simmons:</p>
+
+<blockquote><p>I have a number of good reasons not to like Twitter: how poorly it’s treated third-party developers (some of whom are my friends); how it’s become the bright and shining home of bullies, outrage, and the mob mentality; how it’s fallen in love with TV and celebrities; how it’s turning into yet another way to show me ads.</p>
+
+<p>But those aren’t my reasons for deleting my tweets. Instead, it’s because Twitter is a blogging (or micro-blogging, really) service that doesn’t meet my requirements, which are:</p>
+
+<ol>
+<li><p>I should be able to host my content using my own domain, and</p></li>
+<li><p>I should be able to move to another service (or to my own server) without anybody noticing the difference. (Links shouldn’t break, etc.)</p></li>
+</ol>
+</blockquote>
+
+<p>A bit on the extreme side of things, but he has a point. If you use Twitter as a micro-blogging platform, you should be aware of the sacrifices you’re making, and what you’re giving up in exchange for its convenience.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/05/04/brent-simmons-is-the-man-who-deleted-all-his-tweets/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Apple doesn’t design for you]]></title>
@@ -403,29 +428,6 @@
   	
   	<content type="html"><![CDATA[<p>I always feel a new Apple product isn&rsquo;t officially real until I&rsquo;ve seen the iFixit teardown. This is a great one.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/04/24/ifixit-tears-down-the-apple-watch/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Waterfall Season →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://admiringlight.com/blog/waterfall-season/"/>
-	
-    <updated>2015-04-24T19:15:22+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/04/24/waterfall-season</id>
-  	
-  	<content type="html"><![CDATA[<p>Jordan Steele, having lots of fun shooting waterfalls:</p>
-
-<blockquote><p>Spring is in the air, and the world is turning green once again. Spring is also the time when many waterfalls tend to run at their fullest, so now is an ideal time for photographing waterfalls. I’ve taken advantage of some of the flow already, though a few weeks more will bring brighter and more lush vegetation surrounding these lovely natural features.</p>
-
-<p>If you haven’t tried your hand at shooting waterfalls, or are looking for some help in getting the most out your waterfall photos, here are some important things to keep in mind.</p></blockquote>
-
-<p>There are some really useful tips in this piece about the proper use of tripods, polarizing and neutral density filters, etc. These are essential tools that can make quite a huge difference in your images, and the gorgeous examples in Jordan&rsquo;s article make an excellent job of showing their real-world benefits:</p>
-
-<blockquote><p>Now, take a look at the result with a polarizing filter. The processing on the two images is nearly identical (I did some finer color correction on the one below, since it was the one I finalized for print). The glare on the rocks is gone, showing the texture of the stone. The glare on the water is also gone, allowing the blue color of the water to shine through as well as extra detail in the sandstone gorge bottom. The overall effect is striking.</p></blockquote>
-
-<p>Striking, indeed. If you enjoy shooting natural landscapes, the polarizing filter should be your best friend.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/04/24/waterfall-season/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
