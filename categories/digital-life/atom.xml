@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-05T19:48:29+02:00</updated>
+  <updated>2015-05-05T20:24:56+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Making espresso on the International Space Station]]></title>
+    <link href="http://www.analogsenses.com/2015/05/05/making-espresso-on-the-international-space-station/"/>
+    <updated>2015-05-05T19:56:54+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/05/making-espresso-on-the-international-space-station</id>
+    <content type="html"><![CDATA[<p>Dr. Mark Weislogel tells the fascinating story of how Italian astronaut <a href="https://twitter.com/AstroSamantha/status/594910190287396865">Samantha Cristoforetti</a> became the first person to brew — and drink — a cup of espresso on the International Space Station thanks to the newly invented “Space Cup”:</p>
+
+<blockquote><p>You can imagine how many variables are at play for the drinking experience from a human factors perspective, but gravity influences many of these, too. Sinus drainage, saliva migration, time aloft, and others are reasonable microgravity-related parameters affecting one’s response to the drinking experience in space. We designed the Space Cup with the central objective of delivering the liquid passively to the lip of the cup. To do this we exploit surface tension, wetting conditions, and the special geometry of the cup itself. We have yet to learn the human-cup interaction in microgravity. The cup design forces the drinker’s nose directly over the fluid contents. But since the aromatics do not rise, one might expect a rather concentrated dose upon the first whiff. Maybe this won’t be a big deal since astronauts report a reduced sense of smell while in space, due to somewhat clogged sinuses. This is presumably due to the headward fluid redistribution that occurs in spaceflight.</p></blockquote>
+
+<p>The lengths some people will go to to get their morning cup of Joe.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<center><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">&quot;Coffee: the finest organic suspension ever devised.&quot; Fresh espresso in the new Zero-G cup! To boldly brew... <a href="http://t.co/Zw2CllJgzF">pic.twitter.com/Zw2CllJgzF</a></p>&mdash; Sam Cristoforetti (@AstroSamantha) <a href="https://twitter.com/AstroSamantha/status/594910190287396865">May 3, 2015</a></blockquote></center>
+
+
+<p> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p><a href="https://twitter.com/viticci">Federico</a>, I’m looking at you.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bryan Singer announces new ‘Rogue Cut’ of ‘X-Men: Days of Future Past’]]></title>
@@ -68,27 +94,6 @@
 <p>They deserve to come out in a nation where stories of compassion and support vastly outnumber those that end with a suicide note. The tide is shifting, but far too slowly, while lives, careers and dreams hang in the balance.</p></blockquote>
 
 <p>So great. The Times at its best.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Brent Simmons is the man who deleted all his tweets]]></title>
-    <link href="http://www.analogsenses.com/2015/05/04/brent-simmons-is-the-man-who-deleted-all-his-tweets/"/>
-    <updated>2015-05-04T19:37:23+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/04/brent-simmons-is-the-man-who-deleted-all-his-tweets</id>
-    <content type="html"><![CDATA[<p>Excellent piece by Brent Simmons:</p>
-
-<blockquote><p>I have a number of good reasons not to like Twitter: how poorly it’s treated third-party developers (some of whom are my friends); how it’s become the bright and shining home of bullies, outrage, and the mob mentality; how it’s fallen in love with TV and celebrities; how it’s turning into yet another way to show me ads.</p>
-
-<p>But those aren’t my reasons for deleting my tweets. Instead, it’s because Twitter is a blogging (or micro-blogging, really) service that doesn’t meet my requirements, which are:</p>
-
-<ol>
-<li><p>I should be able to host my content using my own domain, and</p></li>
-<li><p>I should be able to move to another service (or to my own server) without anybody noticing the difference. (Links shouldn’t break, etc.)</p></li>
-</ol>
-</blockquote>
-
-<p>A bit on the extreme side of things, but he has a point. If you use Twitter as a micro-blogging platform, you should be aware of the sacrifices you’re making, and what you’re giving up in exchange for its convenience.</p>
 ]]></content>
   </entry>
   
