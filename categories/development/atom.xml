@@ -4,7 +4,7 @@
   <title><![CDATA[Category: development | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/development/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-06T13:24:21+02:00</updated>
+  <updated>2015-05-06T13:31:40+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>Scott Gilbertson on the new HTML Picture element, which will allow mobile devices to selectively load smaller-res images on websites:</p>
 
 <blockquote>
-Web developers recognized this problem very early on in the growth of what was called the &#8220;mobile&#8221; Web back then. So more recently, a few of them banded together to do something developers have never done before—create a new HTML element.
+Web developers recognized this problem very early on in the growth of what was called the "mobile" Web back then. So more recently, a few of them banded together to do something developers have never done before—create a new HTML element.
 </blockquote>
 
 
