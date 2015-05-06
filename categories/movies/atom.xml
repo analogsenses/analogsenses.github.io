@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-06T13:31:40+02:00</updated>
+  <updated>2015-05-06T17:14:44+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lucasfilm confirms new Indiana Jones movie is on its way]]></title>
+    <link href="http://www.analogsenses.com/2015/05/06/lucasfilm-confirms-new-indiana-jones-movie-is-on-its-way/"/>
+    <updated>2015-05-06T17:04:35+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/06/lucasfilm-confirms-new-indiana-jones-movie-is-on-its-way</id>
+    <content type="html"><![CDATA[<p>Still no script, release date or casting announcement, though. Just a general, “sure, we’ll do it” statement from Lucasfilm president Kathleen Kennedy. Admittedly it’s not much, but I’ll take it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bryan Singer announces new ‘Rogue Cut’ of ‘X-Men: Days of Future Past’]]></title>
@@ -33,7 +42,7 @@
     <id>http://www.analogsenses.com/2015/04/16/jj-abrams-unveils-second-teaser-for-star-wars-the-force-awakens</id>
     <content type="html"><![CDATA[<p>Full-screen is a must:</p>
 
-<p>{% youtube ngElkyQ6Rhs %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ngElkyQ6Rhs" allowfullscreen></iframe></div></p>
 
 <p>I haven’t been this excited about a movie in many, many years.</p>
 ]]></content>
@@ -46,7 +55,7 @@
     <id>http://www.analogsenses.com/2015/03/29/the-teaser-trailer-for-spectre-was-released-on-friday</id>
     <content type="html"><![CDATA[<p>It looks good:</p>
 
-<p>{% youtube GvQJbF2CXLQ %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/GvQJbF2CXLQ" allowfullscreen></iframe></div></p>
 
 <p>I can’t wait to see Christoph Waltz in this movie. Also, I&rsquo;m happy to see they didn&rsquo;t completely forget about Mr. White from <em>Casino Royale</em> and <em>Skyfall</em>.</p>
 ]]></content>
@@ -62,17 +71,6 @@
 <blockquote><p>What if there was an Empire-focussed short Star Wars animation, drawn with the crazy detail and shading of classic 80s anime that&rsquo;s all but vanished from Japan nowadays? Well, I tried my best.</p></blockquote>
 
 <p>Absolutely jaw-dropping.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The rolling boulder scene from ‘Raiders of the Lost Ark’]]></title>
-    <link href="http://www.analogsenses.com/2015/03/25/the-rolling-boulder-scene-from-raiders-of-the-lost-ark/"/>
-    <updated>2015-03-25T17:05:08+01:00</updated>
-    <id>http://www.analogsenses.com/2015/03/25/the-rolling-boulder-scene-from-raiders-of-the-lost-ark</id>
-    <content type="html"><![CDATA[<p><em>Art of the Scene</em> takes a look at one my favorite movie scenes of all time. Via <a href="http://kottke.org/15/03/the-opening-boulder-scene-from-raiders-of-the-lost-ark">Kottke</a>:</p>
-
-<p>{% youtube I640Bb7j180 %}</p>
 ]]></content>
   </entry>
   

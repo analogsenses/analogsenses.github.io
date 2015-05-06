@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-06T13:31:40+02:00</updated>
+  <updated>2015-05-06T17:14:44+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Federico Viticci’s wishlist for iOS 9]]></title>
+    <link href="http://www.analogsenses.com/2015/05/06/federico-viticcis-wishlist-for-ios-9/"/>
+    <updated>2015-05-06T17:09:02+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/06/federico-viticcis-wishlist-for-ios-9</id>
+    <content type="html"><![CDATA[<p>Federico Viticci:</p>
+
+<blockquote><p>As with every year, I’ve been pondering where I’d like to see iOS go next. Software is never done, but iOS 8 made a compelling argument for the maturity of the platform – if anything, from a feature checklist perspective. That’s not how I look at it, though: I suspect that the next major version of iOS – likely to be called iOS 9 – will use the visual and technical foundation of iOS 7 and iOS 8 to unlock new levels of integration and communication between apps, iCloud, gestures, and voice input.</p></blockquote>
+
+<p>Nice and comprehensive list from Federico, as ever. I don’t think there’s anybody out there with a better appreciation for the iOS platform — including its strengths and weaknesses — than him. If only a few of his wishes end up coming true, I will be a <em>very</em> happy man.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple doesn’t design for you]]></title>
@@ -124,17 +137,6 @@
     <updated>2015-04-24T19:54:08+02:00</updated>
     <id>http://www.analogsenses.com/2015/04/24/ifixit-tears-down-the-apple-watch</id>
     <content type="html"><![CDATA[<p>I always feel a new Apple product isn&rsquo;t officially real until I&rsquo;ve seen the iFixit teardown. This is a great one.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Apple.com through the years]]></title>
-    <link href="http://www.analogsenses.com/2015/04/23/apple-dot-com-through-the-years/"/>
-    <updated>2015-04-23T19:20:20+02:00</updated>
-    <id>http://www.analogsenses.com/2015/04/23/apple-dot-com-through-the-years</id>
-    <content type="html"><![CDATA[<p>Fantastic Flickr album with many of the different updates to the Apple.com home page, from 1996 until today. So great.</p>
-
-<p>Via <a href="http://daringfireball.net/linked/2015/04/22/apple-dot-com">Daring Fireball</a>.</p>
 ]]></content>
   </entry>
   
