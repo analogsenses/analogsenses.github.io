@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-05T20:19:01+02:00</updated>
+  <updated>2015-05-06T13:24:21+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Drawing Shit Every Day →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.drawshiteveryday.com"/>
+	
+    <updated>2015-05-06T13:22:12+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/05/06/drawing-shit-every-day</id>
+  	
+  	<content type="html"><![CDATA[<p>No, really. Via <a href="http://laughingsquid.com/drawing-shit-every-day-a-typography-project-by-designer-sarah-lawrence/">Laughing Squid</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/05/06/drawing-shit-every-day/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Making espresso on the International Space Station →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -432,19 +445,6 @@
 
 <p>The most humble, honest comment I can make on Erin’s beautiful article is that it makes me wish for the day I can take pictures of my own kids. Here’s hoping.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/04/27/erin-brooks-on-capturing-childhood/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Unpublished photos from published shoots →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://we-t-h-e-peoplee.blogspot.com.es/2015/04/unpublished-photos-from-published-shoots.html"/>
-	
-    <updated>2015-04-27T20:22:47+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/04/27/unpublished-photos-from-published-shoots</id>
-  	
-  	<content type="html"><![CDATA[<p>Fantastic, mesmerizing work by Mila over at <em>We The People</em>, as always. Kind of surreal to think that <em>these are the outtakes</em>. She really is that good.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/04/27/unpublished-photos-from-published-shoots/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
