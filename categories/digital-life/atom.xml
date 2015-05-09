@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-08T22:23:53+02:00</updated>
+  <updated>2015-05-09T11:43:03+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The 7 new Flickr features that David Pogue is not allowed to review]]></title>
+    <link href="http://www.analogsenses.com/2015/05/09/the-7-new-flickr-features-that-david-pogue-is-not-allowed-to-review/"/>
+    <updated>2015-05-09T11:00:43+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/09/the-7-new-flickr-features-that-david-pogue-is-not-allowed-to-review</id>
+    <content type="html"><![CDATA[<p>Yesterday I noticed the Flickr app on my iPhone and iPad had been updated with a new design, but it wasn’t immediately obvious just how comprehensive the changes were. David Pogue — who works for Yahoo — has a nice overview of the new features, and there’s much to love:</p>
+
+<blockquote><p>All I can do is state the facts, coldly and clinically. For example, Flickr gives you 1 terabyte of storage for your photos and videos, for free; automatically backs up all your photos and videos, past and future, from all your computers, phones, and tablets, for free; permits access to those pictures and videos from your phone; permits instant redownloads of any group of pictures at original resolution; offers one-click sharing of albums by generating a custom Web address; and lets you search or group your photos according to what they’re pictures of.</p></blockquote>
+
+<p>This is exciting. I love Flickr, and it may have just become the best online solution for photos for the vast majority of people. And best of all, it’s free.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>As of today though, there are still two issues that prevent it from being a complete backup solution for me: it doesn’t store RAW files, and it doesn’t automatically upload photos from Lightroom. If, like me, you have lots of RAW files sitting in your Lightroom catalog, you’ll need to export them to JPEG first and then use the new Uploadr app to get them backed up.</p>
+
+<p>Since I’m primarily a RAW shooter and frequently go back to make additional edits on some of my old pictures, this sadly means I have no use for the new backup features. That said, I still love the social aspect of Flickr, and I will definitely continue to upload my edited photos in JPEG format to share online. It’s not the complete backup solution I was hoping for,<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> but it still works very well for everything else.</p>
+
+<p>In any case, Flickr continues to be my favorite online photo service, and I’m happy to see that it is alive and well, and that they keep pushing to stay relevant. They still have a ways to go but it appears they’re on the right track, and we’re all better off for it.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>The included 1 TB of storage is more than any reasonable person will ever need.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>For a complete online backup solution, not just of your pictures but of <em>everything</em> on your computer, you really should be using <a href="http://www.backblaze.com/partner/af9416">Backblaze</a>.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Here’s a list of American TV shows that have been renewed for another season — and the ones that haven’t]]></title>
@@ -86,19 +115,6 @@
 <p>You did great Patrick, and your work will endure. You can move on without regret. Thanks for everything, and see you on the road.</p>
 
 <p>Onward!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A primer on fountain pens]]></title>
-    <link href="http://www.analogsenses.com/2015/05/06/a-primer-on-fountain-pens/"/>
-    <updated>2015-05-06T17:18:12+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/06/a-primer-on-fountain-pens</id>
-    <content type="html"><![CDATA[<p>Lovely article over at <em>The Art of Manliness</em>:</p>
-
-<blockquote><p>Despite the introduction of the ballpoint pen in the early 1900s, fountain pens maintained their dominance as the go-to writing instrument up until the mid-point of the century. It was not until the 1960s, when the ballpoint pen’s reliability increased, and its price decreased, that fountain pen sales began their long and steady decline in the United States. While they’re still widely used by students in private schools in England and the rest of Europe, in America the fountain pen is largely seen as more of a collector’s item, a status symbol, or the focus of a twee hobby. However, thanks to the internet’s ability to connect enthusiasts, the fountain pen has seen something of a resurgence in the U.S. Today you can find countless forums and blogs dedicated to the virtues of this classic writing instrument.</p></blockquote>
-
-<p>If you enjoy the world of pens and would like to know more about it, there are plenty of great websites on the subject. Besides the ones mentioned towards the end of this article, I strongly recommend Brad Dowdy’s excellent site, <a href="http://www.penaddict.com"><em>The Pen Addict</em></a>, as well as its accompanying <a href="http://www.relay.fm/penaddict">podcast on Relay FM</a>.</p>
 ]]></content>
   </entry>
   
