@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-11T16:31:48+02:00</updated>
+  <updated>2015-05-11T16:45:19+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Killing of Osama bin Laden]]></title>
+    <link href="http://www.analogsenses.com/2015/05/11/the-killing-of-osama-bin-laden/"/>
+    <updated>2015-05-11T16:38:19+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/11/the-killing-of-osama-bin-laden</id>
+    <content type="html"><![CDATA[<p>You may have come across this fascinating piece by Seymour M. Hersh elsewhere on the Internet, but I feel compelled to link to it anyway:</p>
+
+<blockquote><p>It’s been four years since a group of US Navy Seals assassinated Osama bin Laden in a night raid on a high-walled compound in Abbottabad, Pakistan. The killing was the high point of Obama’s first term, and a major factor in his re-election. The White House still maintains that the mission was an all-American affair, and that the senior generals of Pakistan’s army and Inter-Services Intelligence agency (ISI) were not told of the raid in advance. This is false, as are many other elements of the Obama administration’s account. The White House’s story might have been written by Lewis Carroll: would bin Laden, target of a massive international manhunt, really decide that a resort town forty miles from Islamabad would be the safest place to live and command al-Qaida’s operations? He was hiding in the open. So America said.</p></blockquote>
+
+<p>He paints a very different picture of the whole affair, especially regarding Pakistan’s involvement. Well worth your time.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Don’t make bicyclists more visible. Make drivers stop hitting them.]]></title>
@@ -86,23 +99,6 @@
 <p>Obligatory posting. And whatever you do, don’t miss <a href="http://www.compoundchem.com/2015/03/31/whisky/">The Chemistry of Whisky</a>. I feel smarter already.</p>
 
 <p>Via <a href="http://coudal.com/archives/2015/05/chemistry_of_gi.php">Coudal</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dan Moren on Amazon Echo]]></title>
-    <link href="http://www.analogsenses.com/2015/05/08/dan-moren-on-amazon-echo/"/>
-    <updated>2015-05-08T21:06:23+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/08/dan-moren-on-amazon-echo</id>
-    <content type="html"><![CDATA[<p>Dan Moren, writing at <em>Six Colors</em>:</p>
-
-<blockquote><p>First and foremost is the idea of a computer interface that’s all around you at all times. This is <em>Star Trek</em> level stuff. Apple’s made a similar attempt with the “Hey Siri” feature of iOS 8, but given that it only works when your device is plugged in, I find I don’t really think about using it. The Echo is <em>always</em> plugged in, which means you don’t have to think about it at all. Asking Alexa for things has become second nature to me in a way that casting about for my iOS device to trigger Siri—or even using my Apple Watch—hasn’t.</p>
-
-<p>The Echo’s hardware deserves a full share of that credit. The microphones on this device are impressive; even when I’m several rooms away, Alexa rarely mishears me. I’ve triggered it from my kitchen and from my hallway, the latter of which doesn’t even have line of sight to the Echo. And it’s not like I’m yelling at the computerized assistant either; I simply spoke in a conversational tone. Amazon’s spent a while tuning the “far-field voice recognition,” which uses seven mics and “beam-forming technology” to extend its range. And as much as that jargon makes me roll my eyes, you can’t argue with the fact that it <em>works</em>, and it works damned well. By contrast, I sometimes can’t get “Hey Siri” to trigger on my Apple Watch, even though it’s inches away from my mouth.</p></blockquote>
-
-<p>All big players in the tech industry are trying to crack the idea of an intelligent digital assistant: Apple with Siri, Microsoft with Cortana, Google with Google Now and now Amazon with Alexa. There’s no doubt these companies are competing at the bleeding edge of technology.</p>
-
-<p>Judging from what we’ve seen so far, it appears that getting the computer to hear you <em>only</em> when you want, and <em>every time</em> that you want is one of the most difficult things to get right, and Amazon seems to be doing an excellent job in that area.</p>
 ]]></content>
   </entry>
   
