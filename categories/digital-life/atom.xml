@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-15T14:12:53+02:00</updated>
+  <updated>2015-05-15T18:45:15+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing the Lily Camera]]></title>
+    <link href="http://www.analogsenses.com/2015/05/15/introducing-the-lily-camera/"/>
+    <updated>2015-05-15T18:37:34+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/15/introducing-the-lily-camera</id>
+    <content type="html"><![CDATA[<p>The Lily Camera is a drone that will follow you shooting HD video while you do all sort of crazy things. On the specs side, the Lily is a pretty decent camera that can shoot 1080p video at 60 fps, 720 video at 120 fps and 12 MP stills, but its coolest feature is that you simply need to throw it in the air to start recording a new video. Check it out:</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/4vGcH0Bk3hg" allowfullscreen></iframe></div></p>
+
+<p>I’m not really into drones — or even old-fashioned GoPros, for that matter — but even I have to admit it looks pretty awesome.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Washington state lawmaker defends bike tax, says bicycling is not good for the environment]]></title>
@@ -76,19 +89,6 @@
     <content type="html"><![CDATA[<p>I quite enjoyed this video essay by <em>The Verge</em> on the influence of digital publishing tools and platforms on the comics industry:</p>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Qr0ThlVwTbI" allowfullscreen></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Killing of Osama bin Laden]]></title>
-    <link href="http://www.analogsenses.com/2015/05/11/the-killing-of-osama-bin-laden/"/>
-    <updated>2015-05-11T16:38:19+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/11/the-killing-of-osama-bin-laden</id>
-    <content type="html"><![CDATA[<p>You may have come across this fascinating piece by Seymour M. Hersh elsewhere on the Internet, but I feel compelled to link to it anyway:</p>
-
-<blockquote><p>It’s been four years since a group of US Navy Seals assassinated Osama bin Laden in a night raid on a high-walled compound in Abbottabad, Pakistan. The killing was the high point of Obama’s first term, and a major factor in his re-election. The White House still maintains that the mission was an all-American affair, and that the senior generals of Pakistan’s army and Inter-Services Intelligence agency (ISI) were not told of the raid in advance. This is false, as are many other elements of the Obama administration’s account. The White House’s story might have been written by Lewis Carroll: would bin Laden, target of a massive international manhunt, really decide that a resort town forty miles from Islamabad would be the safest place to live and command al-Qaida’s operations? He was hiding in the open. So America said.</p></blockquote>
-
-<p>He paints a very different picture of the whole affair, especially regarding Pakistan’s involvement. Well worth your time.</p>
 ]]></content>
   </entry>
   

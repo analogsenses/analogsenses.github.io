@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-15T14:12:53+02:00</updated>
+  <updated>2015-05-15T18:45:15+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Introducing the Lily Camera →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.lily.camera"/>
+	
+    <updated>2015-05-15T18:37:34+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/05/15/introducing-the-lily-camera</id>
+  	
+  	<content type="html"><![CDATA[<p>The Lily Camera is a drone that will follow you shooting HD video while you do all sort of crazy things. On the specs side, the Lily is a pretty decent camera that can shoot 1080p video at 60 fps, 720 video at 120 fps and 12 MP stills, but its coolest feature is that you simply need to throw it in the air to start recording a new video. Check it out:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/4vGcH0Bk3hg" allowfullscreen></iframe></div>
+
+
+<p>I’m not really into drones — or even old-fashioned GoPros, for that matter — but even I have to admit it looks pretty awesome.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/05/15/introducing-the-lily-camera/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Washington state lawmaker defends bike tax, says bicycling is not good for the environment →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -406,23 +424,6 @@
 
 <p>Onward!</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/05/06/minimal-mac-says-goodbye/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[A primer on fountain pens →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.artofmanliness.com/2015/05/05/a-primer-on-fountain-pens/"/>
-	
-    <updated>2015-05-06T17:18:12+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/05/06/a-primer-on-fountain-pens</id>
-  	
-  	<content type="html"><![CDATA[<p>Lovely article over at <em>The Art of Manliness</em>:</p>
-
-<blockquote><p>Despite the introduction of the ballpoint pen in the early 1900s, fountain pens maintained their dominance as the go-to writing instrument up until the mid-point of the century. It was not until the 1960s, when the ballpoint pen’s reliability increased, and its price decreased, that fountain pen sales began their long and steady decline in the United States. While they’re still widely used by students in private schools in England and the rest of Europe, in America the fountain pen is largely seen as more of a collector’s item, a status symbol, or the focus of a twee hobby. However, thanks to the internet’s ability to connect enthusiasts, the fountain pen has seen something of a resurgence in the U.S. Today you can find countless forums and blogs dedicated to the virtues of this classic writing instrument.</p></blockquote>
-
-<p>If you enjoy the world of pens and would like to know more about it, there are plenty of great websites on the subject. Besides the ones mentioned towards the end of this article, I strongly recommend Brad Dowdy’s excellent site, <a href="http://www.penaddict.com"><em>The Pen Addict</em></a>, as well as its accompanying <a href="http://www.relay.fm/penaddict">podcast on Relay FM</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/05/06/a-primer-on-fountain-pens/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
