@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-18T21:29:11+02:00</updated>
+  <updated>2015-05-19T15:20:56+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The reciprocal rule in photography, explained]]></title>
+    <link href="http://www.analogsenses.com/2015/05/19/the-reciprocal-rule-in-photography-explained/"/>
+    <updated>2015-05-19T15:15:45+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/19/the-reciprocal-rule-in-photography-explained</id>
+    <content type="html"><![CDATA[<p>Great, informative article by Nasim Mansurov over at <em>Photography Life</em>:</p>
+
+<blockquote><p>Due to the fact that we as humans cannot be completely still, particularly when hand-holding an object like a camera, the movements caused by our bodies can cause camera shake and introduce blur to images. The basic premise of the reciprocal rule is that <em>the shutter speed of your camera should be at least the reciprocal of the effective focal length of the lens.</em> If you are confused by what this means, don’t worry – it is really easy to understand once you see it in an example.</p></blockquote>
+
+<p>Really useful and practical advice. I found the Auto ISO section to be particularly interesting, as I  had always wondered how the optimum ISO was determined when using this feature.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Panasonic announces new Lumix G7 Micro Four Thirds camera]]></title>
@@ -103,15 +116,6 @@ McGill says the average expectation of clients will range anywhere between 10,00
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sigma 50mm f/1.4 Art VS Canon 50mm f/1.2L]]></title>
-    <link href="http://www.analogsenses.com/2015/05/13/sigma-50mm-f-slash-1-dot-4-art-vs-canon-50mm-f-slash-1-dot-2l/"/>
-    <updated>2015-05-13T19:23:27+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/13/sigma-50mm-f-slash-1-dot-4-art-vs-canon-50mm-f-slash-1-dot-2l</id>
-    <content type="html"><![CDATA[<p>Another excellent lens comparison by Matthew Gore over at <em>Light &amp; Matter</em>, as usual. In this case, the Sigma lens practically wipes the floor with the Canon. Unless you absolutely need the shallowest depth of field possible, the Sigma 50mm f/1.4 Art appears to be best normal lens you can buy today.</p>
 ]]></content>
   </entry>
   
