@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-20T10:49:19+02:00</updated>
+  <updated>2015-05-20T13:12:12+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The untold story of ILM →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.wired.com/2015/05/inside-ilm/"/>
+	
+    <updated>2015-05-20T13:01:24+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/05/20/the-untold-story-of-ilm</id>
+  	
+  	<content type="html"><![CDATA[<p>What an amazing story by Alex French and Howie Kahn for <em>Wired</em>, with photography by Dan Winters. Industrial Light &amp; Magic is one of the most iconic companies in movie-making history, and it all started because George Lucas wanted to make a space movie:</p>
+
+<blockquote><p>As the young director had conceived it, <a href="http://www.wired.com/tag/star-wars"><em>Star Wars</em></a> was a film that literally couldn’t be made; the technology required to bring the movie’s universe to visual life simply didn’t exist. Eventually 20th Century Fox gave Lucas $25,000 to finish his screenplay—and then, after he garnered a Best Picture Oscar nomination for <em>American Graffiti</em>, green-lit the production of <em>Adventures of Luke Starkiller, as Taken From the Journal of the Whills, Saga I: The Star Wars</em>. However, the studio no longer had a special effects department, so Lucas was on his own. He would adapt, and handily: He not only helped invent a new generation of special effects but launched a legendary company that would change the course of the movie business.</p></blockquote>
+
+<p>Come to think of it, there’s probably no better origin story than that. Take your time to savor this piece, along with the accompanying images and interviews. It is epic in every way.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/05/20/the-untold-story-of-ilm/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The MacBook review over at Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -408,27 +425,6 @@ McGill says the average expectation of clients will range anywhere between 10,00
 
 <p>He paints a very different picture of the whole affair, especially regarding Pakistan’s involvement. Well worth your time.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/05/11/the-killing-of-osama-bin-laden/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Sony Zeiss FE 35mm f/1.4 vs. Fuji XF 23mm f/1.4 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://admiringlight.com/blog/sony-zeiss-fe-35mm-f1-4-vs-fuji-xf-23mm-f1-4/"/>
-	
-    <updated>2015-05-11T16:12:44+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/05/11/sony-zeiss-fe-35mm-f-slash-1-dot-4-vs-fuji-xf-23mm-f-slash-1-dot-4</id>
-  	
-  	<content type="html"><![CDATA[<p>To round up today’s photography-heavy links, here’s an interesting lens comparison by Jordan Steele:</p>
-
-<blockquote><p>Ok, so this is one of those comparisons that really isn’t particularly fair. You’ve got a $1,600 Zeiss prime up against a $900 Fuji prime, and the test bed cameras aren’t the same resolution. There are lots of problems with testing like this, but I’m going to do it anyway. Why? It’s fun! Today I’m comparing the Sony Zeiss FE 35mm f/1.4, mounted on the Sony A7 II and the Fujinon XF 23mm f/1.4, mounted on the Fuji X-T1. Both of these lenses have approximately the same field of view, and they both have the same fast f/1.4 maximum aperture. They are also both highly regarded lenses for their respective systems, so let’s see how they stack up. And please, please take these tests with a grain of salt. This is a fun comparison, and both of these lenses are really quite excellent.</p></blockquote>
-
-<p>They are indeed. These are two of the finest 35mm-equivalent lenses available for <em>any</em> system, and both are compelling enough to be system sellers on their own. But how exactly do they stack up?</p>
-
-<blockquote><p>I said up front that this wasn’t really a fair test, and it really isn’t. The Zeiss was tested with a higher resolution body, and the lens itself is nearly double the cost. However, despite the resolution difference, it’s easy to see that the FE 35mm f/1.4 is exceptional. It takes an extremely good Fuji 23mm f/1.4 and makes it look mediocre in comparison. Zeiss has done something rather incredible with the lens.</p></blockquote>
-
-<p>Some of Jordan’s comparison shots are actually hard to believe, especially considering how well-regarded the Fuji lens is by every reviewer out there. Judging by the results, the Zeiss lens is truly in a league of its own, and may very well be the single best 35mm lens available today for any system, at any price.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/05/11/sony-zeiss-fe-35mm-f-slash-1-dot-4-vs-fuji-xf-23mm-f-slash-1-dot-4/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
