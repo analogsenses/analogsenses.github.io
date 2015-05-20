@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-19T15:20:56+02:00</updated>
+  <updated>2015-05-20T10:49:19+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The MacBook review over at Tools &amp; Toys]]></title>
+    <link href="http://www.analogsenses.com/2015/05/20/the-macbook-review-over-at-tools-and-toys/"/>
+    <updated>2015-05-20T10:41:25+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/20/the-macbook-review-over-at-tools-and-toys</id>
+    <content type="html"><![CDATA[<p>Awesome review by Nate Barham. I really like that his review is mostly not about the MacBook itself, but <em>why</em> it makes sense, and why it needs to exist:</p>
+
+<blockquote><p>It is a computer for <em>there</em> rather than <em>here</em> in that if you are always here, then Apple’s lineup likely contains a better machine for you: one that emphasizes power, or screen real estate, or a multitude of ports, or price. But the MacBook is not for <em>here</em> — it is meant to be taken with you: to the bus stations, the parks, the coffee shops, the next-door offices, the weekend cabins and hotel rooms. When you go <em>there</em>, it is meant to go with you, and to hardly be noticed when you do.</p></blockquote>
+
+<p>And boy, are those pictures <em>gorgeous</em>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Universal Pictures releases first teaser for upcoming ‘Steve Jobs’ movie starring Michael Fassbender in the lead role]]></title>
@@ -134,21 +147,6 @@
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Fraser Speirs on presenting with Apple Watch]]></title>
-    <link href="http://www.analogsenses.com/2015/04/27/fraser-speirs-on-presenting-with-apple-watch/"/>
-    <updated>2015-04-27T19:57:41+02:00</updated>
-    <id>http://www.analogsenses.com/2015/04/27/fraser-speirs-on-presenting-with-apple-watch</id>
-    <content type="html"><![CDATA[<p>Never in a million years would it have occurred to me to use Apple Watch as a presenting aid. I mean, you&rsquo;d think there are enough things distracting you already when you’re on stage.</p>
-
-<p>The funny thing is, apparently it works, and it works well. Although I found it funny that Fraser actually recommends <em>taking the watch off</em> when using it as a remote:</p>
-
-<blockquote><p>You want to have the face of the watch nestling in your cupped fingers. The same place you&rsquo;d interact with a TV remote or a more traditional presenter&rsquo;s remote. I found that taking the watch off, re-closing the sport band and placing three fingers through the band, in the way that you might pick up a watch to look at it, was an effective way to hold it. The most important thing here is that you don&rsquo;t distract your audience by fiddling to switch slides and you don&rsquo;t make a mistake when navigating.</p></blockquote>
-
-<p>I seriously doubt this is the usage pattern Apple had in mind when designing the Keynote watch app but hey, whatever works.</p>
 ]]></content>
   </entry>
   
