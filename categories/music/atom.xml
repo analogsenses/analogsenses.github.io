@@ -4,7 +4,7 @@
   <title><![CDATA[Category: music | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/music/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-21T16:57:26+02:00</updated>
+  <updated>2015-05-21T17:45:41+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotify Connect lets you decide which device plays your music and which one controls it]]></title>
+    <link href="http://www.analogsenses.com/2015/05/21/spotify-connect-lets-you-cdecide-which-device-plays-your-music-and-which-one-controls-it/"/>
+    <updated>2015-05-21T17:04:26+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/21/spotify-connect-lets-you-cdecide-which-device-plays-your-music-and-which-one-controls-it</id>
+    <content type="html"><![CDATA[<p>This is admittedly an old-ish feature — apparently it’s been around for over a year — but I had no idea it existed. Spotify Connect lets you play your music on any of your devices, <em>and control it from any other device</em>. The way it works is really simple: from any device you’re using to interact with the app, you get to choose which one of your other devices will actually play your music.</p>
+
+<p>And it does work, like a charm. As a matter of fact, I’m using it right now to play <a href="/2015/05/21/the-best-of-thelonious-monk/">the new Thelonious Monk collection</a> between my iMac and my iPad. The iMac controls playback and the iPad, which is plugged into my home’s HiFi sound system, plays the music. And unlike AirPlay, I can still play all kinds of other sounds locally on my iMac.</p>
+
+<p>That by itself is pretty cool, but the best part is that I found out about it completely by chance — or, rather, by clever design. Spotify allows you to play your music on only one device at a time, and I was already playing music on my iMac. When I launched the Spotify app on my iPad to switch devices, I was greeted by a dialog offering me to continue playing the iMac’s music. I just touched yes and my music immediately started playing on the iPad, right from where the iMac left off. No lag, no buffering delay, nothing. It really couldn’t have been any simpler.</p>
+
+<p>This is what great software design is all about. New features should not only be easy to use, they should be easy to <em>discover</em>. In this case, I did everything in my power <em>not</em> to discover Spotify Connect — by not reading anything about the app and not playing around with the interface after every update — and the feature still ended up making itself known to me. That’s great design, and it is awesome.</p>
+
+<p>It has also saved me quite a bit of money, by the way. For the past few weeks I’d been <em>this</em> close to buying an AirPort Express just so that I could stream music from my iMac to my
+ stereo, but now I don’t think I’ll be needing it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Best of Thelonious Monk]]></title>
@@ -64,21 +82,6 @@
 <blockquote><p>Bob Dylan’s new album, “Shadows in the Night,” which comes out today, has been called his Frank Sinatra record. The album does includes (sic) ten songs all originally recorded by Sinatra, but it’s maybe more accurate to think of it as a conscious return to the compositions of the pre-rock era (or, if you prefer, the pre-Dylan era), much in the way that Dylan’s two early-nineties records, “Good As I Been to You” and “World Gone Wrong,” were callbacks to country blues. The ten songs on the record are drawn from the mid-century songbook, giving Dylan an opportunity to demonstrate his kinship with that era, and to illustrate that these songs have always been part of his inheritance. While most of them, in their day, were recorded with orchestration, for this record he uses only his regular five-piece band and an occasional horn section. The over-all effect is both ephemeral and powerful.</p></blockquote>
 
 <p>I still can’t quite believe this album exists. Dylan and Sinatra are two of my all-time favorite artists, but they&rsquo;re actually pretty different in terms of vocal quality and usual repertoire. I’m not sure how well this album will work — I haven’t had a chance to listen to it yet — but I hope it’s more than just Dylan eviscerating some classic Sinatra songs.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Andrew Womack’s Top Albums of 2014]]></title>
-    <link href="http://www.analogsenses.com/2014/12/31/andrew-womacks-top-albums-of-2014/"/>
-    <updated>2014-12-31T13:18:10+01:00</updated>
-    <id>http://www.analogsenses.com/2014/12/31/andrew-womacks-top-albums-of-2014</id>
-    <content type="html"><![CDATA[<p>Andrew Womack:</p>
-
-<blockquote><p>A cardinal sin of music writing—sandwiched between sloth and envy—is enthusiasm. Either by venturing into superlatives (your critical balance is at stake) or by describing the music: a sure path into a minefield of over-modified prose.</p>
-
-<p>Yet when listening to the music we love, as writers or readers, enthusiasm and description become our primal communication. We are caught up in the moment, taken aloft by the rhythm and melody, so where can we express it? In the only place where reputations are thankfully disposable and honesty reigns brutally supreme: YouTube comments.</p></blockquote>
-
-<p>YouTube commenters as music critics. This is priceless. Via <a href="http://coudal.com/archives/2014/12/best_of.php">Coudal</a>.</p>
 ]]></content>
   </entry>
   
