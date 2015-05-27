@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-27T17:28:05+02:00</updated>
+  <updated>2015-05-27T18:06:33+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Re/code acquired by Vox Media →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://recode.net/2015/05/26/a-note-to-our-readers/"/>
+	
+    <updated>2015-05-27T17:32:04+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/05/27/re-slash-code-acquired-by-vox-media</id>
+  	
+  	<content type="html"><![CDATA[<p>Yesterday, Walt Mossberg and Kara Swisher announced in a joint statement that <em>Re/code</em> is getting bought by Vox Media:</p>
+
+<blockquote><p>We are thrilled to announce that <strong>Re/code’s</strong> parent company, Revere Digital, is being wholly acquired by the highly respected digital-native media company <a href="http://www.voxmedia.com/">Vox Media</a>. This is the next big step in our mission to bring you quality tech journalism, because our work will now be amplified and enhanced by Vox Media’s deep and broad skill set.</p></blockquote>
+
+<p>Thrilled, we tell you. This is great news! Call me paranoid, but I don’t like it. And the positive spin they felt they needed to include to avoid awkward comparisons with <em>The Verge</em> doesn’t help:</p>
+
+<blockquote><p>We plan as well to collaborate where appropriate with Vox Media’s current and very successful tech news site, <a href="http://www.theverge.com/">The Verge</a>. While the two sites occasionally overlap, we have focused on the business of tech, while The Verge has focused on covering tech from a lifestyle perspective.</p></blockquote>
+
+<p>Riiight. Got it. No conflict at all there. But wait a second, here’s an excerpt from Walt Mossberg’s ethics statement, which is available as a popover window next to his contact information in the article’s header:</p>
+
+<blockquote><p>I am not an objective news reporter, and am not responsible for business coverage of technology companies. I am a subjective opinion columnist, a reviewer of consumer technology products and a commentator on technology issues. I don’t offer investment advice, or follow the financial progress or stock prices of technology companies. I focus on products and services, not revenues and earnings.</p></blockquote>
+
+<p>So, let me get this straight. <em>Re/code</em> has “focused on the business of tech”, but Walt Mossberg is “not responsible for business coverage of technology companies”.</p>
+
+<p>How does that work again, exactly?</p>
+
+<p>Seriously. I get that <em>Re/code</em> is bigger than Walt Mossberg, but he is definitely one of the main draws for the audience. I’d be willing to bet that many people, probably even <em>most</em> people, go to <em>Re/code</em> to read his reviews and then stay for the rest. I know because I am one of those people. Which makes all of this rather important. How is his work on the site any different than what <em>The Verge</em> does? Are they seriously expecting us to believe all of a sudden that <em>Re/code</em> is just a business site that just happens to feature one of the most popular and respected product reviewers on the Internet?</p>
+
+<p>Just once, I’d like to see a company being acquired treat their customers — in this case, their readers — with respect, and state upfront that they did it mostly because the money was too good to turn down, and that they have no clue how things are going to work out moving forward but they’re hoping for the best. That wouldn’t be very encouraging, but at least it wouldn’t be an insult to our intelligence, either.</p>
+
+<p>Having said all that, I really do hope things work out well for everyone involved, because Re/code is one of my favorite sites, and I have nothing but admiration for the work they do.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/05/27/re-slash-code-acquired-by-vox-media/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Is Amazon Prime actually an EcoCrime? →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -525,23 +558,6 @@
 
 <p>And boy, are those pictures <em>gorgeous</em>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/05/20/the-macbook-review-over-at-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The reciprocal rule in photography, explained →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://photographylife.com/what-is-reciprocal-rule-in-photography"/>
-	
-    <updated>2015-05-19T15:15:45+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/05/19/the-reciprocal-rule-in-photography-explained</id>
-  	
-  	<content type="html"><![CDATA[<p>Great, informative article by Nasim Mansurov over at <em>Photography Life</em>:</p>
-
-<blockquote><p>Due to the fact that we as humans cannot be completely still, particularly when hand-holding an object like a camera, the movements caused by our bodies can cause camera shake and introduce blur to images. The basic premise of the reciprocal rule is that <em>the shutter speed of your camera should be at least the reciprocal of the effective focal length of the lens.</em> If you are confused by what this means, don’t worry – it is really easy to understand once you see it in an example.</p></blockquote>
-
-<p>Really useful and practical advice. I found the Auto ISO section to be particularly interesting, as I  had always wondered how the optimum ISO was determined when using this feature.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/05/19/the-reciprocal-rule-in-photography-explained/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
