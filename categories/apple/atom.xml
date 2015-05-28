@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-28T16:42:17+02:00</updated>
+  <updated>2015-05-28T17:04:24+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[John Gruber on Jony Ive’s “promotion”]]></title>
+    <link href="http://www.analogsenses.com/2015/05/28/john-gruber-on-jony-ives-promotion/"/>
+    <updated>2015-05-28T17:02:26+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/28/john-gruber-on-jony-ives-promotion</id>
+    <content type="html"><![CDATA[<p>Astute analysis by John, as ever:</p>
+
+<blockquote><p>I can see Cook-Ive as a sort of titular reversal of the Jobs-Cook C-level leadership duo. Cook oversees operations and “running the company”; Ive oversees everything else. So they created a new title to convey the authority Ive already clearly wielded, and promoted Dye and Howarth, his trusted lieutenants, to free him from administrative drudgery. I could be wrong, and we’ll know after a few years, but that’s my gut feeling today.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Apple Watch Review over at Tools &amp; Toys]]></title>
@@ -80,55 +91,6 @@
 <blockquote><p>Indeed, for now I think it likely that one of Apple’s oldest and most cherished skills — it’s ability to make beautiful, desirable objects — will make the Watch exactly what Tim Cook promised: another tentpole product that rivals the Mac, the iPod, the iPad, and even the iPhone. Framed as nothing more than <a href="http://exponent.fm/episode-045-its-a-watch-that-does-stuff/">A Watch that Does Stuff</a> — and that you actually don’t mind wearing — Apple will rightly sell enough to kick-start a world that gets just a little bit smarter and little bit better when it knows who and where we are.</p></blockquote>
 
 <p>I think Ben’s right on the money here. The entire piece is full of clever, insightful analysis, as usual.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The new MacBook is Apple fixing the past]]></title>
-    <link href="http://www.analogsenses.com/2015/05/20/the-new-macbook-is-apple-fixing-the-past/"/>
-    <updated>2015-05-20T16:00:03+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/20/the-new-macbook-is-apple-fixing-the-past</id>
-    <content type="html"><![CDATA[<p>Last night, Marco Arment published <a href="http://www.marco.org/2015/05/19/mistake-one">a great piece</a> on why he’s not very enthusiastic about the MacBook “One” after using it:</p>
-
-<blockquote><p>The MacBook just looks and feels like the obvious, no-brainer choice for a small Mac. That’s why people buy it. That’s why I bought it. I loved it before I bought it. I love looking at it and picking it up.</p>
-
-<p>I just hate using it.</p>
-
-<p>I hate typing on it, I hate the trackpad, it’s slower than I expected, the screen is noticeably blurry from non-native scaling to get reasonable screen space, and I don’t even find it very comfortable to use in my lap because it’s too small.</p>
-
-<p>I hate returning things, but I’m returning this.</p></blockquote>
-
-<p>His take on the device was very interesting to read. Marco is definitely not your typical Apple customer, but it goes to show that with the new MacBook, as with any technology purchase, your mileage may vary.</p>
-
-<p>In recent years, many Apple products have become substantially harder to understand without any actual hands-on experience. That is in no small part because in that time, Apple’s design goals have slowly but steadily shifted towards creating more personal, more intimate devices. When you stray away from the specs path, it ceases to be a numbers game and becomes an emotional purchase, based entirely on personal preference instead of performance or any other quantifiable metrics.</p>
-
-<p>Apple products have always had an emotional, personal side to them that makes them appealing beyond their spec-sheets, but usually the two sides had been close to being in perfect balance.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> However, for a while now we’ve been seeing that balance shifting towards the emotional side. No other Apple product makes that shift more apparent than the new MacBook, not even the Apple Watch.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
-
-<p>The iPhone has gotten thinner and lighter every year and so has the iPad, but both devices have also gotten faster and more capable with each new generation. The MacBook represents the opposite side of this trend: a device that’s gotten slower and less capable as it’s gotten thinner and lighter. In that way, its only real precedent is the original 2008 MacBook Air.</p>
-
-<p>Unlike the 2008 Air though, the new MacBook not only compromises in terms of performance, but also in areas that are not traditionally evaluated by specs, and that is perhaps a bit more worrying. Features like the keyboard and trackpad, which are inherently defined by how they <em>feel</em>. The fact that the new keyboard has near unanimously been considered worse than its predecessor is a sign that Apple may have taken things a bit too far with the new MacBook.</p>
-
-<p>This shift may end up being a long-term trend, or it may be just a <em>tick</em> — a mere sign that Apple is experimenting to find a new balance — to be inevitably followed by a <em>tock</em>. There is ample room for Apple to improve or even radically change the new MacBook, much like they did with the original MacBook Air.</p>
-
-<p>But if I’m being honest, I wouldn’t bet on it.</p>
-
-<p>The original 2008 Air represented an ambitious bet that ultimately proved unsuccessful: it arrived ahead of its time, before the technology was available to support its vision. It was a terribly compromised machine in many non-trivial ways, and the 2010 redesign was not just a new generation, it was Apple backtracking and refocusing the device as a general-purpose computer for everyone. In fact, the redesigned Air went on to become arguably the <em>least</em> compromised laptop in the lineup for the majority of consumers.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
-
-<p>This time around though, the technology <em>is</em> there, if only just so. That makes me think the MacBook will continue to adhere to its current design philosophy, at least for the foreseeable future. This is not Apple trying something new after all, this is Apple doubling-down on the vision that drove them to create the original MacBook Air. Seven years later, they’re finally ready to get it right.</p>
-
-<p>Are we?</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>With only a few exceptions along the way, the most notable among which is the original 2008 MacBook Air. But more on that later.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-<li id="fn:2">
-<p>If only because we have no design precedent for it. Apple Watch is a product created entirely within the new Apple, free from all past restrictions and preconceptions. The MacBook, on the other hand, is showing the way forward for other existing Apple products to follow.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
-<li id="fn:3">
-<p>It achieved almost the perfect balance of performance and portability and became the most popular model in the lineup. For most people, it was the one to get until the arrival of the Retina MacBook Pros.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
 ]]></content>
   </entry>
   
