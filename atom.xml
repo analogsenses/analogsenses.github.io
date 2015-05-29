@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-05-29T17:36:53+02:00</updated>
+  <updated>2015-05-29T17:47:07+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Water: the weirdest liquid on the planet →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.theguardian.com/global/2015/may/11/water-weirdest-liquid-planet-scientists-h2o-ice-firefighters"/>
+	
+    <updated>2015-05-29T17:43:34+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/05/29/water-the-weirdest-liquid-on-the-planet</id>
+  	
+  	<content type="html"><![CDATA[<p>Great piece by Alok Jha for <em>The Guardian</em>:</p>
+
+<blockquote><p>Water breaks all the rules. Since the 19th century, chemists have developed a <a href="http://www.chemistryexplained.com/Kr-Ma/Liquids.html">robust framework to describe what liquids are</a> and what they can do. Those ideas are almost useless at explaining the weird behaviour of water. Its strangeness underlies what happens every time you drop an ice cube into a drink. Think about it for a moment: in front of you is a solid, floating on its liquid. Solid wax doesn’t float on melted wax; solid butter doesn’t float on melted butter in a hot saucepan; rocks don’t float on lava when it spews out of a volcano.</p></blockquote>
+
+<p>Via <a href="http://toolsandtoys.net/editorials/jazz-prodigies-embracing-medium-weirdness-water/"><em>Tools &amp; Toys</em></a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/05/29/water-the-weirdest-liquid-on-the-planet/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Hurricane Ridge →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -531,35 +548,6 @@
 
 <p>It’s things like this that make me wish I had a “Jackass of the Year” award to give away.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/05/21/richard-prince-selling-other-peoples-instagram-shots-without-permission-for-$100k/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Shawn Blanc on Apple Watch: Just Smart Enough →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://shawnblanc.net/2015/05/just-smart-enough/"/>
-	
-    <updated>2015-05-21T21:12:45+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/05/21/shawn-blanc-on-apple-watch-just-smart-enough</id>
-  	
-  	<content type="html"><![CDATA[<p>Shawn Blanc:</p>
-
-<blockquote><p>Apple Watch fits, appropriately, right between a smartphone and a dumb watch. Apple Watch is certainly more feature-rich and “connected” than my analog watches ever were, yet it’s not anywhere near an “iPhone 2.0” type of product.</p>
-
-<p>In other words, Apple Watch is just powerful enough to be useful and fun, but not so powerful that it’s distracting or frustrating.</p></blockquote>
-
-<p>I still think it’s early to be making predictions about the future of Apple Watch, but I like Shawn’s first impressions and I do hope he’s right in the long term.</p>
-
-<p>Many people keep thinking Apple Watch will become more and more like a mini iPhone in the future, but I actually don’t think that would be desirable at all. Things like cellular networking and more independence from the phone sound great in theory, but I believe the whole point of the Watch is precisely to <em>not</em> become just an iPhone on your wrist.</p>
-
-<p>The right long-term goal for the Watch should not be to move the annoyances from your pocket to your wrist but rather, to do away with them entirely and for that, Apple Watch will need to remain unapologetically “just smart enough”.</p>
-
-<p>There’s nothing wrong with being “just smart enough”, and it’s not just about what’s technologically feasible today vs. a few years from now. The reason for keeping Apple Watch’s feature set limited in relation to the iPhone’s should not be one of technical limitations, but of purpose. Just because technology allows you to create something doesn’t mean that you <em>should</em>, or that it is the right call.</p>
-
-<p>Historically, having devices that were too smart was never a problem, until it became one with the iPhone. Having the Watch follow the same pattern would be a huge mistake if you ask me.</p>
-
-<p>Still, it’s early days. We’ll have to wait and see how it goes, but every day I’m getting more and more excited about the Watch, which is something I hadn’t anticipated. I just hope Apple doesn’t get blinded by their desire to innovate, to the point where they end up ruining what could potentially be one of the greatest products they’ve ever created.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/05/21/shawn-blanc-on-apple-watch-just-smart-enough/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
