@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-06-01T18:38:34+02:00</updated>
+  <updated>2015-06-01T18:53:56+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How exposure affects film]]></title>
+    <link href="http://www.analogsenses.com/2015/06/01/how-exposure-affects-film/"/>
+    <updated>2015-06-01T18:50:10+02:00</updated>
+    <id>http://www.analogsenses.com/2015/06/01/how-exposure-affects-film</id>
+    <content type="html"><![CDATA[<p>Awesome article by the folks at <em>Carmencita Film Lab</em>:</p>
+
+<blockquote><p>What conclusions can be made from this test?</p>
+
+<p>Well… first of all… 6 stops overexposed? And it still looks amazing? That’s pretty sweet.
+Overall, there seems to be a higher number of usable shots on the overexposure side than on the underexposure side. So what does this tell us? Film LOVES overexposure. Unlike what happens in digital photography, with overexposure film gets a little more saturated and you get more details on the shadows, but definitely no clipped highlights or “all-white” burnt images. That’s why it’s totally safe to say that if you’re in doubt between two possible camera values for your exposure you’ll always be safer on the “over” side than on the “under” one.</p></blockquote>
+
+<p>Like I’ve said multiple times here about shooting film: when in doubt, expose for the shadows and the highlights will take care of themselves.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Respect for your subjects in street photography]]></title>
@@ -66,27 +82,6 @@
 <blockquote><p>If you want to give Google Photos a whirl, it will be available later today across Android, iOS and the web. With this launch we&rsquo;ve made a lot of progress towards eliminating many of the frustrations involved in storing, editing and sharing your memories. But we have a lot more in store—so as you keep snapping photos and capturing videos, we’ll keep working on making them even easier to store, share and bring to life.</p></blockquote>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ydBjsZnHrwM" allowfullscreen></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Google makes Photos a standalone product]]></title>
-    <link href="http://www.analogsenses.com/2015/05/28/google-makes-photos-a-standalone-product/"/>
-    <updated>2015-05-28T20:07:09+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/28/google-makes-photos-a-standalone-product</id>
-    <content type="html"><![CDATA[<p>Ron Amadeo, covering Google’s I/O conference for <em>Ars Technica</em>:</p>
-
-<blockquote><p>At its I/O keynote, Google announced that Google Photos is now a standalone product. The service has officially been spun off from Google+ and is being billed as a brand new product, according to Google&rsquo;s Anil Sabharwal, and Google hopes the revamp will enable it to better take on the likes of Flickr and Facebook Photos. The new service will be available at <a href="http://photos.google.com/">photos.google.com</a>.</p>
-
-<p>Google Photos looks a lot like Google <em>plus</em> Photos, just without the Google+ part. There is still tons of cloud storage; pictures are still automatically backed up to the cloud, and Auto-Awesome (though it has been renamed to “Assistant”) is still here. That feature still automatically surprises the user by adding funky effects, making panoramas, and creating album slideshows using copies of your pictures.</p></blockquote>
-
-<p>It looks interesting, no doubt. And in typical Google fashion, the best of all seems to be the pricing:</p>
-
-<blockquote><p>Google Photos also allows you to backup and store “unlimited, high-quality” photos and videos for free. For images, this means a resolution of up to 16 megapixels (which Sabharwal called “print quality”), and 1080p for videos.</p></blockquote>
-
-<p>That will have most people covered, but if you&rsquo;d like to store full resolution images, there is also a $10/month for 1TB plan where Google won&rsquo;t recompress your files.</p>
-
-<p>I still don’t know if I would trust Google with my entire photo library, but they certainly took a step in the right direction today.</p>
 ]]></content>
   </entry>
   
