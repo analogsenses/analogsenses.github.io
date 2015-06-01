@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-06-01T18:53:56+02:00</updated>
+  <updated>2015-06-01T19:15:08+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Matt Gemmell on designing websites to respect the reader]]></title>
+    <link href="http://www.analogsenses.com/2015/06/01/matt-gemmell-on-designing-websites-to-respect-the-reader/"/>
+    <updated>2015-06-01T19:05:40+02:00</updated>
+    <id>http://www.analogsenses.com/2015/06/01/matt-gemmell-on-designing-websites-to-respect-the-reader</id>
+    <content type="html"><![CDATA[<p>Fantastic piece by Matt Gemmell:</p>
+
+<blockquote><p>I have a list of metrics that I automatically – even subconsciously – use when visiting a web site, to determine whether it’s worth my focus. Am I just a pair of eyeballs, or is this author really speaking to me? Have they given due thought to showing their work in the best light, or just thrown it up there? You can tell a lot about how a site’s author, or owning company, feels about you by how they balance the various tensions of design, content, monetisation, functionality, audience retention, and more.</p></blockquote>
+
+<p>I often look to Matt’s site for inspiration when I’m considering tweaks in the design for Analog Senses, because I very much share his commitment towards respecting the reader. This piece is an absolute must-read for anyone who writes for the Web.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Even if you don’t publish your words on your own website, all of the metrics in Matt’s article still apply: by publishing your work on a 3rd-party website or service that doesn’t respect its readers, you are implicitly endorsing that behavior and adopting it as your own.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This Is What It’s Like To Fall In Love With A Woman Who Doesn’t Exist]]></title>
@@ -78,19 +99,6 @@
 <p>Is it not retirement for him to step away from his duties, travel when, and for as long as, he wants, and still come back to design whatever he wants? If he so feels the need, or urge, to make a phone he still can. If he wants to make that chair, or mug, he now can.</p></blockquote>
 
 <p>It hadn’t occurred to me to look at the announcement this way, but it makes perfect sense. Ive is dictating his own terms now, and it will be incredibly interesting to see where this newfound freedom takes him.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Water: the weirdest liquid on the planet]]></title>
-    <link href="http://www.analogsenses.com/2015/05/29/water-the-weirdest-liquid-on-the-planet/"/>
-    <updated>2015-05-29T17:43:34+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/29/water-the-weirdest-liquid-on-the-planet</id>
-    <content type="html"><![CDATA[<p>Great piece by Alok Jha for <em>The Guardian</em>:</p>
-
-<blockquote><p>Water breaks all the rules. Since the 19th century, chemists have developed a <a href="http://www.chemistryexplained.com/Kr-Ma/Liquids.html">robust framework to describe what liquids are</a> and what they can do. Those ideas are almost useless at explaining the weird behaviour of water. Its strangeness underlies what happens every time you drop an ice cube into a drink. Think about it for a moment: in front of you is a solid, floating on its liquid. Solid wax doesn’t float on melted wax; solid butter doesn’t float on melted butter in a hot saucepan; rocks don’t float on lava when it spews out of a volcano.</p></blockquote>
-
-<p>Via <a href="http://toolsandtoys.net/editorials/jazz-prodigies-embracing-medium-weirdness-water/"><em>Tools &amp; Toys</em></a>.</p>
 ]]></content>
   </entry>
   
