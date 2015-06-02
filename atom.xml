@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-06-02T19:58:11+02:00</updated>
+  <updated>2015-06-02T20:07:35+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[5 Classic Cocktails Every Man Should Know →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.artofmanliness.com/2009/06/01/5-classic-cocktails-every-man-should-know/"/>
+	
+    <updated>2015-06-02T20:03:27+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/06/02/5-classic-cocktails-every-man-should-know</id>
+  	
+  	<content type="html"><![CDATA[<p>Solid choices over at <em>The Art of Manliness</em>. I’m a sucker for cocktail pieces.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/06/02/5-classic-cocktails-every-man-should-know/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Sepp Blatter to resign as FIFA President in wake of scandal →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -415,21 +428,6 @@ Overall, there seems to be a higher number of usable shots on the overexposure s
 </div>
 
 <a rel="full-article" href="http://www.analogsenses.com/2015/05/28/chris-gonzales-launches-stellar-edits/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[John Gruber on Jony Ive’s “promotion” →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://daringfireball.net/2015/05/jony_ive_promotion_chief_design_officer"/>
-	
-    <updated>2015-05-28T17:02:26+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/05/28/john-gruber-on-jony-ives-promotion</id>
-  	
-  	<content type="html"><![CDATA[<p>Astute analysis by John, as ever:</p>
-
-<blockquote><p>I can see Cook-Ive as a sort of titular reversal of the Jobs-Cook C-level leadership duo. Cook oversees operations and “running the company”; Ive oversees everything else. So they created a new title to convey the authority Ive already clearly wielded, and promoted Dye and Howarth, his trusted lieutenants, to free him from administrative drudgery. I could be wrong, and we’ll know after a few years, but that’s my gut feeling today.</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2015/05/28/john-gruber-on-jony-ives-promotion/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
