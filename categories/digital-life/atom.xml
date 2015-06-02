@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-06-02T20:07:35+02:00</updated>
+  <updated>2015-06-02T20:27:12+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Do 20mph speed limits actually work?]]></title>
+    <link href="http://www.analogsenses.com/2015/06/02/do-20mph-speed-limits-actually-work/"/>
+    <updated>2015-06-02T20:14:26+02:00</updated>
+    <id>http://www.analogsenses.com/2015/06/02/do-20mph-speed-limits-actually-work</id>
+    <content type="html"><![CDATA[<p>Interesting piece by Hayley Birch for <em>The Guardian</em>:</p>
+
+<blockquote><p>Implicit in all of this is the idea that 20mph speed limits actually work. To reduce casualties they have to reduce speed, but not everyone agrees that they do. Asked whether he thinks Islington’s 20mph speed limits have made any difference, Aidan Farrow, a member of Islington <a href="http://www.theguardian.com/lifeandstyle/cycling">Cycling</a> Club who cycles thousands of miles on the roads every year, says he doesn’t think so. “My experience is that they’re ignored by many drivers,” he says. “I don’t think they’re enforced and I don’t think that drivers realise they’re there a lot of the time.”</p></blockquote>
+
+<p>Long story short: 20mph zones would be great for improving safety but in reality, most drivers don’t actually respect the speed limit so they’re pretty much useless.</p>
+
+<p>Madrid is a living example of this problem: over the past year many streets in the city have been fitted with 20mph lanes where cyclists have preference, but the reality is that they’ve done very little to improve the situation. Most drivers simply ignore the 20mph signs completely, using those new lanes as if they were regular lanes. Unless the city is willing to start handing out tickets for these infractions, there’s little hope for meaningful change to occur anytime soon.</p>
+
+<p>Via <a href="https://twitter.com/grescoe/status/605799263847653377">Taras Grescoe</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[5 Classic Cocktails Every Man Should Know]]></title>
@@ -62,27 +79,6 @@
 <p>Don’t believe it? You need only watch a kid’s face whenever they ride. That invariable expression of pure, unadulterated joy is a tell-tale sign that the bicycle is something special.</p></blockquote>
 
 <p>English author H.G. Wells once said: “<em>Every time I see an adult on a bicycle, I no longer despair for the future of the human race”</em>. I couldn’t agree more.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Matt Gemmell on designing websites to respect the reader]]></title>
-    <link href="http://www.analogsenses.com/2015/06/01/matt-gemmell-on-designing-websites-to-respect-the-reader/"/>
-    <updated>2015-06-01T19:05:40+02:00</updated>
-    <id>http://www.analogsenses.com/2015/06/01/matt-gemmell-on-designing-websites-to-respect-the-reader</id>
-    <content type="html"><![CDATA[<p>Fantastic piece by Matt Gemmell:</p>
-
-<blockquote><p>I have a list of metrics that I automatically – even subconsciously – use when visiting a web site, to determine whether it’s worth my focus. Am I just a pair of eyeballs, or is this author really speaking to me? Have they given due thought to showing their work in the best light, or just thrown it up there? You can tell a lot about how a site’s author, or owning company, feels about you by how they balance the various tensions of design, content, monetisation, functionality, audience retention, and more.</p></blockquote>
-
-<p>I often look to Matt’s site for inspiration when I’m considering tweaks in the design for Analog Senses, because I very much share his commitment towards respecting the reader. This piece is an absolute must-read for anyone who writes for the Web.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Even if you don’t publish your words on your own website, all of the metrics in Matt’s article still apply: by publishing your work on a 3rd-party website or service that doesn’t respect its readers, you are implicitly endorsing that behavior and adopting it as your own.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
 ]]></content>
   </entry>
   
