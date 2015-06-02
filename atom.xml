@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-06-02T19:34:34+02:00</updated>
+  <updated>2015-06-02T19:58:11+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Sepp Blatter to resign as FIFA President in wake of scandal →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.nytimes.com/2015/06/03/sports/soccer/sepp-blatter-to-resign-as-fifa-president.html"/>
+	
+    <updated>2015-06-02T19:54:23+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/06/02/sepp-blatter-to-resign-as-fifa-president-in-wake-of-scandal</id>
+  	
+  	<content type="html"><![CDATA[<p>Sam Borden, writing for <em>The New York Times</em>:</p>
+
+<blockquote><p>In a short speech delivered at the headquarters of FIFA, which oversees global soccer, Mr. Blatter said that “FIFA needs a profound restructuring” and that he had decided to step away from the organization where he had worked in various positions for 40 years. Mr. Blatter, 79, who spoke in French, then referred to his recent re-election by FIFA’s 209 member nations when he said, “Although the members of FIFA have given me the new mandate, this mandate does not seem to be supported by everybody in the world of football.”</p></blockquote>
+
+<p>No shit.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/06/02/sepp-blatter-to-resign-as-fifa-president-in-wake-of-scandal/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The 20 Most Bike-Friendly Cities on the Planet →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -413,21 +430,6 @@ Overall, there seems to be a higher number of usable shots on the overexposure s
 
 <blockquote><p>I can see Cook-Ive as a sort of titular reversal of the Jobs-Cook C-level leadership duo. Cook oversees operations and “running the company”; Ive oversees everything else. So they created a new title to convey the authority Ive already clearly wielded, and promoted Dye and Howarth, his trusted lieutenants, to free him from administrative drudgery. I could be wrong, and we’ll know after a few years, but that’s my gut feeling today.</p></blockquote>
 <a rel="full-article" href="http://www.analogsenses.com/2015/05/28/john-gruber-on-jony-ives-promotion/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Apple Watch Review over at Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://toolsandtoys.net/reviews/apple-watch-review/"/>
-	
-    <updated>2015-05-28T16:19:07+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/05/28/the-apple-watch-review-over-at-tools-and-toys</id>
-  	
-  	<content type="html"><![CDATA[<p>Great review by my friends at <em>Tools &amp; Toys</em>. Bradley Chambers takes us on a journey — literally — over three days of using Apple Watch, and how it impacted many areas of his life and the way he communicated with others:</p>
-
-<blockquote><p>The magic in Apple Watch lies in what it <em>can’t</em> do. There is no web browser. There is no App Store on the device. It’s providing just enough data to keep you in touch and informed, without being a distraction. If Apple Watch owners are simply more aware of what is going on around them, then the product is a success in my mind. It’s allowing us to have access to great technology, but still live in the real world. I wonder if we will look back at the world where people have their eyes glued to their iPhones as an era where people didn’t know how to control themselves.</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2015/05/28/the-apple-watch-review-over-at-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
