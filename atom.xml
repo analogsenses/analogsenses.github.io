@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-06-10T10:35:18+02:00</updated>
+  <updated>2015-06-10T13:57:16+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -76,21 +76,6 @@
 
 <p>Apple is yet to release a News Format guide to creating content for the new app, so it’s clearly still early to know how well the new publishing service will work. There are many unanswered questions for readers and publishers, but it definitely looks promising. Personally, I’m really excited about it and I’ve already signed up to become a publisher. If everything goes smoothly, you’ll soon be able to follow Analog Senses in the News app if you so desire.</p>
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/512/18025943084_a6de79ed38_o.jpg" title="Apple Music"/></p>
-
-
-<h2>Apple Music</h2>
-
-<p>Apple Music is a new music service by Apple that effectively combines the iTunes Music Store and the Beats Music service into what they called “a complete thought around music”. If you’d been wondering how cool it would be if Apple were to add a Spotify-like streaming service to the iTunes Store, well, now you don’t have to wonder anymore.</p>
-
-<p>This was billed as a “One more thing&hellip;” in the keynote, much to the delight of the crowd, but it actually turned out to be the worst part of the event for me.</p>
-
-<p>The funny thing about that is, it wasn’t the product’s fault, but rather the unnecessarily long demo and the poorly scripted presentation in general that left more questions than answers, really. I don’t know who approved the script, but it was clearly one of the weakest Apple keynote segments in recent memory. It wasn’t Eddy Cue’s fault — well, at least not <em>only</em> his fault — Jimmy Iovine also did a pretty poor job of injecting enthusiasm and communicating the potential of this new service for improving the music industry as a whole.</p>
-
-<p>The good news is, presentation problems aside, Apple Music looks like an extremely attractive new service. I’m currently a Spotify Premium subscriber and have been for years, and I’m also an iTunes Match user, but if the new Music service works as advertised I may switch to it entirely. Don’t get me wrong, I like Spotify a lot, but I’m not crazy about having my music split across two different services operated by two different companies.</p>
-
-<p>I just hope the entire iTunes Store catalog is available to stream as part of the new Music service, because Apple has been conspicuously ambiguous about that.</p>
-
 <p class="extra-width"><img src="https://c1.staticflickr.com/1/532/18027959153_5dcd2bea81_o.jpg" title="watchOS 2"/></p>
 
 
@@ -115,6 +100,21 @@
 <p>Other than that, the new WatchKit will allow developers to use Bluetooth to communicate with wireless headphones and stream both short and long-form audio, which will be perfect for apps like podcast clients. I can’t wait to see what Marco Arment does with this in the new version of <a href="https://overcast.fm/">Overcast</a> for the Apple Watch, which he’s surely already building by now.</p>
 
 <p>All in all, the native SDK for the Apple Watch will provide many interesting new opportunities for 3rd-party developers, and that is great news for everyone.</p>
+
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/512/18025943084_a6de79ed38_o.jpg" title="Apple Music"/></p>
+
+
+<h2>Apple Music</h2>
+
+<p>Apple Music is a new music service by Apple that effectively combines the iTunes Music Store and the Beats Music service into what they called “a complete thought around music”. If you’d been wondering how cool it would be if Apple were to add a Spotify-like streaming service to the iTunes Store, well, now you don’t have to wonder anymore.</p>
+
+<p>This was billed as a “One more thing&hellip;” in the keynote, much to the delight of the crowd, but it actually turned out to be the worst part of the event for me.</p>
+
+<p>The funny thing about that is, it wasn’t the product’s fault, but rather the unnecessarily long demo and the poorly scripted presentation in general that left more questions than answers, really. I don’t know who approved the script, but it was clearly one of the weakest Apple keynote segments in recent memory. It wasn’t Eddy Cue’s fault — well, at least not <em>only</em> his fault — Jimmy Iovine also did a pretty poor job of injecting enthusiasm and communicating the potential of this new service for improving the music industry as a whole.</p>
+
+<p>The good news is, presentation problems aside, Apple Music looks like an extremely attractive new service. I’m currently a Spotify Premium subscriber and have been for years, and I’m also an iTunes Match user, but if the new Music service works as advertised I may switch to it entirely. Don’t get me wrong, I like Spotify a lot, but I’m not crazy about having my music split across two different services operated by two different companies.</p>
+
+<p>I just hope the entire iTunes Store catalog is available to stream as part of the new Music service, because Apple has been conspicuously ambiguous about that.</p>
 
 <h2>Other miscellaneous thoughts</h2>
 
