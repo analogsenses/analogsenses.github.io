@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-06-11T17:56:40+02:00</updated>
+  <updated>2015-06-11T23:25:53+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Jordan Steele on the Sony A7R Mark II →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://admiringlight.com/blog/sony-drops-the-mic/"/>
+	
+    <updated>2015-06-11T23:16:03+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/06/11/jordan-steele-on-the-sony-a7r-mark-ii</id>
+  	
+  	<content type="html"><![CDATA[<p>Jordan Steele:</p>
+
+<blockquote><p>However, Sony didn’t stop with those improvements: they’ve introduced a new shutter mechanism, rated for 500,000 actuations and with much lower vibration than the original A7R. Plus it gains electronic first curtain shutter and completely electronic shutter capabilities. They also added 399 phase-detect autofocus points to the sensor, which should give improved AF, even compared to the A7 II. The biggest thing with the new AF system? Adapted A mount lenses can use the PDAF autofocus system and focus as quickly as on the native DSLR (or at least as fast as the native E-Mount lenses can focus. <a href="http://www.dpreview.com/articles/4329110043/alpha-dog-hands-on-with-sony-a7r-ii?slide=5">DPReview</a> noted that their testing even showed Canon EF mount lenses via the Metabones EF-E adapter to utilize the PDAF points and focus as quickly as a native Canon body. This is HUGE. Canon shooters can switch over now and use their lenses with near native AF speed if they so choose.</p></blockquote>
+
+<p>If this checks out it’s going to be huge indeed. Up until now, the only thing stopping me from buying one of the A7-series cameras had been the slow AF performance of adapted Canon glass. If this new AF system is indeed able to match the AF speed of native Canon bodies, <em>many</em> people are going to start wondering why the hell they should stay with Canon.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/06/11/jordan-steele-on-the-sony-a7r-mark-ii/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Christopher Lee dies aged 93 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -583,28 +600,6 @@ Overall, there seems to be a higher number of usable shots on the overexposure s
 
 <p>I can’t tell you how much I hate movies that try to appear cool by editing action sequences by piecing together a million half-second vague, unclear shots. Unless they’re <em>extremely</em> well done, which is rare, those scenes tend to be a mess. All Bourne movies except for the very first one were ruined for me because of this, so I’m happy to see the new Mad Max movie is going in another direction.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/06/01/the-editing-of-mad-max-fury-road/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Salt Lake City Will Have First Protected Bike Intersection in the U.S. →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://nextcity.org/daily/entry/salt-lake-city-first-protected-bike-intersection"/>
-	
-    <updated>2015-06-01T17:46:51+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/06/01/salt-lake-city-will-have-first-protected-bike-intersection-in-the-u-dot-s</id>
-  	
-  	<content type="html"><![CDATA[<p>Jenn Stanley, writing for <em>Next City</em>:</p>
-
-<blockquote><p>Unlike other cities that <a href="https://nextcity.org/daily/entry/us-city-bike-lanes-bike-safety">currently have</a> or are <a href="http://nextcity.org/daily/entry/boston-plan-protected-bike-lanes">building protected bike lanes</a>, this is the first time a city in the U.S. is building a fully protected intersection.</p>
-
-<p>The city hopes that in addition to aiding cyclists, the new lane will increase local commerce. The area will also feature murals by local artists.</p></blockquote>
-
-<p>Sounds like a very smart move. Check this video detailing the intersection:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/gCNJPOYg8G4" allowfullscreen></iframe></div>
-
-<a rel="full-article" href="http://www.analogsenses.com/2015/06/01/salt-lake-city-will-have-first-protected-bike-intersection-in-the-u-dot-s/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
