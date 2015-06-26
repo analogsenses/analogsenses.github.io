@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: politics | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/politics/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2015-06-26T16:43:10+02:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[United States Supreme Court declares same-sex marriage a right in all 50 states]]></title>
+    <link href="http://www.analogsenses.com/2015/06/26/united-states-supreme-court-declares-same-sex-marriage-a-right-in-all-50-states/"/>
+    <updated>2015-06-26T16:38:26+02:00</updated>
+    <id>http://www.analogsenses.com/2015/06/26/united-states-supreme-court-declares-same-sex-marriage-a-right-in-all-50-states</id>
+    <content type="html"><![CDATA[<p>Adam Liptak, writing for <em>The New York Times</em>:</p>
+
+<blockquote><p>In a long-sought victory for the gay rights movement, the <a href="http://topics.nytimes.com/top/reference/timestopics/organizations/s/supreme_court/index.html?inline=nyt-org">Supreme Court</a> ruled on Friday that the Constitution guarantees a nationwide right to <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/s/same_sex_marriage/index.html?inline=nyt-classifier">same-sex marriage</a>.</p>
+
+<p>Justice Anthony M. Kennedy wrote the majority opinion in the 5 to 4 decision. He was joined by the court’s four more liberal justices.</p></blockquote>
+
+<p>Huge day. This calls for a celebration.</p>
+]]></content>
+  </entry>
+  
+</feed>
