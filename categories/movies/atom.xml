@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-07-06T23:16:50+02:00</updated>
+  <updated>2015-07-07T18:16:57+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.analogsenses.com/2015/07/01/new-official-trailer-freleased-for-danny-boyles-upcoming-steve-jobs-movie</id>
     <content type="html"><![CDATA[<p>Now we’re talking:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/aEr6K1bwIVs" allowfullscreen></iframe></div></p>
+<p>{% youtube aEr6K1bwIVs %}</p>
 
 <p>At least this one looks like it’s got some meat in it, though admittedly it won’t take much to erase 2013’s terrible <em><a href="http://www.imdb.com/title/tt2357129/">Jobs</a></em> movie from our memories.</p>
 
@@ -70,7 +70,7 @@
 
 <blockquote><p>One of the many reasons MAD MAX: FURY ROAD is so successful as an action film is the editing style. By using “Eye Trace” and “Crosshair Framing” techniques during the shooting, the editor could keep the important visual information vital in one spot… <strong>the Center of the Frame.</strong> Because almost every shot was center framed, comprehending the action requires no hunting of each new shot for the point of interest. The viewer doesn’t need 3 or 4 frames to figure out where to look. It’s like watching an old hand-drawn flip book whiz by. The focus is always in the same spot!</p></blockquote>
 
-<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/129314425"></iframe></div></p>
+<p>{% vimeo 129314425%}</p>
 
 <p>I can’t tell you how much I hate movies that try to appear cool by editing action sequences by piecing together a million half-second vague, unclear shots. Unless they’re <em>extremely</em> well done, which is rare, those scenes tend to be a mess. All Bourne movies except for the very first one were ruined for me because of this, so I’m happy to see the new Mad Max movie is going in another direction.</p>
 ]]></content>
