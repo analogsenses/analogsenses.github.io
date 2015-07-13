@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-07-13T15:56:56+02:00</updated>
+  <updated>2015-07-13T18:29:50+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Nintendo CEO Satoru Iwata passes away at 55 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.nytimes.com/2015/07/13/business/satoru-iwata-nintendo-chief-executive-dies-at-55.html"/>
+	
+    <updated>2015-07-13T18:25:23+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/07/13/nintendo-ceo-satoru-iwata-passes-away-at-55</id>
+  	
+  	<content type="html"><![CDATA[<p>Sad news.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/07/13/nintendo-ceo-satoru-iwata-passes-away-at-55/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee, issue #6]]></title>
@@ -993,33 +1006,6 @@
 
 <p>Clearly, other manufacturers could learn a thing or two from Fuji here.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/06/30/the-phoblographer-updates-fuji-x-t1-review-for-firmware-4-dot-0/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Sun never sets on Roger Federer →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://grantland.com/the-triangle/the-sun-never-sets-on-roger-federer-endings-and-wimbledon/"/>
-	
-    <updated>2015-06-29T19:51:07+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/06/29/the-sun-never-sets-on-roger-federer</id>
-  	
-  	<content type="html"><![CDATA[<p>Fantastic piece by Brian Phillips for <em>Grantland</em>:</p>
-
-<blockquote><p>Four years ago, I wrote that there was “an aura of weird sadness” around Federer’s arrested decline.  Federer seemed invincible for so long — not just better than everyone else, <em>invincible</em> — that it was unnerving at first when he didn’t. He’d do all the same Federer things — blast that big, courtly cannon of a serve, skip-float to the net, catch the ball short with an acute one-handed backhand, wheel back to the center of the court for a blistering forehand putaway — the same things he’d always done, only now they didn’t always work. Now, against Rafa Nadal or Novak Djokovic or whomever, they would sometimes fail. Four or five years ago, this could put you in a strange place. He’d been so effortless once that then, when the ball missed by three inches, it felt like watching beauty succumb to death.</p></blockquote>
-
-<p>There’s a strong case to be made that Roger Federer’s dominance in his prime set a new benchmark for greatness not only in tennis, but across all sports. I really enjoyed Phillips’s take on Federer’s twilight years — which, as he points out, have already lasted longer than his prime.</p>
-
-<p>Normally I would’ve saved this piece for the next issue of <a href="http://www.analogsenses.com/2015/06/27/morning-coffee-issue-number-4/">Morning Coffee</a>, but I liked it so much I’m sharing it right now. Enjoy.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>It would be a shame if Federer lost in the first week of Wimbledon and was already out of the tournament by the time you read this.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
-<a rel="full-article" href="http://www.analogsenses.com/2015/06/29/the-sun-never-sets-on-roger-federer/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
