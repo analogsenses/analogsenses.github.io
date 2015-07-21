@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-07-20T20:31:06+02:00</updated>
+  <updated>2015-07-21T18:38:57+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[How to make a Hattori Hanzō katana →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?t=48&v=CNuEDtnVdeM"/>
+	
+    <updated>2015-07-21T18:09:07+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/07/21/how-to-make-a-hattori-hanzo-katana</id>
+  	
+  	<content type="html"><![CDATA[<p>Have you ever wondered how traditional Japanese katanas were made centuries ago? YouTube show <em>Man at Arms</em> shows you every step of the incredibly complex process by forging a replica of a Hattori Hanzō katana from the movie <em>Kill Bill</em>.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/CNuEDtnVdeM" allowfullscreen></iframe></div>
+
+
+<p>If you’re still feeling curious after watching the 18-minute video, you can also check out how they made a replica of <a href="https://www.youtube.com/watch?v=-ySQratOnwk">Sephiroth’s Masamune sword</a> from <em><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII">Final Fantasy VII</a></em>, or <a href="https://www.youtube.com/watch?v=-GgijhlKbSc">Squall’s Gunblade</a> from <em><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VIII">Final Fantasy VIII</a></em>. So awesome.</p>
+
+<p>Via <a href="http://kottke.org/15/07/how-to-make-a-hattori-hanzo-sword-from-kill-bill">Kottke</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/07/21/how-to-make-a-hattori-hanzo-katana/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[AnandTech reviews the Apple Watch →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -949,24 +969,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Oakley in Residence restores three bicycles and returns them to their lucky owners →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=ihN0E5_UV4A"/>
-	
-    <updated>2015-07-02T16:42:49+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/02/oakley-in-residence-restores-three-bicycles-and-returns-them-to-their-lucky-owners</id>
-  	
-  	<content type="html"><![CDATA[<p><a href="http://www.oakley.com/in-residence">Oakley in Residence</a> is a hybrid between coffee shop and bike workshop that visits different places around the world. Previously based in Los Angeles, Oakley in Residence is now in London, where it will remain until the end of August.</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ihN0E5_UV4A" allowfullscreen></iframe></div>
-
-
-<p>This is clearly a publicity stunt, but a pretty cool one at that. There&rsquo;s nothing quite like the feeling of reuniting with your long-lost bicycle. Kudos to Oakley for coming up with this.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/02/oakley-in-residence-restores-three-bicycles-and-returns-them-to-their-lucky-owners/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
