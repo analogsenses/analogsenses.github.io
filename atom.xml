@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-07-22T12:05:58+02:00</updated>
+  <updated>2015-07-22T18:42:15+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Jason Snell on Apple’s quarterly earnings →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.macworld.com/article/2951132/business/the-5-biggest-takeaways-of-apples-q3-2015-quarterly-earnings.html"/>
+	
+    <updated>2015-07-22T18:38:29+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/07/22/jason-snell-on-apples-quarterly-earnings</id>
+  	
+  	<content type="html"><![CDATA[<p>Apple announced their quarterly earnings yesterday and, as usual, Jason Snell offers plenty of insight into what the numbers mean.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/07/22/jason-snell-on-apples-quarterly-earnings/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[A new trailer for the next James Bond film, ‘Spectre’, was released today →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -798,21 +811,6 @@
 
 <p>Massive congratulations and best of luck, Stephen. I can’t wait to see what you have in store for us.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/07/06/stephen-hackett-is-going-independent/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Steve Huff reviews the new Zeiss Batis lenses →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.stevehuffphoto.com/2015/07/06/the-zeiss-batis-25-f2-and-85-f1-8-lens-review/"/>
-	
-    <updated>2015-07-06T22:09:13+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/06/steve-huff-reviews-the-new-zeiss-batis-lenses</id>
-  	
-  	<content type="html"><![CDATA[<p>Zeiss recently introduced two new lenses for their full frame FE mount, the Zeiss Batis 25mm f/2 and the Zeiss Batis 85mm f/1.8. Judging from their specs alone, there doesn’t seem to be anything special about these two lenses, but apparently that’s only until you use them. Every review I’ve seen so far puts them firmly in best-in-class territory, and Steve Huff’s is no different:</p>
-
-<blockquote><p>As for these lenses, they deliver on the hype and promise, the really do. I have not used a finer 25mm lens and in the world of 75-85mm lenses, the choices are plentiful, no doubt. Even so, the Zeiss 85 f/1.8 Sonnar is up there with the finest I have used and my faves in life have been the Canon 85 1.2, Nikon 85 1.4, and Zeiss 85 f/2 for Leica Mount. This 85mm delivers the detail, creaminess, nice colors and perfect contrast for those portrait sessions where you want that Zeiss WOW.</p></blockquote>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/06/steve-huff-reviews-the-new-zeiss-batis-lenses/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
