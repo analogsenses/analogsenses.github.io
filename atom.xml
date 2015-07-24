@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-07-23T23:56:44+02:00</updated>
+  <updated>2015-07-24T18:33:45+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Matt Gemmell’s membership so far →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://mattgemmell.com/membership-so-far/"/>
+	
+    <updated>2015-07-24T18:15:39+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/07/24/matt-gemmells-membership-so-far</id>
+  	
+  	<content type="html"><![CDATA[<p>Matt Gemmell shares an interesting update on how his membership program is working so far:</p>
+
+<blockquote><p>In a nutshell, I’m <em>hugely</em> pleased with how it’s turned out. I was so thrilled at the response, and it’s energising for me each week to remember that I have a group of people who enjoy my work enough to not just keep coming back to read my words, but to actually support the creation of new articles and books.</p>
+
+<p>You can’t put a price on that sort of encouragement and validation. On my worst days, I can always log in and look at the membership roster, and get a boost from it.</p></blockquote>
+
+<p>These updates are incredibly important and useful for those who, like me, hope to follow in Matt’s footsteps one day. Reading real stories from real people who have faced — and keep facing — your same fears and struggles is one of the best ways to stay motivated in your work.</p>
+
+<p>The Internet usually shows a deeply skewed version of reality, where success stories are amplified several orders of magnitude, while failure stories are soon erased or, worse, never even shared to begin with. I’m incredibly happy for Matt and I’m glad to see he’s doing fine, but there’s no doubt in my mind he still would have written this piece even if the story had had a not-so-happy ending.</p>
+
+<p>That’s what separates Matt from the vast majority of writers on the Web today: he’s not overly concerned with keeping up the pretense of perfection, because he respects his readers too much to not be 100% honest with them.</p>
+
+<p>Matt is a rare breed of author, and I couldn’t be more proud to support his work. I’ve been a member since day one, and will continue being so for as long as he’ll keep the membership program alive. If you appreciate honesty and respect — not to mention first-class writing — I strongly encourage you to do the same.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/07/24/matt-gemmells-membership-so-far/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Flickr reintroduces Pro membership, including a 20% discount on 1-year Adobe Creative Cloud subscriptions →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -514,23 +539,6 @@
 
 <p>$800 is a lot of money, but if you need an SSD, they’re worth every penny.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/07/08/samsung-announces-new-2tb-850-evo-and-850-pro-ssds/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Disney announces Han Solo standalone film →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.starwars.com/news/christopher-miller-and-phil-lord-to-helm-han-solo-anthology-film"/>
-	
-    <updated>2015-07-08T15:16:49+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/08/disney-announces-han-solo-standalone-film</id>
-  	
-  	<content type="html"><![CDATA[<p>Massive news over at starwars.com:</p>
-
-<blockquote><p>The screenplay is written by Lawrence Kasdan and Jon Kasdan. The story focuses on how young Han Solo became the smuggler, thief, and scoundrel whom Luke Skywalker and Obi-Wan Kenobi first encountered in the cantina at Mos Eisley.</p></blockquote>
-
-<p>No word on casting yet, though. I just hope they know what they’re doing. Via <a href="http://kottke.org/15/07/young-han-solo-movie-announced">Kottke</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/08/disney-announces-han-solo-standalone-film/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
