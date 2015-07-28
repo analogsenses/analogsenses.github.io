@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-07-28T13:43:59+02:00</updated>
+  <updated>2015-07-28T16:59:16+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Ben Brooks reviews the 10-liter Bullet Ruck by GORUCK →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://brooksreview.net/2015/07/bullet-ruck/"/>
+	
+    <updated>2015-07-28T16:31:38+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/07/28/ben-brooks-reviews-the-10-liter-bullet-ruck-by-goruck</id>
+  	
+  	<content type="html"><![CDATA[<p>The 10 and 15-liter <a href="http://www.goruck.com/bullet-rucks/c/4?utm_source=goruck_affiliate&amp;utm_medium=cpa&amp;utm_content=8%25+on+GORUCK+Site&amp;utm_campaign=1411Brooks+Review%2C+LLC">Bullet Rucks</a> are smaller than GORUCK’s <a href="http://www.goruck.com/original-rucks/c/3?utm_source=goruck_affiliate&amp;utm_medium=cpa&amp;utm_content=8%25+on+GORUCK+Site&amp;utm_campaign=1411Brooks+Review%2C+LLC">Original Rucks</a>, and do not have a padded laptop compartment. That makes them more suited for those times when you only want to carry your essential gear with you.</p>
+
+<p>With that in mind, perhaps the most peculiar thing about the 10-liter Bullet Ruck is the fact that it can house the new MacBook in the hydration compartment, padded sleeve and all:</p>
+
+<blockquote><p>In the hydration area of the bag I slide in a Tom Bihn vertical Cache — this is super padded and sized for my MacBook. It fits into the hydration section very snug, and allows you to pull out just the MacBook without having to hold down the protective sleeve. This works great for moving from place to place.</p></blockquote>
+
+<p>I love my GR Echo and in my opinion it’s the perfect size for an everyday backpack. Since I need to carry a 13-inch MacBook Pro, the 10-liter Bullet Ruck is not really a viable everyday choice for me. The problem with the Echo is that there are times when it’s decidedly too big for my taste, like when traveling with a GR2 as my sole carry-on bag.</p>
+
+<p>The GR2 works great as a travel bag, but it’s too big and heavy to use as a daypack during the trip. I usually I sneak in a smaller bag inside the GR2 for that, but since I don’t usually take my laptop with me on day walks when I’m on a trip, even the Echo is overkill on those occasions.</p>
+
+<p>For my everyday life in the city, I’ll take the Echo over any other bag, hands down. That said, this 10-liter Bullet Ruck could very well be the perfect size for my traveling needs, and the perfect companion for my GR2 when I’m on the road. As ever, your mileage may vary.</p>
+
+<p>For a more in-depth look at this little marvel of a bag, check out Ben’s excellent review.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/07/28/ben-brooks-reviews-the-10-liter-bullet-ruck-by-goruck/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Musk, Hawking, Wozniak call for ban on autonomous weapons and military AI →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -744,31 +769,6 @@
 
 <p>Via <a href="http://www.512pixels.net/blog/2015/7/apple-updates-vintage-and-obsolete-products-list">Stephen Hackett</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/07/09/according-to-apple-im-now-the-proud-owner-of-a-vintage-imac/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Photo-editing Mac app ‘Affinity Photo’ reaches public release →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://affinity.serif.com/photo/"/>
-	
-    <updated>2015-07-09T13:12:40+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/09/photo-editing-mac-app-affinity-photo-reaches-public-release</id>
-  	
-  	<content type="html"><![CDATA[<p>After several months in public beta, Affinity Photo has reached public release and is now available for purchase <a href="https://affinity.serif.com/buy-photo/?ct=web-referral">on the Mac App Store</a> with a special 20% discount until July 23rd.</p>
-
-<p>Affinity Photo is a new photo-editing app for the Mac by the creators of the 2015 Apple Design Award winner app, <a href="https://affinity.serif.com/designer/">Affinity Designer</a>. Though it provides a complete solution for editing photos in one application, it’s clearly intended more as a competitor to Adobe Photoshop than to Lightroom.</p>
-
-<p>I’ve only taken a brief look at it so far, but there appears to be plenty to love about Affinity Photo. Ostensibly aimed at professional users, I’d say it strikes a nice balance somewhere between the simplicity of Pixelmator and the power of Photoshop, and it’s sure to win the hearts of many photo enthusiasts around the world.</p>
-
-<p>I still don’t know if it will be a suitable replacement for Lightroom / Photoshop for me, but then again, my needs are far from mainstream. Not many people use their photo-editing app to do color negative film processing these days, so I can definitely understand the omission.</p>
-
-<p>That said, this may be a great opportunity to learn how to process my negative film scans by <a href="http://mfphotography.ca/blog/2015/3/23/colour-film-scanning-revisited-part-2">manually inverting</a> each individual color channel, as opposed to relying on a Photoshop plugin like <a href="http://www.colorneg.com/colorperfect.html?lang=en">ColorPerfect</a>.</p>
-
-<p>Then, of course, there’s the small detail that, being a native Mac app built from the ground up with modern technology, there’s a pretty good chance Affinity Photo will run laps around Lightroom and Photoshop in the performance department. And though it’s still working like a champ, my aging iMac clearly needs all the help it can get at this point.</p>
-
-<p>In any case, I’ll be putting Affinity Photo through its paces shortly, so be sure to stay tuned for a more in-depth take on it.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/09/photo-editing-mac-app-affinity-photo-reaches-public-release/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
