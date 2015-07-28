@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-07-27T12:35:03+02:00</updated>
+  <updated>2015-07-28T13:43:59+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Musk, Hawking, Wozniak call for ban on autonomous weapons and military AI →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://arstechnica.co.uk/gadgets/2015/07/musk-hawking-wozniak-call-for-ban-on-autonomous-weaponry-and-military-ai/"/>
+	
+    <updated>2015-07-28T13:38:35+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/07/28/musk-hawking-wozniak-call-for-ban-on-autonomous-weapons-and-military-ai</id>
+  	
+  	<content type="html"><![CDATA[<p>Sebastian Anthony, writing for <em>Ars Technica</em>:</p>
+
+<blockquote><p>A very large number of scientific and technological luminaries have signed an open letter calling for the world&rsquo;s governments to ban the development of “offensive autonomous weapons” to prevent a “military AI arms race.”</p>
+
+<p>The <a href="http://futureoflife.org/AI/open_letter_autonomous_weapons">letter</a>, which will be presented at the International Joint Conferences on Artificial Intelligence (<a href="http://ijcai-15.org/">IJCAI</a>) in Buenos Aires tomorrow, is signed by Stephen Hawking, Elon Musk, Noam Chomsky, the Woz, and dozens of other AI and robotics researchers.</p></blockquote>
+
+<p>When so many super-smart people agree on something, we probably should listen.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/07/28/musk-hawking-wozniak-call-for-ban-on-autonomous-weapons-and-military-ai/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee, issue #7]]></title>
@@ -750,29 +769,6 @@
 
 <p>In any case, I’ll be putting Affinity Photo through its paces shortly, so be sure to stay tuned for a more in-depth take on it.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/07/09/photo-editing-mac-app-affinity-photo-reaches-public-release/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Matt Gemmell’s new book, ‘Writing in Markdown’, is now available →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://mattgemmell.com/writing-in-markdown/"/>
-	
-    <updated>2015-07-09T12:38:17+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/09/matt-gemmells-new-book-writing-in-markdown-is-now-available</id>
-  	
-  	<content type="html"><![CDATA[<p>Matt Gemmell’s new book is out today. It’s called <a href="http://www.fivesimplesteps.com/products/writing-in-markdown">Writing in Markdown</a>, and it’s the first in a new series of short books by publisher <a href="http://www.fivesimplesteps.com/">Five Simple Steps</a>. The series is called <a href="http://www.fivesimplesteps.com/blogs/news/35441605-introducing-fast-reads-a-new-series-of-books">Fast Reads</a>, and the idea is to create short, informative and densely packed books that are easy to read in one sitting and provide a comprehensive overview on any given topic. In Matt’s own words:</p>
-
-<blockquote><p>I write every article on this site (and my articles for publication elsewhere, in magazines and online) in Markdown. All my notes are in Markdown files. My weekly <a href="http://mattgemmell.com/membership/">members-only newsletters</a> begin life as Markdown files. I even think in that format.</p>
-
-<p>It was fitting, then, that I was offered the opportunity to write a Fast Read – the first in the series, no less – about using Markdown. I gladly accepted, and I’m pleased to announce that the book is now available.</p>
-
-<p>It’s called <a href="http://www.fivesimplesteps.com/products/writing-in-markdown">Writing in Markdown</a>, it’s about 5,000 words long, and you can read it cover-to-cover in around twenty minutes. It costs £2.50 (or $3.80, or €3.50), and it’s available now.</p></blockquote>
-
-<p>Like Matt, I do most of my writing in Markdown, including <em>all</em> of my writing here on Analog Senses, plus my regular collaborations in other sites like <a href="http://toolsandtoys.net">Tools &amp; Toys</a>.</p>
-
-<p>I really enjoy the simplicity of the Markdown format, but I especially appreciate its power. Being able to write in a readable format that can be converted to HTML in a straightforward, no-nonsense way is a huge benefit in my work. If your work — or play — involves writing for the Web at all, you could probably benefit a great deal from using Markdown.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/09/matt-gemmells-new-book-writing-in-markdown-is-now-available/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
