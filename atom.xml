@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-01T16:47:49+02:00</updated>
+  <updated>2015-08-01T16:52:28+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -122,7 +122,7 @@
 <p class="card-separator">♡</p>
 
 
-<h3><a href="http://blog.kennedyturner.com/whats-the-future-of-diabetes-apps/">What’s the future of diabetes apps | James Turner →</a></h3>
+<h3><a href="http://blog.kennedyturner.com/whats-the-future-of-diabetes-apps/">What’s the future of diabetes apps? | James Turner →</a></h3>
 
 <p>James Turner:</p>
 
@@ -132,7 +132,7 @@
 
 <p>Decision support is also an interesting area for developers. Helping users (especially newly diagnosed ones) choose the right course of action, based on all the data they gave the app is an exciting new frontier.</p></blockquote>
 
-<p>I couldn’t agree more with him, but the underlying difficulties at play here are nothing to sneeze at. It’s one thing to log and display data and trends, but providing recommendations in a clinical app is a hugely sensitive task, especially for conditions like diabetes, where a wrong recommendation can actually kill someone.</p>
+<p>I couldn’t agree more with him, but the underlying difficulties at play here are nothing to sneeze at. It’s one thing to log and display data and trends, but providing recommendations in a clinical app is a hugely sensitive task, especially for conditions like diabetes, where the wrong recommendation can actually kill someone.</p>
 
 <p>The fundamental problem is that clinical apps need to be designed by both doctors and developers working together, and they both speak different languages. As a biomedical engineer who specialized in diabetes research — not to mention a type-1 diabetic myself — I’m perhaps uniquely qualified to understand all sides of this argument.</p>
 
