@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-06T22:46:53+02:00</updated>
+  <updated>2015-08-07T00:31:08+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Portrait Perfection - MirrorLessons reviews the Zeiss Batis 85mm f/1.8 lens for the Sony FE mount →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.mirrorlessons.com/2015/07/21/zeiss-batis-85mm-f1-8-review/"/>
+	
+    <updated>2015-08-07T00:17:56+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/08/07/portrait-perfection-mirrorlessons-reviews-the-zeiss-batis-85mm-f-slash-1-dot-8-lens-for-the-sony-fe-mount</id>
+  	
+  	<content type="html"><![CDATA[<p>Loved this review by Mathieu and Heather from MirrorLessons. According to many reviewers, the <a href="http://www.bhphotovideo.com/c/product/1140833-REG/zeiss_2103_751_85mm_f_1_8_batis_short.html">Zeiss Batis 85mm f/1.8</a> lens may well be the second-best 85mm lens ever made in terms of optical quality, second only to the ultimate manual focus beast, the <a href="http://www.amazon.com/gp/product/B00NGEE4O0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00NGEE4O0&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=XOFPSUY6STZYRJ6C">Zeiss Otus 85mm f/1.4</a>. Then again, the Otus is $4,400, so I suppose that’s to be expected.</p>
+
+<p>Check out the video part of the review to get a taste for what you’ll find in it:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/bZDkr2xwvpU" allowfullscreen></iframe></div>
+
+
+<p>Both of the recently announced Zeiss Batis lenses look fantastic, but the 85mm is the one that seems most appealing to me, by far. There’s something about this lens that reminds me of the <a href="http://www.amazon.com/gp/product/B00HXE4GZQ/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00HXE4GZQ&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=ZBVQWOKGI5JIWIAT">Leica Nocticron</a> lens for Micro Four Thirds. Both seem to take build and image quality to a whole new level inside their respective systems, and both seem to just be incredible portrait lenses.</p>
+
+<p>The Zeiss Batis lenses still haven’t shipped in volume, so grabbing one will continue to be difficult for now. If you can get ahold of one, tough, it looks like you’re in for a treat.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/08/07/portrait-perfection-mirrorlessons-reviews-the-zeiss-batis-85mm-f-slash-1-dot-8-lens-for-the-sony-fe-mount/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Waiting for Android’s inevitable security Armageddon →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -844,21 +866,6 @@
 
 <p>Via <a href="http://kottke.org/15/07/how-to-make-a-hattori-hanzo-sword-from-kill-bill">Kottke</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/07/21/how-to-make-a-hattori-hanzo-katana/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[AnandTech reviews the Apple Watch →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.anandtech.com/show/9381/the-apple-watch-review"/>
-	
-    <updated>2015-07-20T20:18:08+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/20/anandtech-reviews-the-apple-watch</id>
-  	
-  	<content type="html"><![CDATA[<p>Spectacular review by Joshua Ho and Brandon Chester. AnandTech is usually the best site when it comes to hardware-focused reviews, so I was very interested to see how they’d review the Apple Watch, when there is effectively zero information publicly available on its hardware.</p>
-
-<p>Apple’s playing it pretty close to the chest with the S1, but AnandTech has done a remarkable job of shining some light on its hidden secrets. That alone makes this review well worth a read.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/20/anandtech-reviews-the-apple-watch/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
