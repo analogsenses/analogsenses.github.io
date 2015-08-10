@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-08T20:39:36+02:00</updated>
+  <updated>2015-08-10T18:03:18+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Everyday Messenger bag by Peak Design on Kickstarter →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.kickstarter.com/projects/peak-design/the-everyday-messenger-a-bag-for-cameras-and-essen"/>
+	
+    <updated>2015-08-10T17:53:12+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/08/10/the-everyday-messenger-bag-by-peak-design-on-kickstarter</id>
+  	
+  	<content type="html"><![CDATA[<p>The folks at <a href="https://peakdesign.com">Peak Design</a> are back with yet another massively successful Kickstarter project. This time, they set out to design and create the perfect camera bag, not only for photographers, but for everyone else, too:</p>
+
+<blockquote><p>The Everyday Messenger™ is a beautiful, intelligent and adaptable messenger bag designed around the workflows of photographers, creatives, travelers and commuters. <strong>It’s more than a camera bag, it’s your day-to-day essential carry workhorse</strong>, and it does things other camera bags can’t.</p></blockquote>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/6CpOEcl1nec" allowfullscreen></iframe></div>
+
+
+<p>Of course they’re the ones selling the bag, so take their enthusiastic words with a grain of salt. Still, I have to say, the design does look awesome, and I love the many clever features that are seamlessly integrated into the bag.</p>
+
+<p>I’ll definitely be keeping an eye on this project, and will probably end up supporting it before it ends. It’s not like they need the help — they’re already at $1.8 million, almost 20x their initial goal — but it is a great way to ensure more awesome Kickstarter projects keep coming.</p>
+
+<p>Also, check out the video below to get more information about the bag’s design. Great stuff:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/OphGLf0N7q4" allowfullscreen></iframe></div>
+
+<a rel="full-article" href="http://www.analogsenses.com/2015/08/10/the-everyday-messenger-bag-by-peak-design-on-kickstarter/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee, issue #9]]></title>
@@ -1213,24 +1240,6 @@
   	
   	<content type="html"><![CDATA[<p>Apple announced their quarterly earnings yesterday and, as usual, Jason Snell offers plenty of insight into what the numbers mean.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/07/22/jason-snell-on-apples-quarterly-earnings/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[A new trailer for the next James Bond film, ‘Spectre’, was released today →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=LTDaET-JweU"/>
-	
-    <updated>2015-07-22T12:00:28+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/22/a-new-trailer-for-the-next-james-bond-film-spectre-was-released-today</id>
-  	
-  	<content type="html"><![CDATA[<p>It looks great:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/LTDaET-JweU" allowfullscreen></iframe></div>
-
-
-<p>At this point it’s all but confirmed that Christoph Waltz will be playing Spectre’s Number 1, <a href="https://en.wikipedia.org/wiki/Ernst_Stavro_Blofeld">Ernst Stavro Blofeld</a>. To which I say: hell yes.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/22/a-new-trailer-for-the-next-james-bond-film-spectre-was-released-today/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
