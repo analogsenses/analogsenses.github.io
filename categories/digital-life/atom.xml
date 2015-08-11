@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-10T18:26:10+02:00</updated>
+  <updated>2015-08-11T18:17:37+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Guessing the next iPhone lineup]]></title>
+    <link href="http://www.analogsenses.com/2015/08/11/guessing-the-next-iphone-lineup/"/>
+    <updated>2015-08-11T18:08:38+02:00</updated>
+    <id>http://www.analogsenses.com/2015/08/11/guessing-the-next-iphone-lineup</id>
+    <content type="html"><![CDATA[<p>Fun speculation by Graham Spencer over at <em>MacStories</em>:</p>
+
+<blockquote><p>Because my mind was a bit fuzzy on the historical iPhone lineups (particularly the early years), I decided to go back and make a graph to simply and clearly show what Apple has done in the past. The dates I used were based on when each iPhone was available in the US (not the announcement date). Tier 1 represents the newest and most advanced iPhone available at the time. Although there are slight differences between the iPhone 6 and iPhone 6 Plus, they are largely identical (both have an A8 processor with 1 GB RAM, etc) and as a result I’ve characterised them both as Tier 1. Tier 2 represents the next best iPhone available (often the previous year’s Tier 1 model) and Tier 3 is the next best again.</p></blockquote>
+
+<p>There’s no doubt one of his options will be correct. As for which one, I’m going to say Option 1A (Tier 1: iPhone 6s, 6s Plus. Tier 2: iPhone. Tier 3: iPhone 5s). I don’t think we’ll be seeing a plastic iPhone 6c, much less an iPhone 6c Plus. I’d <em>love</em> to see Option 2A, with Apple releasing a 4-inch iPhone 6s (Mini?) alongside the 4.7-inch and 5.5-inch models, but I’m not getting my hopes up.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tony Northrup reviews the Sony A7R II]]></title>
@@ -440,21 +453,6 @@
 
 
 <p>I, for one, am pretty happy with how this experiment went, and you can bet I’ll be using this technique again for upcoming reviews. I love how incredibly simple it is, all things considered, and how great the results are. And, of course, not having to spend any money also helps.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Waiting for Android’s inevitable security Armageddon]]></title>
-    <link href="http://www.analogsenses.com/2015/08/06/waiting-for-androids-inevitable-security-armageddon/"/>
-    <updated>2015-08-06T22:41:07+02:00</updated>
-    <id>http://www.analogsenses.com/2015/08/06/waiting-for-androids-inevitable-security-armageddon</id>
-    <content type="html"><![CDATA[<p><em>Ars Technica’s</em> Ron Amadeo, writing on the future implications of Android’s recently uncovered <a href="http://arstechnica.com/security/2015/07/950-million-android-phones-can-be-hijacked-by-malicious-text-messages/">Stagefright security vulnerability</a>:</p>
-
-<blockquote><p>In a perfect world, the idea of literally billions of easily-pwnable Android handsets would be enough to get Google, the OEMs, and the carriers to all sit down, set aside their branding guidelines and marketing department-enforced differences, and say, “We need to fix this.” But we don’t live in a perfect world. In the <em>real</em> world, carriers and OEMs want to keep their branding and customization hooks in Android so that they can advertise to customers with their own apps and interfaces. Neither appears to want to take responsibility for the unprofitable post-sale support of the millions of devices they create and sell.</p>
-
-<p>At some point, a huge Blaster worm-style Android security armageddon seems inevitable—and that’s what it’s going to take to bring real, meaningful change. Stagefright is a big deal, and the Android ecosystem’s reaction to it is literally 2.6/100ths of what it needs to be.</p></blockquote>
-
-<p>Ouch.</p>
 ]]></content>
   </entry>
   
