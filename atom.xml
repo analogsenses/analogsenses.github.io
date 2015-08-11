@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-11T18:17:37+02:00</updated>
+  <updated>2015-08-11T18:53:32+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Marco Arment on the ethics of modern web ad-blocking →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.marco.org/2015/08/11/ad-blocking-ethics"/>
+	
+    <updated>2015-08-11T18:34:37+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/08/11/marco-arment-on-the-ethics-of-modern-web-ad-blocking</id>
+  	
+  	<content type="html"><![CDATA[<p>Solid piece by Marco Arment on the unstoppable rise of ad-blocking software:</p>
+
+<blockquote><p>All of that tracking and data collection is done without your knowledge, and — critically — without your consent. Because of how the web and web browsers work, the involuntary data collection starts if you simply follow a link. There’s no opportunity for disclosure, negotiation, or reconsideration. By following <em>any</em> link, you unwittingly opt into whatever the target site, and any number of embedded scripts from other sites and tracking networks, wants to collect, track, analyze, and sell about you.</p>
+
+<p>That’s why the implied-contract theory is invalid: people <em>aren’t</em> agreeing to write a blank check and give up reasonable expectations of privacy by clicking a link. They can’t even know what the cost of visiting a page will be until they’ve already visited it and paid the price.</p></blockquote>
+
+<p>Whenever a tool arises that gives users back the control they never should have lost in the first place, you can bet your mortgage people are going to jump on it. However, I’m not convinced this will be a serious problem for publishers until these ad-blocking tools are enabled <em>by default</em> across all modern web browsers, much like pop-up blockers today.</p>
+
+<p>As much as we like to think that people on the Internet know what they’re doing, the vast majority of them still don’t know what an ad-blocker is, much less how to use it or even <em>why</em> they should use it. In fact, I’d bet most people haven’t even stopped to think about Internet ads for a second. Regular people that are not technically informed just don’t seem to care about those things, and value their privacy incredibly poorly.</p>
+
+<p>The truth is, those of us who care about privacy, responsible advertising, and ethical data collection, are <em>grossly</em> outnumbered by those who simply don’t.</p>
+
+<p>Just think of Gmail, Android, or Facebook, to name but three companies/products with a huge vested interest in collecting as much of their users’ private data as they possibly can. If people were really informed about the lengths these companies will go to in order to collect their data, there’s no way in hell those products would be nearly as popular as they continue to be.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/08/11/marco-arment-on-the-ethics-of-modern-web-ad-blocking/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Guessing the next iPhone lineup →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1216,31 +1241,6 @@
 
 <p>Flickr keeps fighting to stay relevant in the age of Facebook and Instagram and I, for one, couldn’t be happier about it.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/07/23/flickr-reintroduces-pro-membership-including-a-20-percent-discount-on-1-year-adobe-creative-cloud-subscriptions/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Jim Dalrymple on Apple Music →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/"/>
-	
-    <updated>2015-07-22T20:39:18+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/22/jim-dalrymple-on-apple-music</id>
-  	
-  	<content type="html"><![CDATA[<p>Jim Dalrymple shares the reasons that moved him to deactivate Apple Music on all of his devices. It’s a frustrating story and, if these issues become widespread enough, he may not be the only one to do it. But there’s more:</p>
-
-<blockquote><p>As if all of that wasn’t enough, Apple Music gave me one more kick in the head. Over the weekend, I turned off Apple Music and it took large chunks of my purchased music with it. Sadly, many of the songs were added from CDs years ago that I no longer have access to. Looking at my old iTunes Match library, before Apple Music, I’m missing about 4,700 songs. At this point, I just don’t care anymore, I just want Apple Music off my devices.</p>
-
-<p>I trusted my data to Apple and they failed. I also failed by not backing up my library before installing Apple Music. I will not make either of those mistakes again.</p></blockquote>
-
-<p>This is a disaster. Deleting actual files from a user’s device is such a sensitive task that it should never happen by accident.</p>
-
-<p>My experience with Apple Music has been similarly underwhelming, especially the part about adding songs and playlists to my music library. It’s just a deeply unintuitive process and I don’t know how much longer I will put up with it.</p>
-
-<p>So far I haven’t experienced any data loss, but I did make a full backup of my iTunes library before activating Apple Music, just in case. It was surprising to realize I just didn’t trust Apple to get this right on their first attempt. That’s telling.</p>
-
-<p>Apple continues to enjoy a stellar reputation for services and devices that mostly “just work”, but screw-ups like this one certainly don’t help.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/22/jim-dalrymple-on-apple-music/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
