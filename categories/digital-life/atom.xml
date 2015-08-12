@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-12T14:44:04+02:00</updated>
+  <updated>2015-08-12T15:51:45+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Sweet Setup picks Google Photos as the best cloud photo management solution]]></title>
+    <link href="http://www.analogsenses.com/2015/08/12/the-sweet-setup-picks-google-photos-as-the-best-cloud-photo-management-solution/"/>
+    <updated>2015-08-12T15:38:22+02:00</updated>
+    <id>http://www.analogsenses.com/2015/08/12/the-sweet-setup-picks-google-photos-as-the-best-cloud-photo-management-solution</id>
+    <content type="html"><![CDATA[<p>If you’re on the lookout for a new cloud photo management solution, this excellent piece by Bradley Chambers has everything you need to know.</p>
+
+<p>Overall, Google Photos looks like an incredible value, but there’s the matter of compression:</p>
+
+<blockquote><p>Google has two pricing options for its photo solution: free with unlimited storage, or the normal Google Drive pricing ($1.99/mo for 100 GB, $9.99/mo for TB, etc). The free solution is recommend for phones or point-and-shoot cameras that are 16 megapixels or less. The free solution does apply a slight compression to your media in order to save storage space.</p>
+
+<p><a href="http://petapixel.com/2015/05/30/jpeg-compression-test-google-photos-vs-jpegmini/">The compression</a> appears to be incredible. Since I keep local copies on my Mac — I recommend that you keep at least one local copy that is backed up to <a href="http://thesweetsetup.com/apps/best-cloud-backup-service/">Backblaze</a> — I don’t mind the compression, as it allows me to use the free version.</p></blockquote>
+
+<p>Such a clever workaround. By keeping a local copy of his full-resolution files and backing it up to a different cloud service, Bradley is able to take advantage of everything Google Photos has to offer without paying anything at all.</p>
+
+<p>Think about it: while you generally do want to keep your pictures accessible from all your devices, you may not necessarily need to access the full-resolution versions all the time. I have literally no use for a 16-Megapixel file on my iPhone, for example. Just knowing they’re safe somewhere is effectively all you need.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[When Bic told women to “Think like a man”]]></title>
@@ -79,27 +98,6 @@
     <content type="html"><![CDATA[<p>Quick-and-dirty review of the <a href="http://www.amazon.com/gp/product/B00ZDWGFR2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ZDWGFR2&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=PJYSFRL6SHETH3DD">Sony A7R II</a>, including a few interesting comparisons with the <a href="http://www.amazon.com/gp/product/B00T3ERT5S/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00T3ERT5S&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=SX2MNTATY72AAXZA">Canon 5DS-R</a> and the <a href="http://www.amazon.com/gp/product/B00LAJQVR6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00LAJQVR6&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=JSRDARIS5LH232BJ">Nikon D810</a>, among others:</p>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/C1kI4NacaUw" allowfullscreen></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Everyday Messenger bag by Peak Design on Kickstarter]]></title>
-    <link href="http://www.analogsenses.com/2015/08/10/the-everyday-messenger-bag-by-peak-design-on-kickstarter/"/>
-    <updated>2015-08-10T17:53:12+02:00</updated>
-    <id>http://www.analogsenses.com/2015/08/10/the-everyday-messenger-bag-by-peak-design-on-kickstarter</id>
-    <content type="html"><![CDATA[<p>The folks at <a href="https://peakdesign.com">Peak Design</a> are back with yet another massively successful Kickstarter project. This time, they set out to design and create the perfect camera bag, not only for photographers, but for everyone else, too:</p>
-
-<blockquote><p>The Everyday Messenger™ is a beautiful, intelligent and adaptable messenger bag designed around the workflows of photographers, creatives, travelers and commuters. <strong>It’s more than a camera bag, it’s your day-to-day essential carry workhorse</strong>, and it does things other camera bags can’t.</p></blockquote>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/6CpOEcl1nec" allowfullscreen></iframe></div></p>
-
-<p>Of course they’re the ones selling the bag, so take their enthusiastic words with a grain of salt. Still, I have to say, the design does look awesome, and I love the many clever features that are seamlessly integrated into the bag.</p>
-
-<p>I’ll definitely be keeping an eye on this project, and will probably end up supporting it before it ends. It’s not like they need the help — they’re already at $1.8 million, almost 20x their initial goal — but it is a great way to ensure more awesome Kickstarter projects keep coming.</p>
-
-<p>Also, check out the video below to get more information about the bag’s design. Great stuff:</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/OphGLf0N7q4" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   

@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-12T14:44:04+02:00</updated>
+  <updated>2015-08-12T15:51:45+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Sweet Setup picks Google Photos as the best cloud photo management solution →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://thesweetsetup.com/apps/best-photo-management-solution/"/>
+	
+    <updated>2015-08-12T15:38:22+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/08/12/the-sweet-setup-picks-google-photos-as-the-best-cloud-photo-management-solution</id>
+  	
+  	<content type="html"><![CDATA[<p>If you’re on the lookout for a new cloud photo management solution, this excellent piece by Bradley Chambers has everything you need to know.</p>
+
+<p>Overall, Google Photos looks like an incredible value, but there’s the matter of compression:</p>
+
+<blockquote><p>Google has two pricing options for its photo solution: free with unlimited storage, or the normal Google Drive pricing ($1.99/mo for 100 GB, $9.99/mo for TB, etc). The free solution is recommend for phones or point-and-shoot cameras that are 16 megapixels or less. The free solution does apply a slight compression to your media in order to save storage space.</p>
+
+<p><a href="http://petapixel.com/2015/05/30/jpeg-compression-test-google-photos-vs-jpegmini/">The compression</a> appears to be incredible. Since I keep local copies on my Mac — I recommend that you keep at least one local copy that is backed up to <a href="http://thesweetsetup.com/apps/best-cloud-backup-service/">Backblaze</a> — I don’t mind the compression, as it allows me to use the free version.</p></blockquote>
+
+<p>Such a clever workaround. By keeping a local copy of his full-resolution files and backing it up to a different cloud service, Bradley is able to take advantage of everything Google Photos has to offer without paying anything at all.</p>
+
+<p>Think about it: while you generally do want to keep your pictures accessible from all your devices, you may not necessarily need to access the full-resolution versions all the time. I have literally no use for a 16-Megapixel file on my iPhone, for example. Just knowing they’re safe somewhere is effectively all you need.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/08/12/the-sweet-setup-picks-google-photos-as-the-best-cloud-photo-management-solution/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Madrid on film: a few Kodak Portra 800 sample shots →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -989,25 +1012,6 @@
 
 <p>For a more in-depth look at this little marvel of a bag, check out Ben’s excellent review.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/07/28/ben-brooks-reviews-the-10-liter-bullet-ruck-by-goruck/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Musk, Hawking, Wozniak call for ban on autonomous weapons and military AI →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://arstechnica.co.uk/gadgets/2015/07/musk-hawking-wozniak-call-for-ban-on-autonomous-weaponry-and-military-ai/"/>
-	
-    <updated>2015-07-28T13:38:35+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/07/28/musk-hawking-wozniak-call-for-ban-on-autonomous-weapons-and-military-ai</id>
-  	
-  	<content type="html"><![CDATA[<p>Sebastian Anthony, writing for <em>Ars Technica</em>:</p>
-
-<blockquote><p>A very large number of scientific and technological luminaries have signed an open letter calling for the world&rsquo;s governments to ban the development of “offensive autonomous weapons” to prevent a “military AI arms race.”</p>
-
-<p>The <a href="http://futureoflife.org/AI/open_letter_autonomous_weapons">letter</a>, which will be presented at the International Joint Conferences on Artificial Intelligence (<a href="http://ijcai-15.org/">IJCAI</a>) in Buenos Aires tomorrow, is signed by Stephen Hawking, Elon Musk, Noam Chomsky, the Woz, and dozens of other AI and robotics researchers.</p></blockquote>
-
-<p>When so many super-smart people agree on something, we probably should listen.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/07/28/musk-hawking-wozniak-call-for-ban-on-autonomous-weapons-and-military-ai/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
