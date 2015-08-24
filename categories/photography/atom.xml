@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-23T21:32:57+02:00</updated>
+  <updated>2015-08-24T12:30:21+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jordan Steele reviews the Sony A7R II]]></title>
+    <link href="http://www.analogsenses.com/2015/08/24/jordan-steele-reviews-the-sony-a7r-ii/"/>
+    <updated>2015-08-24T12:10:47+02:00</updated>
+    <id>http://www.analogsenses.com/2015/08/24/jordan-steele-reviews-the-sony-a7r-ii</id>
+    <content type="html"><![CDATA[<p>Jordan’s review is fantastic, as usual. Lots of interesting thoughts on the camera’s small quirks, and lots of incredibly gorgeous pictures. I was really impressed by how well images shot with old Canon FD glass look on the A7R II. In particular, <a href="http://admiringlight.com/blog/wp-content/uploads/2015/08/xander_eyes.jpg">this picture</a> of Jordan’s son, taken with the Canon FD 85mm f/1.8 lens, looks amazingly sharp at the point of focus, with the background melting away into a gorgeous bokeh. Really impressive stuff.</p>
+
+<p>Given that old Canon FD lenses can be easily purchased today for pennies on the dollar, this quality is enough to make you wonder if the investment on modern, Zeiss-branded autofocusing glass — not to mention the manual-focus Loxia lenses — is really worth it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First contact: a walk around Plasencia with the Sony A7 Mark II]]></title>
@@ -464,15 +475,6 @@
 
 <p class="extra-width"><img src="https://farm6.staticflickr.com/5766/20333125958_719f30c050_o.jpg"/></p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Michael Fraser’s color film scanning workflow, part 3]]></title>
-    <link href="http://www.analogsenses.com/2015/08/12/michael-frasers-color-film-scanning-workflow-part-3/"/>
-    <updated>2015-08-12T11:09:00+02:00</updated>
-    <id>http://www.analogsenses.com/2015/08/12/michael-frasers-color-film-scanning-workflow-part-3</id>
-    <content type="html"><![CDATA[<p>The third and final part of Michael Fraser’s DSLR-based color negative film scanning workflow was published yesterday, and it’s amazing. I’ve recently been asking Michael for help on Twitter in order to fine-tune my own workflow, which is based on his previous articles, and he’s been incredibly helpful and nice. The tweaks he’s made in this final post make all the difference in the world, and the included screencast is super informative and easy to follow. 100% recommended.</p>
 ]]></content>
   </entry>
   
