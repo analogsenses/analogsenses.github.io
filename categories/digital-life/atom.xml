@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-25T11:52:35+02:00</updated>
+  <updated>2015-08-25T16:42:00+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The ONA Prince Street messenger bag at Tools &amp; Toys]]></title>
+    <link href="http://www.analogsenses.com/2015/08/25/the-ona-prince-street-messenger-bag-at-tools-and-toys/"/>
+    <updated>2015-08-25T16:31:57+02:00</updated>
+    <id>http://www.analogsenses.com/2015/08/25/the-ona-prince-street-messenger-bag-at-tools-and-toys</id>
+    <content type="html"><![CDATA[<p>I’m a huge fan of ONA camera bags, and <a href="http://www.amazon.com/gp/product/B00N33F0SI/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00N33F0SI&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=OEEIRGAET53EL6FL">the Prince Street</a> is number two on my list, behind only <a href="http://www.amazon.com/gp/product/B00AEB3PPC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00AEB3PPC&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=T5RKHSKY5Y2EPXCZ">the Brixton</a>. Both bags are extremely similar, with the main difference between them being size.</p>
+
+<p>I’m also a fan of Mike’s reviews, and this one is no exception. The photography is gorgeous as usual, and every detail about the bag has been carefully considered and deftly explained.</p>
+
+<p>I probably won’t end up buying the Prince Street, but I sure enjoyed my time reading Mike’s take on it. An excellent piece of work any way you slice it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Morning Coffee, issue #11]]></title>
@@ -607,21 +620,6 @@
 <p>That’s pretty much all I have to say about it at this point. Rest assured, I will be using it extensively in the coming days and weeks, so I’ll be sharing more of my impressions here, and also <a href="https://twitter.com/analogsenses">on Twitter</a>.</p>
 
 <p>Until then, have a wonderful weekend and, of course, thank you for reading.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lenovo used a hidden Windows feature to ensure its software could not be deleted]]></title>
-    <link href="http://www.analogsenses.com/2015/08/12/lenovo-used-a-hidden-windows-feature-to-ensure-its-software-could-not-be-deleted/"/>
-    <updated>2015-08-12T16:51:53+02:00</updated>
-    <id>http://www.analogsenses.com/2015/08/12/lenovo-used-a-hidden-windows-feature-to-ensure-its-software-could-not-be-deleted</id>
-    <content type="html"><![CDATA[<p>Owen Williams, writing for <em>The Next Web</em>:</p>
-
-<blockquote><p>The users discovered the issue in May when using a new Lenovo laptop that automatically and covertly overwrote a system file on every boot, which downloaded a Lenovo updater and installed software automatically, even if Windows was reinstalled from a DVD.</p>
-
-<p>The only problem is that nobody actually asked for this software, and it persisted between clean installs of Windows. Lenovo was essentially exploiting a rootkit on its own laptops to ensure its software persists if wiped.</p></blockquote>
-
-<p>Stay classy, Lenovo. Here’s some free advice for you: if users want to get rid of your software so bad that they’re formatting their entire drives, forcing it up on them may not be the best way to go. How about making sure your software doesn’t suck in the first place?</p>
 ]]></content>
   </entry>
   

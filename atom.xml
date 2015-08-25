@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-25T11:52:35+02:00</updated>
+  <updated>2015-08-25T16:42:00+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The ONA Prince Street messenger bag at Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/reviews/the-ona-prince-street-camera-bag/"/>
+	
+    <updated>2015-08-25T16:31:57+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/08/25/the-ona-prince-street-messenger-bag-at-tools-and-toys</id>
+  	
+  	<content type="html"><![CDATA[<p>I’m a huge fan of ONA camera bags, and <a href="http://www.amazon.com/gp/product/B00N33F0SI/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00N33F0SI&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=OEEIRGAET53EL6FL">the Prince Street</a> is number two on my list, behind only <a href="http://www.amazon.com/gp/product/B00AEB3PPC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00AEB3PPC&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=T5RKHSKY5Y2EPXCZ">the Brixton</a>. Both bags are extremely similar, with the main difference between them being size.</p>
+
+<p>I’m also a fan of Mike’s reviews, and this one is no exception. The photography is gorgeous as usual, and every detail about the bag has been carefully considered and deftly explained.</p>
+
+<p>I probably won’t end up buying the Prince Street, but I sure enjoyed my time reading Mike’s take on it. An excellent piece of work any way you slice it.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/08/25/the-ona-prince-street-messenger-bag-at-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[MirrorLessons reviews the upcoming Olympus OM-D E-M10 Mark II →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1451,25 +1468,6 @@
 
 <p>The Zeiss Batis lenses still haven’t shipped in volume, so grabbing one will continue to be difficult for now. If you can get ahold of one, tough, it looks like you’re in for a treat.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/08/07/portrait-perfection-mirrorlessons-reviews-the-zeiss-batis-85mm-f-slash-1-dot-8-lens-for-the-sony-fe-mount/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Waiting for Android’s inevitable security Armageddon →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://arstechnica.com/gadgets/2015/08/waiting-for-androids-inevitable-security-armageddon/"/>
-	
-    <updated>2015-08-06T22:41:07+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/08/06/waiting-for-androids-inevitable-security-armageddon</id>
-  	
-  	<content type="html"><![CDATA[<p><em>Ars Technica’s</em> Ron Amadeo, writing on the future implications of Android’s recently uncovered <a href="http://arstechnica.com/security/2015/07/950-million-android-phones-can-be-hijacked-by-malicious-text-messages/">Stagefright security vulnerability</a>:</p>
-
-<blockquote><p>In a perfect world, the idea of literally billions of easily-pwnable Android handsets would be enough to get Google, the OEMs, and the carriers to all sit down, set aside their branding guidelines and marketing department-enforced differences, and say, “We need to fix this.” But we don’t live in a perfect world. In the <em>real</em> world, carriers and OEMs want to keep their branding and customization hooks in Android so that they can advertise to customers with their own apps and interfaces. Neither appears to want to take responsibility for the unprofitable post-sale support of the millions of devices they create and sell.</p>
-
-<p>At some point, a huge Blaster worm-style Android security armageddon seems inevitable—and that’s what it’s going to take to bring real, meaningful change. Stagefright is a big deal, and the Android ecosystem’s reaction to it is literally 2.6/100ths of what it needs to be.</p></blockquote>
-
-<p>Ouch.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/08/06/waiting-for-androids-inevitable-security-armageddon/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
