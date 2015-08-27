@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-08-27T23:29:46+02:00</updated>
+  <updated>2015-08-27T23:45:53+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[A photo essay of Madrid’s El Rastro →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/photo-essays/madrids-el-rastro/"/>
+	
+    <updated>2015-08-27T23:33:26+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/08/27/a-photo-essay-of-madrids-el-rastro</id>
+  	
+  	<content type="html"><![CDATA[<p>El Rastro is Madrid’s traditional flea market, a place where there’s literally nothing that’s not for sale. Last Sunday I brought the camera with me and tried to capture some of its unique essence:</p>
+
+<blockquote><p>With almost 300 years of history — early mentions of it date back to 1740 — El Rastro is probably the oldest flea market in all of Spain. Loved and visited by locals and tourists alike, El Rastro is as much an experience as it is a market. Everything has a price here, even a few things that really, <em>really</em> shouldn’t.</p></blockquote>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5735/20925048892_3356ae3e4c_o.jpg"/></p>
+
+
+
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5690/20925049812_292d0dc1d1_o.jpg"/></p>
+
+
+
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5748/20746736580_5dffdaf074_o.jpg"/></p>
+
+
+<p>I really love El Rastro. If you’re ever stopping by Madrid, I can’t recommend visiting enough. You may not end up buying anything, but you’ll definitely go home with a couple interesting stories to tell, at the very least.</p>
+
+<p>Head on over to <em>Tools &amp; Toys</em> to check out <a href="http://toolsandtoys.net/photo-essays/madrids-el-rastro/">the entire photo-story</a>.</p>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5824/20925050772_cbfac129d2_o.jpg"/></p>
+
+<a rel="full-article" href="http://www.analogsenses.com/2015/08/27/a-photo-essay-of-madrids-el-rastro/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Instagram announces support for portrait and landscape orientation pictures →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1096,23 +1131,6 @@
 
 <p>Just think of Gmail, Android, or Facebook, to name but three companies/products with a huge vested interest in collecting as much of their users’ private data as they possibly can. If people were really informed about the lengths these companies will go to in order to collect their data, there’s no way in hell those products would be nearly as popular as they continue to be.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/08/11/marco-arment-on-the-ethics-of-modern-web-ad-blocking/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Guessing the next iPhone lineup →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.macstories.net/stories/visualizing-apples-historical-iphone-lineups-guessing-the-next-one/"/>
-	
-    <updated>2015-08-11T18:08:38+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/08/11/guessing-the-next-iphone-lineup</id>
-  	
-  	<content type="html"><![CDATA[<p>Fun speculation by Graham Spencer over at <em>MacStories</em>:</p>
-
-<blockquote><p>Because my mind was a bit fuzzy on the historical iPhone lineups (particularly the early years), I decided to go back and make a graph to simply and clearly show what Apple has done in the past. The dates I used were based on when each iPhone was available in the US (not the announcement date). Tier 1 represents the newest and most advanced iPhone available at the time. Although there are slight differences between the iPhone 6 and iPhone 6 Plus, they are largely identical (both have an A8 processor with 1 GB RAM, etc) and as a result I’ve characterised them both as Tier 1. Tier 2 represents the next best iPhone available (often the previous year’s Tier 1 model) and Tier 3 is the next best again.</p></blockquote>
-
-<p>There’s no doubt one of his options will be correct. As for which one, I’m going to say Option 1A (Tier 1: iPhone 6s, 6s Plus. Tier 2: iPhone. Tier 3: iPhone 5s). I don’t think we’ll be seeing a plastic iPhone 6c, much less an iPhone 6c Plus. I’d <em>love</em> to see Option 2A, with Apple releasing a 4-inch iPhone 6s (Mini?) alongside the 4.7-inch and 5.5-inch models, but I’m not getting my hopes up.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/08/11/guessing-the-next-iphone-lineup/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
