@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-09-15T19:04:48+02:00</updated>
+  <updated>2015-09-15T20:07:57+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The O: wearable + app to never lose or forget anything]]></title>
+    <link href="http://www.analogsenses.com/2015/09/15/the-o-wearable-plus-app-to-never-lose-or-forget-anything/"/>
+    <updated>2015-09-15T19:58:46+02:00</updated>
+    <id>http://www.analogsenses.com/2015/09/15/the-o-wearable-plus-app-to-never-lose-or-forget-anything</id>
+    <content type="html"><![CDATA[<p>Interesting and clever Kickstarter project. The O is a small wearable device you can attach to your essential items — like your smartphone, keys and wallet, for example. It will alert you whenever you leave an item behind via its companion smartphone app.</p>
+
+<p>The project has less than 2,000 £ and 22 days to go to get funded, so it’s very likely to succeed. Check it out.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Morning Coffee, issue #14]]></title>
@@ -624,19 +635,6 @@
 <p>Do you need it, though? Lord no. I’d hazard a guess that even the Bionic Man would struggle to tell the difference between this and even an iPhone 6 Plus, which  “only” has a 1080p screen and the same screen dimensions. Even if you could spy all the details, the question of content rears its ugly head: there still isn’t that much available to make a 4K screen on a TV, let alone a smartphone, a compelling reason for purchase.</p></blockquote>
 
 <p>“<em>Fuck everything, we’re doing <a href="http://www.theonion.com/blogpost/fuck-everything-were-doing-five-blades-11056">five blades</a></em>.”</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Amazon Prime Video now includes offline viewing on Android and iOS]]></title>
-    <link href="http://www.analogsenses.com/2015/09/02/amazon-prime-video-now-includes-offline-viewing-on-android-and-ios/"/>
-    <updated>2015-09-02T16:07:08+02:00</updated>
-    <id>http://www.analogsenses.com/2015/09/02/amazon-prime-video-now-includes-offline-viewing-on-android-and-ios</id>
-    <content type="html"><![CDATA[<p>Nice addition to the service, which is now called simply Amazon Video. Sam Machkovech has more information over at <em>Ars Technica</em>:</p>
-
-<blockquote><p>Once you start watching a downloaded video offline—which can be downloaded in one of three quality settings—the app will pop up a warning that the video will stop working 72 hours after the viewing first began. Simply reloading the app once you’ve returned to an Internet connection will restart any such timers. In a neat twist, offline videos also come with Amazon’s IMDB-fueled “X-Ray” blurbs that can be tapped at any time, meaning you don’t have to get online to answer pesky “who is that actor” questions. However, the app doesn’t include any way to parse how much space you’ve used by downloading videos, nor does it warn you how much space remains. You’ll have to go through your iOS or Android device’s space menus to sort that stuff out.</p></blockquote>
-
-<p>While it may have originated as a perk bundled with Amazon Prime, Amazon continues to slowly improve their on-demand video service.</p>
 ]]></content>
   </entry>
   
