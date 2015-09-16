@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-09-15T20:07:57+02:00</updated>
+  <updated>2015-09-16T19:40:06+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Federico Viticci reviews iOS 9 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.macstories.net/stories/ios-9-review/"/>
+	
+    <updated>2015-09-16T19:36:08+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/09/16/federico-viticci-reviews-ios-9</id>
+  	
+  	<content type="html"><![CDATA[<p>At 48,000 words, this is a <em>massive</em> undertaking by Federico. His much-anticipated review went straight to the top of my Instapaper queue, as it should do yours. Or better yet, just go read it right now.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/09/16/federico-viticci-reviews-ios-9/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The O: wearable + app to never lose or forget anything →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1129,31 +1142,6 @@ With her impeccable taste and his great photographic skills, Beauttype is sure t
 
 <p>Totally <a href="http://www.analogsenses.com/2015/06/17/sharing-pictures-from-a-dedicated-camera-on-instagram-what-works-and-what-needs-fixing/">called</a> this one.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/08/27/instagram-announces-support-for-portrait-and-landscape-orientation-pictures/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Tesla Model S P85D breaks the Consumer Reports Ratings System →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.consumerreports.org/cro/cars/tesla-model-s-p85d-breaks-consumer-reports-ratings-system.htm"/>
-	
-    <updated>2015-08-27T15:33:29+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/08/27/tesla-model-s-p85d-breaks-the-consumer-reports-ratings-system</id>
-  	
-  	<content type="html"><![CDATA[<p>Apparently the car’s not half bad:</p>
-
-<blockquote><p>In rating it, however, we faced a quandary: The Tesla initially scored 103 in the Consumer Reports&#8217; Ratings system, which by definition doesn’t go past 100. The car set a new benchmark, so we had to make changes to our scoring to account for it. Those changes didn’t affect the scores of other cars.</p></blockquote>
-
-<p>Of course, such high praise is inevitably followed by the customary <em>but</em>:</p>
-
-<blockquote><p>To be clear, the Tesla’s 100 score doesn’t make the P85D a perfect car—even at $127,820. It has imperfections. The interior materials aren’t as opulent as other high-ticket automobiles, and its ride is firmer and louder than our base Model S.</p>
-
-<p>What’s more, a lengthy road trip in an electric car with a 200-plus mile range can be a logistical hurdle if a quick-charging station isn’t along your route.</p></blockquote>
-
-<p>Not that I have the highest regard for <em>Consumer Reports</em> and their ratings system, but it does look like the Tesla Model S P85D is one hell of a car.</p>
-
-<p>Via <em><a href="http://www.theverge.com/2015/8/27/9214263/tesla-model-s-p85d-consumer-reports">The Verge</a></em>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/08/27/tesla-model-s-p85d-breaks-the-consumer-reports-ratings-system/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

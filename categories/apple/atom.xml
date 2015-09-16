@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-09-15T20:07:57+02:00</updated>
+  <updated>2015-09-16T19:40:06+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Federico Viticci reviews iOS 9]]></title>
+    <link href="http://www.analogsenses.com/2015/09/16/federico-viticci-reviews-ios-9/"/>
+    <updated>2015-09-16T19:36:08+02:00</updated>
+    <id>http://www.analogsenses.com/2015/09/16/federico-viticci-reviews-ios-9</id>
+    <content type="html"><![CDATA[<p>At 48,000 words, this is a <em>massive</em> undertaking by Federico. His much-anticipated review went straight to the top of my Instapaper queue, as it should do yours. Or better yet, just go read it right now.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Not-so-brief thoughts on Apple’s ‘Hey, Siri’ event]]></title>
@@ -284,17 +293,6 @@
     <updated>2015-07-22T18:38:29+02:00</updated>
     <id>http://www.analogsenses.com/2015/07/22/jason-snell-on-apples-quarterly-earnings</id>
     <content type="html"><![CDATA[<p>Apple announced their quarterly earnings yesterday and, as usual, Jason Snell offers plenty of insight into what the numbers mean.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[AnandTech reviews the Apple Watch]]></title>
-    <link href="http://www.analogsenses.com/2015/07/20/anandtech-reviews-the-apple-watch/"/>
-    <updated>2015-07-20T20:18:08+02:00</updated>
-    <id>http://www.analogsenses.com/2015/07/20/anandtech-reviews-the-apple-watch</id>
-    <content type="html"><![CDATA[<p>Spectacular review by Joshua Ho and Brandon Chester. AnandTech is usually the best site when it comes to hardware-focused reviews, so I was very interested to see how they’d review the Apple Watch, when there is effectively zero information publicly available on its hardware.</p>
-
-<p>Apple’s playing it pretty close to the chest with the S1, but AnandTech has done a remarkable job of shining some light on its hidden secrets. That alone makes this review well worth a read.</p>
 ]]></content>
   </entry>
   
