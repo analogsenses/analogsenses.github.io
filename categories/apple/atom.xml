@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-09-16T19:47:50+02:00</updated>
+  <updated>2015-09-16T19:54:45+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rene Ritchie reviews iOS 9]]></title>
+    <link href="http://www.analogsenses.com/2015/09/16/rene-ritchie-reviews-ios-9/"/>
+    <updated>2015-09-16T19:52:08+02:00</updated>
+    <id>http://www.analogsenses.com/2015/09/16/rene-ritchie-reviews-ios-9</id>
+    <content type="html"><![CDATA[<p>Another fantastic and comprehensive iOS review by Rene, as usual. Between this one and <a href="/2015/09/16/federico-viticci-reviews-ios-9/">the aforelinked review</a> by Federico Viticci, your iOS 9 reading needs should be pretty damn well covered.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[watchOS 2 delayed, won’t be released today]]></title>
@@ -278,27 +287,6 @@
 <blockquote><p>Because my mind was a bit fuzzy on the historical iPhone lineups (particularly the early years), I decided to go back and make a graph to simply and clearly show what Apple has done in the past. The dates I used were based on when each iPhone was available in the US (not the announcement date). Tier 1 represents the newest and most advanced iPhone available at the time. Although there are slight differences between the iPhone 6 and iPhone 6 Plus, they are largely identical (both have an A8 processor with 1 GB RAM, etc) and as a result I’ve characterised them both as Tier 1. Tier 2 represents the next best iPhone available (often the previous year’s Tier 1 model) and Tier 3 is the next best again.</p></blockquote>
 
 <p>There’s no doubt one of his options will be correct. As for which one, I’m going to say Option 1A (Tier 1: iPhone 6s, 6s Plus. Tier 2: iPhone. Tier 3: iPhone 5s). I don’t think we’ll be seeing a plastic iPhone 6c, much less an iPhone 6c Plus. I’d <em>love</em> to see Option 2A, with Apple releasing a 4-inch iPhone 6s (Mini?) alongside the 4.7-inch and 5.5-inch models, but I’m not getting my hopes up.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jim Dalrymple on Apple Music]]></title>
-    <link href="http://www.analogsenses.com/2015/07/22/jim-dalrymple-on-apple-music/"/>
-    <updated>2015-07-22T20:39:18+02:00</updated>
-    <id>http://www.analogsenses.com/2015/07/22/jim-dalrymple-on-apple-music</id>
-    <content type="html"><![CDATA[<p>Jim Dalrymple shares the reasons that moved him to deactivate Apple Music on all of his devices. It’s a frustrating story and, if these issues become widespread enough, he may not be the only one to do it. But there’s more:</p>
-
-<blockquote><p>As if all of that wasn’t enough, Apple Music gave me one more kick in the head. Over the weekend, I turned off Apple Music and it took large chunks of my purchased music with it. Sadly, many of the songs were added from CDs years ago that I no longer have access to. Looking at my old iTunes Match library, before Apple Music, I’m missing about 4,700 songs. At this point, I just don’t care anymore, I just want Apple Music off my devices.</p>
-
-<p>I trusted my data to Apple and they failed. I also failed by not backing up my library before installing Apple Music. I will not make either of those mistakes again.</p></blockquote>
-
-<p>This is a disaster. Deleting actual files from a user’s device is such a sensitive task that it should never happen by accident.</p>
-
-<p>My experience with Apple Music has been similarly underwhelming, especially the part about adding songs and playlists to my music library. It’s just a deeply unintuitive process and I don’t know how much longer I will put up with it.</p>
-
-<p>So far I haven’t experienced any data loss, but I did make a full backup of my iTunes library before activating Apple Music, just in case. It was surprising to realize I just didn’t trust Apple to get this right on their first attempt. That’s telling.</p>
-
-<p>Apple continues to enjoy a stellar reputation for services and devices that mostly “just work”, but screw-ups like this one certainly don’t help.</p>
 ]]></content>
   </entry>
   
