@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://www.analogsenses.com/2015/09/19/morning-coffee/</loc>
+    <lastmod>2015-09-19T12:41:24+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://www.analogsenses.com/2015/09/18/the-solar-system-to-scale/</loc>
     <lastmod>2015-09-18T14:13:01+02:00</lastmod>
     <priority>0.8</priority>
@@ -7523,28 +7529,28 @@
   
   <url>
     <loc>http://www.analogsenses.com/404.html</loc>
-    <lastmod>2015-09-18T14:14:54+02:00</lastmod>
+    <lastmod>2015-09-19T15:53:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.analogsenses.com/</loc>
-    <lastmod>2015-09-18T14:14:54+02:00</lastmod>
+    <lastmod>2015-09-19T15:53:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://www.analogsenses.com/archive/</loc>
-    <lastmod>2015-09-18T14:14:54+02:00</lastmod>
+    <lastmod>2015-09-19T15:53:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.analogsenses.com/about/</loc>
-    <lastmod>2015-09-18T14:14:54+02:00</lastmod>
+    <lastmod>2015-09-19T15:53:26+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7552,7 +7558,7 @@
   
   <url>
     <loc>http://www.analogsenses.com/feed/index.html</loc>
-    <lastmod>2014-08-29T12:39:07Z</lastmod>
+    <lastmod>2014-09-02T12:51:24Z</lastmod>
     <priority>0.6</priority>
   </url>
   
