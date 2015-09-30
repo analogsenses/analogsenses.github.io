@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-09-30T00:14:56+02:00</updated>
+  <updated>2015-09-30T19:20:03+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Canon 5Ds R vs Sony a7R II hands-on review →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=aO1C_GvZ4zU"/>
+	
+    <updated>2015-09-30T19:05:38+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/09/30/canon-5ds-r-vs-sony-a7r-ii-hands-on-review</id>
+  	
+  	<content type="html"><![CDATA[<p>Kai is back at it, this time from Cambridge, England:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/aO1C_GvZ4zU" allowfullscreen></iframe></div>
+
+<a rel="full-article" href="http://www.analogsenses.com/2015/09/30/canon-5ds-r-vs-sony-a7r-ii-hands-on-review/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[MirrorLessons reviews the Sony A7R II - Part 1: Autofocus →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1225,19 +1241,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Marco Arment’s podcasting microphones mega-review →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.marco.org/podcasting-microphones"/>
-	
-    <updated>2015-09-08T16:42:48+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/09/08/marco-arments-podcasting-microphones-mega-review</id>
-  	
-  	<content type="html"><![CDATA[<p>I love it when Marco geeks out like this. To call this review comprehensive would be the understatement of the year.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/09/08/marco-arments-podcasting-microphones-mega-review/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
