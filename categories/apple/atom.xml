@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-01T10:28:01+02:00</updated>
+  <updated>2015-10-01T15:22:03+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Stephen Hackett reviews OS X El Capitan]]></title>
+    <link href="http://www.analogsenses.com/2015/10/01/stephen-hackett-reviews-os-x-el-capitan/"/>
+    <updated>2015-10-01T15:19:20+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/01/stephen-hackett-reviews-os-x-el-capitan</id>
+    <content type="html"><![CDATA[<p>Nice overview of the latest version of OS X, which was released yesterday <a href="https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117">on the Mac App Store</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Alex Cornell reviews the iPhone 6S]]></title>
@@ -70,15 +79,6 @@
 <p>“We have discovered a bug in development of watchOS 2 that is taking a bit longer to fix than we expected,” an Apple spokesperson told TechCrunch. “We will not release watchOS 2 today but will shortly.”</p></blockquote>
 
 <p>Via <a href="http://daringfireball.net/linked/2015/09/16/watchos-2-delayed">Daring Fireball</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Federico Viticci reviews iOS 9]]></title>
-    <link href="http://www.analogsenses.com/2015/09/16/federico-viticci-reviews-ios-9/"/>
-    <updated>2015-09-16T19:36:08+02:00</updated>
-    <id>http://www.analogsenses.com/2015/09/16/federico-viticci-reviews-ios-9</id>
-    <content type="html"><![CDATA[<p>At 48,000 words, this is a <em>massive</em> undertaking by Federico. His much-anticipated review went straight to the top of my Instapaper queue, as it should do yours. Or better yet, just go read it right now.</p>
 ]]></content>
   </entry>
   
