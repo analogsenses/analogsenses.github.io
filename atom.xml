@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-06T12:15:26+02:00</updated>
+  <updated>2015-10-06T18:22:46+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[How focal length affects how you see →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://photographylife.com/how-focal-length-affects-what-and-how-you-see"/>
+	
+    <updated>2015-10-06T18:17:50+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/10/06/how-focal-length-affects-how-you-see</id>
+  	
+  	<content type="html"><![CDATA[<p>Interesting thought from John Bosley:</p>
+
+<blockquote><p>Your choice of focal length will affect what you see. Would you agree with that? What if I also said that your choice of focal length will affect <em>how</em> you see? That’s a whole different story, now isn’t it? Instead of discussing how focal length affects your view when you look into the viewfinder, I want to talk about how focal length can affect how you look at everything around you before you ever even see it in the viewfinder.</p></blockquote>
+
+<p>He goes on to make an excellent point. Well worth a read.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/10/06/how-focal-length-affects-how-you-see/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Europe’s highest court strikes down Safe Harbour data sharing between EU and US →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1013,19 +1030,6 @@
 
 <p>If that sounds awesome to you — and I promise you, it is — head on over to <em>Tools &amp; Toys</em> to check it out.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/09/17/madrids-food-markets-san-anton/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Rene Ritchie reviews iOS 9 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.imore.com/ios-9-review"/>
-	
-    <updated>2015-09-16T19:52:08+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/09/16/rene-ritchie-reviews-ios-9</id>
-  	
-  	<content type="html"><![CDATA[<p>Another fantastic and comprehensive iOS review by Rene, as usual. Between this one and <a href="http://www.analogsenses.com/2015/09/16/federico-viticci-reviews-ios-9/">the aforelinked review</a> by Federico Viticci, your iOS 9 reading needs should be pretty damn well covered.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/09/16/rene-ritchie-reviews-ios-9/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
