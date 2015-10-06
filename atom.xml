@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-05T18:49:34+02:00</updated>
+  <updated>2015-10-06T12:15:26+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Europe’s highest court strikes down Safe Harbour data sharing between EU and US →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://arstechnica.co.uk/tech-policy/2015/10/europes-highest-court-strikes-down-safe-harbour-data-sharing-between-eu-and-us/"/>
+	
+    <updated>2015-10-06T12:10:53+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/10/06/europes-highest-court-strikes-down-safe-harbour-data-sharing-between-eu-and-us</id>
+  	
+  	<content type="html"><![CDATA[<p>Landmark ruling today by the Court of Justice of the European Union (CJEU). Sebastian Anthony, writing for <em>Ars Technica</em>:</p>
+
+<blockquote><p>According to an earlier CJEU statement (PDF), “the access enjoyed by the United States intelligence services to the transferred data constitutes an interference with the right to respect for private life and the right to protection of personal data, which are guaranteed by the [Charter of Fundamental Rights of the EU].” Another issue, according to the Advocate General, was “the inability of citizens of the EU to be heard on the question of the surveillance and interception of their data in the United States,” which therefore amounts to “an interference with the right of EU citizens to an effective remedy, protected by the Charter.”</p>
+
+<p>Because the CJEU was ruling on an issue in Ireland, the Irish court is expected to make its own judgement shortly. It is likely that the Irish court will side with the CJEU. When that happens, one of two things will need to happen: Facebook, and many other US companies with Irish subsidiaries, will need to keep European data within the EU; or the US will need to provide real privacy protection for EU data when it flows back to the US. As the latter is unlikely due to pressure from the NSA and other intelligence agencies, we suspect most US companies will opt for the former.</p></blockquote>
+
+<p>I’m glad to see the EU stepping up to protect the privacy of its citizens.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/10/06/europes-highest-court-strikes-down-safe-harbour-data-sharing-between-eu-and-us/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Tesla Model X: This is it →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1007,25 +1026,6 @@
   	
   	<content type="html"><![CDATA[<p>Another fantastic and comprehensive iOS review by Rene, as usual. Between this one and <a href="http://www.analogsenses.com/2015/09/16/federico-viticci-reviews-ios-9/">the aforelinked review</a> by Federico Viticci, your iOS 9 reading needs should be pretty damn well covered.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/09/16/rene-ritchie-reviews-ios-9/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[watchOS 2 delayed, won’t be released today →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://techcrunch.com/2015/09/16/apple-delays-release-of-watchos-2-due-to-bug/"/>
-	
-    <updated>2015-09-16T19:45:17+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/09/16/watchos-2-delayed-wont-be-released-today</id>
-  	
-  	<content type="html"><![CDATA[<p>It looks like Apple Watch wearers will have to wait a little longer for the first major update to watchOS. Matthew Panzarino, writing for <em>TechCrunch</em>:</p>
-
-<blockquote><p>Apple has delayed the release of watchOS 2, which was expected to be available today to owners of the Apple Watch.</p>
-
-<p>“We have discovered a bug in development of watchOS 2 that is taking a bit longer to fix than we expected,” an Apple spokesperson told TechCrunch. “We will not release watchOS 2 today but will shortly.”</p></blockquote>
-
-<p>Via <a href="http://daringfireball.net/linked/2015/09/16/watchos-2-delayed">Daring Fireball</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/09/16/watchos-2-delayed-wont-be-released-today/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
