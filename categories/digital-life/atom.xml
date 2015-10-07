@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-07T18:46:22+02:00</updated>
+  <updated>2015-10-07T19:01:48+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Disney artists go hands-on with upcoming iPad Pro and Apple Pencil]]></title>
+    <link href="http://www.analogsenses.com/2015/10/07/disney-artists-go-hands-on-with-upcoming-ipad-pro-and-apple-pencil/"/>
+    <updated>2015-10-07T18:55:16+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/07/disney-artists-go-hands-on-with-upcoming-ipad-pro-and-apple-pencil</id>
+    <content type="html"><![CDATA[<p>Juli Clover, over at <em>MacRumors</em>:</p>
+
+<blockquote><p>Disney Story Artist Jeff Ranjo <a href="https://twitter.com/JeffRanjo/status/651452347814535168">shared a Periscope</a> that demonstrates the iPad Pro in action, and several images of the Disney team’s drawings were shared on Twitter. The Disney team was using a beta version of popular drawing app <em>Procreate</em>, which has been updated to work with the iPad Pro, and an iPad Pro version of <em>Paper by Fiftythree</em> was also shown off.</p></blockquote>
+
+<p>That was cool to watch, but I’m not sure how representative it is of the iPad Pro’s capabilities in the hands of regular humans. I mean, those guys are so incredibly talented I’m sure they could draw just as well with something as crude as a piece of paper and a simple pencil.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Aaron Sorkin and Danny Boyle on the controversy over ‘Steve Jobs’]]></title>
@@ -301,24 +314,6 @@
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hackers dump data for 2.3 million Patreon users online]]></title>
-    <link href="http://www.analogsenses.com/2015/10/02/hackers-dump-data-for-2-dot-3-million-patreon-users-online/"/>
-    <updated>2015-10-02T17:01:21+02:00</updated>
-    <id>http://www.analogsenses.com/2015/10/02/hackers-dump-data-for-2-dot-3-million-patreon-users-online</id>
-    <content type="html"><![CDATA[<p>Kwame Opam, writing for <em>The Verge</em>:</p>
-
-<blockquote><p>The data was made available for anyone to download, and Troy Hunt, owner of <a href="https://haveibeenpwned.com/">haveibeenpwned.com</a>, was able to extract the information and analyze the information in the file:</p></blockquote>
-
-<center><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">New breach: 2.3M email addresses from the Patreon breach. 12% were already in <a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> <a href="http://t.co/U0QyHZxP6k">http://t.co/U0QyHZxP6k</a></p>&mdash; Have I been pwned? (@haveibeenpwned) <a href="https://twitter.com/haveibeenpwned/status/649868641324785664">October 2, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
-
-
-<blockquote><p>So far, the hackers, who identify themselves in a README file in the dump as the #SuperExtremeShitpostingTeam, haven’t expressed any motive for the hack other than doing it for the lulz.</p></blockquote>
-
-<p>Oh well, as long as it’s for the lulz.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-07T18:46:22+02:00</updated>
+  <updated>2015-10-07T19:01:48+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Disney artists go hands-on with upcoming iPad Pro and Apple Pencil]]></title>
+    <link href="http://www.analogsenses.com/2015/10/07/disney-artists-go-hands-on-with-upcoming-ipad-pro-and-apple-pencil/"/>
+    <updated>2015-10-07T18:55:16+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/07/disney-artists-go-hands-on-with-upcoming-ipad-pro-and-apple-pencil</id>
+    <content type="html"><![CDATA[<p>Juli Clover, over at <em>MacRumors</em>:</p>
+
+<blockquote><p>Disney Story Artist Jeff Ranjo <a href="https://twitter.com/JeffRanjo/status/651452347814535168">shared a Periscope</a> that demonstrates the iPad Pro in action, and several images of the Disney team’s drawings were shared on Twitter. The Disney team was using a beta version of popular drawing app <em>Procreate</em>, which has been updated to work with the iPad Pro, and an iPad Pro version of <em>Paper by Fiftythree</em> was also shown off.</p></blockquote>
+
+<p>That was cool to watch, but I’m not sure how representative it is of the iPad Pro’s capabilities in the hands of regular humans. I mean, those guys are so incredibly talented I’m sure they could draw just as well with something as crude as a piece of paper and a simple pencil.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Stephen Hackett reviews OS X El Capitan]]></title>
@@ -64,21 +77,6 @@
     <updated>2015-09-16T19:52:08+02:00</updated>
     <id>http://www.analogsenses.com/2015/09/16/rene-ritchie-reviews-ios-9</id>
     <content type="html"><![CDATA[<p>Another fantastic and comprehensive iOS review by Rene, as usual. Between this one and <a href="/2015/09/16/federico-viticci-reviews-ios-9/">the aforelinked review</a> by Federico Viticci, your iOS 9 reading needs should be pretty damn well covered.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[watchOS 2 delayed, won’t be released today]]></title>
-    <link href="http://www.analogsenses.com/2015/09/16/watchos-2-delayed-wont-be-released-today/"/>
-    <updated>2015-09-16T19:45:17+02:00</updated>
-    <id>http://www.analogsenses.com/2015/09/16/watchos-2-delayed-wont-be-released-today</id>
-    <content type="html"><![CDATA[<p>It looks like Apple Watch wearers will have to wait a little longer for the first major update to watchOS. Matthew Panzarino, writing for <em>TechCrunch</em>:</p>
-
-<blockquote><p>Apple has delayed the release of watchOS 2, which was expected to be available today to owners of the Apple Watch.</p>
-
-<p>“We have discovered a bug in development of watchOS 2 that is taking a bit longer to fix than we expected,” an Apple spokesperson told TechCrunch. “We will not release watchOS 2 today but will shortly.”</p></blockquote>
-
-<p>Via <a href="http://daringfireball.net/linked/2015/09/16/watchos-2-delayed">Daring Fireball</a>.</p>
 ]]></content>
   </entry>
   
