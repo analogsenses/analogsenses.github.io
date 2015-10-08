@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-08T14:42:44+02:00</updated>
+  <updated>2015-10-08T17:04:49+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[NASA Apollo images: exposure &amp; color corrected →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.lightandmatter.org/2015/uncategorized/nasa-apollo-images-exposure-color-corrected/"/>
+	
+    <updated>2015-10-08T17:00:41+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/10/08/nasa-apollo-images-exposure-and-color-corrected</id>
+  	
+  	<content type="html"><![CDATA[<p>Fantastic work by Matthew Gore over at <em>Light &amp; Matter</em>. He took some of the <a href="https://www.flickr.com/photos/projectapolloarchive/albums/with/72157658983462236">recently released</a> images of the Apollo space program and “fixed” them:</p>
+
+<blockquote><p>Some of the images are already iconic, but the vast majority of them are new to me, and I’ve now spent countless hours enthralled by them. Perhaps it’s the years that I spent processing and gazing at rolls of negatives, but there’s something about looking at a dozen mediocre images… some in focus, some poorly framed, others under-exposed, some with motion blur… that increases the impact and brings home the reality of all of them.</p>
+
+<p>Unfortunately, the scans have not been corrected for color and exposure, so they tend to be flat and tinted. For those of you who like the Instagram-filter look, they’re just fine; it does add a bit of vintage charm. My instinct, though, is to repair them… to try to give them them accurate color and the crispness of a full-tonal range.</p></blockquote>
+
+<p>The difference an accurate white balance makes is striking; I much prefer the corrected images.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/10/08/nasa-apollo-images-exposure-and-color-corrected/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[DigitalRev TV reviews the iPhone 6S camera →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -763,39 +782,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Olympus M. Zuiko 17mm f/1.8 lens review over at Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://toolsandtoys.net/reviews/the-olympus-m-zuiko-17mm-f1-8-micro-four-thirds-lens-review/"/>
-	
-    <updated>2015-09-22T17:13:01+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/09/22/the-olympus-m-zuiko-17mm-f-slash-1-dot-8-lens-review-over-at-tools-and-toys</id>
-  	
-  	<content type="html"><![CDATA[<p>In case you haven’t noticed, it’s iPhone 6S Review Day. Apple lifted the embargo earlier today and since then, the <a href="http://www.loopinsight.com/2015/09/22/review-iphone-6s-and-iphone-6s-plus/">first</a> <a href="http://www.theverge.com/2015/9/22/9367511/walt-mossberg-reviews-iphone-6s">reviews</a> of the latest <a href="http://www.theverge.com/2015/9/22/9368415/apple-iphone-6s-iphone-6s-plus-review">iPhones</a> have been <a href="http://www.buzzfeed.com/johnpaczkowski/the-iphone-6s-unreview">popping up</a> around the Web like <a href="http://mashable.com/2015/09/22/iphone-6s-review-apple/">crazy</a>.</p>
-
-<p>If you’re a bit saturated from so much iPhone-related stuff and want to read something different, I humbly suggest checking out my review of the <a href="http://www.amazon.com/gp/product/B00CI3R4VU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00CI3R4VU&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=V3G353JYJLKUZPWU">Olympus M. Zuiko 17mm f/1.8</a> Micro Four Thirds lens instead, which was also published today over at <em>Tools &amp; Toys</em>.</p>
-
-<p>This review was a bit bittersweet for me to write. I love the 35mm-equivalent focal length, and I’ve tried really, really hard to love this small Olympus lens. However, no matter how much I shot with it, the reality is that it’s just a couple steps below other MFT lenses in terms of performance.</p>
-
-<p>It’s still an overall good lens for casual use, but some of its quirks make it quite unreliable for critical work, and that’s ultimately a deal breaker for me.</p>
-
-<p>The review was also bittersweet to write because in all likelihood, it was my last MFT-related review. As regular readers will know, I recently switched over to the Full Frame <a href="http://www.amazon.com/gp/product/B00PX8CHO6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00PX8CHO6&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=YQOV47PCGB3PCI5G">Sony A7 II</a> for my daily shooting, which means I no longer need or can afford to own the <a href="http://www.amazon.com/gp/product/B00HPQ09H6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00HPQ09H6&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=4RXWPESR664FS3DX">Olympus OM-D E-M10</a> that has been my main camera for over a year.</p>
-
-<p>With that in mind, and now that I’m done with all the MFT gear reviews I had in the pipeline, I will be looking to sell my E-M10 pretty soon. Of course, the Olympus 17mm will be going with it, but I can’t really say I will miss this lens nearly as much as some of the <a href="http://toolsandtoys.net/reviews/the-olympus-m-zuiko-45mm-f1-8-micro-four-thirds-lens-review/">other</a> <a href="http://toolsandtoys.net/reviews/the-panasonic-leica-dg-summilux-25mm-f1-4-lens/">excellent</a> <a href="http://toolsandtoys.net/reviews/the-panasonic-lumix-g-20mm-f1-7-ii-asph-lens-review/">pieces</a> of glass I got to own over the past year.</p>
-
-<p>Over four years after its introduction, the Micro Four Thirds system continues to offer the perfect features for the aspiring photographer — small, light, and affordable gear — but it also packs one hell of a punch when it comes to performance and image quality. These are tools many professional photographers use routinely, and with good reason.</p>
-
-<p>The old days of sensor-shaming are over, as today’s mirrorless cameras have little reason to envy traditional DSLRs, and even surpass them in several non-trivial metrics. Personally, it’s been a thrill to shoot with the E-M10 all these months, and I can honestly say that camera was largely responsible for my current love affair with photography.</p>
-
-<p>If you’re considering an entry point into the photography world, you could do a lot worse than starting off with this incredible camera — or, if you can afford it, the newly-released E-M10 Mark II.</p>
-
-<p>Mirrorless is here to stay, and we’re all better off for it. As for the Olympus 17mm f/1.8 lens, I just hope Olympus has a redesign in the works, because with just a few minor tweaks this could be one of my favorite lenses ever. As it exists today, though, it falls well short of that goal.</p>
-
-<p>Head on over to <em>Tools &amp; Toys</em> for <a href="http://toolsandtoys.net/reviews/the-olympus-m-zuiko-17mm-f1-8-micro-four-thirds-lens-review/">the full review</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/09/22/the-olympus-m-zuiko-17mm-f-slash-1-dot-8-lens-review-over-at-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
