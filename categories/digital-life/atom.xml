@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-08T17:04:49+02:00</updated>
+  <updated>2015-10-09T18:14:19+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Curious Life of a Mars Rover]]></title>
+    <link href="http://www.analogsenses.com/2015/10/09/the-curious-life-of-a-mars-rover/"/>
+    <updated>2015-10-09T18:12:14+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/09/the-curious-life-of-a-mars-rover</id>
+    <content type="html"><![CDATA[<p>What an awesome lecture by NASA engineer Kobie Boykins:</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/7zpojhD4hpI" allowfullscreen></iframe></div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NASA Apollo images: exposure &amp; color corrected]]></title>
@@ -72,21 +83,6 @@
 <p><strong>Boyle:</strong> You respect the personal grief. This guy is one of the most important figures in our lives, and these people [tech executives], I’m afraid, they have to be written about. They have to be examined. There will be many, many more films made about them. The world is changing beyond recognition. Apple is pretty good on issues like data and privacy, but we have to examine these people in a big political way or in a personal way, like this film tries to do.</p></blockquote>
 
 <p>Laurene Powell Jobs, Steve’s wife, <a href="http://www.wsj.com/articles/apple-co-founders-allies-take-aim-at-hollywood-over-steve-jobs-1444000308">recently</a> voiced her concerns about the movie, stating that “any movie based on [Walter Isaacson’s] book could not possibly be accurate”. I guess we’ll find out soon enough.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Europe’s highest court strikes down Safe Harbour data sharing between EU and US]]></title>
-    <link href="http://www.analogsenses.com/2015/10/06/europes-highest-court-strikes-down-safe-harbour-data-sharing-between-eu-and-us/"/>
-    <updated>2015-10-06T12:10:53+02:00</updated>
-    <id>http://www.analogsenses.com/2015/10/06/europes-highest-court-strikes-down-safe-harbour-data-sharing-between-eu-and-us</id>
-    <content type="html"><![CDATA[<p>Landmark ruling today by the Court of Justice of the European Union (CJEU). Sebastian Anthony, writing for <em>Ars Technica</em>:</p>
-
-<blockquote><p>According to an earlier CJEU statement (PDF), “the access enjoyed by the United States intelligence services to the transferred data constitutes an interference with the right to respect for private life and the right to protection of personal data, which are guaranteed by the [Charter of Fundamental Rights of the EU].” Another issue, according to the Advocate General, was “the inability of citizens of the EU to be heard on the question of the surveillance and interception of their data in the United States,” which therefore amounts to “an interference with the right of EU citizens to an effective remedy, protected by the Charter.”</p>
-
-<p>Because the CJEU was ruling on an issue in Ireland, the Irish court is expected to make its own judgement shortly. It is likely that the Irish court will side with the CJEU. When that happens, one of two things will need to happen: Facebook, and many other US companies with Irish subsidiaries, will need to keep European data within the EU; or the US will need to provide real privacy protection for EU data when it flows back to the US. As the latter is unlikely due to pressure from the NSA and other intelligence agencies, we suspect most US companies will opt for the former.</p></blockquote>
-
-<p>I’m glad to see the EU stepping up to protect the privacy of its citizens.</p>
 ]]></content>
   </entry>
   
