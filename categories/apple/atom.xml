@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-13T14:21:33+02:00</updated>
+  <updated>2015-10-13T22:36:41+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple updates the iMac family]]></title>
+    <link href="http://www.analogsenses.com/2015/10/13/apple-updates-the-imac-family/"/>
+    <updated>2015-10-13T22:12:48+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/13/apple-updates-the-imac-family</id>
+    <content type="html"><![CDATA[<p>Apple today updated the entire iMac lineup, launching <a href="http://www.apple.com/imac/">a new 21.5-inch model</a> with a 4K Retina display and extending the 5K Retina display to all of the 27-inch models. From the official press release:</p>
+
+<blockquote><p>Apple® today updated the entire iMac® family, bringing a stunning new Retina® 4K display to the 21.5-inch iMac for the first time and the Retina 5K display to every 27-inch iMac. The new Retina displays make photos and videos more immersive and true-to-life thanks to a wider color gamut and spectacular image quality. The updated iMacs also feature more powerful processors and graphics, two Thunderbolt® 2 ports and new storage options that make the high-performance Fusion Drive even more affordable.</p></blockquote>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5764/22144986845_b9dabb68ab_o.jpg"/></p>
+
+
+<p>So far this update seems like a typical yearly upgrade. But wait, there’s more:</p>
+
+<blockquote><p>Apple today also introduced a new lineup of wireless accessories including the all-new Magic Keyboard™, Magic Mouse® 2 and Magic Trackpad® 2. The Magic devices have been redesigned to feel more comfortable than ever, and feature rechargeable batteries that completely eliminate the need for disposable batteries. The new Magic Trackpad 2 also brings Apple’s revolutionary Force Touch interface to the desktop, adding a new dimension to the iMac experience.</p></blockquote>
+
+<p class="extra-width"><img src="https://farm1.staticflickr.com/766/22118804296_6dafe4676d_o.jpg"/></p>
+
+
+<p>At first look, those new accessories look uglier than the ones they’re replacing, with the sole exception of the Magic Mouse, which remains nearly identical. That said, I’m still curious to try them. Force Touch is an interesting feature, and Apple seems to be betting big on it for the future.</p>
+
+<p>Another great feature is the built-in rechargeable battery that all three accessories have. I never remember to keep spare batteries around, so this is definitely a welcome addition for me.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Disney artists go hands-on with upcoming iPad Pro and Apple Pencil]]></title>
@@ -68,15 +93,6 @@
 <p>The fact that the Apple Watch, as many other consumer electronic devices, indicates a 100% charge after a few minutes doesn’t mean it’s <em>really</em> fully charged. There are some benefits to leaving devices to charge overnight, so that they continue to be plugged in for a few hours after their battery indicators hit 100%.</p>
 
 <p>I guess if there are some negative side effects to doing this, once apps like Sleep++ become popular, we’ll start hearing about them soon enough.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rene Ritchie reviews iOS 9]]></title>
-    <link href="http://www.analogsenses.com/2015/09/16/rene-ritchie-reviews-ios-9/"/>
-    <updated>2015-09-16T19:52:08+02:00</updated>
-    <id>http://www.analogsenses.com/2015/09/16/rene-ritchie-reviews-ios-9</id>
-    <content type="html"><![CDATA[<p>Another fantastic and comprehensive iOS review by Rene, as usual. Between this one and <a href="/2015/09/16/federico-viticci-reviews-ios-9/">the aforelinked review</a> by Federico Viticci, your iOS 9 reading needs should be pretty damn well covered.</p>
 ]]></content>
   </entry>
   
