@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-13T22:36:41+02:00</updated>
+  <updated>2015-10-14T00:10:47+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Jason Snell reviews the new 4K iMac →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.macworld.com/article/2991920/hardware/imac-with-4k-retina-display-review-a-high-resolution-desktop-mac-for-the-masses.html"/>
+	
+    <updated>2015-10-13T23:59:40+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/10/13/jason-snell-reviews-the-new-4k-imac</id>
+  	
+  	<content type="html"><![CDATA[<p>Jason Snell:</p>
+
+<blockquote><p>Apple says that the display in this 4K iMac, as well as the revision to the 5K iMac that was announced the same day, offers an expanded color space. Thanks to new red-green phosphor LEDs, the displays can display a wider range of red and green light than before, allowing them to display 25 percent more colors.</p>
+
+<p>In a demo at Apple, I was able to detect subtle differences. The new displays can offer more color detail and more vibrancy than the display on the older 5K iMac models. I’m a little red-green color blind, and even I could detect the differences. If you work in graphics or video, you’ll probably be happy to have access to a display that’s capable of displaying 99 percent of the P3 color space. But for most people buying the 4K iMac, the real difference will be the mind-blowing jump to Retina.</p></blockquote>
+
+<p>Besides this, it’s worth noting that all the 21.5-inch iMacs, including this one, use Intel Broadwell processors. The 27-inch iMacs, on the other hand, use newer Skylake processors, which should provide improved performance.</p>
+
+<p>Also, don’t forget to check out Jason’s reviews of the new <a href="http://sixcolors.com/post/2015/10/apple-magic-keyboard-review/">Magic Keyboard</a> and <a href="http://sixcolors.com/post/2015/10/apple-magic-trackpad-2-review/">Magic Trackpad 2</a> over at <em>Six Colors</em>.</p>
+
+<p>As a side note, reading Jason’s reviews I’ve found out that the new accessories require Bluetooth 4.0 to work, so my Early-2008 iMac is not compatible with them. Perhaps it’s finally time to buy a new iMac, after all.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/10/13/jason-snell-reviews-the-new-4k-imac/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Apple updates the iMac family →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -805,29 +828,6 @@
 
 <p>Oh well, as long as it’s for the lulz.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/10/02/hackers-dump-data-for-2-dot-3-million-patreon-users-online/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Federico Viticci reviews Tweetbot 4 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.macstories.net/reviews/tweetbot-4-review-bigger-bot/"/>
-	
-    <updated>2015-10-02T16:38:06+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/02/federico-viticci-reviews-tweetbot-4</id>
-  	
-  	<content type="html"><![CDATA[<p>Another comprehensive, must-read review by Federico. Tweetbot is quite possibly my favorite iOS app. I’ve stuck with it through thick and thin, even on the iPad, where it hadn’t been updated since iOS 6:</p>
-
-<blockquote><p>Three years later, that bar’s still there, a bit dusty and lonely, pondering a sad state of affairs. Tweetbot is no longer the champion of Twitter clients for iPad, having skipped an entire generation of iOS design and new Twitter features. Tweetbot for iPad is, effectively, two years behind other apps on iOS, which, due to how things turned out at Twitter, haven’t been able to do much anyway. On the other hand, Twitter for iPad – long ignored by the company – has emerged again <a href="https://www.macstories.net/news/twitter-aims-to-unify-ios-apps-updates-its-ipad-app/">with a stretched-up iPhone layout</a> presented in the name of “consistency”. It’s a grim landscape, devoid of the excitement and curiosity that surrounded Twitter clients five years ago.</p></blockquote>
-
-<p>A grim landscape indeed. Launching Tweetbot on the iPad has admittedly been an exercise in frustration for the past couple of years, but the alternative was no better. Now, we <em>finally</em> get a native iOS 9 version of the app than runs equally well on the iPhone and on the iPad:</p>
-
-<blockquote><p>There’s a parallel between iOS 9 and Tweetbot 4. Like Apple’s latest iOS, the new Tweetbot brings a series of welcome refinements and smaller feature additions to the iPhone, with a much bigger change on the iPad that redefines the experience on the big screen.</p>
-
-<p>Tapbots fundamentally understands the iPad platform better than Twitter does. Through the second column, popovers, and other interface adjustments, Tweetbot 4 makes the best use of the iPad’s screen since the original Twitter for iPad. And while Tapbots’ latest effort doesn’t have the revolutionary spirit of Loren Brichter’s iPad masterpiece, it shows a willingness to do more than simply adapting what worked for the iPhone.</p></blockquote>
-
-<p>Tweetbot 4 is, as usual, a paid upgrade. It’s currently on sale for $4.99 for a limited time <a href="https://itunes.apple.com/us/app/tweetbot-4-for-twitter/id1018355599">on the App Store</a>, and those are easily the best 5 bucks you’re likely to spend on software in a good long while.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/02/federico-viticci-reviews-tweetbot-4/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
