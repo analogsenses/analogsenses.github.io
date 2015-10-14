@@ -9,7 +9,7 @@
   <meta name="author" content="Álvaro Serrano">
 
   
-  <meta name="description" content="Owen Williams, writing for The Next Web: The users discovered the issue in May when using a new Lenovo laptop that automatically and covertly &hellip;">
+  <meta name="description" content="A few weeks ago I noticed something weird with some of my pictures: every time I opened a JPEG file from Lightroom on my iPhone the colors looked &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -82,6 +82,184 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+	<!-- Now we're back to normal posts. Note the links used under href in both headers.-->
+	 	<h1 class="entry-title"><a href="/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing/">iOS and color management: why your pictures sometimes look weird on mobile devices (and how to fix them)</a></h1>
+		
+  	
+    
+      <p class="meta">
+        
+
+
+
+
+Aug 12th, 2015
+        
+      </p>
+    
+  </header>
+
+
+  
+  
+  <div class="entry-content"><p>A few weeks ago I noticed something weird with some of my pictures: every time I opened a JPEG file from Lightroom on my iPhone the colors looked completely wrong and washed out, as if the image was heavily desaturated.</p>
+
+<p>This is something I do often. When, for example, I want to <a href="http://www.analogsenses.com/2015/06/17/sharing-pictures-from-a-dedicated-camera-on-instagram-what-works-and-what-needs-fixing/">post a picture from my dedicated camera to Instagram</a>, I export it as a JPEG file using Lightroom, send it to my phone via iMessage or Dropbox, and upload it to Instagram. The problem is, by the time the pictures arrive to my phone, the colors are all messed up.</p>
+
+<p>Take a look at this image, for example:</p>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5818/19913601234_4b1d7b4e6b_o.jpg"/></p>
+
+
+<p>If you’re reading this on a Mac or a Windows PC, that should look fine. However, this is what that same image looks like when viewed on an iOS device:</p>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5746/20528728952_e54f0dbc90_o.jpg"/></p>
+
+
+<p>And for those of you reading this on iOS devices, this is what both images <em>should</em> look like:</p>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5750/20348091680_a26ecd706b_o.jpg"/></p>
+
+
+<p>Have I got your attention now? Good.</p>
+
+<p>Remember, all three of those images are <em>the exact same file</em>. Since a Mac always displays the correct colors, I had to take screenshots on my iPad to be able to show you the difference. And what a difference it is. Here’s a side by side comparison, to further drive the point home:</p>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5684/20356583568_2f415d9387_o.jpg"/></p>
+
+
+<p>OK, so what the hell is going on here?</p>
+
+<h2>Welcome to the wonderful world of color management</h2>
+
+<p>The reason this phenomenon occurs is something called <a href="https://en.wikipedia.org/wiki/Color_management">color management</a>. From Wikipedia:</p>
+
+<blockquote><p>The primary goal of color management is to obtain a good match across color devices; for example, the colors of one frame of a video should appear the same on a computer LCD monitor, on a plasma TV screen, and as a printed poster. Color management helps to achieve the same appearance on all of these devices, provided the devices are capable of delivering the needed color intensities.</p>
+
+<p>Parts of this technology are implemented in the operating system (OS), helper libraries, the application, and devices. A cross-platform view of color management is the use of an ICC-compatible color management system.</p></blockquote>
+
+<p>This definitely sounds like a great idea, at least on paper, but here’s the problem: iOS is <em>extremely</em> particular when it comes to color management.</p>
+
+<p>From Apple’s own <a href="https://developer.apple.com/library/ios/technotes/tn2313/_index.html#//apple_ref/doc/uid/DTS40014694-CH1-TARGETEDCOLORMGMT">iOS Developer Library</a> (emphasis mine):</p>
+
+<blockquote><p>iOS application development uses the targeted color management model. Your content is matched to the sRGB color space on the authoring platform. <strong>This matching is not performed dynamically on the iOS device.</strong> Instead, it happens during authoring on your Mac OS X desktop. (&hellip;)</p>
+
+<p><strong>Targeted color management may also occur when you sync content to your mobile device. In fact, iTunes running on the desktop provides color management to the iOS targeted color space when you sync content from iPhoto to your iOS device.</strong></p></blockquote>
+
+<p>What this means is that, when you sync your pictures to an iOS device using iTunes, your Mac is doing all the heavy lifting behind the scenes, making sure the images are color-matched to the <a href="https://en.wikipedia.org/wiki/SRGB">sRGB color space</a> before copying them over to your device.</p>
+
+<p>That’s a clever bit of engineering right there, but what happens if you don’t sync your pictures using a proper authoring tool such as iTunes? What if you simply copy some unmatched JPEG files over to your iPhone by, for example, iMessaging them to yourself or syncing them to a Dropbox folder?</p>
+
+<p>Well, what happens is that iOS’s targeted color management system cannot find the proper relationship between the actual colors in your images and the colors of the sRGB space it knows how to work with, and therefore it can’t display accurate colors.</p>
+
+<p>There are two critical factors at play here:</p>
+
+<ol>
+<li><p>iOS devices are only able to resolve the sRGB color space.</p></li>
+<li><p>The sRGB color space is considerably narrower than <a href="https://en.wikipedia.org/wiki/Adobe_RGB_color_space">Adobe RGB</a>, the color space typically used to calibrate computer displays, including Macs.</p></li>
+</ol>
+
+
+<p><img src="https://farm6.staticflickr.com/5734/20349993859_513314e832_o.jpg"/></p>
+
+<p class="photo-credit">The Adobe RGB color space vs the sRGB color space. Image source: <a href="https://en.wikipedia.org/wiki/File:CIExy1931_AdobeRGB_vs_sRGB.png">Wikimedia Commons</a>.</p>
+
+
+<p>iOS can’t deal with the Adobe RGB color space, which is why images matched to that color space look washed out when viewed on iOS devices. In order to avoid that, images must be color-matched to the sRGB space instead.</p>
+
+<p>Therefore, if you’re working with JPEG files that happen to be matched to the Adobe RGB color space, you need to you make sure your images are converted to the sRGB color space <em>before</em> copying them over to your iOS device, or you’re simply going to end up with washed out colors.</p>
+
+<p>Unsurprisingly, this is exactly what Apple recommends doing (again, from the same iOS Developer Library document):</p>
+
+<blockquote><p>When your content is imported, convert it to the working color space sRGB. <strong>Even if your media is in a wider gamut (for example, raw photos), and your monitor can display wider than the sRGB gamut, your color managed application will translate those colors to sRGB, the color space for the finished product</strong>. By using an sRGB working color space you can get an accurate prediction of what your media will look like when displayed on the actual iOS device.</p></blockquote>
+
+<p>As you may have guessed by now, most of my images had been matched to the Adobe RGB color space when I exported them to JPEG from my RAW files using Lightroom. This caused the weird effect you saw at the beginning of the article. It may sound like an insignificant detail, but the impact it can have on your images is profound. Here’s another example:</p>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5735/20551031851_41cd63f06c_o.jpg"/></p>
+
+
+<p>Luckily, if you’re experiencing this issue with your own images, there’s a simple way to configure Lightroom — or, I’m sure, your photo-editing application of choice — to make sure we always use the correct sRGB profile when exporting our images as JPEGs. Let’s see how we can do it.</p>
+
+<h2>Lightroom’s “Export&hellip;” dialog</h2>
+
+<p>We access Lightroom’s export dialog via the menu item:</p>
+
+<p><strong><em>File->Export&hellip;</em></strong></p>
+
+<p>Alternatively, you can use the keyboard shortcut <strong>⇧⌘E</strong>.</p>
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5771/20528456682_4e1f11f60b_o.png" width="1162"/></p>
+
+
+<p>On this dialog, we can configure the export settings for this batch of images, including their size, quality, resolution, name, metadata, etc. Crucially, it is here that we can select the appropriate color space for our files, too.</p>
+
+<p>In order to do that, we must set the “<strong>Export To</strong>” drop-down menu on the top left to “<strong>Hard Drive</strong>”, and in the “<strong>File Settings</strong>” area on the right, we must set the “<strong>Color Space</strong>” drop-down menu to “<strong>sRGB</strong>”.</p>
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5684/20543801861_70e425a2e8_o.png" width="1162"/></p>
+
+
+
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5689/19914711214_6884161679_o.png" width="1162"/></p>
+
+
+
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5658/19916444033_2dd5169b67_o.png" width="1162"/></p>
+
+
+<p>Once we’ve done this, we can save our settings as a new preset by clicking on “<strong>Add</strong>” in the lower left area, selecting a name for our preset and clicking “<strong>Create</strong>”. This way we’ll be able to simply select our preset next time we want to export photos, and everything will be properly configured.</p>
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5792/20543856521_2c001d987c_o.png" width="1162"/></p>
+
+
+
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5661/20349279520_790080a08b_o.png" width="494"/></p>
+
+
+
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5799/20349331238_ffb72cccb4_o.png" width="1162"/></p>
+
+
+<p>And that’s it. As with most obscure settings, it’s really simple to change this one, but you absolutely need to know what you’re doing.</p>
+
+<h2>Reasonable expectations</h2>
+
+<p>This was one of the most frustrating tech-related issues I’ve experienced in years, in no small part because I’ve realized that <em>all images ever published on Analog Senses</em> — not to mention in my reviews for <em>Tools &amp; Toys</em> — use the wrong color space, and therefore <em>they all look wrong on mobile devices</em>. That’s something that pisses me off to no end.</p>
+
+<p>Solving this problem was not technically difficult, but it required a level of research and technical reading that I’m not sure most people would feel comfortable doing. There needs to be a better way to approach color management on iOS, one that works for <em>all</em> users, not only those technically savvy enough to navigate their way through Apple’s obscure support document library.</p>
+
+<p>What I find most appalling about all this is that <em>by design</em>, the burden to make sure our images are matched to the correct color space falls squarely on us, the users. This may make sense from an engineering and resource-consumption standpoint, but from a user experience point of view, it leaves much to be desired. In general, I can’t help but feel that color management is something that should always happen automatically behind the scenes.</p>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5707/20356609780_25651302ef_o.jpg"/></p>
+
+
+
+
+<p class="photo-credit">This is how colors should always look.</p>
+
+
+<p>It may have required a wild dose of ignorance and bad luck together for me to run into this issue, but I don’t think it’s unreasonable for normal users to select the Adobe RGB color space when prompted to choose one by Lightroom, simply because it’s probably the only one that sounds vaguely familiar to non-tech people.</p>
+
+<p>Moreover, since the difference is not immediately obvious on a computer screen, most users probably won’t realize what’s happened until they view their images on a mobile device, and by then it may be too late to do something about it.</p>
+
+<p>If you want to make sure your images are always displayed accurately on mobile devices, follow the above steps (or find the appropriate ones for your photo-editing application of choice) to make sure you’re always using the sRGB color space when exporting your images. Yes, it’s a small additional step to add to your workflow, but it may save you a ton of headache down the road.</p>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5702/20357321528_9d28c6b387_o.jpg"/></p>
+
+</div>
+  
+
+    </article>
+    <div class="post-separator"> ♤  ♧  ♡  ♢ </div>
   
   
     <article>
@@ -459,245 +637,6 @@ Aug 10th, 2015 | <a class="external-permalink" rel="full-article" href="/2015/08
     </article>
     <div class="post-separator"> ♤  ♧  ♡  ♢ </div>
   
-  
-    <article>
-      
-  <header>
-    
-	<!-- Now we're back to normal posts. Note the links used under href in both headers.-->
-	 	<h1 class="entry-title"><a href="/2015/08/08/morning-coffee-issue-number-9/">Morning Coffee, issue #9</a></h1>
-		
-  	
-    
-      <p class="meta">
-        
-
-
-
-
-Aug 8th, 2015
-        
-      </p>
-    
-  </header>
-
-
-  
-  
-  <div class="entry-content"><p>August keeps rolling by, and things continue to be mostly calm on the Internet. It must be the heat.</p>
-
-<p>Due to some unexpected and unavoidable errands, the current issue is getting published a few hours later than usual, so this will be more like Evening Coffee for some. My apologies.</p>
-
-<p>Then again, any time is coffee time, so let’s get to it.</p>
-
-<h2>Issue #9: on obsession, searching for immortality, the birth of the nuclear age, and Jon Stewart’s final show</h2>
-
-<p>There are some very emotional pieces in this week’s selection. From the Hiroshima and Nagasaki bombings, to recognizing our own obsessions, some of these pieces will stay with you long after you’ve finished reading them.</p>
-
-<p>Enjoy.</p>
-
-<h3><a href="http://paulstamatiou.com/10-years-blogging/">10 years blogging | Paul Stamatiou →</a></h3>
-
-<p>Paul’s website turned 10 this week (congratulations!), and he took some time to reminisce about everything that’s happened in his life in that time. Great stuff.</p>
-
-<p class="card-separator">♤</p>
-
-
-<h3><a href="http://www.rollingstone.com/culture/features/ben-schlappig-airlines-fly-free-20150720">Up in the air: meet the man who flies around the world for free | Ben Wofford →</a></h3>
-
-<p>Excellent piece on the life of Ben Schlappig, one of the best Hobbyists in the world:</p>
-
-<blockquote><p>Schlappig owes his small slice of fame to his blog “One Mile at a Time,” a diary of a young man living the life of the world’s most implausible airline ad. Posting as often as six times a day, he metes out meticulous counsel on the art of travel hacking — known in this world as the Hobby. It’s not simply how-to tips that draw his fans, it’s the vicarious thrill of Schlappig’s nonstop-luxury life — one recent flight with a personal shower and butler service, or the time Schlappig was chauffeured across a tarmac in a Porsche. But his fans aren’t just travel readers — they’re gamers, and Schlappig is teaching them how to win.</p></blockquote>
-
-<p>Fascinating stuff, but in all honesty, I can’t imagine living indefinitely in a permanent travel state. To me, there’s nothing like arriving home after a long trip and reclaiming my own personal space. That said, I can see how the luxury and comfort associated with the Hobby could be addictive for some. Via <a href="http://toolsandtoys.net/editorials/professional-instagramming-one-bright-dot-and-a-world-without-advice/"><em>Tools &amp; Toys</em></a>.</p>
-
-<p class="card-separator">♧</p>
-
-
-<h3><a href="http://www.businessinsider.com/the-fat-jew-brands-will-pay-him-6000-per-instagram-mention-2015-7">Brands are paying Instagram star ’The Fat Jew’ $6,000 for a shout-out in his photos | Lara O’Reilly →</a></h3>
-
-<p>Welcome to the incredible world of professional Instagrammers. Unreal.</p>
-
-<p class="card-separator">♡</p>
-
-
-<h3><a href="http://www.raptitude.com/2015/08/an-open-letter-to-my-15-year-old-self/">An open letter to my 15-year-old self just before the start of high school | David Cain →</a></h3>
-
-<p>This week we got another dose of David Cain’s brilliance:</p>
-
-<blockquote><p>Your choice of a post-secondary path—you won’t get this right either. Like all important choices teenagers must make, you need to be at least thirty to get it right. No seventeen-year-old has any real idea who they are or what they’re doing. The only strategy is to do new and interesting things as frequently as possible, trying to find those veins of meaning, doing as little permanent damage in the meantime to your health and your finances. There is enormous pressure to get this choice right, and you won’t.</p>
-
-<p>The most cost-effective and useful post-secondary program is probably a solo backpacking trip. People mature at double speed when they are fending for themselves in foreign countries. You can get wiser and younger at the same time. This is a loophole in human development, take advantage.</p></blockquote>
-
-<p>I found myself silently nodding in agreement all throughout this piece.</p>
-
-<p class="card-separator">♢</p>
-
-
-<h3><a href="http://mattgemmell.com/obsession/">Obsession | Matt Gemmell →</a></h3>
-
-<p>Spot-on piece by Matt, as usual:</p>
-
-<blockquote><p>I can be consumed by an idea – whether it was for an app, or now an article, or a story – and then nothing else matters. I’ll disappear into hours of planning (previously, drawings of interfaces, and jotting down lists of features and implementation notes; now, outlining and playing with narrative arcs, character sketches and plot points), and sometimes be unable to sleep until I’ve begun the act of creating whatever it is. When I do sleep, I wake up desperate to get straight back to work.</p>
-
-<p>That’s a blessing, without question. That kind of drive is a gift, which we’re granted all too infrequently. It can lead to a frightening level of output, where we enter what’s almost an altered state of consciousness, and hours tick by like minutes. The zeal of a compelled mind is the natural state of the prolific creator.</p>
-
-<p>But to be prolific, you have to finish.</p></blockquote>
-
-<p>Matt is absolutely right, but I have the opposite problem: I <em>need</em> to finish.</p>
-
-<p>I’ve been unable to sleep properly through most of this week due to something like this. I don’t like it, but I can’t really help it. It’s as if my brain is unable to properly disconnect and rest until I’ve experienced some measure of closure. If I’m writing, that’s usually finishing an entire piece, or at least a chapter in a longer article. If I’m processing pictures, it’s getting through an entire batch, or collection.</p>
-
-<p>If, for example, I want to buy a new camera, I won’t stop until I’ve researched <em>every</em> possible model and compared at least 10 different prices across different stores. And even then, I won’t be able to put my mind to rest until I’ve actually pulled the trigger and bought it. It’s exhausting.</p>
-
-<p>Luckily, as soon as I do that, I sleep like a baby.</p>
-
-<p class="card-separator">♤</p>
-
-
-<h3><a href="http://www.theguardian.com/science/2015/aug/04/can-we-reverse-ageing-process-young-blood-older-people">Can we reverse the ageing process by putting young blood into older people? | Ian Sample →</a></h3>
-
-<p>Fascinating — and quite scary — piece by Ian Sample for <em>The Guardian</em>:</p>
-
-<blockquote><p>Rando is more upbeat about infusing patients with pro-youthful proteins for short periods. An elderly person having surgery might get an infusion to help them heal like a teenager. “Let’s say it works. If you can target tissues and improve wound healing in older people, that would be a feasible approach. It would not be about making 90-year-olds younger, or having people live to 150. It’s about healthy living, not longer living,” he said.</p></blockquote>
-
-<p>My father jokes all the time that his will be the last human generation to die. At the rate science is advancing, he may well turn out to be right.</p>
-
-<p class="card-separator">♧</p>
-
-
-<h3><a href="http://mfphotography.ca/blog/2015/8/4/film-is-dead-long-live-film">Film is dead (long live film) | Michael Fraser →</a></h3>
-
-<p>Michael Fraser reacts to <a href="http://photorumors.com/2015/07/11/another-fujifilm-price-increase-on-photographic-film-some-products-will-get-discontinued/">Fuji’s recent announcement</a> that they’re discontinuing some of their film emulsions and raising prices across the board:</p>
-
-<blockquote><p>What we need in the film photography community is a small number of companies (Fuji, Kodak, Ilford, and perhaps Ferrania and CineStill), producing a small number of high quality films that service a particular niche of the market.  Fuji’s production model ultimately may not be scalable to the production levels required, and thus I wouldn’t be surprised to see them ultimately exit the market. Kodak appears to have scaled nicely down to a few core films, and they have a long-term deal with Hollywood to continue making (and selling) motion picture film; this bodes very well.</p></blockquote>
-
-<p>It makes sense. If companies are too busy making many different film types in a shrinking market, they will reach a point where things will no longer be sustainable. A more sensible approach would be to go with a small number of core products and stay loyal to them.</p>
-
-<p>Besides this piece, Michael also published <a href="http://mfphotography.ca/blog/2015/8/7/dslr-scanning-is-really-really-good">an example</a> of the results he’s been getting from <a href="http://mfphotography.ca/blog/2015/3/23/colour-film-scanning-revisited-part-2">his DSLR-based film scanning process</a>, and they are indeed gorgeous. Beating a 4x5 sheet of Kodak Portra scanned at 75 Megapixels is certainly a tall order.</p>
-
-<p class="card-separator">♡</p>
-
-
-<h3><a href="http://www.mirrorlessons.com/2015/07/13/portraits-with-sony-e-mount-primes-zeiss-batis-85mm-f1-8-vs-90mm-macro-vs-55mm-f1-8/">Portraits with Sony E-mount primes: Zeiss Batis 85mm f/1.8 vs. 90mm macro vs. 55mm f/1.8 | Mathieu Gasquet →</a></h3>
-
-<p>Interesting comparison over at MirrorLessons:</p>
-
-<blockquote><p>You will notice that the Zeiss Batis has a smoother bokeh and produces less of a “swirl” effect than the 90mm. But the latter looks good in terms of bokeh rendering too. Both are really sharp. The 55mm on the a6000 does a good job as well. It is slightly less sharp but this is also due to the lower resolution of the a6000. The bokeh is less smooth than the other two lenses but I like its rendering and it remains a more than valid choice for portraits.</p></blockquote>
-
-<p>If you’re on the lookout for a great portrait lens for the Sony E-mount system, it looks like you have at least three perfectly good choices.</p>
-
-<p class="card-separator">♢</p>
-
-
-<h3><a href="http://www.theatlantic.com/business/archive/2015/08/do-what-you-love-work-myth-culture/399599/">Why ‘Do What You Love’ Is Pernicious Advice | Bouree Lam →</a></h3>
-
-<p>In this interview, Japanese writer Miya Tokumitsu talks about how the expectation by employers that workers be passionate about their jobs may not be as positive as we’ve been led to believe:</p>
-
-<blockquote><p>When I found that Craigslist posting [for cleaners who were passionate], I was super depressed. You’re demanding that this person—who is going to do really hard physical work for not a lot of money—do extra work. On top of having to scrub the floors and wash windows, they have to show that they’re passionate too? It’s absurd and it’s become so internalized that people don’t even think about it. People write these job ads, and of course they’re going to say they want a passionate worker. But they don’t even think about what that means and that maybe not everyone is passionate.</p></blockquote>
-
-<p>And later:</p>
-
-<blockquote><p>The most cynical explanation is that employers demand passion because they don’t want to hear complaints. If you make passion a job requirement, you can’t complain about your workload.</p></blockquote>
-
-<p>Food for thought. The entire interview is extremely interesting, and well worth your time.</p>
-
-<p class="card-separator">♤</p>
-
-
-<h3><a href="http://www.newyorker.com/tech/elements/nagasaki-the-last-bomb">Nagasaki: the last bomb | Alex Wellerstein →</a></h3>
-
-<p>Great piece by Alex Wellerstain for <em>The New Yorker</em>:</p>
-
-<blockquote><p>When we remember the destructive birth of the nuclear age, we tend to focus on Hiroshima. It was first, and firsts get precedence in memory. It was also more devastating an attack than Nagasaki, with nearly twice as many dead and injured and three times as much land area destroyed. (This was in spite of the fact that the Little Boy, the bomb dropped by the Enola Gay, was only three-quarters as explosive as the Fat Man.) But if Hiroshima was, from a military perspective, relatively well considered, well planned, and well executed, Nagasaki was almost the opposite. From the very beginning, it was a JANCFU—a sign that this new era was as likely to be a comedy of errors and near-misses as the product of reason and strategy.</p></blockquote>
-
-<p class="card-separator">♧</p>
-
-
-<h3><a href="http://www.newyorker.com/magazine/1946/08/31/hiroshima">Hiroshima | John Hersey →</a></h3>
-
-<p>Speaking of Hiroshima, this piece is from <em>The New Yorker</em>’s August 1946 issue, and is available in <em>The New Yorker</em>’s online archives. John Hershey tells the incredible story of six of Hiroshima’s survivors:</p>
-
-<blockquote><p>As Mrs. Nakamura stood watching her neighbor, everything flashed whiter than any white she had ever seen. She did not notice what happened to the man next door; the reflex of a mother set her in motion toward her children. She had taken a single step (the house was 1,350 yards, or three-quarters of a mile, from the center of the explosion) when something picked her up and she seemed to fly into the next room over the raised sleeping platform, pursued by parts of her house.</p>
-
-<p>Timbers fell around her as she landed, and a shower of tiles pommelled her; everything became dark, for she was buried. The debris did not cover her deeply. She rose up and freed herself. She heard a child cry, “Mother, help me!,” and saw her youngest—Myeko, the five-year-old—buried up to her breast and unable to move. As Mrs. Nakamura started frantically to claw her way toward the baby, she could see or hear nothing of her other children.</p></blockquote>
-
-<p>Absolutely terrifying.</p>
-
-<p class="card-separator">♡</p>
-
-
-<h3><a href="http://www.theverge.com/2015/8/7/9114489/the-daily-show-jon-stewart-final-show-comedy-central">I was there for Jon Stewart’s final night on The Daily Show | Hilary Kissinger →</a></h3>
-
-<p>Beautiful article on Jon Stewart’s final <em>Daily Show</em>:</p>
-
-<blockquote><p>But Jon Stewart’s legacy at <em>TDS</em> isn’t that he did “more than comedy.” It’s that <em>comedy is more</em>. Laughter is healing, but it’s also surprising, condemning, inciting, and sometimes infuriating. It makes change in the world. Stewart isn’t the first comedian to have an impact on the political landscape, but his consistent presence in American culture has given a new shape to comedy’s identity. We recognize its power in new ways.</p></blockquote>
-
-<p class="card-separator">♢</p>
-
-
-<h2>Afterword</h2>
-
-<p>This week was quite intense as far as activity is concerned, although my writing  output hasn’t been substantially different from other weeks. But there’s been one thing I’ve already hinted at that’s kept me busy: I’m right in the middle of transitioning to a new camera system.</p>
-
-<p>Last week, I finally made the decision to upgrade from my Micro Four Thirds camera, the amazing <a href="http://www.amazon.com/gp/product/B00HPQ09H6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00HPQ09H6&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=YZNH3IVRICEM6E2L">Olympus OM-D E-M10</a>, to a new Full Frame camera: the <a href="http://www.amazon.com/gp/product/B00PX8CHO6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00PX8CHO6&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=TN3V7SYRGQNGCSRZ">Sony A7 Mark II</a>.</p>
-
-<p class="extra-width"><img src="https://farm4.staticflickr.com/3689/20404322665_c524a726e8_o.jpg"/></p>
-
-
-
-
-<p class="photo-credit">My Olympus OM-D E-M10 has to go, along with the rest of my MFT gear.</p>
-
-
-<p>To that end, and in order to partially fund the switch, I needed to part ways with most of my beloved MFT gear. A few days ago I put up for sale four of the five lenses I own, and three of them have already sold — in under 48 hours, which was a huge relief. I’m keeping the camera and the <a href="http://www.amazon.com/gp/product/B00CI3R4VU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00CI3R4VU&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=GOPAGKJO7ON2JSYP">Olympus 17mm f/1.8</a> for now because I’m still working on the review of the lens, but those two will also be going away as soon as I’m done with it.</p>
-
-<p class="extra-width"><img src="https://farm1.staticflickr.com/318/19781684774_e4bc4d2a0a_o.jpg"/></p>
-
-
-<p>Still, switching camera systems is always a huge investment, and deserves some careful consideration.</p>
-
-<p>In my case, going with the Sony FE system was far from an obvious choice. Since I love shooting film and already own a Canon EOS 3, choosing a Canon body would have made all the sense in the world. Had I done that, I would have gotten to use all my lenses with both camera bodies, a pretty cool advantage indeed.</p>
-
-<p>At the end of the day, though, I just can’t get over the fact that Canon doesn’t seem to be very interested in advancing the state of the art with their DSLRs anymore. It’s been three years since their current models were released, and even though both of them are due for an update soon, all the rumor sites are pointing to them being rather underwhelming evolutionary updates instead of the revolutionary leaps we’re all hoping for.</p>
-
-<p>As such, I didn’t feel comfortable at all going with Canon, and to be honest, while I do enjoy shooting film, I’m not about to let my film camera condition such a huge investment. Plus, when you’re serious about shooting film, you shoot medium format anyway. So, the Sony FE system it is.</p>
-
-<p>One thing to note is that my decision to go Full Frame comes right on the heels of the release of the new and mind-blowing <a href="http://www.amazon.com/gp/product/B00ZDWGFR2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ZDWGFR2&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=OPGX3WAD2ZKQVVGY">Sony A7R Mark II</a>. This was not a coincidence. I’ve been following the state of the Sony FE system closely ever since the original A7 was released, but up until the A7R II, I hadn’t been <em>really</em> convinced about the system’s potential to be a credible alternative to Canon and Nikon in the Full Frame turf.</p>
-
-<p>As soon as it was announced, though, it became immediately clear that the A7R II is as close as we can get today to the perfect camera. I love it, and would love to own it, but unfortunately it’s not a sensible choice for me these days. But the important thing about the A7R II is what it represents: it is definitive proof that Sony’s FE system has a long, prosperous life ahead of it.</p>
-
-<p>Out of the common complaints associated with mirrorless camera systems when compared with DSLRs — poor battery life, slow autofocus, etc. — there were two additional issues that, due to its Full Frame nature, particularly affected the Sony FE system: the small number of native lenses available, and the poor AF performance with adapted Canon and Nikon lenses. These two issues, of course, compound each other, as Sony would only really need to solve one of them in order to convince reticent users to give their excellent cameras a chance.</p>
-
-<p>As it turns out, the A7R II shows Sony is really serious about fixing <em>both</em> of these issues.</p>
-
-<p>Lens selection for the FE system has grown substantially over the past year and, at this point, I’d say all the system is missing is a set of fast f/2.8 zooms. Their prime selection could also use one or two lenses above the 100mm focal length, but other than that, the lineup is already pretty good for most uses — certainly for most uses I’d be interested in.</p>
-
-<p>The AF system has also received a substantial upgrade in the A7R II, achieving perfectly usable AF speeds with most Canon and Nikon lenses via the use of inexpensive adapters. This will be huge for those that absolutely need to keep all their fast and expensive glass, but are otherwise interested in what Sony’s cameras have to offer.</p>
-
-<p>So, if the A7R II is so good, why did I buy the A7 II instead, which still suffers from the slow AF issue?</p>
-
-<p>The answer comes down to my limited budget, of course. I <em>could</em> have bought the A7R II, but that would have meant staying with only one native lens for at least a year, until I could afford to buy more. By going with the more affordable A7 II, I’ll be able to buy up to four excellent native lenses right from the start, which will hopefully provide a much more versatile kit.</p>
-
-<p>I’m a huge believer in a very popular photography rule: when in doubt, put your money towards the glass, not the camera body.</p>
-
-<p>The A7R II is a fantastic camera but, in all likelihood, less than a year from now we will have an A7 Mark III that will inherit its improved AF system and back-illuminated sensor, together with a few other upgrades, and it will probably be priced at around the same $1,700 that the A7 II costs today.</p>
-
-<p>Being 100% honest, I have no need for the higher resolution of the A7R II. Coming from a 16-Megapixel MFT camera, the 24-Megapixel sensor of the A7 II will already be a nice upgrade for me. Also, I mostly shoot with primes, so the lack of a native fast zoom is not a deal breaker. I’d love to own one, but I can wait. In the meantime, I’m more than happy to get by with the perfectly decent 24-70mm f/4 native zoom.</p>
-
-<p>As far as lenses go, the only lens I’ve already bought is the aforementioned <a href="http://www.amazon.com/gp/product/B00FSB79FU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00FSB79FU&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=OWRTL3FNKZC5EMGZ">Zeiss Vario-Tessar 24-70mm f/4 OSS</a>, but I have plans to buy the <a href="http://www.amazon.com/gp/product/B00FSB799Q/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00FSB799Q&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=CJ7RZELYHQX7H5BV">Zeiss Sonnar 55mm f/1.8</a>, the new <a href="http://www.bhphotovideo.com/c/product/1140833-REG/zeiss_2103_751_85mm_f_1_8_batis_short.html">Zeiss Batis 85mm f/1.8</a> and the <a href="http://www.amazon.com/gp/product/B00U29GNBO/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00U29GNBO&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=QOS4GS6WP7SMA7TM">Zeiss Distagon 35mm f/1.4</a> as well. These are three of the very best primes available for <em>any</em> camera system, and I can’t wait to get my hands on them. If and when a fast zoom is released, I’ll be happy to sell my 24-70 and get the new one. Similarly, when a future A7 Mark III is announced, I’ll probably get that one, too, and sell my A7 II.</p>
-
-<p>For now, though, this isn’t a bad kit at all.</p>
-
-<p>If shipping estimates are accurate, I’ll be receiving the camera and the 24-70 zoom sometime next week, or early the next one. Of course, I’ll be publishing my first thoughts and image samples shortly thereafter.</p>
-
-<p>Until then, thanks for reading, and have a fantastic weekend.</p>
-</div>
-  
-
-    </article>
-    <div class="post-separator"> ♤  ♧  ♡  ♢ </div>
-  
   <div class="pagination">
     
       <a class="prev" href="/posts/9">&larr; Older</a>
@@ -715,6 +654,10 @@ Aug 8th, 2015
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/2015/10/14/sandwich-video-presents-computer-show/">Sandwich Video presents: ‘Computer Show’</a>
+      </li>
+    
+      <li class="post">
         <a href="/2015/10/14/zeiss-announces-new-28mm-f-slash-1-dot-4-otus-lens/">Zeiss announces new 28mm f/1.4 Otus lens</a>
       </li>
     
@@ -728,10 +671,6 @@ Aug 8th, 2015
     
       <li class="post">
         <a href="/2015/10/13/jason-snell-reviews-the-new-4k-imac/">Jason Snell reviews the new 4K iMac</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2015/10/13/apple-updates-the-imac-family/">Apple updates the iMac family</a>
       </li>
     
   </ul>
