@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-14T00:17:02+02:00</updated>
+  <updated>2015-10-14T18:05:06+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Sony announces the new RX1R II Full Frame camera →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.sony.net/Products/di/en-us/products/91ah/index.html"/>
+	
+    <updated>2015-10-14T17:37:28+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/10/14/sony-announces-the-new-rx1r-ii-full-frame-camera</id>
+  	
+  	<content type="html"><![CDATA[<p>Today Sony announced the new RX1R II, the next Full Frame camera in Sony’s RX1 series. As the previous versions, the new RX1R II sports a fixed Zeiss Sonnar T* 35mm f/2 lens. The new version, however, also sports a back-illuminated 42.4 MP sensor and the world’s first optical variable low-pass filter, which can be tuned to reduce moiré and color artifacts, or to maximize resolution.</p>
+
+<p>Additionally, there’s an advanced AF system with 399 phase-detection points that cover a wide area of the image, and a retractable EVF with an impressive 0.74x magnification.</p>
+
+<p>All in all, the camera is an impressive technological feat, but there’s a catch: the RX1R II will be released in November for a whopping $3,300 in the US. Ouch.</p>
+
+<p>That’s a pretty steep price point for a fixed lens camera, no doubt, although one could argue that, since you’re getting a superb piece of glass included in the package, it’s ultimately not as terrible a deal as it may initially seem.</p>
+
+<p>Indeed, the RX1R II’s price translates roughly to paying $2,300 for the body and $1,000 for the lens, which are both much more reasonable amounts, especially considering that this is practically an <a href="http://www.amazon.com/gp/product/B00ZDWGFR2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ZDWGFR2&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=2W4ZAQZA6ASNNVPU">A7R II</a> with a fixed lens and without the 5-axis IBIS — which, to be honest, is not really a must-have at this focal length.</p>
+
+<p>At the end of the day, this is yet another excellent camera from Sony, and at this point I’m starting to lose the count.</p>
+
+<p>The new Sony RX1R II is available for preorder <a href="http://www.bhphotovideo.com/c/product/1190330-REG/sony_dscrx1rm2_b_cyber_shot_dsc_rx1r_ii_digital.html">at B&amp;H</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/10/14/sony-announces-the-new-rx1r-ii-full-frame-camera/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Jason Snell reviews the new 4K iMac →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -806,28 +831,6 @@
 
 <p>Take. My. Money.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/10/02/spectre-final-trailer/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Hackers dump data for 2.3 million Patreon users online →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.theverge.com/2015/10/2/9439077/patreon-hack-user-database-2-million-users"/>
-	
-    <updated>2015-10-02T17:01:21+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/02/hackers-dump-data-for-2-dot-3-million-patreon-users-online</id>
-  	
-  	<content type="html"><![CDATA[<p>Kwame Opam, writing for <em>The Verge</em>:</p>
-
-<blockquote><p>The data was made available for anyone to download, and Troy Hunt, owner of <a href="https://haveibeenpwned.com/">haveibeenpwned.com</a>, was able to extract the information and analyze the information in the file:</p></blockquote>
-
-<center><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">New breach: 2.3M email addresses from the Patreon breach. 12% were already in <a href="https://twitter.com/haveibeenpwned">@haveibeenpwned</a> <a href="http://t.co/U0QyHZxP6k">http://t.co/U0QyHZxP6k</a></p>&mdash; Have I been pwned? (@haveibeenpwned) <a href="https://twitter.com/haveibeenpwned/status/649868641324785664">October 2, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
-
-
-<blockquote><p>So far, the hackers, who identify themselves in a README file in the dump as the #SuperExtremeShitpostingTeam, haven’t expressed any motive for the hack other than doing it for the lulz.</p></blockquote>
-
-<p>Oh well, as long as it’s for the lulz.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/02/hackers-dump-data-for-2-dot-3-million-patreon-users-online/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
