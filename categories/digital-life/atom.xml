@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-15T17:06:38+02:00</updated>
+  <updated>2015-10-15T17:40:37+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Alex Kantrowitz takes a look at “M”, Facebook Messenger’s new Virtual Assistant]]></title>
+    <link href="http://www.analogsenses.com/2015/10/15/alex-kantrowitz-takes-a-look-at-m-facebook-messengers-new-virtual-assistant/"/>
+    <updated>2015-10-15T17:23:57+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/15/alex-kantrowitz-takes-a-look-at-m-facebook-messengers-new-virtual-assistant</id>
+    <content type="html"><![CDATA[<p>Speaking of the future, this exchange between BuzzFeed’s Alex Kantrowitz and M, the new Virtual Assistant in Facebook Messenger, is so good it’s actually spooky. Its context awareness is extremely impressive, and its natural language parsing appears to be flawless.</p>
+
+<p>The fact that you can explicitly tell M <em>not</em> to save your personal information is another nice touch, especially considering this is Facebook we’re talking about. Of course, it would have been even better had it been the other way around — if M didn’t save your data unless you explicitly told it to.</p>
+
+<p>That said, I don’t think we should expect things to be this smooth during uncontrolled exchanges in real life, but if Kantrowitz’s experience is anything to go by, I’d say M is off to an excellent start.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tesla unveils autopilot system]]></title>
@@ -68,29 +81,6 @@
 <p>Speaking to <em>The New York Times</em>, <em>Playboy</em> CEO Scott Flanders explained the reasoning behind the change: “You’re now one click away from every sex act imaginable for free. And so it’s just passé at this juncture.” Basically, <em>Playboy</em> stems from a time when nudity was racy and exciting; today, it’s <em>de rigueur</em>. The circulation figures illustrate that fact nicely: from a peak of around 5.6 million subscribers in 1975, <em>Playboy</em> is now down to around 800,000.</p></blockquote>
 
 <p>Surprising, to say the least, but also understandable. Nudity used to be edgy, but clearly it isn’t anymore. The real question is, will <em>Playboy</em> be able to reinvent themselves convincingly enough to be successful in this new, highly competitive, digital-first era?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Marco Arment releases Overcast 2]]></title>
-    <link href="http://www.analogsenses.com/2015/10/09/marco-arment-releases-overcast-2/"/>
-    <updated>2015-10-09T18:40:08+02:00</updated>
-    <id>http://www.analogsenses.com/2015/10/09/marco-arment-releases-overcast-2</id>
-    <content type="html"><![CDATA[<p>Great news from Marco:</p>
-
-<blockquote><p>After a year of work, Overcast 2 is now available as a free update for everyone. It’s mostly a major under-the-hood improvement, with relatively few user-facing changes. But they’re pretty good, I think.</p>
-
-<p>And now, <strong>all features are free</strong>, and I’m trying a new business model.</p></blockquote>
-
-<p>Overcast 2 adds some really awesome features like streaming, which will allow you to start playing an episode immediately, instead of having to wait for it to fully download to your device. I’ve been looking forward to this feature ever since Overcast was first released, and I can’t wait to try it out.</p>
-
-<p>As for the new business model, Marco is now offering a $1 monthly patronage option within the app:</p>
-
-<blockquote><p>If only 5% of customers become monthly patrons, Overcast will match its previous revenue.</p>
-
-<p>Patrons may get special features in the future if I can’t afford to offer something to everyone (due to hosting costs, etc.), but today, patronage is simply that: supporting Overcast directly, because you want to. And if you’d rather not, no hard feelings.</p></blockquote>
-
-<p>Simple, easy, and respectful towards his customers. In other words, quintessentially Marco. I’m sold.</p>
 ]]></content>
   </entry>
   
