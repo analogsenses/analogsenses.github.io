@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-20T19:13:20+02:00</updated>
+  <updated>2015-10-20T20:21:08+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Leica announces new SL Full Frame mirrorless camera →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://no-detour.leica-camera.com/en/"/>
+	
+    <updated>2015-10-20T19:50:00+02:00</updated>
+  	<id>http://www.analogsenses.com/2015/10/20/leica-announces-new-sl-full-frame-mirrorless-camera</id>
+  	
+  	<content type="html"><![CDATA[<p>This is interesting. Leica just unveiled the Leica SL, a new mirrorless camera designed with professionals in mind, along with <a href="http://en.leica-camera.com/Photography/Leica-SL/Lenses">three new SL lenses</a>, including <a href="http://en.leica-camera.com/Photography/Leica-SL/Lenses/LEICA-SUMMILUX-SL">a new 50mm f/1.4 Summilux</a> that they’re labeling as “the new reference lens of this focal length”, and that looks absolutely amazing.</p>
+
+<p>What’s even more interesting, though, is that Leica somehow managed to make the new SL camera compatible with all existing <a href="http://en.leica-camera.com/Photography/Leica-T/Lenses-for-Leica-T">T-mount lenses</a> <em>without the  need for an adapter</em>. Considering the Leica T has an APS-C sensor, I wonder how they’ve managed to cover the entire Full Frame sensor of the Leica SL with those lenses without suffering from severe vignetting.</p>
+
+<p>My best guess is that they may have recessed the sensor of the SL deeper into the body, but I’m not sure that would work, since the focusing plane would be off with T lenses. Another alternative is that T lenses may have been designed with Full Frame coverage right from the start, which would show impressive foresight on Leica’s part. Whatever the case, I suspect we’ll find out soon enough.</p>
+
+<p>However, it needs to be said: with nearly identical specs, size and features, the new SL clearly seems to be Leica’s answer to the Sony A7-series. If you wanted a Leica-branded Sony A7 — and many people sure looked like they did — I suspect this is as close as it gets.</p>
+
+<p>We still need to see how well it performs, but for now, the Leica SL looks like an interesting product, if one clearly aimed at photographers with several thousand dollars to spare.</p>
+
+<p>The new Leica SL is <a href="http://www.bhphotovideo.com/c/product/1192093-REG/leica_10850_sl_typ_601_mirrorless.html">available for preorder</a> at B&amp;H for $7,450. It will begin shipping on November 21st.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/10/20/leica-announces-new-sl-full-frame-mirrorless-camera/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Shawn Blanc and Mike Vardy announce The Awareness Building Class →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -806,33 +829,6 @@
 
 <p>With every passing month and year, the list of reasons to buy a DSLR over a mirrorless camera keeps getting shorter.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/10/09/voigtlander-announces-3-new-native-e-mount-lenses/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Marco Arment releases Overcast 2 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.marco.org/2015/10/09/overcast2"/>
-	
-    <updated>2015-10-09T18:40:08+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/09/marco-arment-releases-overcast-2</id>
-  	
-  	<content type="html"><![CDATA[<p>Great news from Marco:</p>
-
-<blockquote><p>After a year of work, Overcast 2 is now available as a free update for everyone. It’s mostly a major under-the-hood improvement, with relatively few user-facing changes. But they’re pretty good, I think.</p>
-
-<p>And now, <strong>all features are free</strong>, and I’m trying a new business model.</p></blockquote>
-
-<p>Overcast 2 adds some really awesome features like streaming, which will allow you to start playing an episode immediately, instead of having to wait for it to fully download to your device. I’ve been looking forward to this feature ever since Overcast was first released, and I can’t wait to try it out.</p>
-
-<p>As for the new business model, Marco is now offering a $1 monthly patronage option within the app:</p>
-
-<blockquote><p>If only 5% of customers become monthly patrons, Overcast will match its previous revenue.</p>
-
-<p>Patrons may get special features in the future if I can’t afford to offer something to everyone (due to hosting costs, etc.), but today, patronage is simply that: supporting Overcast directly, because you want to. And if you’d rather not, no hard feelings.</p></blockquote>
-
-<p>Simple, easy, and respectful towards his customers. In other words, quintessentially Marco. I’m sold.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/09/marco-arment-releases-overcast-2/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
