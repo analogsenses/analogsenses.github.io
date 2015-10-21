@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-21T14:13:22+02:00</updated>
+  <updated>2015-10-21T17:45:10+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sony A7R II: compressed vs. uncompressed RAW files]]></title>
+    <link href="http://www.analogsenses.com/2015/10/21/sony-a7r-ii-compressed-vs-uncompressed-raw-files/"/>
+    <updated>2015-10-21T17:36:28+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/21/sony-a7r-ii-compressed-vs-uncompressed-raw-files</id>
+    <content type="html"><![CDATA[<p>Great post over at <em>MirrorLessons</em>. Long story short, there is a small improvement in image quality, but it’s only noticeable in extreme cases and at high ISOs, and it comes with massive penalties in file size (2x bigger), and performance (number of shots in a burst before the camera slows is cut down in half, and time to write to card roughly doubles).</p>
+
+<p>Honestly, I don’t see a real-world scenario where the new uncompressed files would be worth it. It appears current A7-series cameras simply aren’t equipped with enough processing power to handle fully uncompressed RAW files, which is a bit of a disappointment. This is a wasted opportunity, because had Sony implemented lossless compression, as opposed to no compression at all, performance would probably have been much better.</p>
+
+<p>The good news is, Sony has already shown they’re willing to work on this to get it right, so maybe they’ll add a lossless option in a future firmware update.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Leica announces new SL Full Frame mirrorless camera]]></title>
@@ -89,27 +102,6 @@
 <p>Retail price for the upcoming 28mm f/1.4 Otus lens is still unknown, but if you’re thinking so much “special” glass sounds expensive, you couldn’t be more right. Otus lenses have traditionally been priced in the several thousand-dollar range, with the Nikon mount version of the <a href="http://www.amazon.com/gp/product/B00GM33B7S/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00GM33B7S&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=2EBIBR2FS77NLRI6">55mm f/1.4</a> coming in at a hair under $3,850, and the <a href="http://www.amazon.com/gp/product/B00NGEE4O0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00NGEE4O0&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=23BVBUFLXPHFLECH">85mm f/1.4</a> at a little under $4,400. Both Canon mount versions are a few hundred dollars cheaper, but still comfortably over the $3,000 mark, so not exactly cheap either.</p>
 
 <p>By all accounts, fine glass is expensive, but in the case of the Otus family, it <em>really</em> doesn’t get any better than that. If you’re a working photographer that needs the absolute highest quality possible this side of Medium Format, this is where you’ll find it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sony announces the new RX1R II Full Frame camera]]></title>
-    <link href="http://www.analogsenses.com/2015/10/14/sony-announces-the-new-rx1r-ii-full-frame-camera/"/>
-    <updated>2015-10-14T17:37:28+02:00</updated>
-    <id>http://www.analogsenses.com/2015/10/14/sony-announces-the-new-rx1r-ii-full-frame-camera</id>
-    <content type="html"><![CDATA[<p>Today Sony announced the new RX1R II, the next Full Frame camera in Sony’s RX1 series. As the previous versions, the new RX1R II sports a fixed Zeiss Sonnar T* 35mm f/2 lens. The new version, however, also sports a back-illuminated 42.4 MP sensor and the world’s first optical variable low-pass filter, which can be tuned to reduce moiré and color artifacts, or to maximize resolution.</p>
-
-<p>Additionally, there’s an advanced AF system with 399 phase-detection points that cover a wide area of the image, and a retractable EVF with an impressive 0.74x magnification.</p>
-
-<p>All in all, the camera is an impressive technological feat, but there’s a catch: the RX1R II will be released in November for a whopping $3,300 in the US. Ouch.</p>
-
-<p>That’s a pretty steep price point for a fixed lens camera, no doubt, although one could argue that, since you’re getting a superb piece of glass included in the package, it’s ultimately not as terrible a deal as it may initially seem.</p>
-
-<p>Indeed, the RX1R II’s price translates roughly to paying $2,300 for the body and $1,000 for the lens, which are both much more reasonable amounts, especially considering that this is practically an <a href="http://www.amazon.com/gp/product/B00ZDWGFR2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ZDWGFR2&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=2W4ZAQZA6ASNNVPU">A7R II</a> with a fixed lens and without the 5-axis IBIS — which, to be honest, is not really a must-have at this focal length.</p>
-
-<p>At the end of the day, this is yet another excellent camera from Sony, and at this point I’m starting to lose the count.</p>
-
-<p>The new Sony RX1R II is available for preorder <a href="http://www.bhphotovideo.com/c/product/1190330-REG/sony_dscrx1rm2_b_cyber_shot_dsc_rx1r_ii_digital.html">at B&amp;H</a>.</p>
 ]]></content>
   </entry>
   
