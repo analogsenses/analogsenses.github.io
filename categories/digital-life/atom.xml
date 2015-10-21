@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-20T21:05:35+02:00</updated>
+  <updated>2015-10-21T14:13:22+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Brent Simmons on Internet abuse]]></title>
+    <link href="http://www.analogsenses.com/2015/10/21/brent-simmons-on-internet-abuse/"/>
+    <updated>2015-10-21T14:11:34+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/21/brent-simmons-on-internet-abuse</id>
+    <content type="html"><![CDATA[<p>Fantastic piece:</p>
+
+<blockquote><p>The community had always been on my side, so this came as a shock. But I should have remembered Dave Winer’s words to me from 2003, after I released NetNewsWire 1.0. I’m paraphrasing, not quoting, but they were something like this: “You’re the golden boy now. Enjoy it. They’ll turn on you later.”</p>
+
+<p>For the next six months after the pile-on I asked myself every day if I should just quit the industry. Seriously. Every day, and especially every night. I came very close.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The elephant and the mouse]]></title>
@@ -357,23 +370,6 @@
 <p>If that sounds like science-fiction to you, you’re not alone. Take a look at <a href="https://www.youtube.com/watch?v=eXVspNUeiWw">this video</a> showing the technique in action:</p>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/eXVspNUeiWw" allowfullscreen></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Michael Ballaban test drives a Tesla with the new autopilot system]]></title>
-    <link href="http://www.analogsenses.com/2015/10/15/michael-ballaban-test-drives-a-tesla-with-the-new-autopilot-system/"/>
-    <updated>2015-10-15T18:12:24+02:00</updated>
-    <id>http://www.analogsenses.com/2015/10/15/michael-ballaban-test-drives-a-tesla-with-the-new-autopilot-system</id>
-    <content type="html"><![CDATA[<p>Michael Ballaban reviews Tesla’s new autopilot system:</p>
-
-<blockquote><p>And it really is eerie at first, to be sitting in the driver’s seat and see the wheel moving itself. You see massive trucks to the left, and suicidal taxis to the right, and you know, you just <em>know</em>, that you’re going to smash into one of them and face a very apologetic Tesla representative in the passenger seat.</p>
-
-<p>But you don’t. In the dash in front of you, the car actually gives you a display of what its onboard computer is seeing. You see displays of ultrasonic sensors firing off to the left and right of you, you see a generic illustration of the car in front of you halfway out of its own lane, and the car essentially reassures you – “it’s alright, I’ve got it, I see the chaotic trash soup surrounding us, and you’re not going to hit anything.”</p></blockquote>
-
-<p>Just crazy. Check out <a href="https://www.youtube.com/watch?v=3yCAZWdqX_Y">the accompanying video</a> to get a better idea of how the system works:</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/3yCAZWdqX_Y" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
