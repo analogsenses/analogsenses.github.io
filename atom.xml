@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-29T18:33:16+01:00</updated>
+  <updated>2015-10-29T18:48:10+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Sizing up the new Apple TV →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://sixcolors.com/post/2015/10/sizing-up-the-apple-tv/"/>
+	
+    <updated>2015-10-29T18:41:15+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/10/29/sizing-up-the-new-apple-tv</id>
+  	
+  	<content type="html"><![CDATA[<p>Dan Moren, over at <em>Six Colors</em>:</p>
+
+<blockquote><p>One could almost argue, then, that the 64GB version of the Apple TV is the “game console” version, with the 32GB primarily targeted as a “set-top streaming box.” The 64GB version is also for customers who want to not worry about running out of storage or want to feel like they bought the <em>best</em> Apple TV available. And, as with the 16GB model of the iPhone, perhaps the 32GB model is there to stake out the low ground, and convince customers on the fence that it might be worth it to spend the <em>mere</em> $50 to upgrade to 64GB.</p></blockquote>
+
+<p>He makes two excellent points here. Apple has a history of offering entry-level products of questionable value in order to upsell customers to higher end models, so there’s a distinct possibility that the new Apple TV could be another example of that.</p>
+
+<p>That said, I like his former point better: that the 32GB version is simply the one for people that don’t think of the Apple TV as a gaming device and are not likely to need the extra storage capacity of the higher end model.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/10/29/sizing-up-the-new-apple-tv/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Verge reviews the new Apple TV →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -884,31 +903,6 @@
 
 <p>Yep. I can’t wait.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/10/14/fx-developing-a-tv-series-based-on-y-the-last-man/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Sony announces the new RX1R II Full Frame camera →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.sony.net/Products/di/en-us/products/91ah/index.html"/>
-	
-    <updated>2015-10-14T17:37:28+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/14/sony-announces-the-new-rx1r-ii-full-frame-camera</id>
-  	
-  	<content type="html"><![CDATA[<p>Today Sony announced the new RX1R II, the next Full Frame camera in Sony’s RX1 series. As the previous versions, the new RX1R II sports a fixed Zeiss Sonnar T* 35mm f/2 lens. The new version, however, also sports a back-illuminated 42.4 MP sensor and the world’s first optical variable low-pass filter, which can be tuned to reduce moiré and color artifacts, or to maximize resolution.</p>
-
-<p>Additionally, there’s an advanced AF system with 399 phase-detection points that cover a wide area of the image, and a retractable EVF with an impressive 0.74x magnification.</p>
-
-<p>All in all, the camera is an impressive technological feat, but there’s a catch: the RX1R II will be released in November for a whopping $3,300 in the US. Ouch.</p>
-
-<p>That’s a pretty steep price point for a fixed lens camera, no doubt, although one could argue that, since you’re getting a superb piece of glass included in the package, it’s ultimately not as terrible a deal as it may initially seem.</p>
-
-<p>Indeed, the RX1R II’s price translates roughly to paying $2,300 for the body and $1,000 for the lens, which are both much more reasonable amounts, especially considering that this is practically an <a href="http://www.amazon.com/gp/product/B00ZDWGFR2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00ZDWGFR2&amp;linkCode=as2&amp;tag=analogsens-20&amp;linkId=2W4ZAQZA6ASNNVPU">A7R II</a> with a fixed lens and without the 5-axis IBIS — which, to be honest, is not really a must-have at this focal length.</p>
-
-<p>At the end of the day, this is yet another excellent camera from Sony, and at this point I’m starting to lose the count.</p>
-
-<p>The new Sony RX1R II is available for preorder <a href="http://www.bhphotovideo.com/c/product/1190330-REG/sony_dscrx1rm2_b_cyber_shot_dsc_rx1r_ii_digital.html">at B&amp;H</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/14/sony-announces-the-new-rx1r-ii-full-frame-camera/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
