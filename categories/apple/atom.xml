@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-10-27T21:46:43+01:00</updated>
+  <updated>2015-10-29T18:33:16+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Verge reviews the new Apple TV]]></title>
+    <link href="http://www.analogsenses.com/2015/10/29/the-verge-reviews-the-new-apple-tv/"/>
+    <updated>2015-10-29T18:27:31+01:00</updated>
+    <id>http://www.analogsenses.com/2015/10/29/the-verge-reviews-the-new-apple-tv</id>
+    <content type="html"><![CDATA[<p>If you&rsquo;re one of the many people who are still waiting for their brand-new Apple TVs to be delivered, Nilay Patel’s review over at <em>The Verge</em> will keep you entertained for a while:</p>
+
+<blockquote><p>The streaming boxes on the market right now all compete to do very few simple things: get everything you want to watch in a single place, make it all easy to search and discover, and get out of the way. And the Apple TV does that as well or better than anything else on the market. It has virtually every streaming app save Amazon Prime video, Siri works reasonably well and can answer a wider range of questions across services than the Fire TV 2 or Roku, and playback is super fast. If you just want a new streaming box, you can happily buy a new Apple TV. (I would buy the $149 base model.) You’ll like it.</p></blockquote>
+
+<p>In other words, the new Apple TV is not quite the revolutionary experience many of us were hoping for, but it is a pretty solid product considering today&rsquo;s sorry state of affairs in the TV industry.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jason Snell reviews the new 4K iMac]]></title>
@@ -76,15 +89,6 @@
     <updated>2015-10-01T15:19:20+02:00</updated>
     <id>http://www.analogsenses.com/2015/10/01/stephen-hackett-reviews-os-x-el-capitan</id>
     <content type="html"><![CDATA[<p>Nice overview of the latest version of OS X, which was released yesterday <a href="https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117">on the Mac App Store</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Alex Cornell reviews the iPhone 6S]]></title>
-    <link href="http://www.analogsenses.com/2015/09/29/alex-cornell-reviews-the-iphone-6s/"/>
-    <updated>2015-09-29T18:12:15+02:00</updated>
-    <id>http://www.analogsenses.com/2015/09/29/alex-cornell-reviews-the-iphone-6s</id>
-    <content type="html"><![CDATA[<p>Priceless. Via <a href="http://www.mbs-p-b.com/mbs-p-b/2015/9/29/apple-iphone-6s-review-alex-cornell">Mike Bates</a>.</p>
 ]]></content>
   </entry>
   
