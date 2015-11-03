@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-02T20:22:32+01:00</updated>
+  <updated>2015-11-03T17:50:00+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Tools &amp; Toys Christmas Catalog →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/guides/the-2015-christmas-catalog/"/>
+	
+    <updated>2015-11-03T17:38:54+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/11/03/the-tools-and-toys-christmas-catalog</id>
+  	
+  	<content type="html"><![CDATA[<p>Some really awesome gift ideas in there this year, as usual. I particularly loved Shawn&rsquo;s introduction, wherein he encourages the idea of intentional giving:</p>
+
+<blockquote><p>A gift is more than just an item to fill a box so it can be wrapped up in red and green paper and placed under a tree. When you buy a gift this year, don’t give out of obligation, but rather give out of thankfulness and gratitude.</p>
+
+<p>There is another side to this idea of intentional giving as well. It’s the idea that intentional giving means getting something awesome. Which, is actually easier than it may seem. With just a little bit of forethought and inspirational assistance, you too can move past the black hole of terrible gift giving that is filled with fruit cakes and generic gift certificates.</p></blockquote>
+
+<p>Nothing says I love you like an Amazon gift card&hellip; wait, what?</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/11/03/the-tools-and-toys-christmas-catalog/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Ben Bajarin on Samsung and The Innovator’s Dilemma →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1042,21 +1061,6 @@
 
 <p>When other people say “over time”, I hear “on an infinite timescale”. Musk, however, has no patience for that. This is a person hell-bent on ushering in the future way before it’s due. I’d be surprised if full hands-free driving took more than a few months to be fully operative.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/10/15/tesla-unveils-autopilot-system/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Sandwich Video presents: ‘Computer Show’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://computer.show"/>
-	
-    <updated>2015-10-14T19:55:56+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/14/sandwich-video-presents-computer-show</id>
-  	
-  	<content type="html"><![CDATA[<p>Hilarious and fascinating new site by Adam Lisagor’s Sandwich Video. Just go check it out.</p>
-
-<p>This is how you get people to “engage with your brand”.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/14/sandwich-video-presents-computer-show/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
