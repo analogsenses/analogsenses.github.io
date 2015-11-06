@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-04T22:33:13+01:00</updated>
+  <updated>2015-11-06T18:47:18+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Sony announces firmware update for a7 II camera with support for phase-detection autofocus and uncompressed RAW →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.sony.com/en_us/SCA/company-news/press-releases/sony-electronics/2015/sony-adds-uncompressed-raw-and-phase-detect-af-for.html"/>
+	
+    <updated>2015-11-06T17:32:54+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/11/06/sony-announces-firmware-update-for-a7-ii-camera-with-support-for-phase-detection-autofocus-and-uncompressed-raw</id>
+  	
+  	<content type="html"><![CDATA[<p>Yesterday Sony announced an upcoming firmware update for the Sony a7 II which, among other features, will add support for phase-detection autofocus (PDAF) with 3rd-party lenses, as well as support for uncompressed RAW files. PDAF was one of the hallmark features of the high-end Sony a7R II, and will now be available for owners of the entry-level a7 II as well, like myself.</p>
+
+<p>From the official press release:</p>
+
+<blockquote><p>The a7 II becomes the latest Sony full-frame camera, along with a7S II, a7R II and RX1R II to offer uncompressed RAW capture, which becomes a selectable feature (uncompressed/compressed RAW) within the menu system.</p>
+
+<p>Additionally, it becomes the second Sony camera, along with the flagship a7R II, to offer fully-functional phase detection AF to A-mount lenses in addition to E-mount lenses. The firmware update activates the 117-point focal plane phase detection AF sensor on the a7 II for lenses beyond just the native Sony FE lenses. This includes Sony’s extensive collection of A-mount lenses, which can be utilized along with the LA-EA3 mount adapter.</p></blockquote>
+
+<p>More importantly, it also includes most of the superb Canon L lenses, as well as Canon EF-mount lenses from Sigma and Tamron.</p>
+
+<p>My hope was that the a7R II’s AF system would make it into a future a7 Mark III, and I was happy to wait for that and invest in some high-end E-mount lenses in the meantime — after all, nothing can beat the reliability and performance of native lenses. I honestly wasn’t expecting Sony to add that feature to the a7 II via a firmware update, but I’m happy to be proven wrong. I still need to see for myself how well the a7 II performs after the upgrade, but if it’s anything like the a7R II, that’s good enough for me.</p>
+
+<p>I’ve mentioned before how the release of the a7R II with its new AF system was a turning point for me. That was the moment I knew the Sony E-mount system was a viable long-term bet, despite the relatively scarce selection of glass available for the system at the time. If Sony’s cameras can work reasonably well with Canon EF lenses, then the possibilities expand dramatically.</p>
+
+<p>Take 35mm lenses, for example. That’s probably my favorite focal length, and yet I still don’t own any 35mm primes. I’ve been wanting to try the <a href="http://amzn.to/20AdOkb">Sigma 35mm f/1.4 Art</a> lens for a really long time, but I never actually considered it a realistic choice for me due to its poor AF performance on the a7 II. Now, however, all that may change.</p>
+
+<p>Don’t get me wrong, I love the native <a href="http://amzn.to/1XUJ4rC">Sony Zeiss 35mm f/1.4</a> lens, but I don’t know if I love it enough to spend $1,600 on it, when the Sigma lens can be bought for half the price. Then, of course, there’s Canon’s own <a href="http://amzn.to/1XUJazA">35mm f/1.4 L II</a>, which apparently performs even better than the others, albeit only very slightly so, and at a rather ludicrous $1,799 price point. And I haven’t even mentioned any A-mount lenses yet.</p>
+
+<p>My point is that, whatever you particular preference, clearly it’s great to have options and now, thanks to this firmware update, I’ll have plenty of them. On top of that, the fact that I’d also be able to use any EF lenses I buy natively on my Canon EOS 3 film camera is just icing on the cake.</p>
+
+<p>As for uncompressed RAW, if performance is similar to what we’ve seen in the a7R II, I can definitely say I will <em>not</em> be enabling it on my camera. I suppose having all that extra image data can come in handy in some very specific situations, but for the vast majority of cases, the speed penalty just doesn’t seem worth it to me.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/11/06/sony-announces-firmware-update-for-a7-ii-camera-with-support-for-phase-detection-autofocus-and-uncompressed-raw/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[MirrorLessons reviews the Olympus 4.0 firmware update →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1029,29 +1062,6 @@
 
 <p>Thanks for reading, and I hope you have a peaceful weekend.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Sigma announces new 20mm f/1.4 Art lens →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.sigma-global.com/en/lenses/cas/product/art/a_20_14/"/>
-	
-    <updated>2015-10-16T21:56:25+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/16/sigma-announces-new-20mm-f-slash-1-dot-4-art-lens</id>
-  	
-  	<content type="html"><![CDATA[<p>The excellent Art series of lenses from Sigma keeps growing. Today the company announced the latest addition to the lineup, the upcoming 20mm f/1.4 Art lens. This is the world’s first f/1.4 ultra-wide-angle lens for Full Frame DSLRs, which scores Sigma another nice win in the bragging rights department.</p>
-
-<p><img src="https://farm1.staticflickr.com/727/22040763429_52ec4df0e8_o.jpg"/></p>
-
-<p>It’s still soon to tell if this new lens will be any good, but if the rest of Art lenses is anything to go by, it’s probably going to be a stunner.</p>
-
-<p>Perhaps most interesting, though, is Sigma’s <a href="http://www.sigma-global.com/en/lenses/cas/service/mcs/index.html">Mount Conversion Service</a>, for which the new 20mm Art lens is eligible, along with the rest of the Art lenses and many others. This service means that, should you decide to change camera systems in the future, you’ll be able get your existing Sigma lenses converted from one mount to another by Sigma, enabling you to carry them over to your new camera system.</p>
-
-<p>As of today, you can only get conversions to and from mounts that Sigma has already released in the market, meaning you can get a 35mm f/1.4 Art lens converted from Canon to Nikon mount, for example, but not to Sony’s E-mount, because that lens isn’t available for the E-mount yet. These limitations aside, that’s still a fantastic service, and one that only 3rd-party manufacturers can offer.</p>
-
-<p>The Sigma 20mm f/1.4 Art lens will be available for Canon, Nikon and Sigma mounts in mid-to-late November for $899, which will surely make it a red-hot holiday item among all super-wide-angle lovers out there. It is already available for preorder <a href="http://www.bhphotovideo.com/c/product/1191176-REG/sigma_20mm_f_1_4_art_lens.html">at B&amp;H</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/16/sigma-announces-new-20mm-f-slash-1-dot-4-art-lens/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
