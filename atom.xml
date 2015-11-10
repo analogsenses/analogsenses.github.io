@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-10T18:11:44+01:00</updated>
+  <updated>2015-11-10T19:46:23+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Lilac Charm →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://we-t-h-e-peoplee.blogspot.com.es/2015/11/lilac-charm.html"/>
+	
+    <updated>2015-11-10T19:43:24+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/11/10/lilac-charm</id>
+  	
+  	<content type="html"><![CDATA[<p>Here’s your gorgeous photoset of the day, by the always awesome Mila Stepanova.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/11/10/lilac-charm/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Books are dead →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -980,24 +993,6 @@
 
 <p>Plus, as a nice added bonus, if you’ve already done <a href="https://thefocuscourse.com/">The Focus Course</a> or sign up for it before October 26 (next Monday), you get the class for free.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/10/20/shawn-blanc-and-mike-vardy-announce-the-awareness-building-class/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Star Wars: The Force Awakens trailer released →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=sGbxmsDFVnE"/>
-	
-    <updated>2015-10-20T18:44:11+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/20/star-wars-the-force-awakens-trailer-released</id>
-  	
-  	<content type="html"><![CDATA[<p>So awesome. The music alone is enough to give me goosebumps:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/sGbxmsDFVnE" allowfullscreen></iframe></div>
-
-
-<p>Can’t wait. In fact, I’ve already purchased my tickets.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/20/star-wars-the-force-awakens-trailer-released/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
