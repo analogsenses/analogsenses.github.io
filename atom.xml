@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-10T19:46:23+01:00</updated>
+  <updated>2015-11-10T20:20:34+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Apple Music now available on Android →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://play.google.com/store/apps/details?id=com.apple.android.music&hl=en"/>
+	
+    <updated>2015-11-10T20:05:24+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android</id>
+  	
+  	<content type="html"><![CDATA[<p>Well, that was unexpected: Apple today released the Apple Music app for Android. There’s no mention of this on <a href="http://www.apple.com/pr/">Apple’s PR page</a>, which adds a certain clandestine flair to the whole thing. Eddy Cue did tweet about it <a href="https://twitter.com/cue/status/664156357956734976">a few minutes ago</a>, though.</p>
+
+<p>The app is labeled as beta, with several features missing or incomplete:</p>
+
+<blockquote><ul>
+<li>Music videos are coming soon.</li>
+<li>Family membership sign-ups and upgrades require Mac or iOS.</li>
+<li>Sign-up process to be optimized for Android.</li>
+</ul>
+</blockquote>
+
+<p>Nothing too important missing here, but these omissions are worth keeping in mind anyway. Also, the way I understand the family membership situation is: you <em>can</em> use the app with a family membership, you just can’t sign up for the membership or upgrade to it from within the app.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Lilac Charm →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -974,25 +998,6 @@
 
 <p>The new Leica SL is <a href="http://www.bhphotovideo.com/c/product/1192093-REG/leica_10850_sl_typ_601_mirrorless.html">available for preorder</a> at B&amp;H for $7,450. It will begin shipping on November 21st.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/10/20/leica-announces-new-sl-full-frame-mirrorless-camera/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Shawn Blanc and Mike Vardy announce The Awareness Building Class →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://thefocuscourse.com/abc/"/>
-	
-    <updated>2015-10-20T19:02:09+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/20/shawn-blanc-and-mike-vardy-announce-the-awareness-building-class</id>
-  	
-  	<content type="html"><![CDATA[<p>Exciting new project by Shawn Blanc and Mike Vardy:</p>
-
-<blockquote><p>The Awareness Building Class is a 5-part series of audio teachings filled with real-life stories and actionable advice to help you stop guessing and start going.</p></blockquote>
-
-<p>Perfect description, although of course there’s much more to it than that. Follow the title link to check out everything that’s built into the class. Spoiler alert: it’s a lot.</p>
-
-<p>Plus, as a nice added bonus, if you’ve already done <a href="https://thefocuscourse.com/">The Focus Course</a> or sign up for it before October 26 (next Monday), you get the class for free.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/20/shawn-blanc-and-mike-vardy-announce-the-awareness-building-class/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

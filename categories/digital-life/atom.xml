@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-10T19:46:23+01:00</updated>
+  <updated>2015-11-10T20:20:34+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Apple Music now available on Android]]></title>
+    <link href="http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android/"/>
+    <updated>2015-11-10T20:05:24+01:00</updated>
+    <id>http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android</id>
+    <content type="html"><![CDATA[<p>Well, that was unexpected: Apple today released the Apple Music app for Android. There’s no mention of this on <a href="http://www.apple.com/pr/">Apple’s PR page</a>, which adds a certain clandestine flair to the whole thing. Eddy Cue did tweet about it <a href="https://twitter.com/cue/status/664156357956734976">a few minutes ago</a>, though.</p>
+
+<p>The app is labeled as beta, with several features missing or incomplete:</p>
+
+<blockquote><ul>
+<li>Music videos are coming soon.</li>
+<li>Family membership sign-ups and upgrades require Mac or iOS.</li>
+<li>Sign-up process to be optimized for Android.</li>
+</ul>
+</blockquote>
+
+<p>Nothing too important missing here, but these omissions are worth keeping in mind anyway. Also, the way I understand the family membership situation is: you <em>can</em> use the app with a family membership, you just can’t sign up for the membership or upgrade to it from within the app.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Books are dead]]></title>
@@ -224,21 +244,6 @@
     <content type="html"><![CDATA[<p>This is awesome on so many levels:</p>
 
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/enu-qR0H_uk" allowfullscreen></iframe></div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Get your weekly dose of Morning Coffee via email]]></title>
-    <link href="http://www.analogsenses.com/2015/11/03/get-your-weekly-dose-of-morning-coffee-via-email/"/>
-    <updated>2015-11-03T20:41:46+01:00</updated>
-    <id>http://www.analogsenses.com/2015/11/03/get-your-weekly-dose-of-morning-coffee-via-email</id>
-    <content type="html"><![CDATA[<p>A couple of weeks ago I mentioned how I was thinking about making some changes to the current format of my Morning Coffee articles. One such change included the possibility to offer it as an email newsletter instead of, or alongside the current version.</p>
-
-<p>I’m still thinking about the best way to implement that but in the meantime, if you want your Morning Coffee to be delivered right to your inbox every week, I have some great news. Friend of the site <a href="https://twitter.com/pedroameireles">Pedro Meireles</a> has generously written and published an awesome <a href="https://ifttt.com">IFTTT</a> (if this, then that) recipe that allows you to do just that:</p>
-
-<blockquote><p>Every Saturday morning Álvaro Serrano publishes his weekly post titled “Morning Coffee”. With this recipe you will receive it on your e-mail the minute it is published. Great way to start the weekend reading!</p></blockquote>
-
-<p>This is so cool. My most sincere thanks to Pedro for sharing this!</p>
 ]]></content>
   </entry>
   
