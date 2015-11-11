@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-11T12:38:57+01:00</updated>
+  <updated>2015-11-11T17:13:08+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[John Gruber reviews the iPad Pro]]></title>
+    <link href="http://www.analogsenses.com/2015/11/11/john-gruber-reviews-the-ipad-pro/"/>
+    <updated>2015-11-11T17:04:54+01:00</updated>
+    <id>http://www.analogsenses.com/2015/11/11/john-gruber-reviews-the-ipad-pro</id>
+    <content type="html"><![CDATA[<p>I really enjoyed John&rsquo;s super-thorough review of the new iPad Pro, which went on sale today in the US.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sizing up the new Apple TV]]></title>
@@ -82,19 +91,6 @@
 <p>At first glance, those new accessories look uglier than the ones they’re replacing, with the sole exception of the Magic Mouse, which remains nearly identical. That said, I’m still curious to try them. Force Touch is an interesting feature, and Apple seems to be betting big on it for the future.</p>
 
 <p>Another great feature is the built-in rechargeable battery that all three accessories have. I never remember to keep spare batteries around, so this is definitely a welcome addition for me.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Disney artists go hands-on with upcoming iPad Pro and Apple Pencil]]></title>
-    <link href="http://www.analogsenses.com/2015/10/07/disney-artists-go-hands-on-with-upcoming-ipad-pro-and-apple-pencil/"/>
-    <updated>2015-10-07T18:55:16+02:00</updated>
-    <id>http://www.analogsenses.com/2015/10/07/disney-artists-go-hands-on-with-upcoming-ipad-pro-and-apple-pencil</id>
-    <content type="html"><![CDATA[<p>Juli Clover, over at <em>MacRumors</em>:</p>
-
-<blockquote><p>Disney Story Artist Jeff Ranjo <a href="https://twitter.com/JeffRanjo/status/651452347814535168">shared a Periscope</a> that demonstrates the iPad Pro in action, and several images of the Disney team’s drawings were shared on Twitter. The Disney team was using a beta version of popular drawing app <em>Procreate</em>, which has been updated to work with the iPad Pro, and an iPad Pro version of <em>Paper by Fiftythree</em> was also shown off.</p></blockquote>
-
-<p>That was cool to watch, but I’m not sure how representative it is of the iPad Pro’s capabilities in the hands of regular humans. I mean, those guys are so incredibly talented I’m sure they could draw just as well with something as crude as a piece of paper and a simple pencil.</p>
 ]]></content>
   </entry>
   
