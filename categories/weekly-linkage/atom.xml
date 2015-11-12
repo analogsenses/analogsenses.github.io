@@ -4,7 +4,7 @@
   <title><![CDATA[Category: weekly linkage | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/weekly-linkage/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-12T21:15:31+01:00</updated>
+  <updated>2015-11-12T21:35:20+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -73,7 +73,7 @@
 
 <p>Goldie Blox is a company founded by American engineer Debbie Sterling that creates awesome toys with the goal of getting more girls interested in traditionally male-dominated fields like science, technology, engineering, and math. Earlier this week they presented their latest character, the fearless Rails, Ruby Rails, on an amazing ad:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/qlMiSkpajCQ" allowfullscreen></iframe></div></p>
+<p>{% youtube qlMiSkpajCQ %}</p>
 
 <p>Of course, there’s more to the story than that:</p>
 
