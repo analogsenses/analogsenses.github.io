@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-11T18:19:35+01:00</updated>
+  <updated>2015-11-12T19:26:28+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.analogsenses.com/2015/10/20/star-wars-the-force-awakens-trailer-released</id>
     <content type="html"><![CDATA[<p>So awesome. The music alone is enough to give me goosebumps:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/sGbxmsDFVnE" allowfullscreen></iframe></div></p>
+<p>{% youtube sGbxmsDFVnE %}</p>
 
 <p>Can’t wait. In fact, I’ve already purchased my tickets.</p>
 ]]></content>
@@ -48,7 +48,7 @@
     <id>http://www.analogsenses.com/2015/10/02/spectre-final-trailer</id>
     <content type="html"><![CDATA[<p>The final trailer for the upcoming James Bond movie, SPECTRE, was released today:</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/z4UDNzXD3qA" allowfullscreen></iframe></div></p>
+<p>{% youtube z4UDNzXD3qA %}</p>
 
 <p>Take. My. Money.</p>
 ]]></content>
