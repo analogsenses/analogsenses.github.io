@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-12T21:35:20+01:00</updated>
+  <updated>2015-11-13T18:19:50+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iFixit tears down the new iPad Pro]]></title>
+    <link href="http://www.analogsenses.com/2015/11/13/ifixit-tears-down-the-new-ipad-pro/"/>
+    <updated>2015-11-13T18:12:27+01:00</updated>
+    <id>http://www.analogsenses.com/2015/11/13/ifixit-tears-down-the-new-ipad-pro</id>
+    <content type="html"><![CDATA[<p>Here we go again.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Federico Viticci reviews the iPad Pro]]></title>
@@ -56,25 +65,6 @@
 <blockquote><p>The streaming boxes on the market right now all compete to do very few simple things: get everything you want to watch in a single place, make it all easy to search and discover, and get out of the way. And the Apple TV does that as well or better than anything else on the market. It has virtually every streaming app save Amazon Prime video, Siri works reasonably well and can answer a wider range of questions across services than the Fire TV 2 or Roku, and playback is super fast. If you just want a new streaming box, you can happily buy a new Apple TV. (I would buy the $149 base model.) You’ll like it.</p></blockquote>
 
 <p>In other words, the new Apple TV is not quite the revolutionary experience many of us were hoping for, but it is a pretty solid product considering today&rsquo;s sorry state of affairs in the TV industry.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Jason Snell reviews the new 4K iMac]]></title>
-    <link href="http://www.analogsenses.com/2015/10/13/jason-snell-reviews-the-new-4k-imac/"/>
-    <updated>2015-10-13T23:59:40+02:00</updated>
-    <id>http://www.analogsenses.com/2015/10/13/jason-snell-reviews-the-new-4k-imac</id>
-    <content type="html"><![CDATA[<p>Jason Snell:</p>
-
-<blockquote><p>Apple says that the display in this 4K iMac, as well as the revision to the 5K iMac that was announced the same day, offers an expanded color space. Thanks to new red-green phosphor LEDs, the displays can display a wider range of red and green light than before, allowing them to display 25 percent more colors.</p>
-
-<p>In a demo at Apple, I was able to detect subtle differences. The new displays can offer more color detail and more vibrancy than the display on the older 5K iMac models. I’m a little red-green color blind, and even I could detect the differences. If you work in graphics or video, you’ll probably be happy to have access to a display that’s capable of displaying 99 percent of the P3 color space. But for most people buying the 4K iMac, the real difference will be the mind-blowing jump to Retina.</p></blockquote>
-
-<p>Besides this, it’s worth noting that all the 21.5-inch iMacs, including this one, use Intel Broadwell processors. The 27-inch iMacs, on the other hand, use newer Skylake processors, which should provide improved performance.</p>
-
-<p>Also, don’t forget to check out Jason’s reviews of the new <a href="http://sixcolors.com/post/2015/10/apple-magic-keyboard-review/">Magic Keyboard</a> and <a href="http://sixcolors.com/post/2015/10/apple-magic-trackpad-2-review/">Magic Trackpad 2</a> over at <em>Six Colors</em>.</p>
-
-<p>As a side note, reading Jason’s reviews I’ve found out that the new accessories require Bluetooth 4.0 to work, so my Early-2008 iMac is not compatible with them. Perhaps it’s finally time to buy a new iMac, after all.</p>
 ]]></content>
   </entry>
   

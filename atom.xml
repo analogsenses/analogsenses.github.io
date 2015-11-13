@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-12T21:15:31+01:00</updated>
+  <updated>2015-11-13T18:17:52+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[iFixit tears down the new iPad Pro →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.ifixit.com/Teardown/iPad+Pro+Teardown/52599"/>
+	
+    <updated>2015-11-13T18:12:27+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/11/13/ifixit-tears-down-the-new-ipad-pro</id>
+  	
+  	<content type="html"><![CDATA[<p>Here we go again.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/11/13/ifixit-tears-down-the-new-ipad-pro/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Federico Viticci reviews the iPad Pro →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -888,23 +901,6 @@
 
 <p>I can’t wait to show you the full review. Until then, thanks for reading, and have a great weekend.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Sony A7R II: compressed vs. uncompressed RAW files →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.mirrorlessons.com/2015/10/19/sony-a7rii-uncompressed-raw/"/>
-	
-    <updated>2015-10-21T17:36:28+02:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/21/sony-a7r-ii-compressed-vs-uncompressed-raw-files</id>
-  	
-  	<content type="html"><![CDATA[<p>Great post over at <em>MirrorLessons</em>. Long story short, there is a small improvement in image quality, but it’s only noticeable in extreme cases and at high ISOs, and it comes with massive penalties in file size (2x bigger), and performance (number of shots in a burst before the camera slows is cut down in half, and time to write to card roughly doubles).</p>
-
-<p>Honestly, I don’t see a real-world scenario where the new uncompressed files would be worth it. It appears current A7-series cameras simply aren’t equipped with enough processing power to handle fully uncompressed RAW files, which is a bit of a disappointment. This is a wasted opportunity, because had Sony implemented lossless compression, as opposed to no compression at all, performance would probably have been much better.</p>
-
-<p>The good news is, Sony has already shown they’re willing to work on this to get it right, so maybe they’ll add a lossless option in a future firmware update.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/10/21/sony-a7r-ii-compressed-vs-uncompressed-raw-files/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
