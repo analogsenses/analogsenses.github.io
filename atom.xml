@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-11-18T23:21:42+01:00</updated>
+  <updated>2015-11-21T14:22:10+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,169 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Morning Coffee]]></title>
+	<link href="http://www.analogsenses.com/2015/11/21/morning-coffee/"/>
+	
+    <updated>2015-11-21T11:46:19+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/11/21/morning-coffee</id>
+  	
+  	<content type="html"><![CDATA[<p>How was your week? Welcome to another issue of Morning Coffee.</p>
+
+<p>In what seems like a first, there’s not a single Apple-related piece on this week’s roundup. I’m actually proud that it only took 24 issues.</p>
+
+<h2>Issue #24: Rdio’s death, how not to die on a bike in London, and the space doctor’s big idea.</h2>
+
+<p>Fear not: despite the lack of any fruit-flavored pieces, there’s plenty of interesting writing here to keep you entertained all weekend. I don’t know what the weather’s like where you live, but here in Madrid it’s cold and cloudy — in other words, perfect for brewing a hot cup of delicious coffee and getting some quality reading done.</p>
+
+<p>Let’s get to it.</p>
+
+<p class="card-separator">♢</p>
+
+
+<h3><a href="https://brooksreview.net/2015/11/they-never-even-tried-for-value/">They never even tried for value | Ben Brooks →</a></h3>
+
+<p>Ben has been on fire recently, as he works towards his goal of publishing 50,000 words to <em>The Brooks Review</em> during the month of November. But the best thing about it isn’t that he’s publishing many more words than usual, it’s that he’s publishing <em>great</em> words, period.</p>
+
+<p>This piece on the troubled relationship between publishers, advertisers, and readers is a perfect example:</p>
+
+<blockquote><p>Advertisers want sites which draw the smartest, most wealthy readers possible. Sites want to to draw whatever advertisers want, but with little risk and little expense to them. Readers, especially the smart and wealthy ones, want the best content they can find — wherever they might find that content.</p>
+
+<p>The problem isn’t attention spans at all, the problem is most sites are filled with shitty content. And that shitty content must be waded through in order to find the <em>good</em> content.</p></blockquote>
+
+<p class="card-separator">♤</p>
+
+
+<h3><a href="http://www.theverge.com/2015/11/17/9750890/rdio-shutdown-pandora">Why Rdio died | Casey Newton →</a></h3>
+
+<p>Earlier in the week, music streaming service Rdio filed for bankruptcy. The service as we know it will soon cease to exist, and the company will sell its parts to Pandora. This is the unfortunate end of Rdio’s struggle to compete against Spotify, but there are a few valuable lessons in here.</p>
+
+<p>This piece by Casey Newton is an excellent post-mortem analysis on what exactly went wrong and, perhaps more importantly, <em>why</em>:</p>
+
+<blockquote><p>Rdio realized this only belatedly. “Rdio, I guess, made the mistake of trying to be sustainable too early,” Miner says. “That classic startup mistake of worrying about being profitable and having a business that makes any sense before you’ve reached this astronomical growth curve. Which is partly the trap of the business model itself — because of the content licensing deals, the margins for the business were so incredibly thin. No matter what we did, the labels made the lion’s share of the revenue. You have to make it up with extreme volume, which is why you see Spotify going after every human being in the world.”</p>
+
+<p>And yet even with more than 75 million users and 20 million paid users, Spotify still isn’t profitable. It remains to be seen whether Apple or Google can turn their own streaming offerings into viable businesses — or whether they will simply use music as a loss leader to draw consumers further into their respective ecosystems, making the money back on hardware sales or other services.</p></blockquote>
+
+<p>If Spotify isn’t profitable with its massive popularity, who the hell can be? I’m no industry expert, but this very much sounds like a broken system to me.</p>
+
+<p class="card-separator">♧</p>
+
+
+<h3><a href="http://www.newyorker.com/humor/daily-shouts/registration-complete">Registration complete! | Porter Fox →</a></h3>
+
+<p>Hilarious take on password recovery over at <em>The New Yorker</em>.</p>
+
+<p class="card-separator">♡</p>
+
+
+<h3><a href="http://hayleycampbell.com/2013/08/20/how-not-to-die-on-a-bike-in-london/">How not to die on a bike in London | Haley Campbell →</a></h3>
+
+<p>Some really useful practical advice by Haley Campbell:</p>
+
+<blockquote><p><em>12. Nurses treat you better if you were wearing a helmet when it all went wrong.</em> Even if the helmet actively made your injuries worse, the nurse is slightly less likely to badmouth you to the doctor inspecting your face/remains of your mouth. Wear a helmet but know it’s for nurses, not your own head.</p></blockquote>
+
+<p>Pretty much. Also:</p>
+
+<blockquote><p><em>14. Related: There is a man in London with “FUCK” tattooed down one calf and “TAXIS” down the other.</em> He wears shorts all winter and even Criswell can predict how he is going to die.</p></blockquote>
+
+<p class="card-separator">♢</p>
+
+
+<h3><a href="https://www.washingtonpost.com/posteverything/wp/2015/11/18/my-white-neighbor-thought-i-was-breaking-into-my-own-apartment-nineteen-cops-showed-up/">My white neighbor thought I was breaking into my own apartment. Nineteen cops showed up. | Fay Wells →</a></h3>
+
+<p>Terrifying story by Fay Wells over at <em>The Washington Post</em>:</p>
+
+<blockquote><p>I said it was only me and, hands still raised, slowly descended the stairs, focused on one officer’s eyes and on his pistol. I had never looked down the barrel of a gun or at the face of a man with a loaded weapon pointed at me. In his eyes, I saw fear and anger. I had no idea what was happening, but I saw how it would end: I would be dead in the stairwell outside my apartment, because something about me — a 5-foot-7, 125-pound black woman — frightened this man with a gun. I sat down, trying to look even less threatening, trying to de-escalate. I again asked what was going on. I confirmed there were no pets or people inside.</p>
+
+<p>I told the officers I didn’t want them in my apartment. I said they had no right to be there. They entered anyway. One pulled me, hands behind my back, out to the street. The neighbors were watching. Only then did I notice the ocean of officers. I counted 16. They still hadn’t told me why they’d come.</p></blockquote>
+
+<p class="card-separator">♤</p>
+
+
+<h3><a href="http://www.theatlantic.com/science/archive/2015/11/impregnated-by-a-speeding-bullet-and-other-tall-tales/416433/">Impregnated by a speeding bullet, and other tall tales | Rose Eveleth →</a></h3>
+
+<p>Rose Eveleth writes about one of the most unbelievable stories I’ve ever heard of over at <em>The Atlantic</em>. She makes an excellent point on the dangers of confounding science with myth:</p>
+
+<blockquote><p>If this sounds extremely unlikely, that’s because it is. In fact, it never happened. The article in <em>The American Medical Weekly</em> was satire, a joke meant to poke fun at the aggrandized Civil War stories the doctor kept hearing. Two weeks later the journal ran an editor’s note clarifying that the piece had been a gag. But somehow, along the chain, the fact that it was a joke got lost. And the story of the impregnating bullet persisted as medical fact <a href="http://www.ncbi.nlm.nih.gov/pubmed/13623001">as late as 1959</a>.</p></blockquote>
+
+<p>That’s scary.</p>
+
+<p class="card-separator">♧</p>
+
+
+<h3><a href="http://www.newyorker.com/tech/elements/the-space-doctors-big-idea-einstein-general-relativity">The space doctor’s big idea | Randall Munroe →</a></h3>
+
+<p>This is easily my favorite piece of the week. Randall Munroe, of xkcd fame, explains Einstein’s General Theory of Relativity using only the 1,000 most common words in the English language over at <em>The New Yorker</em>:</p>
+
+<blockquote><p>The first idea is called the special idea, because it covers only a few special parts of space and time. The other one—the big idea—covers all the stuff that is left out by the special idea. The big idea is a lot harder to understand than the special one. People who are good at numbers can use the special idea to answer questions pretty easily, but you have to know a <em>lot</em> about numbers to do anything with the big idea. To understand the big idea—the hard one—it helps to understand the special idea first.</p></blockquote>
+
+<p>Better buckle up, it’s gonna get bumpy.</p>
+
+<p class="card-separator">♡</p>
+
+
+<h3><a href="http://admiringlight.com/blog/canon-ef-lenses-on-sony-a7-ii-firmware-2-0/">Canon EF lenses on Sony a7 II (Firmware 2.0)| Jordan Steele →</a></h3>
+
+<p>Earlier in the week, I published <a href="http://www.analogsenses.com/2015/11/18/first-impressions-on-the-2-dot-0-firmware-update-for-the-sony-a7-ii-camera-compressed-vs-uncompressed-raw/">my first impressions</a> on the 2.0 firmware version for the <a href="http://amzn.to/1kN9H3U">Sony a7 II</a>. I specifically compared the newly available uncompressed RAW files with the previous compressed ones, and found there wasn’t much of a difference in image quality between them.</p>
+
+<p>Jordan Steele also wrote about the 2.0 firmware update, but he decided to focus on the other main feature of the new firmware, and arguably the more important one. He tested several Canon EF lenses with two different adapters on the a7 II, and found that autofocus performance is indeed vastly improved thanks to the use of phase-detection autofocus, something that was previously unavailable for 3rd-party lenses.</p>
+
+<p>It appears Jordan’s findings are right in line with what I expected:</p>
+
+<blockquote><p>I’ll be updating this post over the next few days as I get more experience with using these lenses to see if my initial impressions change. However, even after this short display, I feel that the Firmware 2.0 truly makes many Canon lenses viable for everyday use on the Sony A7 II. You’re not going to get native speed and compatibility, but provided the lens works well with the adapter, you won’t be too far off in most cases. It’s a dramatic change for the better in using Canon lenses, and it opens up some options for the focal lengths that are lacking in the Sony FE lineup, or are too expensive to bother with.</p></blockquote>
+
+<p class="card-separator">♢</p>
+
+
+<h3><a href="http://www.thephoblographer.com/2015/11/20/review-peak-design-messenger-bag/">Review: Peak Design Everyday Messenger bag | Chris Gampat →</a></h3>
+
+<p>Neat review of a very interesting bag over at <em>The Phoblographer</em>. Chris Gampat liked the Everyday Messenger so much he even gave it an Editor’s Choice award, but there’s a caveat:</p>
+
+<blockquote><p>My biggest gripe about the bag has to do with the shoulder strap. It’s a bag clearly designed to be slung over the left shoulder. Because of the design being mostly padding, wearing it on your right shoulder requires you to reverse the entire strap. Reversing the strap is a painful ordeal that doesn’t make future adjustment of it on your body the simplest to do. In order to reverse the strap, you need to take the entire thing out and unthread it from the loops. Then you need to thread it back in the reverse way. Considering how thick the padding is and how you’ll need to thread the strap back in a way that makes adjustment simpler, it’s frankly the biggest pain in the ass about this bag.</p></blockquote>
+
+<p>I always wear my messenger bags on my right shoulder, so I’m a bit concerned about this. Luckily, it is possible to reverse the strap, even if it’s cumbersome, but this still sounds like a pretty big design flaw if you ask me.</p>
+
+<p class="card-separator">♤</p>
+
+
+<h2>Afterword</h2>
+
+<p>I do hope your week went well, in spite of everything that’s happening all over the world. If it’s alright with you, for once, I’d rather not comment anymore on what’s going on. Others have already said plenty, so I’d like to briefly focus on something more pleasant instead.</p>
+
+<p>This past Wednesday was the 30th anniversary of my favorite comic strip: <a href="https://en.wikipedia.org/wiki/Calvin_and_Hobbes">Calvin and Hobbes</a>. Of course, I posted a brief link about it on that same day, but I’d like to share a bit more about exactly what it is that I love about this strip.</p>
+
+<p>I was two years old when the first Calvin and Hobbes strip was published, but it took a bit longer for me to actually meet them for the first time. I don’t remember exactly when it was, but I must have been between 6 and 8 years old, roughly the same age Calvin is in the comics.</p>
+
+<p>What I do remember is how I instantly fell in love with the strip, and how eagerly I devoured as many issues as I could possibly get my hands on. I used to do that a lot as a kid. Even now, as an adult, I still do.</p>
+
+<p>Of course, back then, much of the strip’s subtlety was lost on me. I wasn’t aware of many of the clearly adult themes and life lessons that were masterfully embedded in this seemingly childish strip, and it was only when I revisited it as an adult that I became aware of how exquisitely complex and layered the strip really is. Naturally, I fell in love with it all over again, for very different reasons.</p>
+
+<p>That’s the magic of Calvin and Hobbes: there’s something in it for everyone. Read it, and it will change you. No other work of fiction I’ve ever read or watched has ever affected me this deeply.</p>
+
+<p>I say revisited, but the truth is I never really stopped reading Calvin and Hobbes. It’s always been a constant presence in my life, and I have no doubt it has shaped many aspects of my personality, as well as my values. I certainly have much to thank Calvin and Hobbes for.</p>
+
+<p>Coincidentally, I share a birthday with the strip author’s, the great Bill Watterson. One of my favorite things about Calvin and Hobbes is how true to its original concept it has stayed all through the years, despite clearly being a huge critical and commercial hit.</p>
+
+<p>Watterson could have milked his creation as much as he’d wanted to — and who’d have blamed him — but he deliberately chose not to. He left <em>a ton of money</em> on the table in order to protect his original vision, and to ensure his legacy is preserved.</p>
+
+<p>That takes courage — or insanity, I suppose. It also takes conviction, and no small amount of integrity. For that alone, Bill Watterson will always be one of my heroes.</p>
+
+<p>Happy birthday, Calvin. Happy birthday, Hobbes. I can’t wait for my kids to meet you one day.</p>
+
+<p class="card-separator">♢</p>
+
+
+<p>It’s time to wrap up this issue. I’m still hard at work on my review of the <a href="http://amzn.to/1kN9H3U">Sony a7 II</a>, which should be ready for publication soon. The rest of my weekend will be spent writing and processing photos, but given the chilly weather, I’m actually looking forward to it. I have lots of things to say about this very interesting camera, so stay tuned for more if you’re interested.</p>
+
+<p>Thank you for reading, and have a great weekend.</p>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5729/22806860599_83f8b9650b_o.jpg"/></p>
+
+]]></content>
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Calvin and Hobbes started adventuring together 30 years ago today →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -753,179 +916,6 @@
 
 <p>Not many people would have predicted Nokia’s fate in 2007. The Finnish company was comfortably leading the mobile phone market back then and yet, by 2011 — a mere four years after the iPhone launched — they were so desperate already that they entered into a partnership with Microsoft, which would lead to the eventual acquisition of its mobile phone business and, ultimately, the demise of the Nokia brand in the sector.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/11/02/ben-bajarin-on-samsung-and-the-innovators-dilemma/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Morning Coffee]]></title>
-	<link href="http://www.analogsenses.com/2015/10/31/morning-coffee/"/>
-	
-    <updated>2015-10-31T12:34:54+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/10/31/morning-coffee</id>
-  	
-  	<content type="html"><![CDATA[<p>Welcome to another issue of Morning Coffee. I hope you all got you new Apple TVs already, and I also hope you <em>won’t</em> stay the whole weekend at home sitting in front of it like mindless drones.</p>
-
-<p>If I may make a suggestion, this would be a great time to sit on the couch — or, if you prefer, pay a visit to your favorite barista — grab a nice hot cup of the good stuff, and enjoy some interesting pieces of writing.</p>
-
-<p>Lucky for you, I happen to have just the thing.</p>
-
-<h2>Issue #21: Making a digital scale, the ethics of ad blocking, and the rise of the writer’s space</h2>
-
-<p>This week’s issue includes some of the usual nerdy stuff — like how to turn your iPhone into a digital scale — some of the usual important stuff — like why CEOs should fight patent trolls and why online abuse matters — and some of the usual photography stuff — like camera and lens comparisons, packing for Fashion Week, and shooting in New York City.</p>
-
-<p>Enjoy.</p>
-
-<h3><a href="https://medium.com/swlh/turning-the-iphone-6s-into-a-digital-scale-f2197dc2b6e7#.2fmhxu877">Turning the iPhone 6S into a digital scale | Ryan McLeod →</a></h3>
-
-<p>This cool story has been making the rounds on the Internet all week, and it’s easy to understand why. When a developer comes up with an ingenious idea to use the technology in the iPhone in new and exciting ways, only to see Apple reject the app for what seem like totally arbitrary reasons, people get understandably frustrated.</p>
-
-<p>I don’t think it’s in Apple’s best interest to maintain this black-and-white approach when it comes to interpreting the rules. It’s often by thinking outside the box and coming up with new and innovative ideas to use existing technology in different ways that we create an opportunity for great things to happen.</p>
-
-<p class="card-separator">♤</p>
-
-
-<h3><a href="http://morrick.me/archives/7451">No ‘inverted T’? No thanks | Riccardo Mori →</a></h3>
-
-<p>Riccardo Mori touches on something that’s been on my mind recently: the redesigned layout of Apple’s Magic Keyboard, and the new MacBook’s before it. Particularly, the new positioning and size of the arrow keys. Instead of the traditional ‘inverted T’ layout, the new keyboards come with full-sized left and right arrow keys, which apparently screws with muscle memory because pretty much everybody — myself included — uses the gap above the keys to feel your way around the keyboard in order to find the right position for your fingers to type on the arrows.</p>
-
-<p>Clearly, we’ll all end up adjusting to the new layout, but what bugs Mori — and, to a lesser extent, me — is that there’s just no good functional reason to adopt this new design:</p>
-
-<blockquote><p>Of course, what else can you do? Apart from returning the keyboard, there’s no other option than adjusting to the new arrow keys design. I’m absolutely baffled by this change, because it’s simply poor design. It impacts usability, it goes against the majority of keyboards out there, it seems completely unnecessary and arbitrary, something like <em>Let’s fill up all the space because the empty areas above the left/right keys don’t look cool.</em> Something users have to take time and adjust to for no justifiable reason.</p></blockquote>
-
-<p class="card-separator">♧</p>
-
-
-<h3><a href="http://arstechnica.com/tech-policy/2015/10/how-one-software-ceo-tried-to-convince-a-patent-troll-to-change-his-ways/">Why one software CEO agreed to meet a patent troll—and then fought it to the end | Joe Mullin →</a></h3>
-
-<p>I enjoyed this report on the legal case between Pegasystems and a patent troll called YYZ LLC. When CEOs decide to stand their ground against patent trolls and fight instead of just paying up, the entire industry is better off as a result. Kudos to Alan Trefler for doing the right thing, despite the financial risk to his company.</p>
-
-<p class="card-separator">♡</p>
-
-
-<h3><a href="http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/">Why it’s OK to block ads | James Williams →</a></h3>
-
-<p>Great piece on ad blocking by James Williams over at <em>Practical Ethics</em>, an official blog tied to the University of Oxford:</p>
-
-<blockquote><p>I often hear people say, “I use AdBlock, so the ads don’t affect me at all.” How head-smackingly wrong they are. (I know, because I used to say this myself.) If you use products and services whose fundamental design logic is rooted in maximizing advertising performance—that is to say, in getting you to spend as much of your precious time and attention using the product as possible—then even if you don’t see the ads, you still see the ad for the ad (i.e. the product itself). You still get design that exploits your non-rational psychological biases in ways that work against you. You still get the flypaper even if you don’t get the swatter. A product or service does not magically redesign itself around <em>your</em> goals just because you block it from reaching its own.</p></blockquote>
-
-<p>Exactly. You need to read this piece right now.</p>
-
-<p class="card-separator">♢</p>
-
-
-<h3><a href="http://www.sanspoint.com/archives/2015/10/28/why-online-abuse-matters/">Why online abuse matters | Richard J. Anderson →</a></h3>
-
-<p>Richard J. Anderson:</p>
-
-<blockquote><p>But let’s bring this discussion back down from the cosmic level. In the last year or so, online harassment and abuse has become a major issue, in no small part because of organized campaigns like GamerGate. Despite this, the attitude remains among people who should know better, that online harassment and abuse is less than real and worthy of their time. The idea that a harassed person can just turn off their phone, unplug their computer, and go about their life, blissfully free from the virtual slings and digital arrows of outrageous fortune is a myth. It has been for over a decade. The Internet is real life, not some sort of magical cyberspace that we can slip into and out of at will. It a part of nearly everything we do, and the people who are decidedly not connected to it are a shrinking minority.</p></blockquote>
-
-<p>Well said.</p>
-
-<p class="card-separator">♤</p>
-
-
-<h3><a href="http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html">Greenland is melting away | Coral Davenport, Josh Haner, Larry Buchanan and Derek Watkins →</a></h3>
-
-<p>Fantastic piece over at <em>The New York Times</em>.</p>
-
-<p class="card-separator">♧</p>
-
-
-<h3><a href="http://www.newyorker.com/books/page-turner/the-strange-rise-of-the-writers-space">The strange rise of the writer’s space | Evan Hughes →</a></h3>
-
-<p>Evan Hughes, writing for <em>The New Yorker</em>:</p>
-
-<blockquote><p>There is something embarrassing about working from home. You wonder what the UPS man thinks of you when he delivers advance copies of new books. <em>So this guy just reads all day?</em> You worry that the prominent figure you are interviewing by phone can hear the refrigerator door or the neighbors’ kids upstairs. (Skype video interviews are even worse; the trick is finding a camera angle that doesn’t reveal anything blatantly domestic.)</p></blockquote>
-
-<p>As a writer who works from home, I <em>so</em> can relate to this. Luckily, there’s a way to make things better:</p>
-
-<blockquote><p>A relatively new institution, the shared writers’ space, fills a niche so small that it isn’t covered in Saval’s book. At these urban oddities, members get access to a quiet room or two full of desks, often with an adjacent eat-in kitchen, perhaps a couch—in other words, an office. But without a boss. And you pay them, instead of the other way around.</p></blockquote>
-
-<p>It sounds like a great place, but I could never get any work done there, for one simple reason: the silence. As Hughes writes:</p>
-
-<blockquote><p>It’s a different beast from the “co-working space,” where, as I understand it, startups and entrepreneurs gather under the banner of cross-pollination and ideation and use whiteboards. My writers’ space, by contrast, sternly enforces silence in the main room. White-noise machines, earplugs, and cough drops are provided, and a sign advises, “PLEASE WALK SLOWLY &amp; LIGHTLY.” (The library-like atmosphere does present difficulties for reporting; I have called sources from the stairwell, as others walked past, to discuss their days dealing cocaine.)</p></blockquote>
-
-<p>That would be an absolute deal breaker for me, and I’m sure I’m not alone. Co-working spaces are becoming increasingly common among writers all around the world, and with good reason. I don’t know about you, but I find that having some noise and movement around me acts as a very effective shield that really helps me concentrate. By comparison, whenever I’m at home in complete silence, I often struggle to get into a decent writing rhythm, which is why I usually have some music playing, or a podcast episode I’m not even listening to, really. Anything works for me, except silence.</p>
-
-<p>But the human connection is also important: writing at home can be a lonely experience, if you do it every single day. Going somewhere else where you meet actual human beings in the flesh helps a great deal, and sharing a common working space goes a long way towards creating a sense of community. All those things are conducive to better, more consistent creative output, at least in my case.</p>
-
-<p class="card-separator">♡</p>
-
-
-<h3><a href="http://www.tylerstalman.com/blog/2015/10/10/photographer-packing-guide-2015">Packing guide to photography at Fashion Week | Tyler Stalman →</a></h3>
-
-<p>Cool piece by Tyler Stalman on what it takes to prepare for a week of fashion shooting in New York City, London, Toronto and Paris. It’s not all about the equipment, mind you, you also need to look the part:</p>
-
-<blockquote><p>As a photographer no one is paying attention to you and that is the way it should be. A monochrome outfit is as much about being practical as it is about style. I heard about a photographer who was new to fashion week and wore a bright orange jacket. He drove every other photographer crazy because when he was in the background of a shot, all you see it a bright orange coat. Stick to simple colors, which for me is black, white and blue.</p>
-
-<p>Photographers don’t need a three piece suit to to fit in at fashion events. Just keep it clean and minimal.</p></blockquote>
-
-<p class="card-separator">♢</p>
-
-
-<h3><a href="http://www.mirrorlessons.com/2015/10/29/olympus-45mm-vs-75mm/">Comparing two M.Zuiko portrait lenses – Olympus 45mm f/1.8 vs. 75mm f/1.8 | Heather Broster →</a></h3>
-
-<p>I have the highest regard for the <a href="http://amzn.to/1GDN6Ao">Olympus 45mm f/1.8</a> lens. In the 18 months or so I used the <a href="http://amzn.to/1KMz8qR">Olympus E-M10</a> as my main camera, this little gem of a lens was always my go-to piece of glass for portraits, and I even used it a fair bit for product photography and even street photography. My enthusiasm was obvious when I reviewed it for <em>Tools &amp; Toys</em>, as it should be: it is a superb portrait lens.</p>
-
-<p>Olympus also has the longer and more expensive <a href="http://amzn.to/1KMz5Lz">75mm f/1.8</a> lens in the lineup, and most people agree that it’s one of the sharpest and technically better corrected lenses in the MFT system.</p>
-
-<p>A comparison between both lenses seems trivial, but for some reason I haven’t seen many of them around, certainly none that I can recall off the top of my head, which is why this piece from Heather over at <em>MirrorLessons</em> was so interesting to read.</p>
-
-<p>The results, of course, came out as expected: the Oly 75mm is clearly the better lens, but the 45mm offers the better value. All in all, two excellent pieces of glass for your MFT camera.</p>
-
-<p class="card-separator">♤</p>
-
-
-<h3><a href="https://tysonrobichaudphotography.wordpress.com/2015/10/20/the-panasonic-gx8-done-growd-up-a-first-look-comparison-w-lumixusa/">The Panasonic GX8 done grow’d up! A first look comparison | Tyson Robichaud →</a></h3>
-
-<p>Tyson Robichaud got his hands on the new <a href="http://amzn.to/1GDO5Aw">Panasonic GX8</a> MFT camera and he did an awesome in-depth comparison between the new 20-MP camera and his beloved <a href="http://amzn.to/1GDOcvW">Panasonic GX7</a>. If you’re considering an upgrade or are otherwise interested in the GX8, this is a must-read for you.</p>
-
-<p class="card-separator">♧</p>
-
-
-<h3><a href="http://admiringlight.com/blog/a-trip-to-new-york/">A trip to New York | Jordan Steele →</a></h3>
-
-<p>Gorgeous photoset by Jordan Steele in the greatest city in the world:</p>
-
-<blockquote><p>I hadn’t been to New York for a real visit since 1996, and back then, I was a casual snapper, having not really gotten into photography as a hobby and artistic endeavor until around 2003. As such, I really wanted to capture a few key prominent places, because while they have been captured by many photographers over the years, there’s a reason they are popular photography spots: they’re great subjects. These included the skyline from Brooklyn, the city from the top of one of the tall buildings (I chose to go to the Top of the Rock at 30 Rockefeller Plaza), Central Park, the new One World Trade Center and 9/11 memorial and Grand Central Terminal. I’ve wanted to photograph these for quite a while, so I’m very glad to have gotten the chance to do so.</p></blockquote>
-
-<p>Amazing stuff. This is making me want the <a href="http://amzn.to/20i7i17">Zeiss 16-35mm f/4</a> FE lens so badly.</p>
-
-<p class="card-separator">♡</p>
-
-
-<h2>Afterword</h2>
-
-<p>It’s been interesting to read people’s first impressions on the new Apple TV and for the most part, I’m intrigued about the device. I will probably end up buying it, but I’m not in a great hurry to do so.</p>
-
-<p>The truth is, I don’t usually think of the Apple TV as more than a device I can use to watch movies and TV shows and for that purpose, my current 3rd-gen Apple TV works just fine. I suppose getting Siri search to work across all apps and services would improve the experience somewhat, but I’m not really looking forward to playing games on my Apple TV, to be perfectly honest.</p>
-
-<p>As for other, non-gaming apps, I’m sure there will be many interesting ways to exploit the new Apple TV’s capabilities, but really, how many of them will be things that we <em>can’t</em> currently do on our iPhones, Macs, iPads or, for those who own one, Apple Watches? The range of features and services that will be unique and exclusive to the Apple TV seems exceedingly small to me, and I’m not sure they’ll be all that compelling to begin with.</p>
-
-<p>That’s not to say it won’t be better than the current version because in fact, I’m positive it already is — it’s just that I’m content with watching from the sidelines for the time being.</p>
-
-<p>In the grand scheme of things, I’m a bit concerned that Apple seems to believe that the answer to all their long-term problems lies in more platforms, more OSs, more App Stores. In less than a year, they’ve added two new OSs to the ecosystem, and if the car rumors are true, we may even see a third one soon.</p>
-
-<p>The potential for innovation that those new platforms create is great, but Apple needs to remember that building new platforms is not about making them popular for a month, or a year, but about making them <em>sustainable</em>. Apple has never had any problems with popularity, but we’re still not sure how good they are at sustainability.</p>
-
-<p>The new Apple TV will probably be OK — people, after all, love on-demand entertainment — but Apple’s relentless drive to build new platforms capable of running 3rd-party apps may end up hurting them in the long run.</p>
-
-<p>One of the reasons 3rd-party apps for the iPhone were so successful was that back in 2008, the iPhone was the only real game in town. If you wanted to develop a cool new mobile app, you <em>needed</em> to be on the iPhone. There was no iPad, no Apple Watch, no Apple TV, and not even Android to distract you from your goal. Today, the situation is <em>very</em> different.</p>
-
-<p>Is it really wise to direct so much attention towards a brand-new platform, when the Apple Watch is heading into its first holiday quarter? All those new SDKs inevitably compete for the attention and finite resources of 3rd-party developers, and the lack of focus could well end up being worse than the lack of options.</p>
-
-<p>It’s easy to be bullish on Apple — they are, after all, the most profitable company on the planet — but let’s not forget that so far they haven’t managed to replicate the original App Store success story on any other platforms: the iPad was built largely on the back of the iPhone and is already rapidly losing steam, the Mac App Store is far from a resounding success, and it’s still way too soon to tell if 3rd-party Apple Watch apps will be successful enough to create a sustainable market.</p>
-
-<p>Apple is great at creating platforms and tools for developers to work with, but in their ambition, it&rsquo;s possible they may be overwhelming those developers instead of helping them focus, and that may end up coming back to bite them.</p>
-
-<p class="card-separator">♢</p>
-
-
-<p>And on that note, I think it’s time to close this issue. I have a very good friend visiting in Madrid for the weekend, and tonight we’re celebrating the birthday of another one of my closest friends, so it’s hopefully going to be a fun couple of days ahead.</p>
-
-<p>As always, thanks for reading, and have a fantastic weekend.</p>
-]]></content>
 	
   </entry>
 
