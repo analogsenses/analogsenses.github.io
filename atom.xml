@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-12-02T16:16:00+01:00</updated>
+  <updated>2015-12-02T16:21:55+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -13,13 +13,28 @@
   
   <entry>
   
+	<title type="html"><![CDATA[D. Vader took up photography lately →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://tookapic.com/dvader"/>
+	
+    <updated>2015-12-02T16:19:01+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/12/02/d-vader-took-up-photography-lately</id>
+  	
+  	<content type="html"><![CDATA[<p>Looks like the galaxy’s favorite Sith Lord has his own photography channel. So great.</p>
+
+<p>Via <a href="http://coudal.com/archives/2015/11/d_vader.php">Coudal Partners</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/12/02/d-vader-took-up-photography-lately/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
+  <entry>
+  
 	<title type="html"><![CDATA[The Kitty Convict Project →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
 	<link href="http://www.explodingkittens.com/kittyconvict"/>
 	
     <updated>2015-12-02T16:13:20+01:00</updated>
   	<id>http://www.analogsenses.com/2015/12/02/the-kitty-convict-project</id>
   	
-  	<content type="html"><![CDATA[<p>Great initiative from Matthew Inman — of <a href="http://theoatmeal.com">The Oatmeal</a> fame — and the rest of the E<a href="http://www.explodingkittens.com/">xploding Kittens</a> team.</p>
+  	<content type="html"><![CDATA[<p>Great initiative from Matthew Inman — of <a href="http://theoatmeal.com">The Oatmeal</a> fame — and the rest of the <a href="http://www.explodingkittens.com/">Exploding Kittens</a> team.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/12/02/the-kitty-convict-project/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
@@ -957,19 +972,6 @@
 
 <p>Nothing too important missing here, but these omissions are worth keeping in mind anyway. Also, the way I understand the family membership situation is: you <em>can</em> use the app with a family membership, you just can’t sign up for the membership or upgrade to it from within the app.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Lilac Charm →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://we-t-h-e-peoplee.blogspot.com.es/2015/11/lilac-charm.html"/>
-	
-    <updated>2015-11-10T19:43:24+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/11/10/lilac-charm</id>
-  	
-  	<content type="html"><![CDATA[<p>Here’s your gorgeous photoset of the day, by the always awesome Mila Stepanova.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/11/10/lilac-charm/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
