@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-12-02T16:05:01+01:00</updated>
+  <updated>2015-12-02T16:16:00+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Kitty Convict Project →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.explodingkittens.com/kittyconvict"/>
+	
+    <updated>2015-12-02T16:13:20+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/12/02/the-kitty-convict-project</id>
+  	
+  	<content type="html"><![CDATA[<p>Great initiative from Matthew Inman — of <a href="http://theoatmeal.com">The Oatmeal</a> fame — and the rest of the E<a href="http://www.explodingkittens.com/">xploding Kittens</a> team.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/12/02/the-kitty-convict-project/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Casey Liss tries Amazon Prime Now →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -957,23 +970,6 @@
   	
   	<content type="html"><![CDATA[<p>Here’s your gorgeous photoset of the day, by the always awesome Mila Stepanova.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/11/10/lilac-charm/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Books are dead →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://mfphotography.ca/blog/2015/11/9/books-are-dead"/>
-	
-    <updated>2015-11-10T18:07:09+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/11/10/books-are-dead</id>
-  	
-  	<content type="html"><![CDATA[<p>Michael Fraser:</p>
-
-<blockquote><p>So why choose? Why limit yourself? It&rsquo;s not as if there is some kind of intrinsic enjoyment of holding fine paper, or in sharing a visceral experience in which people throughout history have partaken, or in reading from the same copy of &lsquo;The Sun Also Rises&rsquo; as your dad, and his dad before him. And who can stand the smell of old books? My iPad doesn&rsquo;t smell. <a href="http://www.cnet.com/news/smell-like-a-macbook-pro-with-this-new-perfume-yes-really/">Much</a>.</p></blockquote>
-
-<p>I see what he did there. Plus, bonus points for using ‘The Sun Also Rises’ as an example.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/11/10/books-are-dead/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
