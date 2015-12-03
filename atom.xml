@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-12-02T16:21:55+01:00</updated>
+  <updated>2015-12-03T13:37:41+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Nick Offerman’s ‘Yule Log’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=LS-ErOKpO4E"/>
+	
+    <updated>2015-12-03T13:34:55+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/12/03/nick-offermans-yule-log</id>
+  	
+  	<content type="html"><![CDATA[<p>Nick Offerman drinking Lagavulin by the Yule Log fireplace for 45 uninterrupted minutes. Enjoy.</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/LS-ErOKpO4E" allowfullscreen></iframe></div>
+
+
+<p>Now, I don’t know about where you are, but it’s getting awfully thirsty in here.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/12/03/nick-offermans-yule-log/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[D. Vader took up photography lately →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -948,30 +966,6 @@
   	
   	<content type="html"><![CDATA[<p>The Oatmeal’s moving tribute to Gene Roddenberry, the late creator of Star Trek.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/11/11/its-going-to-be-okay/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Apple Music now available on Android →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://play.google.com/store/apps/details?id=com.apple.android.music&hl=en"/>
-	
-    <updated>2015-11-10T20:05:24+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android</id>
-  	
-  	<content type="html"><![CDATA[<p>Well, that was unexpected: Apple today released the Apple Music app for Android. There’s no mention of this on <a href="http://www.apple.com/pr/">Apple’s PR page</a>, which adds a certain clandestine flair to the whole thing. Eddy Cue did tweet about it <a href="https://twitter.com/cue/status/664156357956734976">a few minutes ago</a>, though.</p>
-
-<p>The app is labeled as beta, with several features missing or incomplete:</p>
-
-<blockquote><ul>
-<li>Music videos are coming soon.</li>
-<li>Family membership sign-ups and upgrades require Mac or iOS.</li>
-<li>Sign-up process to be optimized for Android.</li>
-</ul>
-</blockquote>
-
-<p>Nothing too important missing here, but these omissions are worth keeping in mind anyway. Also, the way I understand the family membership situation is: you <em>can</em> use the app with a family membership, you just can’t sign up for the membership or upgrade to it from within the app.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
