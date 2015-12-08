@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-12-07T18:53:09+01:00</updated>
+  <updated>2015-12-08T18:05:59+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Drew Coffman’s To-Do deep dive]]></title>
+    <link href="http://www.analogsenses.com/2015/12/08/drew-coffmans-to-do-deep-dive/"/>
+    <updated>2015-12-08T17:40:31+01:00</updated>
+    <id>http://www.analogsenses.com/2015/12/08/drew-coffmans-to-do-deep-dive</id>
+    <content type="html"><![CDATA[<p>Drew Coffman did an amazing deep dive on the best To-Do iOS apps. To call this “comprehensive” would be quite an understatement:</p>
+
+<blockquote><p>I’ve always felt like I’m at my best when I’m at my most organized. Undoubtably, this is why I’ve always been drawn to calendar and task management apps — and it seems like the options and possibilities are <em>limitless</em> when it comes to choosing which app is right for you, and how to use it.</p>
+
+<p>A common problem that occurs upon initially selecting an app, however, is that at first glance it’s extremely difficult to parse which one actually fits the way that your mind works. So, to answer the question of “which is right for you”, you have to determine what it is that you actually <em>need</em>, and which apps can provide the solutions in a way that feels most natural.</p></blockquote>
+
+<p>Great, great work. Picking the right productivity app is no easy task — pun intended — because you must understand how each app works in order to figure out which one you like best. Unfortunately, that takes time and effort that could otherwise be devoted to doing actual work.</p>
+
+<p>For example, I used to be a Things user, both on my Mac and on my iPhone, but it ultimately didn’t stick and I ended up abandoning both apps after a few months. Thanks to Drew’s piece, I now understand that Things was never the right app for me, because it simply wasn’t designed to fit the way I think about work.</p>
+
+<p>Had I not read this piece, if I were to try a new productivity app today, my mind would have jumped straight to Omnifocus. That’s the app I’ve heard most of, it is made by people I respect, and it enjoys a sterling reputation in the iOS developer community. So it would have been an easy choice, at least on paper.</p>
+
+<p>However, after reading Drew’s article, I don’t think Omnifocus is right for me, either. The truth is, everything he wrote about makes me think that either Todoist or Wunderlist would be much better suited for me, personally. And I <em>never</em> would have considered giving those apps so much as a chance if not for this piece.</p>
+
+<p>If you’ve been struggling with your productivity app of choice, or are looking to try one for the first time, I can’t recommend this article enough.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Venezuelan opposition claims a rare victory]]></title>
@@ -267,15 +290,6 @@
     <content type="html"><![CDATA[<p>Looks like the galaxy’s favorite Sith Lord has his own photography channel. So great.</p>
 
 <p>Via <a href="http://coudal.com/archives/2015/11/d_vader.php">Coudal Partners</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Kitty Convict Project]]></title>
-    <link href="http://www.analogsenses.com/2015/12/02/the-kitty-convict-project/"/>
-    <updated>2015-12-02T16:13:20+01:00</updated>
-    <id>http://www.analogsenses.com/2015/12/02/the-kitty-convict-project</id>
-    <content type="html"><![CDATA[<p>Great initiative from Matthew Inman — of <a href="http://theoatmeal.com">The Oatmeal</a> fame — and the rest of the <a href="http://www.explodingkittens.com/">Exploding Kittens</a> team.</p>
 ]]></content>
   </entry>
   
