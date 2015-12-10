@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-12-08T18:05:59+01:00</updated>
+  <updated>2015-12-10T17:24:14+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The oldest footage of New York City ever]]></title>
+    <link href="http://www.analogsenses.com/2015/12/10/the-oldest-footage-of-new-york-city-ever/"/>
+    <updated>2015-12-10T17:20:09+01:00</updated>
+    <id>http://www.analogsenses.com/2015/12/10/the-oldest-footage-of-new-york-city-ever</id>
+    <content type="html"><![CDATA[<p>This awesome video shows what New York City looked like in 1896:</p>
+
+<blockquote><p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/AQR-HKzESsM" allowfullscreen></iframe></div></p></blockquote>
+
+<p>Via <a href="http://kottke.org/15/12/old-film-footage-of-nyc">Kottke</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Drew Coffman’s To-Do deep dive]]></title>
@@ -279,17 +292,6 @@
 <p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/LS-ErOKpO4E" allowfullscreen></iframe></div></p>
 
 <p>Now, I don’t know about where you are, but it’s getting awfully thirsty in here.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[D. Vader took up photography lately]]></title>
-    <link href="http://www.analogsenses.com/2015/12/02/d-vader-took-up-photography-lately/"/>
-    <updated>2015-12-02T16:19:01+01:00</updated>
-    <id>http://www.analogsenses.com/2015/12/02/d-vader-took-up-photography-lately</id>
-    <content type="html"><![CDATA[<p>Looks like the galaxy’s favorite Sith Lord has his own photography channel. So great.</p>
-
-<p>Via <a href="http://coudal.com/archives/2015/11/d_vader.php">Coudal Partners</a>.</p>
 ]]></content>
   </entry>
   
