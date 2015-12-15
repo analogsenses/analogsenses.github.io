@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-12-15T16:01:48+01:00</updated>
+  <updated>2015-12-15T19:27:44+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Muhammad Ali lighting the Olympic Torch, Atlanta 1996]]></title>
+    <link href="http://www.analogsenses.com/2015/12/15/muhammad-ali-lighting-the-olympic-torch-atlanta-1996/"/>
+    <updated>2015-12-15T19:25:57+01:00</updated>
+    <id>http://www.analogsenses.com/2015/12/15/muhammad-ali-lighting-the-olympic-torch-atlanta-1996</id>
+    <content type="html"><![CDATA[<p>Better keep your tissues handy:</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/gmzr3tZSHxU" allowfullscreen></iframe></div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[13 million MacKeeper users exposed]]></title>
@@ -154,7 +165,7 @@
     <id>http://www.analogsenses.com/2015/12/10/the-oldest-footage-of-new-york-city-ever</id>
     <content type="html"><![CDATA[<p>This awesome video shows what New York City looked like in 1896:</p>
 
-<p>{% youtube AQR-HKzESsM %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/AQR-HKzESsM" allowfullscreen></iframe></div></p>
 
 <p>Via <a href="http://kottke.org/15/12/old-film-footage-of-nyc">Kottke</a>.</p>
 ]]></content>
@@ -180,23 +191,6 @@
 <p>However, after reading Drew’s article, I don’t think Omnifocus is right for me, either. The truth is, everything he wrote about makes me think that either Todoist or Wunderlist would be much better suited for me, personally. And I <em>never</em> would have considered giving those apps so much as a chance if not for this piece.</p>
 
 <p>If you’ve been struggling with your productivity app of choice, or are looking to try one for the first time, I can’t recommend this article enough.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Venezuelan opposition claims a rare victory]]></title>
-    <link href="http://www.analogsenses.com/2015/12/07/venezuelan-opposition-claims-a-rare-victory/"/>
-    <updated>2015-12-07T18:31:25+01:00</updated>
-    <id>http://www.analogsenses.com/2015/12/07/venezuelan-opposition-claims-a-rare-victory</id>
-    <content type="html"><![CDATA[<p>William Neuman, reporting from Caracas, Venezuela, for <em>The New York Times</em>:</p>
-
-<blockquote><p>Government opponents surged to a rare victory here on Sunday in key congressional elections framed by the country’s deep economic crisis, claiming a legislative majority for the first time in years and handing a significant setback to the heirs of former President <a href="http://topics.nytimes.com/top/reference/timestopics/people/c/hugo_chavez/index.html?inline=nyt-per">Hugo Chávez</a> and his socialist-inspired movement.</p>
-
-<p>The victory significantly alters the political balance in this deeply divided country and augurs a power struggle between the long-marginalized opposition and the government of President Nicolás Maduro, the successor and disciple of Mr. Chávez.</p></blockquote>
-
-<p>Ever since Hugo Chávez was first elected President — 17 years ago yesterday, to the day — the National Assembly had been controlled by the government. This is a historic victory for the opposition, who will now hold the necessary votes to pass several long-awaited reforms, as well as to free their political prisoners, most notably <a href="https://en.wikipedia.org/wiki/Leopoldo_L%C3%B3pez">Leopoldo López</a>, who was thrown in jail two years ago and is still serving the remainder of a 13-year prison sentence.</p>
-
-<p>I don’t usually voice my political concerns here, but in this case I’ll say this: my girlfriend is from Venezuela. She moved to Spain in 2010 looking for a way out, but the rest of her family remains over there. For five years now she’s had to watch from afar as her own country and her loved ones suffered the consequences of a corrupt system. Today, she and many others — in Venezuela and all over the world — finally have a reason to celebrate, and to remain hopeful. And I couldn’t be happier for all of them.</p>
 ]]></content>
   </entry>
   
