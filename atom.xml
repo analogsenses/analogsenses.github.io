@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-12-16T14:37:55+01:00</updated>
+  <updated>2015-12-17T18:12:40+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Apple puts Phil Schiller in charge of the App Store →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://arstechnica.com/apple/2015/12/apple-gets-a-new-coo-puts-phil-schiller-in-charge-of-the-app-store/"/>
+	
+    <updated>2015-12-17T18:07:36+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/12/17/apple-puts-phil-schiller-in-charge-of-the-app-store</id>
+  	
+  	<content type="html"><![CDATA[<p>Interesting news from Apple today. Jeff Williams, writing for <em>Ars Technica</em>:</p>
+
+<blockquote><p>SVP of Worldwide Marketing Phil Schiler is now in charge of all App Stores across all of Apple’s platforms, which now include iOS, OS X, WatchOS, and tvOS.</p>
+
+<p>Schiller is taking over the App Store from Eddy Cue, who as Apple’s president of Internet Software and Services is still in charge of things like Apple Music, iCloud, Apple Pay, Siri, the apps formerly known as iWork and iLife, and other initiatives.</p></blockquote>
+
+<p>On one hand, developer relations is under the App Store division, and Phil Schiller strikes me as a far better person to manage that than Eddy Cue ever was. On the other hand, everything else in the division has little to do with Schiller’s area of expertise, so I can’t help but wonder if he has what it takes to run it by himself. It’ll be interesting to watch what future changes, if any, Schiller introduces in the way Apple runs its various App Stores, that’s for sure.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2015/12/17/apple-puts-phil-schiller-in-charge-of-the-app-store/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Jonathan Poritsky introduces Film Twitter Slack →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -883,44 +902,6 @@
 <div class="embed-video-container"><iframe src="http://www.youtube.com/embed/43NWzay3W4s" allowfullscreen></iframe></div>
 
 <a rel="full-article" href="http://www.analogsenses.com/2015/11/25/1st-trailer-for-captain-america-civil-war-released/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Sony A7 II camera review over at Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://toolsandtoys.net/reviews/the-sony-alpha-α7-mark-ii-camera-review/"/>
-	
-    <updated>2015-11-24T16:23:03+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/11/24/the-sony-a7-ii-camera-review-over-at-tools-and-toys</id>
-  	
-  	<content type="html"><![CDATA[<p>So I pulled a <a href="https://twitter.com/siracusa">Siracusa</a> — with all due respect — and wrote about 11,000 words on the <a href="http://amzn.to/1XcqVsu">Sony α7 II</a> for <em>Tools &amp; Toys</em>.</p>
-
-<p class="full-width"><img src="https://farm6.staticflickr.com/5668/23197853311_f9379f5e33_o.jpg"/></p>
-
-
-<p>This is the most in-depth review I&rsquo;ve ever written, and there were still a few more things I could have said about it.</p>
-
-<p>I&rsquo;ve owned the α7 II for 3 and a half months and in that time, I&rsquo;ve used it extensively as my main camera. I now feel as comfortable with it as I&rsquo;ve ever felt with any other camera, and yet I still feel like I&rsquo;ve barely scratched the surface of what it can do.</p>
-
-<p class="full-width"><img src="https://farm1.staticflickr.com/590/22886369357_11725e7e5e_o.jpg"/></p>
-
-
-<p>This is without a doubt the best camera I&rsquo;ve ever used, although I do miss a few of the features I had grown accustomed to on my <a href="http://amzn.to/1XcrXVs">Olympus E-M10</a>. That goes to show what an incredible value the little E-M10 is.</p>
-
-<p class="full-width"><img src="https://farm1.staticflickr.com/692/22652083274_1c4e84de94_o.jpg"/></p>
-
-
-<p>If you&rsquo;d like to read more — much more — about the α7 II, head on over <a href="http://toolsandtoys.net/reviews/the-sony-alpha-%CE%B17-mark-ii-camera-review/">to <em>Tools &amp; Toys</em></a> to check out my full review, or feel free to send it over to your read-it-later service of choice.</p>
-
-<p class="full-width"><img src="https://farm6.staticflickr.com/5784/22984631900_1448525927_o.jpg"/></p>
-
-
-
-
-<p class="full-width"><img src="https://farm6.staticflickr.com/5728/21288649033_7e24108090_o.jpg"/></p>
-
-<a rel="full-article" href="http://www.analogsenses.com/2015/11/24/the-sony-a7-ii-camera-review-over-at-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
