@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2015-12-19T17:40:25+01:00</updated>
+  <updated>2015-12-23T17:46:34+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Happy Holidays]]></title>
+	<link href="http://www.analogsenses.com/2015/12/23/happy-holidays/"/>
+	
+    <updated>2015-12-23T17:03:48+01:00</updated>
+  	<id>http://www.analogsenses.com/2015/12/23/happy-holidays</id>
+  	
+  	<content type="html"><![CDATA[<p>Dear reader,</p>
+
+<p>I want to take a minute to thank you for being there another year — and boy, what a year it’s been. I wish you nothing but the best for this holiday season, and I hope you have a chance to spend some quality time with your loved ones over the next few days.</p>
+
+<p>For my part, I will also be taking a much-needed break. There’s some really cool stuff in the pipeline that I can’t wait to share with you early next year, but for now it is time to rest, and to recharge my batteries. Before I sign off, though, I have something to ask of you.</p>
+
+<p>Times like these we take for granted all too easily, but trust me when I tell you, they are precious. One can never have too many opportunities to show our love to the people we care about. Please, make it a point to do just that this holiday season. Forget about this crazy Internet family of ours for a little while, and pay some more attention to them instead.</p>
+
+<p>Don’t worry, we will all still be here when you get back. I promise.</p>
+
+<p>Oh, and one last thing: happy holidays!</p>
+
+<p>Love,<br/>
+Álvaro.</p>
+]]></content>
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee]]></title>
@@ -1014,23 +1040,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Ultimate Holiday Millennialsplainer Guide →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://sidoneill.com/splainer/#"/>
-	
-    <updated>2015-11-25T16:58:41+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/11/25/the-ultimate-holiday-millennialsplainer-guide</id>
-  	
-  	<content type="html"><![CDATA[<p>Sid O&#8217;Neill:</p>
-
-<blockquote><p>This week, families will gather to argue heatedly over lukewarm turkey, pallid vegetables, and the dregs of the Franzia. Here are some of the topics that will inevitably be introduced by some uncle (who probably doesn&rsquo;t even read Slate or HuffPo) and some tips on how to decisively win the ensuing battle.</p></blockquote>
-
-<p>Great stuff.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/11/25/the-ultimate-holiday-millennialsplainer-guide/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
