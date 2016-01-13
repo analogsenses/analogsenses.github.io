@@ -4,7 +4,7 @@
   <title><![CDATA[Category: link | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/link/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-01-13T18:26:57+01:00</updated>
+  <updated>2016-01-13T18:53:22+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -36,9 +36,9 @@
 
 <p>I think this makes sense for Facebook, clearly they&rsquo;re interested in reaching WhatsApp&rsquo;s large user base. For me as a user, unfortunately, it means yet another reason not to trust WhatsApp.</p>
 
-<p>The problem is, right now there&rsquo;s no clear alternative. The most interesting one is <a href="https://telegram.org">Telegram</a>, but even though their goal to protect their users' privacy is noble and their implementation seems serious, it still smells too much of vaporware to me. They refuse to accept money or show adds, so I&rsquo;m not clear on how that bodes for its long-term survival. For now, I think it will have to do, but this is obviously a great opportunity for another player to step in. With a serious proposition, they could grab a significant piece of the market.</p>
+<p>The problem is, right now there&rsquo;s no clear alternative. The most interesting one is <a href="https://telegram.org">Telegram</a>, but even though their goal to protect their users&#8217; privacy is noble and their implementation seems serious, it still smells too much of vaporware to me. They refuse to accept money or show adds, so I&rsquo;m not clear on how that bodes for its long-term survival. For now, I think it will have to do, but this is obviously a great opportunity for another player to step in. With a serious proposition, they could grab a significant piece of the market.</p>
 
-<p>For a messaging app, being ubiquitous is the ultimate goal of course, which is why WhatsApp has been able to negotiate such a great deal. Being reliable and gaining your users' trust, though, is just as important. We&rsquo;ll see how it goes.</p>
+<p>For a messaging app, being ubiquitous is the ultimate goal of course, which is why WhatsApp has been able to negotiate such a great deal. Being reliable and gaining your users&#8217; trust, though, is just as important. We&rsquo;ll see how it goes.</p>
 ]]></content>
   </entry>
   
@@ -83,7 +83,7 @@
 
 <blockquote>As far as sync is concerned, we knew we would likely need an alternative to Google Reader as early as last year. At the time, the option that seemed to make the most sense was to embrace iCloud and Core Data as the new sync solution of choice. We spent a considerable amount of time on this effort, but iCloud and Core Data syncing had issues that we simply could not resolve.
 
-iCloud hasn't worked out for us and Google's announcement solidified and accelerated our plans.</blockquote>
+iCloud hasn&#8217;t worked out for us and Google&#8217;s announcement solidified and accelerated our plans.</blockquote>
 
 
 <p>This isn&rsquo;t the first high-profile developer that wanted to embrace iCloud but was forced to look elsewhere due to Core Data&rsquo;s shortcomings. That&rsquo;s the alarming reality of iCloud today as far as third-party developers are concerned. If Apple wants iCloud to become the de-facto standard in cloud-based data sharing services, they need to step up their game and they need to do it yesterday.</p>
