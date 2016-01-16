@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-01-16T20:08:16+01:00</updated>
+  <updated>2016-01-16T20:12:25+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -51,7 +51,7 @@
 
 <p>These are historically some of the most popular articles on the site, and every now and then I get email from readers saying how they came across one of these pieces when searching for an answer to a problem, and how it helped them find a solution. These emails usually make my day, but I felt like there was more that I could do to make those articles easier to find.</p>
 
-<p>One of the disadvantages of the traditional blog format is that, once an article is phased out of the homepage, it gets buried far to deep within the archives. Hopefully, by creating a place where important articles can be curated, I’ll be making it easier for people to stumble upon them.</p>
+<p>One of the disadvantages of the traditional blog format is that, once an article is phased out of the homepage, it gets buried far too deep within the archives. Hopefully, by creating a place where important articles can be curated, I’ll be making it easier for people to stumble upon them.</p>
 
 <p>Another thing that has changed is that, starting from now, I’ll be using all three of my Amazon affiliate accounts — the US, UK and Spain — for the links in the articles. For now, the only way I found to implement this is to present all three links at the end of each article, or the relevant section, but I’m working towards finding a seamless way to present readers with just the appropriate link based on location, or maybe a preference setting. I know such a tool used to exist for Wordpress-based blogs, and there’s even a Javascript/PHP plugin that does it. I’m trying to figure out how to implement that feature on this site, but so far that’s still a work in progress. If you have any leads, please let me know. In the meantime, I’ll continue to use my US affiliate account as the default option when embedding links within regular paragraphs.</p>
 
