@@ -4,7 +4,7 @@
   <title><![CDATA[Category: design | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/design/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-01-30T18:29:31+01:00</updated>
+  <updated>2016-01-30T19:54:55+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -194,7 +194,7 @@
 
 <blockquote><p>Google has changed a lot over the past 17 years—from the range of our products to the evolution of their look and feel. And today we’re changing things up once again:</p></blockquote>
 
-<p>{% youtube olFEpeMwgHk %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/olFEpeMwgHk" allowfullscreen></iframe></div></p>
 
 <p>I like it. Also, check out <a href="https://design.google.com/articles/evolving-the-google-identity/">this excellent piece</a> by Alex Cook, Jonathan Jarvis and Jonathan Lee on the design theory behind the new logo. Fascinating stuff and 100% Google-y, and I mean that in the best possible way.</p>
 ]]></content>

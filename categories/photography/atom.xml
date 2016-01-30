@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-01-30T18:29:31+01:00</updated>
+  <updated>2016-01-30T19:54:55+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -30,7 +30,7 @@
 
 <p>As a side note, I made a quick time-lapse video to show what you can do with this little thing:</p>
 
-<p>{% vimeo 153024779 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/153024779 "></iframe></div></p>
 
 <p>Not too shabby, is it? If you want to read more about it, head on over to <em><a href="http://toolsandtoys.net/reviews/the-manfrotto-209-492-long-tabletop-tripod-kit/">Tools &amp; Toys</a></em> for the full review.</p>
 ]]></content>
