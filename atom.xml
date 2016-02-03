@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-01-30T21:04:02+01:00</updated>
+  <updated>2016-02-04T00:23:36+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Paris 2016: a photo story →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="/photostories/paris_2016"/>
+	
+    <updated>2016-02-03T23:16:52+01:00</updated>
+  	<id>http://www.analogsenses.com/2016/02/03/paris-2016-a-photo-story</id>
+  	
+  	<content type="html"><![CDATA[<p>Ah, Paris. The City of Light. So much has been written about this beautiful city that I feel there’s nothing else I could add that would make it justice.</p>
+
+<p>But it’s not just writers that are fascinated by Paris’s unique atmosphere. Au contraire. All kinds of artists have been inspired to produce their best work by this enchanting city: painters, photographers, actors, musicians, you name it. There’s just something special about it that seems to wake our imagination like perhaps no other place on this planet.</p>
+
+<p>Paris is one of a kind, so when Miriam and I decided a few weeks ago that we would be spending New Year’s Eve there, my brain was immediately filled to the brink with wild expectations.</p>
+
+<p>Since a regular article wouldn’t be appropriate for such a wonderful city, I came up with something that&rsquo;s new for the site: a photo story.</p>
+
+<p>Just follow the title link to get to the beginning. I do hope you’ll enjoy it as much as we did.</p>
+
+<figure class="full-width">
+<img src="https://farm2.staticflickr.com/1488/24475046170_c40288bc10_o.jpg"/>
+</figure>
+
+<a rel="full-article" href="http://www.analogsenses.com/2016/02/03/paris-2016-a-photo-story/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee]]></title>
@@ -1589,27 +1615,6 @@
 
 <p>If you’ve been struggling with your productivity app of choice, or are looking to try one for the first time, I can’t recommend this article enough.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2015/12/08/drew-coffmans-to-do-deep-dive/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Venezuelan opposition claims a rare victory →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.nytimes.com/2015/12/07/world/americas/venezuela-elections.html"/>
-	
-    <updated>2015-12-07T18:31:25+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/12/07/venezuelan-opposition-claims-a-rare-victory</id>
-  	
-  	<content type="html"><![CDATA[<p>William Neuman, reporting from Caracas, Venezuela, for <em>The New York Times</em>:</p>
-
-<blockquote><p>Government opponents surged to a rare victory here on Sunday in key congressional elections framed by the country’s deep economic crisis, claiming a legislative majority for the first time in years and handing a significant setback to the heirs of former President <a href="http://topics.nytimes.com/top/reference/timestopics/people/c/hugo_chavez/index.html?inline=nyt-per">Hugo Chávez</a> and his socialist-inspired movement.</p>
-
-<p>The victory significantly alters the political balance in this deeply divided country and augurs a power struggle between the long-marginalized opposition and the government of President Nicolás Maduro, the successor and disciple of Mr. Chávez.</p></blockquote>
-
-<p>Ever since Hugo Chávez was first elected President — 17 years ago yesterday, to the day — the National Assembly had been controlled by the government. This is a historic victory for the opposition, who will now hold the necessary votes to pass several long-awaited reforms, as well as to free their political prisoners, most notably <a href="https://en.wikipedia.org/wiki/Leopoldo_L%C3%B3pez">Leopoldo López</a>, who was thrown in jail two years ago and is still serving the remainder of a 13-year prison sentence.</p>
-
-<p>I don’t usually voice my political concerns here, but in this case I’ll say this: my girlfriend is from Venezuela. She moved to Spain in 2010 looking for a way out, but the rest of her family remains over there. For five years now she’s had to watch from afar as her own country and her loved ones suffered the consequences of a corrupt system. Today, she and many others — in Venezuela and all over the world — finally have a reason to celebrate, and to remain hopeful. And I couldn’t be happier for all of them.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/12/07/venezuelan-opposition-claims-a-rare-victory/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
