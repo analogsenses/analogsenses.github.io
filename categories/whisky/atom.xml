@@ -4,7 +4,7 @@
   <title><![CDATA[Category: whisky | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/whisky/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-02-05T12:34:24+01:00</updated>
+  <updated>2016-02-05T13:28:45+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -86,7 +86,7 @@
 
 <p>The second, and probably most important one is that, being created from several ages, The Classic Laddie will never be the same as The Laddie Ten — nor should it try to be. In fact, this excellent single malt has tremendous legs of its own, which we’ll see more about in a minute. But if you’re looking for a modern version of The Laddie Ten, this isn’t it.</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/6GciiH9ErAA" allowfullscreen></iframe></div></p>
+<p>{% youtube 6GciiH9ErAA %}</p>
 
 <p class="extra-width"><img src="https://farm9.staticflickr.com/8698/17030673779_509cc9e0d7_o.jpg"/></p>
 
