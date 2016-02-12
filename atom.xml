@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-02-07T16:05:02+01:00</updated>
+  <updated>2016-02-12T11:13:17+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Gravitational waves explained →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.phdcomics.com/comics/archive_print.php?comicid=1853"/>
+	
+    <updated>2016-02-12T11:08:55+01:00</updated>
+  	<id>http://www.analogsenses.com/2016/02/12/gravitational-waves-explained</id>
+  	
+  	<content type="html"><![CDATA[<p>Fantastic explanation of gravitational waves — what they are, why they’re so important, and why they’re so, <em>so</em> hard to detect — by Jorge Cham over at <em>PHD Comics</em>. Definitely a must-read.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/02/12/gravitational-waves-explained/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee]]></title>
@@ -1725,24 +1738,6 @@
 
 <p>Thank you for reading, and have a great weekend.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The oldest footage of New York City ever →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=AQR-HKzESsM"/>
-	
-    <updated>2015-12-10T17:20:09+01:00</updated>
-  	<id>http://www.analogsenses.com/2015/12/10/the-oldest-footage-of-new-york-city-ever</id>
-  	
-  	<content type="html"><![CDATA[<p>This awesome video shows what New York City looked like in 1896:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/AQR-HKzESsM" allowfullscreen></iframe></div>
-
-
-<p>Via <a href="http://kottke.org/15/12/old-film-footage-of-nyc">Kottke</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2015/12/10/the-oldest-footage-of-new-york-city-ever/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
