@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-03-02T23:32:03+01:00</updated>
+  <updated>2016-03-05T15:26:30+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -33,7 +33,7 @@
     <id>http://www.analogsenses.com/2016/02/12/how-star-wars-the-force-awakens-should-have-ended</id>
     <content type="html"><![CDATA[<p>I actually would have been a <em>lot</em> happier with this ending. Spoiler alert, obviously:</p>
 
-<p>{% youtube JbpgM-JTang %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/JbpgM-JTang" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -61,7 +61,7 @@
     <id>http://www.analogsenses.com/2015/12/16/the-force-awakens-cast-sings-a-capella-tribute-to-star-wars-with-the-roots-on-the-tonight-show</id>
     <content type="html"><![CDATA[<p>Absolutely epic tribute:</p>
 
-<p>{% youtube ZTLAx3VDX7g %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ZTLAx3VDX7g" allowfullscreen></iframe></div></p>
 
 <p>What can I say, excitement is at fever pitch right now.</p>
 ]]></content>
@@ -74,7 +74,7 @@
     <id>http://www.analogsenses.com/2015/11/25/1st-trailer-for-captain-america-civil-war-released</id>
     <content type="html"><![CDATA[<p>This is looking pretty good:</p>
 
-<p>{% youtube 43NWzay3W4s %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/43NWzay3W4s" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   

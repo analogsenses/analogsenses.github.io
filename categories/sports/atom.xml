@@ -4,7 +4,7 @@
   <title><![CDATA[Category: sports | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/sports/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-03-02T23:32:03+01:00</updated>
+  <updated>2016-03-05T15:26:30+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.analogsenses.com/2015/12/15/muhammad-ali-lighting-the-olympic-torch-atlanta-1996</id>
     <content type="html"><![CDATA[<p>Better keep your tissues handy:</p>
 
-<p>{% youtube gmzr3tZSHxU %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/gmzr3tZSHxU" allowfullscreen></iframe></div></p>
 
 <p>Via <a href="http://www.tennisplanet.me/blog/2015/12/the-only-no-dry-eye-allowed-sporting-event-in-the-world-and-that-includes-eyes-not-in-attendance-add.html">Tennis Planet</a>.</p>
 ]]></content>
