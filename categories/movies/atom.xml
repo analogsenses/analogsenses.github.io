@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-03-09T16:37:47+01:00</updated>
+  <updated>2016-03-10T20:49:50+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Captain America: Civil War trailer shows off Spider-Man’s new costume]]></title>
+    <link href="http://www.analogsenses.com/2016/03/10/second-captain-america-civil-war-trailer-shows-off-spider-mans-new-costume/"/>
+    <updated>2016-03-10T20:47:08+01:00</updated>
+    <id>http://www.analogsenses.com/2016/03/10/second-captain-america-civil-war-trailer-shows-off-spider-mans-new-costume</id>
+    <content type="html"><![CDATA[<p>Wait for it&hellip;</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/dKrVegVI0Us" allowfullscreen></iframe></div></p>
+
+<p>I like the new costume; it’s nostalgic in all the right ways. Can’t wait for this movie to be released.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spielberg in 30 shots]]></title>
@@ -22,7 +35,7 @@
 
 <blockquote><p>Before I knew what a director was, I knew who Steven Spielberg was. I believe that this is partially due to the fact that Spielberg has crafted some of the most iconic shots in all of cinema. Many filmmakers have that one signature shot that will forever solidify them in film history&ndash; Spielberg has dozens. This video showcases the work of Steven Spielberg in 30 memorable shots, one from each of his full-length films. From something as magical as a silhouetted bicycle streaking across the moon, to something as simple as tiny ripples in a cup of water, this is Steven Spielberg.</p></blockquote>
 
-<p>{% vimeo 157222602 %}</p>
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/157222602 "></iframe></div></p>
 
 <p>Via <a href="http://coudal.com/archives/2016/03/speilberg_in_30.php">Coudal</a>.</p>
 ]]></content>
@@ -48,7 +61,7 @@
     <id>http://www.analogsenses.com/2016/02/12/how-star-wars-the-force-awakens-should-have-ended</id>
     <content type="html"><![CDATA[<p>I actually would have been a <em>lot</em> happier with this ending. Spoiler alert, obviously:</p>
 
-<p>{% youtube JbpgM-JTang %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/JbpgM-JTang" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -66,19 +79,6 @@
 <p>So what to do? Clearly those who see movies before the general public can aren’t going to stop the chatter. And I’m not going to unfollow a community that I love reading. So I put together a thing: <a href="https://filmtwitter.herokuapp.com/">Film Twitter Slack</a>.</p></blockquote>
 
 <p>Great idea. Now, if only all those who love to spoil movies would just sign up and use it, that would be lovely.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[‘The Force Awakens’ cast sings a capella tribute to Star Wars with The Roots on ‘The Tonight Show’]]></title>
-    <link href="http://www.analogsenses.com/2015/12/16/the-force-awakens-cast-sings-a-capella-tribute-to-star-wars-with-the-roots-on-the-tonight-show/"/>
-    <updated>2015-12-16T14:01:54+01:00</updated>
-    <id>http://www.analogsenses.com/2015/12/16/the-force-awakens-cast-sings-a-capella-tribute-to-star-wars-with-the-roots-on-the-tonight-show</id>
-    <content type="html"><![CDATA[<p>Absolutely epic tribute:</p>
-
-<p>{% youtube ZTLAx3VDX7g %}</p>
-
-<p>What can I say, excitement is at fever pitch right now.</p>
 ]]></content>
   </entry>
   
