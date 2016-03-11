@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-03-10T20:49:50+01:00</updated>
+  <updated>2016-03-11T12:52:22+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[DigitalRev TV reviews the Leica M Typ 262 →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=hN7m8v3wmdU"/>
+	
+    <updated>2016-03-11T12:38:25+01:00</updated>
+  	<id>http://www.analogsenses.com/2016/03/11/digitalrev-tv-reviews-the-leica-m-typ-262</id>
+  	
+  	<content type="html"><![CDATA[<p>Fun video review from Kai, as usual. As for the camera itself, let me get this straight:</p>
+
+<ul>
+<li>No video mode</li>
+<li>No brass body</li>
+<li>No Live View</li>
+<li>$5,195</li>
+</ul>
+
+
+<p>At least this one does have an LCD screen, unlike the infamous <a href="http://www.bhphotovideo.com/spanish/c/product/1083146-REG/leica_10779_m_typ_240_edition.html">Leica 60</a>.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/03/11/digitalrev-tv-reviews-the-leica-m-typ-262/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Second Captain America: Civil War trailer shows off Spider-Man’s new costume →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1369,32 +1392,6 @@
 
 <p>Until then, thank you for reading, and have a great end to the weekend.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Paris 2016: a photo story →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="/photostories/paris_2016"/>
-	
-    <updated>2016-02-03T23:16:52+01:00</updated>
-  	<id>http://www.analogsenses.com/2016/02/03/paris-2016-a-photo-story</id>
-  	
-  	<content type="html"><![CDATA[<p>Ah, Paris. The City of Light. So much has been written about this beautiful city that I feel there’s nothing else I could add that would do it justice.</p>
-
-<p>But it’s not just writers that are fascinated by Paris’s unique atmosphere. Au contraire. All kinds of artists have been inspired to produce their best work by this enchanting city: painters, photographers, actors, musicians, you name it. There’s just something special about it that seems to wake our imagination like perhaps no other place on this planet.</p>
-
-<p>Paris is one of a kind, so when Miriam and I decided a few weeks ago that we would be spending New Year’s Eve there, my brain was immediately filled to the brink with wild expectations.</p>
-
-<p>Since a regular article wouldn’t be appropriate for such a wonderful city, I came up with something that&rsquo;s new for the site: a photo story.</p>
-
-<p>Just follow the title link to get to the beginning. I do hope you’ll enjoy it as much as we did.</p>
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1488/24475046170_c40288bc10_o.jpg"/>
-</figure>
-
-<a rel="full-article" href="http://www.analogsenses.com/2016/02/03/paris-2016-a-photo-story/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
