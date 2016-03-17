@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-03-15T21:18:12+01:00</updated>
+  <updated>2016-03-17T12:47:48+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, Episode #5: Mobile Workflows]]></title>
+    <link href="http://www.analogsenses.com/2016/03/17/candid-episode-number-5-mobile-workflows/"/>
+    <updated>2016-03-17T12:39:22+01:00</updated>
+    <id>http://www.analogsenses.com/2016/03/17/candid-episode-number-5-mobile-workflows</id>
+    <content type="html"><![CDATA[<p>This week’s episode is all about mobile workflows: what apps and services we use — or <em>don’t</em> use — to shoot, edit and share pictures from our mobile devices. We also dive into the best ways to get your pictures from a dedicated camera onto your phone in order to share them on social networks. And we go over what’s already there vs what’s still missing in iOS for the iPad Pro and the Apple Pencil to become the ultimate photo editing setup.</p>
+
+<p>Lots to unpack in this one, for sure.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Matt Granger is abandoning the Sony E-mount system for all his professional work]]></title>
@@ -334,17 +345,6 @@
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Images of Earth from a year in space]]></title>
-    <link href="http://www.analogsenses.com/2016/03/02/images-of-earth-from-a-year-in-space/"/>
-    <updated>2016-03-02T13:18:25+01:00</updated>
-    <id>http://www.analogsenses.com/2016/03/02/images-of-earth-from-a-year-in-space</id>
-    <content type="html"><![CDATA[<p>This is remarkable. Alan Taylor compiled a fantastic selection of images taken from the International Space Station by NASA astronaut Scott Kelly and Russian cosmonaut Mikhail Kornienko over the past year. Via <a href="http://kottke.org/16/03/photos-from-a-year-in-space">Kottke</a>.</p>
-
-<p>We live in a beautiful world, indeed.</p>
 ]]></content>
   </entry>
   
