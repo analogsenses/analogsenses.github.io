@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcasting | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/podcasting/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-03-17T23:57:20+01:00</updated>
+  <updated>2016-03-25T13:47:40+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, Episode #6: Accidental Apple Podcast]]></title>
+    <link href="http://www.analogsenses.com/2016/03/25/candid-episode-number-6-accidental-apple-podcast/"/>
+    <updated>2016-03-25T13:28:48+01:00</updated>
+    <id>http://www.analogsenses.com/2016/03/25/candid-episode-number-6-accidental-apple-podcast</id>
+    <content type="html"><![CDATA[<p>This week’s special episode of Candid is all about the recent Apple event, where the 4-inch iPhone SE and 9.7-inch iPad Pro were announced.</p>
+
+<p>We only wanted to do a quick overview of the event but as it turns out, once you start talking about Apple product announcements, it’s <em>really</em> hard to stop.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Candid, Episode #5: Mobile Workflows]]></title>
@@ -92,23 +103,6 @@
     <updated>2016-03-02T13:52:28+01:00</updated>
     <id>http://www.analogsenses.com/2016/03/02/candid-number-3-micro-four-nerds</id>
     <content type="html"><![CDATA[<p>In this week’s episode, we talk about how different sensor sizes impact your photography and whether or not the size of the Micro 4/3 sensor will lead to doom or gloom for Olympus and Panasonic. To top off the busy week, Josh compares the infamous Panasonic Leica Nocticron 42.5mm to his new Zeiss Batis 85mm.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Candid, Episode 2: “Film &amp; Fuji”]]></title>
-    <link href="http://www.analogsenses.com/2016/02/24/candid-episode-2-film-and-fuji/"/>
-    <updated>2016-02-24T15:44:00+01:00</updated>
-    <id>http://www.analogsenses.com/2016/02/24/candid-episode-2-film-and-fuji</id>
-    <content type="html"><![CDATA[<p>The second episode of <a href="https://twitter.com/candid_fm">Candid</a>, the new photography podcast that Marius Masalar, Josh Ginter and myself are hosting every week, was published earlier today.</p>
-
-<p>This week we dig into the appeal of the “film look”, and try to figure out why these days people tend to apply all kinds of filters to their digital pictures to make them look more film-like. We also explore the differences between film grain and digital noise, and we go all-in on Fuji’s X-Series system with an in-depth look at their new X-Pro 2 and X70 cameras.</p>
-
-<p>I really like how this episode turned out. It has a bit of everything: some good old-fashioned photography talk, a healthy dose of gear nerdery, and plenty of interesting discussion to boot.</p>
-
-<p>As usual, if you enjoy the show, please help us get it out there by <a href="https://twitter.com/intent/tweet?url=http://www.candid.fm/1/&amp;text=Candid,%20Episode%201:%20%E2%80%9COkay%20Bokeh%E2%80%9D%20by%20@candid_fm">spreading the word</a> on Twitter and rating/reviewing the show <a href="(https://geo.itunes.apple.com/podcast/candid/id1085070184">on iTunes</a>). It really helps a lot.</p>
-
-<p>Thanks, and enjoy!</p>
 ]]></content>
   </entry>
   

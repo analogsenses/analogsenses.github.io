@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-03-17T23:57:20+01:00</updated>
+  <updated>2016-03-25T13:47:40+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #6: Accidental Apple Podcast →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/6"/>
+	
+    <updated>2016-03-25T13:28:48+01:00</updated>
+  	<id>http://www.analogsenses.com/2016/03/25/candid-episode-number-6-accidental-apple-podcast</id>
+  	
+  	<content type="html"><![CDATA[<p>This week’s special episode of Candid is all about the recent Apple event, where the 4-inch iPhone SE and 9.7-inch iPad Pro were announced.</p>
+
+<p>We only wanted to do a quick overview of the event but as it turns out, once you start talking about Apple product announcements, it’s <em>really</em> hard to stop.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/03/25/candid-episode-number-6-accidental-apple-podcast/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Candid, Episode #5: Mobile Workflows →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1126,47 +1141,6 @@
 
 <p>I have the utmost respect for Cook for standing up to the US government’s unreasonable and outrageous request. This is a hugely important issue: he’s fighting to protect our right to privacy, and he seems to be the only one with power in the tech industry who cares enough to do it.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/02/17/tim-cook-challenges-us-governments-request-to-build-iphone-backdoor-in-public-letter-to-customers/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Sony FE 70-200mm F4 G OSS lens review over at Tools &amp; Toys →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://toolsandtoys.net/reviews/the-sony-fe-70-200mm-f4-g-oss-lens-review/"/>
-	
-    <updated>2016-02-17T12:57:10+01:00</updated>
-  	<id>http://www.analogsenses.com/2016/02/17/the-sony-fe-70-200mm-f4-g-oss-lens-review-over-at-tools-and-toys</id>
-  	
-  	<content type="html"><![CDATA[<p>My review of the <a href="http://www.amazon.com/gp/product/B00I8BICEO/?tag=analogsens-20">Sony FE 70-200mm F4 G OSS</a> lens was published yesterday on <em>Tools &amp; Toys</em>.</p>
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1699/25086182015_03ac0cdc04_o.jpg"/>
-</figure>
-
-
-<p>This lens is a bit of an odd creature. On paper, being an f/4 lens, one would expect it to be a great-but-not-quite-outstanding optical instrument. After all, the standard in the industry for professional-grade zooms is f/2.8, so that would position this lens more towards the enthusiast and amateur segments of the market.</p>
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1566/24718502789_8b13032ff9_o.jpg"/>
-</figure>
-
-
-
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1444/25059844726_8552a4941d_o.jpg"/>
-</figure>
-
-
-<p>However, once you start taking pictures with it, such narrow definitions immediately prove to be short-sighted. This lens is, simply put, a stunner. It&rsquo;s super sharp, renders colors beautifully, and handles like a dream. It truly is a professional-grade lens in every way, despite what conventional wisdom dictates.</p>
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1672/24718502829_a1da589631_o.jpg"/>
-</figure>
-
-
-<p>If you want to learn more about it, head on over <a href="http://toolsandtoys.net/reviews/the-sony-fe-70-200mm-f4-g-oss-lens-review/">to <em>Tools &amp; Toys</em></a> for the full review.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/02/17/the-sony-fe-70-200mm-f4-g-oss-lens-review-over-at-tools-and-toys/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
