@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-03-27T14:22:01+02:00</updated>
+  <updated>2016-03-27T16:54:39+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Bonus Round: The Great Galaxy Experiment’s conclusion →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://mariusmasalar.me/the-great-galaxy-experiment-conclusion/"/>
+	
+    <updated>2016-03-27T16:35:10+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/03/27/bonus-round-the-great-galaxy-experiment-conclusion</id>
+  	
+  	<content type="html"><![CDATA[<p>Sometimes it’s easy to become complacent with your smartphone platform of choice and ignore what competitors are doing. If you’re a long-time iOS user, as I am, you probably look at Android phones with a certain ambivalence. But how long has it been since you checked out an Android phone objectively, without letting your opinion be biased by Apple’s marketing machine?</p>
+
+<p>Luckily, my friend and <a href="http://www.candid.fm">co-host</a> Marius Masalar spent the past few weeks testing the new Samsung Galaxy S7 Edge and comparing the experience with his existing iPhone 6s Plus. You know, for Science.</p>
+
+<p>This is a fair, thorough, and all-around excellent write-up, and I greatly enjoyed reading along as Marius slowly figured out the kinks in the experience and reached his eventual conclusion. I don’t want to spoil it for you, so I won’t be quoting any excerpts here. Suffice it to say, this one deserves to be read slowly, preferably with a hot beverage in hand.</p>
+
+<p>Normally I would have included this link in the Top Five section of <a href="http://www.analogsenses.com/2016/03/27/morning-coffee/">today’s Morning Coffee</a>, but I do believe this series is strong enough to merit its own separate post. If you haven’t been following along, check out <a href="http://mariusmasalar.me/samsung-galaxy-s7-day-1/">Part 1</a> and enjoy.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/03/27/bonus-round-the-great-galaxy-experiment-conclusion/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee]]></title>
@@ -1359,30 +1378,6 @@
 </ol>
 </div>
 
-]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Introducing Candid]]></title>
-	<link href="http://www.analogsenses.com/2016/02/17/introducing-candid/"/>
-	
-    <updated>2016-02-17T15:58:08+01:00</updated>
-  	<id>http://www.analogsenses.com/2016/02/17/introducing-candid</id>
-  	
-  	<content type="html"><![CDATA[<p>Today is a big day.</p>
-
-<p>I’m incredibly excited to announce <a href="http://www.candid.fm">Candid</a>, a new weekly podcast about the craft of photography, covering the skills and technology we contend with on the road from hobbyist to professional.</p>
-
-<p><a href="http://www.candid.fm" target="_blank"><img src="https://farm2.staticflickr.com/1500/25062384096_456ed62d16_o.jpg" width="400"></a></p>
-
-<p>Once a week, <a href="http://mariusmasalar.me">Marius Masalar</a>, <a href="http://thenewsprint.co">Josh Ginter</a> and yours truly will be getting together to talk about every little thing that piques our interest in the vast world of photography. That includes everything from creative advice, inspirational topics, the struggle of being a professional, and of course, gear talk. Lots and lots of gear talk.</p>
-
-<p>We’re thrilled to show you what we’ve been working on, and we really hope you join us for the ride. Check out <a href="http://www.candid.fm/1">our first episode</a> and, if you like what you hear, please take a moment to help <a href="https://twitter.com/intent/tweet?url=http://www.candid.fm/1/&amp;text=Candid,%20Episode%201:%20%E2%80%9COkay%20Bokeh%E2%80%9D%20by%20@candid_fm">spread the word</a> and <a href="https://geo.itunes.apple.com/podcast/candid/id1085070184">rate the show on iTunes</a>. It only takes a minute, and it helps a ton. Thanks!</p>
-
-<p>Love,<br/>
-Álvaro.</p>
 ]]></content>
 	
   </entry>
