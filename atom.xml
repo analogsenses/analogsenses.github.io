@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-04-05T20:34:05+02:00</updated>
+  <updated>2016-04-07T14:09:58+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[‘Rogue One: a Star Wars story’ teaser trailer released →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=Wji-BZ0oCwg"/>
+	
+    <updated>2016-04-07T14:08:06+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/04/07/rogue-one-a-star-wars-story-teaser-trailer-released</id>
+  	
+  	<content type="html"><![CDATA[<p>Interesting. It definitely looks and feel different from any other <em>Star Wars</em> movie to date.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/04/07/rogue-one-a-star-wars-story-teaser-trailer-released/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[100 greatest one-liners: before the kill →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1336,22 +1349,6 @@
 
 <p>Thank you for reading, and have a lovely Sunday.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Uncharted 4: A Thief’s End trailer →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=hh5HV4iic1Y"/>
-	
-    <updated>2016-02-25T18:49:02+01:00</updated>
-  	<id>http://www.analogsenses.com/2016/02/25/uncharted-4-a-thiefs-end-trailer</id>
-  	
-  	<content type="html"><![CDATA[<p>Oh boy, April 26 can’t come soon enough:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/hh5HV4iic1Y" allowfullscreen></iframe></div>
-
-<a rel="full-article" href="http://www.analogsenses.com/2016/02/25/uncharted-4-a-thiefs-end-trailer/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
