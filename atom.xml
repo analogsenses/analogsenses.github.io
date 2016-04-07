@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-04-07T16:49:05+02:00</updated>
+  <updated>2016-04-07T17:52:24+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Making of Uncharted 4: A Thief’s End →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://www.youtube.com/watch?v=bbx8iFxtrVU"/>
+	
+    <updated>2016-04-07T17:44:14+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/04/07/the-making-of-uncharted-4-a-thiefs-end</id>
+  	
+  	<content type="html"><![CDATA[<p>Great documentary on the making of the upcoming — and final — game in the Uncharted series. I got goosebumps watching this:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/bbx8iFxtrVU" allowfullscreen></iframe></div>
+
+
+<p>Can’t wait for the actual game to be released.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/04/07/the-making-of-uncharted-4-a-thiefs-end/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Candid, Episode #8: Mirrorless vs. DSLR →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1222,21 +1240,6 @@
   	
   	<content type="html"><![CDATA[<p>In this week’s episode, we talk about how different sensor sizes impact your photography and whether or not the size of the Micro 4/3 sensor will lead to doom or gloom for Olympus and Panasonic. To top off the busy week, Josh compares the infamous Panasonic Leica Nocticron 42.5mm to his new Zeiss Batis 85mm.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/03/02/candid-number-3-micro-four-nerds/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Images of Earth from a year in space →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.theatlantic.com/photo/2016/02/images-of-earth-from-a-year-in-space/471456/"/>
-	
-    <updated>2016-03-02T13:18:25+01:00</updated>
-  	<id>http://www.analogsenses.com/2016/03/02/images-of-earth-from-a-year-in-space</id>
-  	
-  	<content type="html"><![CDATA[<p>This is remarkable. Alan Taylor compiled a fantastic selection of images taken from the International Space Station by NASA astronaut Scott Kelly and Russian cosmonaut Mikhail Kornienko over the past year. Via <a href="http://kottke.org/16/03/photos-from-a-year-in-space">Kottke</a>.</p>
-
-<p>We live in a beautiful world, indeed.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/03/02/images-of-earth-from-a-year-in-space/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
