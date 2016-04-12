@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-04-07T17:52:24+02:00</updated>
+  <updated>2016-04-12T17:54:15+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[The Everyday Messenger bag review →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/reviews/the-peak-design-everyday-messenger-bag-review/"/>
+	
+    <updated>2016-04-12T17:42:15+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/04/12/the-everyday-messenger-bag-review</id>
+  	
+  	<content type="html"><![CDATA[<p>Drew Coffman’s review of Peak Design’s <a href="http://amzn.to/23BoGig">Everyday Messenger</a> camera bag was published today on <em>Tools &amp; Toys</em>:</p>
+
+<blockquote><p>This is a bag constructed to not just hold your camera, but <em>everything you need</em>. And it’s clear that Peak Design has sweated every single detail you could possibly imagine. The bag is something special.</p></blockquote>
+
+<p>I’ve been wanting to test this bag ever since it was announced, long before it started shipping. I still haven’t managed to get my hands on one, but Drew’s review confirms all my suspicions: it’s incredibly well designed, and built to the highest standard. And Drew’s amazing photography is on point as usual, which certainly doesn’t hurt.</p>
+
+<p>If you’re in the market for a new camera bag, it looks like the Everyday Messenger should definitely make your short list.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/04/12/the-everyday-messenger-bag-review/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Making of Uncharted 4: A Thief’s End →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1227,19 +1246,6 @@
 </div>
 
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Candid #3: Micro Four Nerds →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.candid.fm/3"/>
-	
-    <updated>2016-03-02T13:52:28+01:00</updated>
-  	<id>http://www.analogsenses.com/2016/03/02/candid-number-3-micro-four-nerds</id>
-  	
-  	<content type="html"><![CDATA[<p>In this week’s episode, we talk about how different sensor sizes impact your photography and whether or not the size of the Micro 4/3 sensor will lead to doom or gloom for Olympus and Panasonic. To top off the busy week, Josh compares the infamous Panasonic Leica Nocticron 42.5mm to his new Zeiss Batis 85mm.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/03/02/candid-number-3-micro-four-nerds/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
