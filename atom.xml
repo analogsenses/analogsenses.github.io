@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-04-21T18:45:03+02:00</updated>
+  <updated>2016-04-21T19:33:36+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #10: Photo Editing &amp; Manipulation →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/10"/>
+	
+    <updated>2016-04-21T19:17:52+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/04/21/candid-episode-number-10-photo-editing-and-manipulation</id>
+  	
+  	<content type="html"><![CDATA[<p>Our 10th episode ran a bit longer than usual, but is packed with interesting stuff. The main topic this week is photo editing: how much we edit, what tools we use, our views on the ethics of photo manipulation, owning vs. renting your software, and whether it’s ok to deliver RAW files to clients.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/04/21/candid-episode-number-10-photo-editing-and-manipulation/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Sony FE 85mm f/1.4 GMaster Emergency Tear Down →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -825,28 +838,6 @@
 
 <p>I do believe Sony is serious about their professional photography business, but Rome wasn’t built in a day. I for one am willing to give them a bit more time to get it right. Of course, your mileage may vary and if your needs are anything like Matt’s, it does make sense to be skeptical. In any case, we’ll know soon enough.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/03/15/matt-granger-is-abandoning-the-sony-e-mount-system-for-all-his-professional-work/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Winter Hiking in Navacerrada →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://toolsandtoys.net/photo-essays/winter-hiking-in-navacerrada/"/>
-	
-    <updated>2016-03-11T13:18:32+01:00</updated>
-  	<id>http://www.analogsenses.com/2016/03/11/winter-hiking-in-navacerrada</id>
-  	
-  	<content type="html"><![CDATA[<p>Last Sunday I went hiking in Navacerrada, one of the tallest mountain passes in central Spain. It’s a gorgeous place, covered by pine forests as far as the eye can see, and it’s perfect for hiking, even in the winter.</p>
-
-<p>This photo essay on <em>Tools &amp; Toys</em> tells the story of how the day went, along with some nice landscape shots. It was a fantastic experience, and one I can’t recommend enough.</p>
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1530/25070152814_d35328326a_o.jpg"/>
-</figure>
-
-
-<p>If you’re ready for a micro adventure, head on over to <em>Tools &amp; Toys</em> for <a href="http://toolsandtoys.net/photo-essays/winter-hiking-in-navacerrada/">the full photo essay</a>.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/03/11/winter-hiking-in-navacerrada/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcasting | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/podcasting/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-04-21T18:45:03+02:00</updated>
+  <updated>2016-04-21T19:33:36+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, Episode #10: Photo Editing &amp; Manipulation]]></title>
+    <link href="http://www.analogsenses.com/2016/04/21/candid-episode-number-10-photo-editing-and-manipulation/"/>
+    <updated>2016-04-21T19:17:52+02:00</updated>
+    <id>http://www.analogsenses.com/2016/04/21/candid-episode-number-10-photo-editing-and-manipulation</id>
+    <content type="html"><![CDATA[<p>Our 10th episode ran a bit longer than usual, but is packed with interesting stuff. The main topic this week is photo editing: how much we edit, what tools we use, our views on the ethics of photo manipulation, owning vs. renting your software, and whether it’s ok to deliver RAW files to clients.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Candid, Episode #9: Inspiration]]></title>
@@ -86,17 +95,6 @@
     <content type="html"><![CDATA[<p>This week’s special episode of Candid is all about the recent Apple event, where the 4-inch iPhone SE and 9.7-inch iPad Pro were announced.</p>
 
 <p>We only wanted to do a quick overview of the event but as it turns out, once you start talking about Apple product announcements, it’s <em>really</em> hard to stop.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Candid, Episode #5: Mobile Workflows]]></title>
-    <link href="http://www.analogsenses.com/2016/03/17/candid-episode-number-5-mobile-workflows/"/>
-    <updated>2016-03-17T23:44:20+01:00</updated>
-    <id>http://www.analogsenses.com/2016/03/17/candid-episode-number-5-mobile-workflows</id>
-    <content type="html"><![CDATA[<p>This week’s episode is all about mobile workflows: what apps and services we use — or don’t use — to shoot, edit and share pictures from our mobile devices. We also dive into the best ways to get your pictures from a dedicated camera onto your phone in order to share them on social networks. And we go over what’s already there vs what’s still missing in iOS for the iPad Pro and the Apple Pencil to become the ultimate photo editing setup.</p>
-
-<p>Lots to unpack in this one, for sure.</p>
 ]]></content>
   </entry>
   
