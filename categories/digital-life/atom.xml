@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-04-22T17:35:10+02:00</updated>
+  <updated>2016-04-24T14:33:24+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,116 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Morning Coffee]]></title>
+    <link href="http://www.analogsenses.com/2016/04/24/morning-coffee/"/>
+    <updated>2016-04-24T14:03:48+02:00</updated>
+    <id>http://www.analogsenses.com/2016/04/24/morning-coffee</id>
+    <content type="html"><![CDATA[<p>Hello there, welcome to another issue of <em>Morning Coffee</em>.</p>
+
+<h2>Issue #40: I find your lack of honesty disturbing</h2>
+
+<p>Whenever I’m reading a product review, I expect one thing from the reviewer: honesty. I may not agree with every criteria or personal opinion, but a modicum of honesty is a must. It is essential for trust to be established, and let’s not kid ourselves, the reason most reviewers out there are able to make a living is precisely the trust they’ve built over the years with their audiences.</p>
+
+<p>Honesty is also a two-way street. Just as we expect reviewers to give it to us straight, we too must hold up our end of the deal whenever we see some inappropriate behavior. We shouldn’t just blindly accept it and move on. We shouldn’t just give them a pass.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class="extra-width">
+<img src="https://farm2.staticflickr.com/1717/26587315366_aa12818e47_o.png"/></p>
+
+<p class="photo-credit">We probably shouldn’t use the Darth Vader disciplinary method, though.</p>
+
+
+<p></figure></notextile></div></p>
+
+<p>Sometimes it’s easy to lose perspective. I’m well aware that reviewers, especially those who have a working relationship with the manufacturers of the products they review, are under tremendous pressure, and that pressure often translates into biases they may not be fully aware of themselves. That’s where we, the readers, come in. Sometimes it’s up to us to keep them honest.</p>
+
+<p>This week I feel like I have to do just that, hence the lengthy commentary on the last linked piece below. There are some strong words there, but I assure you it comes from a good place. It’s not my intention to criticize those people’s motives, or to judge them. I want to make it very clear that I have the utmost respect for their work and trajectory, which is precisely why I expect better from them. We all do.</p>
+
+<p>And now without further ado, let’s get to it.</p>
+
+<h2>Top Five: Moving to Medium, the upcoming tech bubble, the problems with East New York, color management in the Retina era, and reviewers vs the Sony 85mm GM lens</h2>
+
+<p>This week there’s a very strong selection, if I may say so myself. In no particular order:</p>
+
+<h3><a href="https://mariusmasalar.me/on-medium-e40916701b15">On Medium | Marius Masalar →</a></h3>
+
+<p>My friend and co-host Marius finally decided to move his blog over to Medium, and he explained the reasons behind the change in this great piece. If you’re considering moving your existing blog or starting a new one on Medium, this is obligatory reading.</p>
+
+<p>I personally disagree with Marius on the merits of using Medium as a publishing platform vs maintaining your own, but there’s no denying that the recent changes Medium implemented are making this more of a philosophical stance than a practical one. I definitely appreciate the convenience and polish of the Medium platform, and I’d go as far as to say that I’m not totally opposed to testing the waters myself down the road.</p>
+
+<p>For that reason, I’ll be very interested to know what Marius’ opinion of the platform is a few months from now. If you don’t want to miss out on it, I suggest you subscribe.</p>
+
+<p class="card-separator">♤</p>
+
+
+<h3><a href="http://abovethecrowd.com/2016/04/21/on-the-road-to-recap/">On the road to recap | Bill Gurley →</a></h3>
+
+<p>This is a great piece on the many problems with the way VC-funded startups operate these days. It’s admittedly a bit technical, but totally worth your time, especially if you have skin in the game. Via <a href="http://thenewsprint.co/2016/04/23/why-the-unicorn-financing-market-just-became-dangerous-dot-dot-dot-for-all-involved/">Josh Ginter</a>.</p>
+
+<p class="card-separator">♧</p>
+
+
+<h3><a href="http://digg.com/2016/what-the-hell-happened-in-east-new-york">What the hell happened in East New York? | Kevin Heldman →</a></h3>
+
+<p>Terrific — and terrifying — investigative story by journalist Kevin Heldman. This is a co-production with <a href="http://www.thebigroundtable.com">The Big Roundtable</a>, and it includes a 4-episode podcast you totally should listen to, plus <a href="http://digg.com/2016/broken-what-the-hell-happened-in-east-new-york">a final written piece</a> by Heldman. It’s incredible. Here’s an excerpt from the final piece:</p>
+
+<blockquote><p>For at least the last twenty years East New York has had the highest number of crimes and arrests in New York City — in every single category, for every single year. The crime is astounding: The average annual number of felonies committed in the seventy-six NYC precincts (averaging from 2000 to 2013) is about 1,059. East New York averages 2,622 felonies a year.</p>
+
+<p>In misdemeanors, too, East New York is a leader. In 2013, the 75th Precinct recorded 12,510 misdemeanor arrests, by far the most in the city. (By comparison, in Brooklyn’s Bushwick precinct — gritty but gentrifying — there were 4,808 misdemeanor arrests that year.) Also in East New York in 2013 the police issued 1,890 violations (for lesser offenses like harassment, disorderly conduct, marijuana possession, and trespass) — the highest total in the city and more than double the city average.</p></blockquote>
+
+<p>In every single category, for every single year, for over 20 years straight. Wow.</p>
+
+<p class="card-separator">♡</p>
+
+
+<h3><a href="http://blog.iconfactory.com/2016/04/looking-at-the-future/">Looking at the future | Craig Hockenberry →</a></h3>
+
+<p>The Iconfactory’s Craig Hockenberry published a standout piece on the importance of color management now that more capable high-resolution displays are starting to become the norm:</p>
+
+<blockquote><p>It also wouldn’t surprise me to see these wider color gamuts coming to the cameras in our devices. All iOS devices currently create images in the sRGB gamut, while professional gear can produce images in ProPhoto or AdobeRGB. High dynamic range (HDR) photos need a wider range of color, too.</p>
+
+<p>We’re quickly reaching a point where more pixels don’t make better photos. Think about how much Apple likes to tout the camera and how better saturation improves photos. These new displays are the first step in a process were wider gamuts become a part of the entire iOS photography workflow. The number of places where your code assumes everything is sRGB will be both surprising and painful.</p></blockquote>
+
+<p>As a photographer, I’ve been asking for better color management in iOS <a href="/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing/">for almost a year</a>, and it looks like I’m finally about to get my wish. As a developer, I may be in for a painful transition, but I’m more than willing to power through the pain in order to reap the benefits.</p>
+
+<p class="card-separator">♢</p>
+
+
+<h3><a href="http://thenewsprint.co/2016/04/23/five-minutes-with-the-sony-85mm-f-slash-1-dot-4-gm/">Five minutes with the Sony 85mm f/1.4 GM | Josh Ginter →</a></h3>
+
+<p>Josh had a chance to test the new Sony lens for a few minutes, and he came away impressed with its quality. However, there were also a few caveats to consider, like its poor AF speed and loud noise. And then there’s the weight aspect:</p>
+
+<blockquote><p>In comparison to the <a href="http://www.amazon.com/gp/product/B00WII52ZU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00WII52ZU&amp;linkCode=as2&amp;tag=thenews02-20&amp;linkId=Y6Z7TLMTTJSCEYAI">Batis 85mm f/1.8</a> however, the GM is far and away the heavier lens. I went into my little hands-on after watching <a href="https://www.youtube.com/watch?v=XBgM1lLcSEQ">this video</a> from Jason Lanier. If you skip to the 19:50 mark, you’ll see Jason hand both the Batis and the GM lens to different passersby to see which lens is heavier. Each person in the video says the weight difference is either “imperceptible” or “negligible”. Perhaps each person was amped up and filled with excitement when holding the lenses, causing their muscles not to feel a difference between the two. Regardless, I flat out disagree with each of those people. There is undoubtedly a weight difference, both on the spec sheet and in use. Spec-wise, the GM lens is 28.82 ounces, while the Batis comes in at 16 ounces. That makes the Batis just more than half the weight of the GM. It’s noticeable. Not detrimental, but noticeable.</p></blockquote>
+
+<p>I’m so glad Josh decided to set the record straight here. I’ve long had a problem with reviewers like Lanier or Steve Huff, whose reviews usually contain nothing but praise. The 85mm GM lens is definitely a great, stunning piece of glass, but it’s not perfect, and it is indeed heavy. However, you’d never guess it by reading or watching those reviews.</p>
+
+<p>Take <a href="http://www.stevehuffphoto.com/2016/04/20/the-sony-85-1-4-g-master-lens-review-a-lens-full-of-wow/">Steve Huff’s</a>, for example, which I found to be particularly offending in this regard. He doesn’t even mention the Batis lens in the entire piece, not even in passing. In fact, Steve’s main conclusion in the weight department is that the Sony lens is <em>lighter</em> than the gargantuan <a href="http://amzn.to/1MQz8hR">Canon 85mm f/1.2 L</a> lens. Seriously.</p>
+
+<p>When it comes to product reviews there’s some wiggle room, of course, because certain aspects are subjective. You can prefer one type of bokeh to another, or find the AF speed fast enough for your needs, whereas others may find it lacking. That’s fine, but we as readers expect reviewers to be honest. And while it is technically true that the Sony GM lens is lighter than the Canon, it is profoundly misleading to use that statement to imply that the Sony lens isn’t heavy.</p>
+
+<p>However, while Steve Huff’s claims about the weight may be misleading, Lanier’s are downright false. You just can’t say that there isn’t a noticeable weight difference between the Batis and the GM when one is almost twice as heavy as the other. That’s not misleading, that’s flat out lying to your audience.</p>
+
+<p>And then there’s the matter of the AF noise.</p>
+
+<p>Amidst the usual torrent of enthusiastic praise, Steve Huff states in his review that his copy of the lens wasn’t noisy at all. For reference, the folks over at LensRentals <a href="https://www.lensrentals.com/blog/2016/04/sony-fe-85mm-f1-4-gmaster-emergency-tear-down/">recently</a> inspected 40+ copies of the lens and found that every single one of them exhibited loud AF behavior, to varying degrees. Call me nuts, but I’d take their word over Steve’s any day of the week.</p>
+
+<p>When reviewers downplay, ignore, or flat out lie about the negative aspects of a product, they’re doing a great disservice to their audience. That being said, it is ultimately your responsibility as a reader to take any grandiose claims with a grain of salt and, if it comes to that, cull your product review sources accordingly.</p>
+
+<p class="card-separator">♤</p>
+
+
+<h2>Afterword</h2>
+
+<p>Life is back to normal these days, and even the weather seems to be in better spirits. The cold and rain of the past few weeks are finally giving way to sunshine and more gentle temperatures, and it won’t be long now before coats are once again stored in the closet, hopefully to remain there for good this time.</p>
+
+<p>I really like spring in Spain, and everything it represents. I’ve said so <a href="/2015/03/12/the-arrival-of-spring-street-photography-in-madrid-with-the-olympus-17mm-f-slash-1-dot-8-lens/">before</a>. It’s probably my favorite time of the year: sleeves — and skirts — become shorter, streets light up with people every day, and there’s always something exciting to do. If you’re a street photographer, this presents ample opportunity to capture the magic of life as it’s lived. It’s wonderfully energizing.</p>
+
+<p>It also couldn’t have come at a better time, because I’ve been in a bit of a writing slump lately. Now that the days are longer, though, my spirit will hopefully rise to the occasion. It certainly won’t be for lack of trying.</p>
+
+<p>Thank you for reading, and have a lovely Sunday.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Morning Coffee]]></title>
@@ -444,51 +554,6 @@
 <p>And if you’re driving back from the holidays today, please take enough precautions and make sure you’re well rested. <a href="http://www.timeanddate.com/time/zones/cest">CEST</a> kicked in last night throughout most of Europe, and one hour less of sleep is something you can definitely feel when you’re on the road.</p>
 
 <p>Be safe, happy holidays, and thank you for reading.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Rode PSA-1 boom arm review on Tools &amp; Toys]]></title>
-    <link href="http://www.analogsenses.com/2016/03/15/the-rode-psa-1-boom-arm-review-on-tools-and-toys/"/>
-    <updated>2016-03-15T20:26:01+01:00</updated>
-    <id>http://www.analogsenses.com/2016/03/15/the-rode-psa-1-boom-arm-review-on-tools-and-toys</id>
-    <content type="html"><![CDATA[<p>My review of the <a href="http://www.amazon.com/gp/product/B001D7UYBO/?tag=analogsens-20">Rode PSA-1 boom arm</a> was published today on <em>Tools &amp; Toys</em>.</p>
-
-<p><div class='bogus-wrapper'><notextile><figure class="full-width">
-<img src="https://farm2.staticflickr.com/1455/25190318313_c6619bc1e2_o.jpg"/>
-</figure></notextile></div></p>
-
-<p>This was a fun product to review. As some of you may know, I recently launched <a href="http://www.candid.fm">a photography podcast</a> alongside <a href="http://thenewsprint.co">Josh Ginter</a> and <a href="http://mariusmasalar.me">Marius Masalar</a>, and choosing the right gear to get started was a crucial part of that process.</p>
-
-<p>On one hand, I didn’t want to spend a fortune on gear, especially when there was no guarantee that this would be a profitable business. On the other hand, I didn’t want to sound terrible, either, and I <em>definitely</em> didn’t want to sound a lot worse than my two co-hosts, so it was a matter of finding the right compromise for me.</p>
-
-<p>In the end I settled on borrowing an XLR microphone from my father’s FM radio station. It turned out to be an old <a href="http://cdn.shure.com/user_guide/upload/352/us_pro_10a_ug.pdf">Shure 10A dynamic microphone</a> (now discontinued), which on paper is a rather basic model, but it just so happens to work incredibly well with my voice. I also needed to buy a <a href="http://www.amazon.com/TASCAM-US-2x2-USB-Audio-Interface/dp/B00MIXF2RS/?tag=analogsens-20">Tascam US 2x2 audio interface</a> to connect the microphone to my computer.</p>
-
-<p>Being a dynamic microphone, though, the Shure 10A is <em>extremely</em> picky about my posture, and requires consistent technique to sound any good. It soon became clear that a traditional desk stand just wouldn’t do, so I decided to invest in the Rode PSA-1 boom arm and I never looked back.</p>
-
-<p><div class='bogus-wrapper'><notextile><figure class="full-width">
-<img src="https://farm2.staticflickr.com/1598/25186433294_82a27b26a3_o.jpg"/>
-</figure></notextile></div></p>
-
-<p>The Rode PSA-1 is a great product: it is very solid, and it offers all the features of more expensive studio arms at a very reasonable price point. What’s not to love?</p>
-
-<p>All things considered, I spent about $250 total for my setup, and I’m really happy with how well it’s working for me. I can’t recommend the Rode PSA-1 boom arm enough, especially if you own a dynamic microphone, or are planning to get one anytime soon.</p>
-
-<p><div class='bogus-wrapper'><notextile><figure class="full-width">
-<img src="https://farm2.staticflickr.com/1688/25516239160_64a9d9761c_o.jpg"/>
-</figure></notextile></div></p>
-
-<p>As a side bonus, I recorded <a href="https://www.youtube.com/watch?v=8OvL0RfbY8A">a short video</a> for the review, where I go over the main advantages of having a boom arm vs a desk stand for your microphone. You can find it embedded below. I’m well aware there’s lots of things to improve as far as production goes, but for a first attempt at a multiple-camera video, I’m quite happy with how it turned out.</p>
-
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/8OvL0RfbY8A" allowfullscreen></iframe></div></p>
-
-<p>It’s not <em>that</em> bad, is it? Especially considering this was my first time ever working with Adobe Premiere Pro and I only had a couple hours to assemble the final cut before submitting the review to the editor. I cringe here and there every time I watch it, and there’s definitely a couple things I would have done differently had I had more time to work on the edit, but I think for a first attempt it’s pretty respectable.</p>
-
-<p>If you want to read more about the Rode PSA-1 boom arm, head on over to <em>Tools &amp; Toys</em> for <a href="http://toolsandtoys.net/reviews/the-rode-psa-1-boom-arm/">the full review</a>.</p>
-
-<p><div class='bogus-wrapper'><notextile><figure class="full-width">
-<img src="https://farm2.staticflickr.com/1496/25721818161_1601425bf5_o.jpg"/>
-</figure></notextile></div></p>
 ]]></content>
   </entry>
   

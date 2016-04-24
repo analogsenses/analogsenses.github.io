@@ -4,7 +4,7 @@
   <title><![CDATA[Category: weekly linkage | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/weekly-linkage/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-04-22T17:35:10+02:00</updated>
+  <updated>2016-04-24T14:33:24+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,116 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Morning Coffee]]></title>
+    <link href="http://www.analogsenses.com/2016/04/24/morning-coffee/"/>
+    <updated>2016-04-24T14:03:48+02:00</updated>
+    <id>http://www.analogsenses.com/2016/04/24/morning-coffee</id>
+    <content type="html"><![CDATA[<p>Hello there, welcome to another issue of <em>Morning Coffee</em>.</p>
+
+<h2>Issue #40: I find your lack of honesty disturbing</h2>
+
+<p>Whenever I’m reading a product review, I expect one thing from the reviewer: honesty. I may not agree with every criteria or personal opinion, but a modicum of honesty is a must. It is essential for trust to be established, and let’s not kid ourselves, the reason most reviewers out there are able to make a living is precisely the trust they’ve built over the years with their audiences.</p>
+
+<p>Honesty is also a two-way street. Just as we expect reviewers to give it to us straight, we too must hold up our end of the deal whenever we see some inappropriate behavior. We shouldn’t just blindly accept it and move on. We shouldn’t just give them a pass.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class="extra-width">
+<img src="https://farm2.staticflickr.com/1717/26587315366_aa12818e47_o.png"/></p>
+
+<p class="photo-credit">We probably shouldn’t use the Darth Vader disciplinary method, though.</p>
+
+
+<p></figure></notextile></div></p>
+
+<p>Sometimes it’s easy to lose perspective. I’m well aware that reviewers, especially those who have a working relationship with the manufacturers of the products they review, are under tremendous pressure, and that pressure often translates into biases they may not be fully aware of themselves. That’s where we, the readers, come in. Sometimes it’s up to us to keep them honest.</p>
+
+<p>This week I feel like I have to do just that, hence the lengthy commentary on the last linked piece below. There are some strong words there, but I assure you it comes from a good place. It’s not my intention to criticize those people’s motives, or to judge them. I want to make it very clear that I have the utmost respect for their work and trajectory, which is precisely why I expect better from them. We all do.</p>
+
+<p>And now without further ado, let’s get to it.</p>
+
+<h2>Top Five: Moving to Medium, the upcoming tech bubble, the problems with East New York, color management in the Retina era, and reviewers vs the Sony 85mm GM lens</h2>
+
+<p>This week there’s a very strong selection, if I may say so myself. In no particular order:</p>
+
+<h3><a href="https://mariusmasalar.me/on-medium-e40916701b15">On Medium | Marius Masalar →</a></h3>
+
+<p>My friend and co-host Marius finally decided to move his blog over to Medium, and he explained the reasons behind the change in this great piece. If you’re considering moving your existing blog or starting a new one on Medium, this is obligatory reading.</p>
+
+<p>I personally disagree with Marius on the merits of using Medium as a publishing platform vs maintaining your own, but there’s no denying that the recent changes Medium implemented are making this more of a philosophical stance than a practical one. I definitely appreciate the convenience and polish of the Medium platform, and I’d go as far as to say that I’m not totally opposed to testing the waters myself down the road.</p>
+
+<p>For that reason, I’ll be very interested to know what Marius’ opinion of the platform is a few months from now. If you don’t want to miss out on it, I suggest you subscribe.</p>
+
+<p class="card-separator">♤</p>
+
+
+<h3><a href="http://abovethecrowd.com/2016/04/21/on-the-road-to-recap/">On the road to recap | Bill Gurley →</a></h3>
+
+<p>This is a great piece on the many problems with the way VC-funded startups operate these days. It’s admittedly a bit technical, but totally worth your time, especially if you have skin in the game. Via <a href="http://thenewsprint.co/2016/04/23/why-the-unicorn-financing-market-just-became-dangerous-dot-dot-dot-for-all-involved/">Josh Ginter</a>.</p>
+
+<p class="card-separator">♧</p>
+
+
+<h3><a href="http://digg.com/2016/what-the-hell-happened-in-east-new-york">What the hell happened in East New York? | Kevin Heldman →</a></h3>
+
+<p>Terrific — and terrifying — investigative story by journalist Kevin Heldman. This is a co-production with <a href="http://www.thebigroundtable.com">The Big Roundtable</a>, and it includes a 4-episode podcast you totally should listen to, plus <a href="http://digg.com/2016/broken-what-the-hell-happened-in-east-new-york">a final written piece</a> by Heldman. It’s incredible. Here’s an excerpt from the final piece:</p>
+
+<blockquote><p>For at least the last twenty years East New York has had the highest number of crimes and arrests in New York City — in every single category, for every single year. The crime is astounding: The average annual number of felonies committed in the seventy-six NYC precincts (averaging from 2000 to 2013) is about 1,059. East New York averages 2,622 felonies a year.</p>
+
+<p>In misdemeanors, too, East New York is a leader. In 2013, the 75th Precinct recorded 12,510 misdemeanor arrests, by far the most in the city. (By comparison, in Brooklyn’s Bushwick precinct — gritty but gentrifying — there were 4,808 misdemeanor arrests that year.) Also in East New York in 2013 the police issued 1,890 violations (for lesser offenses like harassment, disorderly conduct, marijuana possession, and trespass) — the highest total in the city and more than double the city average.</p></blockquote>
+
+<p>In every single category, for every single year, for over 20 years straight. Wow.</p>
+
+<p class="card-separator">♡</p>
+
+
+<h3><a href="http://blog.iconfactory.com/2016/04/looking-at-the-future/">Looking at the future | Craig Hockenberry →</a></h3>
+
+<p>The Iconfactory’s Craig Hockenberry published a standout piece on the importance of color management now that more capable high-resolution displays are starting to become the norm:</p>
+
+<blockquote><p>It also wouldn’t surprise me to see these wider color gamuts coming to the cameras in our devices. All iOS devices currently create images in the sRGB gamut, while professional gear can produce images in ProPhoto or AdobeRGB. High dynamic range (HDR) photos need a wider range of color, too.</p>
+
+<p>We’re quickly reaching a point where more pixels don’t make better photos. Think about how much Apple likes to tout the camera and how better saturation improves photos. These new displays are the first step in a process were wider gamuts become a part of the entire iOS photography workflow. The number of places where your code assumes everything is sRGB will be both surprising and painful.</p></blockquote>
+
+<p>As a photographer, I’ve been asking for better color management in iOS <a href="/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing/">for almost a year</a>, and it looks like I’m finally about to get my wish. As a developer, I may be in for a painful transition, but I’m more than willing to power through the pain in order to reap the benefits.</p>
+
+<p class="card-separator">♢</p>
+
+
+<h3><a href="http://thenewsprint.co/2016/04/23/five-minutes-with-the-sony-85mm-f-slash-1-dot-4-gm/">Five minutes with the Sony 85mm f/1.4 GM | Josh Ginter →</a></h3>
+
+<p>Josh had a chance to test the new Sony lens for a few minutes, and he came away impressed with its quality. However, there were also a few caveats to consider, like its poor AF speed and loud noise. And then there’s the weight aspect:</p>
+
+<blockquote><p>In comparison to the <a href="http://www.amazon.com/gp/product/B00WII52ZU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00WII52ZU&amp;linkCode=as2&amp;tag=thenews02-20&amp;linkId=Y6Z7TLMTTJSCEYAI">Batis 85mm f/1.8</a> however, the GM is far and away the heavier lens. I went into my little hands-on after watching <a href="https://www.youtube.com/watch?v=XBgM1lLcSEQ">this video</a> from Jason Lanier. If you skip to the 19:50 mark, you’ll see Jason hand both the Batis and the GM lens to different passersby to see which lens is heavier. Each person in the video says the weight difference is either “imperceptible” or “negligible”. Perhaps each person was amped up and filled with excitement when holding the lenses, causing their muscles not to feel a difference between the two. Regardless, I flat out disagree with each of those people. There is undoubtedly a weight difference, both on the spec sheet and in use. Spec-wise, the GM lens is 28.82 ounces, while the Batis comes in at 16 ounces. That makes the Batis just more than half the weight of the GM. It’s noticeable. Not detrimental, but noticeable.</p></blockquote>
+
+<p>I’m so glad Josh decided to set the record straight here. I’ve long had a problem with reviewers like Lanier or Steve Huff, whose reviews usually contain nothing but praise. The 85mm GM lens is definitely a great, stunning piece of glass, but it’s not perfect, and it is indeed heavy. However, you’d never guess it by reading or watching those reviews.</p>
+
+<p>Take <a href="http://www.stevehuffphoto.com/2016/04/20/the-sony-85-1-4-g-master-lens-review-a-lens-full-of-wow/">Steve Huff’s</a>, for example, which I found to be particularly offending in this regard. He doesn’t even mention the Batis lens in the entire piece, not even in passing. In fact, Steve’s main conclusion in the weight department is that the Sony lens is <em>lighter</em> than the gargantuan <a href="http://amzn.to/1MQz8hR">Canon 85mm f/1.2 L</a> lens. Seriously.</p>
+
+<p>When it comes to product reviews there’s some wiggle room, of course, because certain aspects are subjective. You can prefer one type of bokeh to another, or find the AF speed fast enough for your needs, whereas others may find it lacking. That’s fine, but we as readers expect reviewers to be honest. And while it is technically true that the Sony GM lens is lighter than the Canon, it is profoundly misleading to use that statement to imply that the Sony lens isn’t heavy.</p>
+
+<p>However, while Steve Huff’s claims about the weight may be misleading, Lanier’s are downright false. You just can’t say that there isn’t a noticeable weight difference between the Batis and the GM when one is almost twice as heavy as the other. That’s not misleading, that’s flat out lying to your audience.</p>
+
+<p>And then there’s the matter of the AF noise.</p>
+
+<p>Amidst the usual torrent of enthusiastic praise, Steve Huff states in his review that his copy of the lens wasn’t noisy at all. For reference, the folks over at LensRentals <a href="https://www.lensrentals.com/blog/2016/04/sony-fe-85mm-f1-4-gmaster-emergency-tear-down/">recently</a> inspected 40+ copies of the lens and found that every single one of them exhibited loud AF behavior, to varying degrees. Call me nuts, but I’d take their word over Steve’s any day of the week.</p>
+
+<p>When reviewers downplay, ignore, or flat out lie about the negative aspects of a product, they’re doing a great disservice to their audience. That being said, it is ultimately your responsibility as a reader to take any grandiose claims with a grain of salt and, if it comes to that, cull your product review sources accordingly.</p>
+
+<p class="card-separator">♤</p>
+
+
+<h2>Afterword</h2>
+
+<p>Life is back to normal these days, and even the weather seems to be in better spirits. The cold and rain of the past few weeks are finally giving way to sunshine and more gentle temperatures, and it won’t be long now before coats are once again stored in the closet, hopefully to remain there for good this time.</p>
+
+<p>I really like spring in Spain, and everything it represents. I’ve said so <a href="/2015/03/12/the-arrival-of-spring-street-photography-in-madrid-with-the-olympus-17mm-f-slash-1-dot-8-lens/">before</a>. It’s probably my favorite time of the year: sleeves — and skirts — become shorter, streets light up with people every day, and there’s always something exciting to do. If you’re a street photographer, this presents ample opportunity to capture the magic of life as it’s lived. It’s wonderfully energizing.</p>
+
+<p>It also couldn’t have come at a better time, because I’ve been in a bit of a writing slump lately. Now that the days are longer, though, my spirit will hopefully rise to the occasion. It certainly won’t be for lack of trying.</p>
+
+<p>Thank you for reading, and have a lovely Sunday.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Morning Coffee]]></title>
@@ -604,143 +714,6 @@
 <p>I love this arm, and with it I can record <a href="http://www.candid.fm">Candid</a> comfortably and without worrying about my posture. It’s a wonderful investment, and I can’t recommend it enough. I have a lot more to say about it, so stay tuned for the full review.</p>
 
 <p>Until then, thank you for reading, and have a wonderful weekend.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Morning Coffee]]></title>
-    <link href="http://www.analogsenses.com/2016/02/28/morning-coffee/"/>
-    <updated>2016-02-28T14:00:49+01:00</updated>
-    <id>http://www.analogsenses.com/2016/02/28/morning-coffee</id>
-    <content type="html"><![CDATA[<p>Hello there, welcome to another issue of <em>Morning Coffee</em>.</p>
-
-<p>Before we begin this issue, I want to let you know I’ve decided to limit the <em>Star Wars</em> talk to once a month. I love <em>Star Wars</em> as much as the next guy, but I don’t want to overdo it, and I do believe some things are best enjoyed in infrequent doses.</p>
-
-<p>Don’t worry, we will cover the rest of <em>The Force Awakens</em>, but for now, it’s time for a change of pace. This week I want to talk to you about my favorite sport.</p>
-
-<h2>Issue #35: The one-handed backhand, and the future of tennis</h2>
-
-<p>Earlier this week I read <a href="http://www.si.com/tennis/2016/02/16/death-of-one-handed-backhand-tennis">this article</a> by Richard Mills for <em>Sports Illustrated</em>.</p>
-
-<p>It’s a great article on the reasons why, sadly, my favorite tennis stroke is becoming rarer and rarer with each passing generation. One-handed backhands used to be a lot more common in the past, but ever since the courts started getting slower and the game became more physical, it’s been slowly but surely fading away, and these days it’s almost considered a relic from a different era.</p>
-
-<p>I can only think of a handful of active players with great one-handed backhands in the ATP circuit, and of those, there are only two players whose backhands could arguably be considered their stronger wing: <a href="https://en.wikipedia.org/wiki/Stan_Wawrinka">Stan Wawrinka</a> and <a href="https://en.wikipedia.org/wiki/Richard_Gasquet">Richard Gasquet</a>.</p>
-
-<p>As for the rest of the players who currently wield a one-hander — Federer included — the backhand is clearly their weaker side. Whenever they have a chance, they use their naturally stronger forehand to dictate play from the baseline, or to finish off rallies. When their opponents are on the offensive, it is usually the backhand side that they attack, and rightly so.</p>
-
-<p>The one-handed backhand is a very difficult stroke to master, requiring exceptional timing and coordination to be executed well. Aesthetically, it has no equal, and when done properly, it can be a devastating weapon. It also teaches players to be more in tune with the ball, and helps them naturally improve the slice and the volley, two strokes where using only one hand is a must. Clearly, there are plenty of reasons to persevere in the learning and mastering of this beautiful shot.</p>
-
-<p>However, due to its narrow margin of error, the one-handed backhand is prone to faltering under pressure. By contrast, the more popular two-handed backhand offers far more consistency and power, while allowing the players to defend and recover without giving up much of the initiative in the process. And since the game today is much more about power and speed than it is about finesse and technique, it’s no wonder the one-hander is becoming and endangered shot.</p>
-
-<p>But there’s reason to hope. There have been players in the past for whom the backhand was not a weakness, but a fearsome weapon. Players like <a href="https://en.wikipedia.org/wiki/%C3%80lex_Corretja">Alex Corretja</a>, <a href="https://en.wikipedia.org/wiki/C%C3%A9dric_Pioline">Cédric Pioline</a> or <a href="https://en.wikipedia.org/wiki/Gustavo_Kuerten">Gustavo Kuerten</a> — my favorite player of all time — who won three French Opens by effortlessly gliding over the clay courts of Roland Garros firing winner after winner off his backhand side with surgical precision.</p>
-
-<p>Even Federer’s backhand, the shot that’s long been considered the Swiss’s weakness, was awe-inspiring in his prime. Despite struggling against Nadal’s high-bouncing balls on the clay, Federer was capable of creating winners out of nowhere from virtually any court position with it. In Federer’s case, it really needs to be said that his backhand could only be considered weak because of his comparatively monstrous forehand, perhaps the most decisive stroke in tennis history. In the hands of any other player, Federer’s backhand would probably have been considered a fantastic weapon, quite simply because it was — and still is, most of the time.</p>
-
-<p>All that may not be enough to save the one-hander from extinction, though. Unless the game evolves once again into a more technical sport, its days in the pro circuit appear numbered. The volley will probably go down the same path, too, which would be a shame. Variety is tennis’s greatest asset, and if the sport’s decision-makers don’t get their act together, it may soon be gone for good.</p>
-
-<p>In order to preserve variety in tennis, some courts need to get faster once again — grass is the most glaring example — while others need to remain slow. Only that way we’ll see variety return to the professional game, and only that way we’ll be able to ensure its survival.</p>
-
-<p>The reason why tennis evolved this way over the past couple of decades is because TV sponsors and tournament organizers wanted matches to be longer, and more spectacular. They wanted sponsors and spectators to feel that their money had been well spent. And slowing the courts down is one way to achieve that, because with slower courts, offensive strokes don’t hurt rivals nearly as much, and rallies become longer, and more intense. And people love a good fight, don’t they?</p>
-
-<p>The problem with that approach is that, if certain shots become irrelevant — or, rather, useless — why would players bother learning them in the first place? Especially shots that are naturally difficult to learn and require tons of practice, like the one-handed backhand, or the volley. And if players don’t learn to master those shots, pretty soon everybody is playing from the baseline in the exact same way, and it all becomes a matter of seeing who’s stronger, or who can keep going the longest.</p>
-
-<p>In their quest for longer matches and a better ROI, the sport’s organizers may have killed the very thing that made tennis an interesting sport to watch in the first place.</p>
-
-<p>Indeed, the sad consequence of their short-sightedness is that today’s tennis has evolved into a gladiatorial-like sport, where matches are often decided by sheer physical endurance, rather than actual tennis skills. Personally, I think that trend is making the sport incredibly tedious to watch. A 6-hour-long battle between two evenly matched opponents is a great spectacle, but it needs to be a rarity for it to be considered interesting, or even noteworthy. If there’s one of these every month, people are bound to get bored eventually, and I’d say we’re getting dangerously close to that scenario. I know I am.</p>
-
-<p>All this doesn’t even take into account the fact that these longer matches will eventually take a toll on the players. There’s a very good chance that, as players push their bodies to their limit, we may start seeing more and more career-ending injuries, and that’s something nobody wants.</p>
-
-<p>There’s still time to rectify the situation, but it will require some difficult and profound changes to be made at the sport’s highest levels of influence. I do hope the pendulum swings back in time, but make no mistake, the clock is ticking.</p>
-
-<p>Now, let’s take a look at some of the week’s most interesting pieces of writing.</p>
-
-<p class="card-separator">♢</p>
-
-
-<h2>Top Five: Donald Trump, Apple vs the FBI, the iPad as a Mac replacement, lessons from Deadpool, and a Canon 35mm lens shootout</h2>
-
-<p>Lots of cool stuff among this week’s links. Grab’em while they’re hot.</p>
-
-<h3><a href="http://www.rollingstone.com/politics/news/how-america-made-donald-trump-unstoppable-20160224">How America made Donald Trump unstoppable | Matt Taibbi →</a></h3>
-
-<p>Chilling article over at <em>Rolling Stone</em>:</p>
-
-<blockquote><p>A thousand ridiculous accidents needed to happen in the unlikeliest of sequences for it to be possible, but absent a dramatic turn of events – an early primary catastrophe, Mike Bloomberg ego-crashing the race, etc. – this boorish, monosyllabic TV tyrant with the attention span of an Xbox-playing 11-year-old really is set to lay waste to the most impenetrable oligarchy the Western world ever devised.</p>
-
-<p>It turns out we let our electoral process devolve into something so fake and dysfunctional that any half-bright con man with the stones to try it could walk right through the front door and tear it to shreds on the first go.</p>
-
-<p>And Trump is no half-bright con man, either. He’s way better than average.</p></blockquote>
-
-<p>I do hope America reacts before it’s too late. Trump in the White House is a future I don’t even want to imagine.</p>
-
-<p class="card-separator">♤</p>
-
-
-<h3><a href="https://stratechery.com/2016/apple-the-fbi-and-security/">Apple, the FBI, and security | Ben Thompson →</a></h3>
-
-<p>Ben Thompson had a thorough overview of the recent legal dispute between Apple and the FBI. There’s a lot at stake here, and we can’t afford to lose this one.</p>
-
-<p class="card-separator">♧</p>
-
-
-<h3><a href="https://www.macstories.net/stories/working-on-the-ipad-one-year-later-still-my-favorite-computer/">Working on the iPad: one year later, still my favorite computer | Federico Viticci →</a></h3>
-
-<p>Federico Viticci is still happy using his iPad as his main computing device. Good for him, but I find myself in staunch opposition here. I mean, whatever works for you personally is great, and I’m all for choice, but I reject the narrative that the iPad is the <em>better</em> computer for most people, or that it is just a matter of time before we all ditch our Macs and go all-in on iOS.</p>
-
-<p>To be clear, I’m not saying the iPad isn’t a great device, I’m just questioning if it’s good  to <em>replace</em> a computer for most people, to take care of 100% of their computing needs. That’s a tall order, and one I’m not convinced the iPad is ready to fulfill yet.</p>
-
-<p>This bit is particularly troubling:</p>
-
-<blockquote><p>In some corners of the Apple community, too, the iPad has suffered from faltering evangelism due to an unwillingness to recognize iOS as a valid productivity environment. Across multiple blogs and publications, the “you can’t get work done on an iPad” argument morphed from intriguing criticism to inconclusive meme that failed to understand the improvements of iOS 8 and iOS 9. For example, a common take on using the iPad as a primary computer I’ve seen is to dismiss it as “jumping through hoops” or, more amusingly, <a href="https://medium.com/swlh/the-chicken-or-the-ipad-pro-b7e976748410">as “masochism”</a>. Some of these opinions stem from a one-sided (and often patronizing) perspective: they usually come from programmers who have to use Macs – and <em>only Macs</em> – for a living.</p></blockquote>
-
-<p>There’s so much wrong with this paragraph that I don’t even know where to start. Assuming people dismiss the iPad because they don’t get it or are unwilling to open their eyes is an untenable position, and the very definition of patronizing if you ask me. The truth is, many people tried it, weren’t convinced, and moved on. It really is that simple, and that’s OK. The iPad doesn’t have to be all things to all people.</p>
-
-<p>And it’s not just programmers, either. Anybody with non-mainstream computational needs — which is not to say, uncommon needs, mind you — will be better served by a traditional computer in most cases.</p>
-
-<p>Clearly many people can get by on an iPad, and even prefer it. But Federico is not your typical user, either, as he seems to imply. He’s an advanced user by any reasonable criteria, and he’s proficient in his use of technology in a way that the vast majority of people simply aren’t.</p>
-
-<p>For many people, working on the iPad is certainly possible, but I would still argue that it is far from being better than doing it on a Mac. And let’s not forget that just as iPads are becoming more capable, Macs are becoming more portable, too, so some of his stated reasons for preferring the iPad in the first place are becoming irrelevant:</p>
-
-<blockquote><p>OS X is a <em>fantastic</em> desktop operating system, but it runs on machines that increasingly don’t fit the lifestyle of users who, like me, can’t sit down at a desk every day. I can’t (and I don’t want to) depend on Macs anymore because I want a computer that can always be with me. The majority of the world’s population doesn’t care about Xcode. I want to use an OS without (what I see as) cruft of decades of desktop conventions. I want powerful, innovative apps that I can <em>touch</em>. An iPad is the embodiment of all this.</p></blockquote>
-
-<p>Other than the <em>touch</em> part, the new MacBook checks every one of those boxes, too. My point is, it’s not as clear cut as it seems.</p>
-
-<p>But the thing that bothers me the most about this piece is perhaps the next paragraph:</p>
-
-<blockquote><p>The tide, however, is turning. Over the past year, it’s been fascinating to observe how, gradually, using an iPad as the primary or only computer has turned from a nerd chimera into an acceptable narrative. Contrary to two years ago (before the <a href="https://www.macstories.net/stories/ios-8-changed-how-i-work-on-my-iphone-and-ipad/">changes of iOS 8</a>), I’ve read <a href="https://twitter.com/search?q=%23YearOfTicci&amp;src=typd">dozens of stories</a> from Mac users who have started using an iPad as their main computer – in some cases, going as far as <a href="http://www.subtraction.com/2016/02/05/im-done-with-macbooks/">not using MacBooks anymore</a>. <a href="https://karan301.com/ipad-pro-in-the-clasroom-f3c0b9ae08f1">Students</a>, <a href="http://neuropsychnow.com/2016/01/the-clinicians-ipad">doctors</a>, <a href="https://twitter.com/peterdunsby/status/695348485227302914">educators</a>, <a href="http://www.fantasticmaps.com/2015/12/an-illustrators-review-of-the-ipad-pro-and-apple-pencil/">artists</a>, photographers who <a href="http://www.imore.com/why-i-prefer-ipad-pro-my-mac-importing-and-editing-photos">prefer iPads to Macs</a>, <a href="https://medium.com/mindsea-development-inc/a-ux-designer-s-review-of-ipad-pro-2c20d0934cb7">designers</a>, independent <a href="https://brooksreview.net/2016/01/ios/">writers</a>. I’m <a href="http://code-flags.com/blog/2016/1/11/ipad-pro-in-college">missing</a> <a href="http://extratextuals.com/living-with-the-ipad-pro/">hundreds</a> <a href="http://shhd.org/2016/02/ipad-pro-vs-macbook/">of</a> <a href="https://medium.com/@varunpramanik/one-month-with-ipad-191017fb8671">other</a> <a href="http://thaddeushunt.com/taking-my-business-on-the-camino-part-3-how-it-all-turned-out/">stories</a>.</p></blockquote>
-
-<p>To say that the tide is turning based on such anecdotal evidence is, to put it mildly, greatly optimistic. I can’t help but feel a bit frustrated that this narrative — that the iPad is <em>finally</em> ready to replace Macs for the general population — continues to be pushed from certain people in the tech community. I honestly don’t see it in the real world, and iPad sales numbers certainly point towards a very different story.</p>
-
-<p>These people, as well-intentioned as I take them to be, are <em>not</em> average users, and creating the perception that regular users not only can get by with an iPad, but that it will actually be <em>better</em> for them than a traditional computer, strikes me as a dangerous trend.</p>
-
-<p>Again, if it works for Federico and the rest of them, who am I to judge? I’m happy that more people are finding ways to get more stuff done on the iPad. I just don’t think that will become the norm anytime soon, and suggesting otherwise seems premature at best.</p>
-
-<p class="card-separator">♡</p>
-
-
-<h3><a href="http://www.themarysue.com/6-deadpool-lessons/">Hi-Ho silver lining! 6 lessons Hollywood can (hopefully) learn from the success of <em>Deadpool</em> | Adam X. Smith →</a></h3>
-
-<p>This was interesting to read. When a different movie breaks new ground and finds success, it’s easy to fall into the trap of simply copying the same formula and hoping for the same results, but the truth is usually more complicated than that. I hope studio executives everywhere are paying attention.</p>
-
-<p class="card-separator">♢</p>
-
-
-<h3><a href="http://phillipreeve.net/blog/shootout-the-canon-fd-35mm-lenses/">Shootout: The Canon FD 35mm lenses | Jannik Peters →</a></h3>
-
-<p>And to finish this week’s issue, here’s a great comparison between three of the classic 35mm lenses for the Canon FD system. If you shoot film, or enjoy using vintage lenses on your digital camera with an adapter, you probably know that Canon FD lenses are some of the best bargains you can find on the Internet.</p>
-
-<p>These pieces of glass were remarkably popular in the 70’s and early 80’s, and can usually be found in pretty good condition for pennies on the original dollar. And the good news is, many of them are pretty good optically, even by today’s standards. What’s not to love?</p>
-
-<p class="card-separator">♤</p>
-
-
-<h2>Afterword</h2>
-
-<p>I’ve been recovering from a nasty stomach bug for the past few days, which is why the site has been a bit quieter than usual lately. I’m almost fully recovered by now, so things should return to normal soon.</p>
-
-<p>I’m still trying to rest as much as possible and get my energy back, though, so I plan on spending the rest of my Sunday lazing on the couch and filling up on movies. If it’s cold where you live, I humbly suggest you do the same.</p>
-
-<p>Thank you for reading, and have a lovely Sunday.</p>
 ]]></content>
   </entry>
   
