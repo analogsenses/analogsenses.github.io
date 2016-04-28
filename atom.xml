@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-04-24T14:33:24+02:00</updated>
+  <updated>2016-04-28T16:26:34+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #11: The Most Expensive Advice in the World →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/11"/>
+	
+    <updated>2016-04-28T16:04:45+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/04/28/candid-episode-number-11-the-most-expensive-advice-in-the-world</id>
+  	
+  	<content type="html"><![CDATA[<p>This week’s episode was packed with interesting stuff. First up we answer an excellent listener question about safety when traveling with photography gear. It’s a very important issue and potentially a very expensive problem if your equipment gets stolen during a trip, so we all share the different techniques we use to protect both our pictures and our gear, and minimize the risk of becoming a theft victim.</p>
+
+<p>Then Josh briefly talks about his new MacBook and shares his first impressions of the new <a href="http://amzn.to/1TysImF">Sony 85mm f/1.4 GM</a> lens, but the conversation quickly flows into a deeper discussion on the ethics of product reviews, trust, and bias. I have some strong feelings on this matter, as I’ve mentioned <a href="http://www.analogsenses.com/2016/04/24/morning-coffee/">here</a> before, so this was a great opportunity to explore them.</p>
+
+<p>As product reviewers ourselves, we may have a different perspective on this issue than the general consumer, so hopefully our insights and concerns will help raise awareness of some of the existing problems with honesty in product reviews these days.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/04/28/candid-episode-number-11-the-most-expensive-advice-in-the-world/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee]]></title>
@@ -871,21 +888,6 @@
 
 <p>We only wanted to do a quick overview of the event but as it turns out, once you start talking about Apple product announcements, it’s <em>really</em> hard to stop.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/03/25/candid-episode-number-6-accidental-apple-podcast/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Candid, Episode #5: Mobile Workflows →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.candid.fm/5"/>
-	
-    <updated>2016-03-17T23:44:20+01:00</updated>
-  	<id>http://www.analogsenses.com/2016/03/17/candid-episode-number-5-mobile-workflows</id>
-  	
-  	<content type="html"><![CDATA[<p>This week’s episode is all about mobile workflows: what apps and services we use — or don’t use — to shoot, edit and share pictures from our mobile devices. We also dive into the best ways to get your pictures from a dedicated camera onto your phone in order to share them on social networks. And we go over what’s already there vs what’s still missing in iOS for the iPad Pro and the Apple Pencil to become the ultimate photo editing setup.</p>
-
-<p>Lots to unpack in this one, for sure.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/03/17/candid-episode-number-5-mobile-workflows/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
