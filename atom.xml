@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-05-03T17:51:40+02:00</updated>
+  <updated>2016-05-05T16:33:29+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #12: The Perfect Compact Camera →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://candid.fm/12"/>
+	
+    <updated>2016-05-05T15:42:37+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/05/05/candid-episode-number-12-the-perfect-compact-camera</id>
+  	
+  	<content type="html"><![CDATA[<p>This week we got into an argument over the new Leica M-D, and then we tried to figure out what the perfect compact camera would look like. It was an interesting conversation, and I hope some camera designers out there — ahem, Sony — are listening.</p>
+
+<p>However, about halfway through the episode, my audio interface helpfully decided to give up and stop working. I’m not sure whether the problem was caused by Skype, Audacity, OS X, the hardware interface itself, or a combination of some or all of these factors, but the fact remains, for about half of this episode, I sound like crap. Sorry about that.</p>
+
+<p>We tried to find a solution for the issue during our recording session, but unfortunately we didn’t quite manage to fix it. As a result, the rest of the episode was inadvertently recorded using my iMac’s built-in microphone — you know, the one thing every serious podcaster tells you to <em>never</em> use. So if I sound to you like I’ve been possessed by a terribly hoarse demon, now you know why.</p>
+
+<p>The good news is, after the fact we managed to find an alternative recording workflow that allowed me to reclaim my voice, so any upcoming episodes should be back to normal — or as normal as Candid episodes have been in the past.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/05/05/candid-episode-number-12-the-perfect-compact-camera/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[A review of the leather Brixton camera bag by ONA →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -698,25 +717,6 @@
 </div>
 
 <a rel="full-article" href="http://www.analogsenses.com/2016/04/01/candid-episode-number-vii-photo-gear-for-travel/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Bonus Round: The Great Galaxy Experiment’s conclusion →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://mariusmasalar.me/the-great-galaxy-experiment-conclusion/"/>
-	
-    <updated>2016-03-27T16:35:10+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/03/27/bonus-round-the-great-galaxy-experiment-conclusion</id>
-  	
-  	<content type="html"><![CDATA[<p>Sometimes it’s easy to become complacent with your smartphone platform of choice and ignore what competitors are doing. If you’re a long-time iOS user, as I am, you probably look at Android phones with a certain ambivalence. But how long has it been since you checked out an Android phone objectively, without letting your opinion be biased by Apple’s marketing machine?</p>
-
-<p>Luckily, my friend and <a href="http://www.candid.fm">co-host</a> Marius Masalar spent the past few weeks testing the new Samsung Galaxy S7 Edge and comparing the experience with his existing iPhone 6s Plus. You know, for Science.</p>
-
-<p>This is a fair, thorough, and all-around excellent write-up, and I greatly enjoyed reading along as Marius slowly figured out the kinks in the experience and reached his eventual conclusion. I don’t want to spoil it for you, so I won’t be quoting any excerpts here. Suffice it to say, this one deserves to be read slowly, preferably with a hot beverage in hand.</p>
-
-<p>Normally I would have included this link in the Top Five section of <a href="http://www.analogsenses.com/2016/03/27/morning-coffee/">today’s Morning Coffee</a>, but I do believe this series is strong enough to merit its own separate post. If you haven’t been following along, check out <a href="http://mariusmasalar.me/samsung-galaxy-s7-day-1/">Part 1</a> and enjoy.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/03/27/bonus-round-the-great-galaxy-experiment-conclusion/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
