@@ -4,7 +4,7 @@
   <title><![CDATA[Category: digital life | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/digital-life/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-05-11T13:49:02+02:00</updated>
+  <updated>2016-05-11T20:22:05+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.analogsenses.com/2016/05/11/captain-europe</id>
     <content type="html"><![CDATA[<p>Ok, this was fun. What if all European countries had their own Captain America? Well, they would probably look like this:</p>
 
-<p>{% youtube PdFgd_Qyhdo %}</p>
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/PdFgd_Qyhdo" allowfullscreen></iframe></div></p>
 ]]></content>
   </entry>
   
@@ -37,13 +37,13 @@
 
 <p>Honesty is also a two-way street. Just as we expect reviewers to give it to us straight, we too must hold up our end of the deal whenever we see some inappropriate behavior. We shouldn’t just blindly accept it and move on. We shouldn’t just give them a pass.</p>
 
-<p><figure class="extra-width">
+<p><div class='bogus-wrapper'><notextile><figure class="extra-width">
 <img src="https://farm2.staticflickr.com/1717/26587315366_aa12818e47_o.png"/></p>
 
 <p class="photo-credit">We probably shouldn’t use the Darth Vader disciplinary method, though.</p>
 
 
-<p></figure></p>
+<p></figure></notextile></div></p>
 
 <p>Sometimes it’s easy to lose perspective. I’m well aware that reviewers, especially those who have a working relationship with the manufacturers of the products they review, are under tremendous pressure, and that pressure often translates into biases they may not be fully aware of themselves. That’s where we, the readers, come in. Sometimes it’s up to us to keep them honest.</p>
 
@@ -157,13 +157,13 @@
 
 <p>If you’ve ever watched <a href="http://www.imdb.com/title/tt0112471/">Before Sunrise</a>, you probably know what I mean. Who hasn’t dreamed of meeting an interesting person on a train? Especially if that person looks like Julie Delpy.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
 <img src="https://farm2.staticflickr.com/1449/25876804813_5c533ab6bc_o.png" width="960"/></p>
 
 <p class="photo-credit">Yep.</p>
 
 
-<p></figure></p>
+<p></figure></notextile></div></p>
 
 <p>Another one of my favorite train scenes in fiction occurs in <a href="http://amzn.to/268u4eK"><em>The Club Dumas</em></a>, a novel by Spanish writer Arturo Pérez-Reverte. It’s a mystery novel full of adventure, intrigue and really wonderful characters, and probably the book I’ve read most times in my life. We all have a book we enjoy revisiting every now and then. A guilty pleasure, of sorts. <em>The Club Dumas</em> is mine.</p>
 
@@ -185,9 +185,9 @@
 
 <p>In Porto Alegre, Brazil, there’s <a href="https://www.tripadvisor.com.br/Attraction_Review-g303546-d7817542-Reviews-Escadaria_24_de_Maio-Porto_Alegre_State_of_Rio_Grande_do_Sul.html">a beautiful stairway</a> filled with colorful tiles with hand-written messages on them. One of them reads “<em>Não esqueças que os estranhos são amigos que ainda não conheces</em>”. It means “<em>Don’t forget that strangers are just friends you haven’t met yet</em>”.</p>
 
-<p><figure class="extra-width">
+<p><div class='bogus-wrapper'><notextile><figure class="extra-width">
     <img src="https://farm8.staticflickr.com/7622/17090045725_2e5d3b566d_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Next time you find yourself on a train bound to some exotic location, don’t just stay in your seat. Go to the dining car, or the bar, and pay attention to the people around you. It won’t be long before you see a complicit smile, or an inviting gesture. That’s the moment when the magic happens, and all you got to do is smile back.</p>
 
