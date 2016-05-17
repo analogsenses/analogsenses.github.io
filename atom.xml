@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-05-15T14:27:44+02:00</updated>
+  <updated>2016-05-17T18:48:27+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Siri-creator shows off first public demo of Viv, ‘the intelligent interface for everything’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://techcrunch.com/2016/05/09/siri-creator-shows-off-first-public-demo-of-viv-the-intelligent-interface-for-everything/"/>
+	
+    <updated>2016-05-17T18:46:16+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/05/17/siri-creator-shows-off-first-public-demo-of-viv-the-intelligent-interface-for-everything</id>
+  	
+  	<content type="html"><![CDATA[<p>Impressive technology. File this one under “Skynet is coming”:</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Rblb3sptgpQ" allowfullscreen></iframe></div>
+
+<a rel="full-article" href="http://www.analogsenses.com/2016/05/17/siri-creator-shows-off-first-public-demo-of-viv-the-intelligent-interface-for-everything/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee]]></title>
@@ -687,24 +703,6 @@
 
 <p>If you’re in the market for a new camera bag, it looks like the Everyday Messenger should definitely make your short list.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/04/12/the-everyday-messenger-bag-review/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Making of Uncharted 4: A Thief’s End →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=bbx8iFxtrVU"/>
-	
-    <updated>2016-04-07T17:44:14+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/04/07/the-making-of-uncharted-4-a-thiefs-end</id>
-  	
-  	<content type="html"><![CDATA[<p>Great documentary on the making of the upcoming — and final — game in the Uncharted series. I got goosebumps watching this:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/bbx8iFxtrVU" allowfullscreen></iframe></div>
-
-
-<p>Can’t wait for the actual game to be released.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/04/07/the-making-of-uncharted-4-a-thiefs-end/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
