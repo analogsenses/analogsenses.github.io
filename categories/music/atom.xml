@@ -4,7 +4,7 @@
   <title><![CDATA[Category: music | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/music/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-05-18T16:51:50+02:00</updated>
+  <updated>2016-05-18T21:00:43+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What we lose in a streaming music world]]></title>
+    <link href="http://www.analogsenses.com/2016/05/18/what-we-lose-in-a-streaming-music-world/"/>
+    <updated>2016-05-18T20:54:01+02:00</updated>
+    <id>http://www.analogsenses.com/2016/05/18/what-we-lose-in-a-streaming-music-world</id>
+    <content type="html"><![CDATA[<p>Solid essay by Richard J. Anderson on the likely implications of the music industry changing from being a streaming-first to a streaming-only business model:</p>
+
+<blockquote><p>It feels like the move to streaming music means we’re losing something. What happens to music that isn’t available on a streaming service? How will you explore the music of a surprisingly good opening band when they don’t exist in the library of Apple Music, Spotify, or TIDAL? So much music that has touched my soul, you can’t stream it for love or money. I had to seek it out on my own, pawing through used music bins, or going to shows. When there’s an all-you-can eat buffet for $9.99, what’s the incentive to order something that isn’t on the menu?</p></blockquote>
+
+<p>Excellent point. The convenience of music streaming services like Spotify or Apple Music cannot be overstated, but I love owning my music, and I’m not about to stop doing it anytime soon.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apple Music now available on Android]]></title>
@@ -94,24 +107,6 @@
 <p>There’s no doubt huge corporations like Apple are still dictating the terms, but social media has given artists much of their leverage back. This is great news for all music lovers out there, and it paves the way for a more healthy relationship for everyone involved moving forward.</p>
 
 <p>Kudos to Taylor Swift for raising her voice, and kudos to Apple for listening.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotify Connect lets you decide which device plays your music and which one controls it]]></title>
-    <link href="http://www.analogsenses.com/2015/05/21/spotify-connect-lets-you-cdecide-which-device-plays-your-music-and-which-one-controls-it/"/>
-    <updated>2015-05-21T17:04:26+02:00</updated>
-    <id>http://www.analogsenses.com/2015/05/21/spotify-connect-lets-you-cdecide-which-device-plays-your-music-and-which-one-controls-it</id>
-    <content type="html"><![CDATA[<p>This is admittedly an old-ish feature — apparently it’s been around for over a year — but I had no idea it existed. Spotify Connect lets you play your music on any of your devices, <em>and control it from any other device</em>. The way it works is really simple: from any device you’re using to interact with the app, you get to choose which one of your other devices will actually play your music.</p>
-
-<p>And it does work, like a charm. As a matter of fact, I’m using it right now to play <a href="/2015/05/21/the-best-of-thelonious-monk/">the new Thelonious Monk collection</a> between my iMac and my iPad. The iMac controls playback and the iPad, which is plugged into my home’s HiFi sound system, plays the music. And unlike AirPlay, I can still play all kinds of other sounds locally on my iMac.</p>
-
-<p>That by itself is pretty cool, but the best part is that I found out about it completely by chance — or, rather, by clever design. Spotify allows you to play your music on only one device at a time, and I was already playing music on my iMac. When I launched the Spotify app on my iPad to switch devices, I was greeted by a dialog offering me to continue playing the iMac’s music. I just touched yes and my music immediately started playing on the iPad, right from where the iMac left off. No lag, no buffering delay, nothing. It really couldn’t have been any simpler.</p>
-
-<p>This is what great software design is all about. New features should not only be easy to use, they should be easy to <em>discover</em>. In this case, I did everything in my power <em>not</em> to discover Spotify Connect — by not reading anything about the app and not playing around with the interface after every update — and the feature still ended up making itself known to me. That’s great design, and it is awesome.</p>
-
-<p>It has also saved me quite a bit of money, by the way. For the past few weeks I’d been <em>this</em> close to buying an AirPort Express just so that I could stream music from my iMac to my
- stereo, but now I don’t think I’ll be needing it.</p>
 ]]></content>
   </entry>
   
