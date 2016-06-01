@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-05-29T14:25:44+02:00</updated>
+  <updated>2016-06-01T13:44:58+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Stephen Curry’s 3-Point Record in Context: Off the Charts →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.nytimes.com/interactive/2016/04/16/upshot/stephen-curry-golden-state-warriors-3-pointers.html"/>
+	
+    <updated>2016-06-01T13:41:53+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/06/01/stephen-currys-3-point-record-in-context-off-the-charts</id>
+  	
+  	<content type="html"><![CDATA[<p>Fascinating chart by Gregor Aisch and Kevin Quealy over at <em>The New York Times</em>:</p>
+
+<blockquote><p>How can we best put the gap between Curry and the best three-point shooters in history in context? Over the past 30 years, the number of 3-point field goals has trended steadily upward. If we project that trend into the future, 402 becomes a perfectly natural number of 3-point field goals for an N.B.A. player to make.</p>
+
+<p>In the mid-2030s.</p></blockquote>
+
+<p>Insane stats from the NBA’s best three-point shooter ever.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/06/01/stephen-currys-3-point-record-in-context-off-the-charts/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Morning Coffee]]></title>
@@ -680,22 +699,6 @@
 
 <p>Thank you for reading, and have a lovely Sunday.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[High velocity aerial filming →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://vimeo.com/162088181"/>
-	
-    <updated>2016-04-22T17:26:33+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/04/22/high-velocity-aerial-filming</id>
-  	
-  	<content type="html"><![CDATA[<p>Absolutely stunning aerial footage from a ground-breaking image stabilization rig, capable of capturing perfectly smooth images at 300 mm and over 300 mph. Insane:</p>
-
-<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/162088181 "></iframe></div>
-
-<a rel="full-article" href="http://www.analogsenses.com/2016/04/22/high-velocity-aerial-filming/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
