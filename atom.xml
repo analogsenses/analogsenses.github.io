@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-06-15T17:58:24+02:00</updated>
+  <updated>2016-06-17T20:24:36+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #18: RAWesome! WWDC for Photographers →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/18"/>
+	
+    <updated>2016-06-17T20:18:40+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/06/17/candid-episode-number-18-rawesome-wwdc-for-photographers</id>
+  	
+  	<content type="html"><![CDATA[<p>In this week’s episode we go over Apple’s WWDC announcements as they pertain to photography, including the upcoming — and long-awaited — RAW capture and edit capabilities in iOS 10.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/06/17/candid-episode-number-18-rawesome-wwdc-for-photographers/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[A review of Uncharted 4: A Thief’s End →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -544,22 +557,6 @@
 
 <p>Nothing to fear, really, unless you’re currently going through a bout of <a href="https://www.slrlounge.com/the-cure-for-gear-acquisition-syndrome/">GAS</a>. If that’s the case, stay away from this one. You’ve been warned.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/05/11/candid-episode-number-13-hanging-out-with-dan-hawk/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Captain Europe →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://www.youtube.com/watch?v=PdFgd_Qyhdo"/>
-	
-    <updated>2016-05-11T13:44:21+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/05/11/captain-europe</id>
-  	
-  	<content type="html"><![CDATA[<p>Ok, this was fun. What if all European countries had their own Captain America? Well, they would probably look like this:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/PdFgd_Qyhdo" allowfullscreen></iframe></div>
-
-<a rel="full-article" href="http://www.analogsenses.com/2016/05/11/captain-europe/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
