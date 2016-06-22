@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcasting | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/podcasting/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-06-22T18:31:30+02:00</updated>
+  <updated>2016-06-22T21:01:11+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Candid Conversations: Paul Matthijs of Hedge]]></title>
+    <link href="http://www.analogsenses.com/2016/06/22/candid-conversations-paul-matthijs-of-hedge/"/>
+    <updated>2016-06-22T20:38:29+02:00</updated>
+    <id>http://www.analogsenses.com/2016/06/22/candid-conversations-paul-matthijs-of-hedge</id>
+    <content type="html"><![CDATA[<p>In this week’s episode, Josh is on vacation somewhere in beautiful Europe, so Marius and I are joined by Paul Matthijs, CEO of Hedge. Hedge is a wonderful Mac app that lets you easily offload footage from any source to multiple destinations, all while protecting and verifying your data.</p>
+
+<p>Copying large amounts of data through the Finder is not only an inefficient process, it is also unsafe. Finder doesn’t support data verification, and the last thing you need when handling sensitive data is to fall victim to data corruption.</p>
+
+<p>Even if you’ve never been burned yet, you need a way to safely copy your footage from the original capture device to its archival destination. We all do. Data corruption is not an uncertainty: at some point or another, it <em>will</em> happen. The question is, are you ready for it?</p>
+
+<p>I’ll be the first to admit that I’m fascinated by clever apps like Hedge. Paul was kind enough to share with us a bit of the story behind the app’s creation, their pricing strategy, and the philosophy that drives their team.</p>
+
+<p>You can get a free, week-long trial of Hedge at their website, but there’s more. Candid listeners get an exclusive 20% discount when purchasing the app through <a href="https://hedgeformac.com/candidfm">this link</a>. It’s a terrific deal.</p>
+
+<p>Many thanks to Paul for joining us this week. If you haven’t tried Hedge yet, I can’t recommend it enough.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Candid, Episode #18: RAWesome! WWDC for Photographers]]></title>
@@ -46,15 +65,6 @@
     <updated>2016-05-27T13:30:34+02:00</updated>
     <id>http://www.analogsenses.com/2016/05/27/candid-episode-number-15-an-intro-to-shooting-film</id>
     <content type="html"><![CDATA[<p>Just like it says on the tin, this week’s episode of Candid is all about shooting film. If you’re curious about film but don’t know where to start, this one’s for you.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Marius Masalar’s definitive guide to podcasting audio]]></title>
-    <link href="http://www.analogsenses.com/2016/05/21/marius-masalars-definitive-guide-to-podcasting-audio/"/>
-    <updated>2016-05-21T17:35:09+02:00</updated>
-    <id>http://www.analogsenses.com/2016/05/21/marius-masalars-definitive-guide-to-podcasting-audio</id>
-    <content type="html"><![CDATA[<p>My friend and Candid co-host Marius published the first part of his incredibly thorough guide to podcasting audio yesterday, and it’s amazing. Whether you’re just getting into podcasting or looking for ways to take your audio to the next level, this is a must-read.</p>
 ]]></content>
   </entry>
   

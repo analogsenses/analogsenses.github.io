@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-06-22T18:31:30+02:00</updated>
+  <updated>2016-06-22T21:01:11+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid Conversations: Paul Matthijs of Hedge →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/19"/>
+	
+    <updated>2016-06-22T20:38:29+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/06/22/candid-conversations-paul-matthijs-of-hedge</id>
+  	
+  	<content type="html"><![CDATA[<p>In this week’s episode, Josh is on vacation somewhere in beautiful Europe, so Marius and I are joined by Paul Matthijs, CEO of Hedge. Hedge is a wonderful Mac app that lets you easily offload footage from any source to multiple destinations, all while protecting and verifying your data.</p>
+
+<p>Copying large amounts of data through the Finder is not only an inefficient process, it is also unsafe. Finder doesn’t support data verification, and the last thing you need when handling sensitive data is to fall victim to data corruption.</p>
+
+<p>Even if you’ve never been burned yet, you need a way to safely copy your footage from the original capture device to its archival destination. We all do. Data corruption is not an uncertainty: at some point or another, it <em>will</em> happen. The question is, are you ready for it?</p>
+
+<p>I’ll be the first to admit that I’m fascinated by clever apps like Hedge. Paul was kind enough to share with us a bit of the story behind the app’s creation, their pricing strategy, and the philosophy that drives their team.</p>
+
+<p>You can get a free, week-long trial of Hedge at their website, but there’s more. Candid listeners get an exclusive 20% discount when purchasing the app through <a href="https://hedgeformac.com/candidfm">this link</a>. It’s a terrific deal.</p>
+
+<p>Many thanks to Paul for joining us this week. If you haven’t tried Hedge yet, I can’t recommend it enough.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/06/22/candid-conversations-paul-matthijs-of-hedge/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[CHANGER, by Matt Gemmell →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -542,25 +565,6 @@
 
 <p>Have a wonderful Sunday, and thank you for reading.</p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[An interview with Julie Delpy →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://the-talks.com/interview/julie-delpy"/>
-	
-    <updated>2016-05-12T17:42:28+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/05/12/an-interview-with-julie-delpy</id>
-  	
-  	<content type="html"><![CDATA[<p>Nice interview with one of my favorite actresses over at <em>The Talks</em>, from 2012:</p>
-
-<blockquote><p>It’s a weird obsession that I find very sad, because I think it’s okay to age. Who cares if you get older? It’s not such a big deal. I’m not very attached to my looks either. I know it’s weird because as an actress I should care, but I don’t. I’ve never done Botox - I don’t want to do it, it terrifies me. Maybe people think that I am crazy for not doing Botox, but I don’t care. It’s a form of insecurity. I think Botox is a form of madness. Some people will say it’s great, but I think it’s a form of neurosis, of sickness. It’s the same kind of obsession as people who throw up to stay skinny. People shouldn’t be so obsessed with their appearance; they should care about who they are.</p></blockquote>
-
-<p>Solid point, although comparing Botox with “throwing up to stay skinny” is a huge oversimplification and, frankly, quite tone-deaf.</p>
-
-<p>That said, it is a testament to my fascination with Julie Delpy that she can get away with calling <em>Forrest Gump</em> “a stupid film”, and somehow I still like her.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/05/12/an-interview-with-julie-delpy/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
