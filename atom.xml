@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-07-01T00:04:32+02:00</updated>
+  <updated>2016-07-05T19:35:51+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[A review of the Ascaso i-Mini coffee grinder →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://toolsandtoys.net/reviews/the-ascaso-i-mini-coffee-grinder-review/"/>
+	
+    <updated>2016-07-05T18:45:39+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/07/05/the-ascaso-i-mini-coffee-grinder-review</id>
+  	
+  	<content type="html"><![CDATA[<p>My review of the <a href="http://amzn.to/29kjlYz">Ascaso i-Mini</a> coffee grinder was published today on <em>Tools &amp; Toys</em>. I’ve owned the i-Mini for over three years now, and it’s one impressive little device.</p>
+
+<figure class="full-width">
+<img src="https://c7.staticflickr.com/8/7124/28005597582_44c8300f3b_o.jpg"/>
+</figure>
+
+
+<p>If you’re at all interested in coffee, you probably know that good, high-end burr grinders are expensive, with the three or four most popular models costing between $350-$1,000. Unless you’re an enthusiast, that’s a lot of money to drop on a grinder.</p>
+
+<figure class="full-width">
+<img src="https://c1.staticflickr.com/8/7303/27828053560_093f4008d2_o.jpg"/>
+</figure>
+
+
+
+
+<figure class="full-width">
+<img src="https://c4.staticflickr.com/8/7315/28030744171_9d02cfa185_o.jpg"/>
+</figure>
+
+
+<p>What’s remarkable about the i-Mini is that it can do almost everything these high-end grinders do, but it does it while keeping the price well under $300. In a community where fancy devices almost invariably carry a hefty premium, that’s no small feat.</p>
+
+<p>If you want to know more about the Ascaso i-Mini grinder, head on over to <em><a href="http://toolsandtoys.net/reviews/the-ascaso-i-mini-coffee-grinder-review/">Tools &amp; Toys</a></em> for the full review.</p>
+
+<figure class="full-width">
+<img src="https://c6.staticflickr.com/8/7432/27493405733_62a4cd4e61_o.jpg"/>
+</figure>
+
+<a rel="full-article" href="http://www.analogsenses.com/2016/07/05/the-ascaso-i-mini-coffee-grinder-review/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Candid, Episode #20: Photokina Predictions →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -441,22 +482,6 @@
 <div class="embed-video-container"><iframe src="http://www.youtube.com/embed/v1lwQ6XU5yw" allowfullscreen></iframe></div>
 
 <a rel="full-article" href="http://www.analogsenses.com/2016/05/18/how-to-take-the-perfect-coffee-picture-for-instagram/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Siri-creator shows off first public demo of Viv, ‘the intelligent interface for everything’ →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://techcrunch.com/2016/05/09/siri-creator-shows-off-first-public-demo-of-viv-the-intelligent-interface-for-everything/"/>
-	
-    <updated>2016-05-17T18:46:16+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/05/17/siri-creator-shows-off-first-public-demo-of-viv-the-intelligent-interface-for-everything</id>
-  	
-  	<content type="html"><![CDATA[<p>Impressive technology. File this one under “Skynet is coming”:</p>
-
-<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Rblb3sptgpQ" allowfullscreen></iframe></div>
-
-<a rel="full-article" href="http://www.analogsenses.com/2016/05/17/siri-creator-shows-off-first-public-demo-of-viv-the-intelligent-interface-for-everything/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
