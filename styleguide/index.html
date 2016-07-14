@@ -222,8 +222,8 @@ January 20, 2016
 <li><p>A corollary to item 2 on the main list that does not require ordering.</p>
 
 <ol>
-<li><p>You can even have an ordered list within an unordered list that’s itself within an ordered list. Why someone would want to do that, though, I have no idea.</p></li>
-<li><p>At this point you may want to consider starting a new list from scratch.</p></li>
+<li><p> You can even have an ordered list within an unordered list that’s itself within an ordered list. Why someone would want to do that, though, I have no idea.</p></li>
+<li><p> At this point you may want to consider starting a new list from scratch.</p></li>
 </ol>
 </li>
 <li><p>This is the second unordered item within item 2 on the main ordered list, in case you were lost.</p>
@@ -276,28 +276,40 @@ January 20, 2016
 
 <p>The problem with this approach is that these images will never be displayed at full-width on your screen. And if you’re looking at them on a smartphone, it doesn’t really make much sense to waste valuable space with margins. This approach works very well in some specific cases, so it’s important to support it, but clearly we can do better. Here’s a wider image:</p>
 
-<p class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></p>
+<div class='bogus-wrapper'><notextile><figure class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></figure></notextile></div>
 
 
 <p>That’s better. This size works well for portrait images, as well. Here’s what a portrait image looks like at this wider size:</p>
 
-<p class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></p>
+<div class='bogus-wrapper'><notextile><figure class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></figure></notextile></div>
 
 
 <p>I like this size better, but keep in mind that portrait images that are this wide can be harder to view on laptops with widescreen displays. You should find a compromise that works for you there.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
 
 <p>Then there’s an even wider size that is best suited for landscape-orientation pictures. This is what that looks like:</p>
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/></p>
+<div class='bogus-wrapper'><notextile><figure class="full-width">
+<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+</figure></notextile></div>
 
 
 <p>Obviously, this size is not optimal for portrait-orientation images, as it would take a very tall screen to be able to view the entire image.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup></p>
+
+<p>And finally, we can have true full width panoramas, like this one:</p>
+
+<div class='bogus-wrapper'><notextile><figure class="panorama">
+<a class="fancybox" rel="MenorcaPanorama" href="https://c3.staticflickr.com/1/350/19732177610_e00e8065a8_k.jpg"><img src="https://c3.staticflickr.com/1/350/19732177610_e00e8065a8_k.jpg" alt="" /></a>
+</figure></notextile></div>
+
+
+<p>This should extend the entire width of your screen, regardless of the size of your window.</p>
 
 <h3>Videos</h3>
 
 <p>Videos by default are treated just like photos, and are embedded at the wider size,<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> like this:</p>
 
-<div class="embed-video-container"><iframe src="http://player.vimeo.com/video/149865168 "></iframe></div>
+<div class="video-wrapper"><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/149865168 "></iframe></div></div>
 
 
 
