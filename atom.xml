@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-07-29T01:32:37+02:00</updated>
+  <updated>2016-08-04T18:18:40+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Add vintage lens metadata to your pictures in Lightroom with LensTagger →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.essl.de/wp/software/lenstagger-lightroom-plugin/"/>
+	
+    <updated>2016-08-04T16:45:05+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/08/04/add-vintage-lens-metadata-to-your-pictures-in-lightroom-with-lenstagger</id>
+  	
+  	<content type="html"><![CDATA[<p>If you shoot with old manual lenses on your modern digital camera, as I do, you’ve probably noticed that Lightroom doesn’t show up any EXIF information for the lens when you import the images. That’s pretty obvious, since vintage lenses usually have no electronic parts in them at all. The problem is, Lightroom doesn’t allow you to add this missing information to your files later, either.</p>
+
+<p>LensTagger is a Lightroom plugin that allows you to add specific lens metadata to your images without ever leaving the app. It works pretty well, and includes all lens-related information such as lens name, focal length, maximum aperture, actual aperture, and more. Best of all, you can save presets for the different lenses you shoot with, and apply the edits to multiple files with a single click. And as a nice bonus feature, you can also add film-related metadata, including film brand, stock, speed, and more.</p>
+
+<p>If you like to have all your pictures nicely tagged for, say, sharing to Flickr, LensTagger is definitely a great solution.</p>
+
+<figure class="full-width">
+    <a href="https://www.flickr.com/photos/analogsenses/28659261872/in/album-72157646993846191/" target="_blank" title="The hidden charm of Madrid’s street markets"><img src="https://c1.staticflickr.com/9/8587/28659261872_f7c8348b0e_o.jpg" alt="The hidden charm of Madrid’s street markets"></a>
+    <a href="https://www.flickr.com/photos/analogsenses/28149297413/in/album-72157646993846191/" target="_blank" title="The hidden charm of Madrid’s street markets"><img src="https://c6.staticflickr.com/9/8814/28149297413_7c79a33954_o.jpg" alt="The hidden charm of Madrid’s street markets"></a>
+    <p class="caption">The images above were both shot with the venerable Canon nFD 50mm f/1.8 lens on the Sony A7 II camera. Click on them to view them on Flickr, including lens metadata.</p>    
+</figure>
+
+
+<p>LensTagger requires <a href="http://www.sno.phy.queensu.ca/~phil/exiftool/">ExifTool</a>, which is available on both Windows and OS X. It was developed by <a href="http://www.essl.de/wp/thank-you/">Dirk Essl</a> and it’s donation-ware. If you enjoy using it, do send a few bucks his way.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/08/04/add-vintage-lens-metadata-to-your-pictures-in-lightroom-with-lenstagger/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Candid, Episode #22: Right Place, Wrong Lens →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -452,19 +478,6 @@
   	
   	<content type="html"><![CDATA[<p>This is absolutely perfect. I love the Internet. Via <a href="http://daringfireball.net/linked/2016/05/24/scotch-troooper">Daring Fireball</a>.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/05/25/scotch-trooper/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Marius Masalar’s definitive guide to podcasting audio →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="https://mariusmasalar.me/everything-you-need-to-know-to-get-great-podcast-audio-part-1-hardware-6eaa61fffa49#.9bf3va94h"/>
-	
-    <updated>2016-05-21T17:35:09+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/05/21/marius-masalars-definitive-guide-to-podcasting-audio</id>
-  	
-  	<content type="html"><![CDATA[<p>My friend and Candid co-host Marius published the first part of his incredibly thorough guide to podcasting audio yesterday, and it’s amazing. Whether you’re just getting into podcasting or looking for ways to take your audio to the next level, this is a must-read.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/05/21/marius-masalars-definitive-guide-to-podcasting-audio/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
