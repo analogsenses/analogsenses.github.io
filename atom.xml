@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-08-06T18:31:53+02:00</updated>
+  <updated>2016-08-13T00:48:01+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #23: Expose to Whatever →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/23"/>
+	
+    <updated>2016-08-13T00:46:11+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/08/13/candid-episode-number-23-expose-to-whatever</id>
+  	
+  	<content type="html"><![CDATA[<p>This week we’ve got a couple of excellent listener questions to answer before delving into exposure. We go over ETTR and other techniques and compare exposure rules in digital versus analog photography. I had a lot of fun recording this one.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/08/13/candid-episode-number-23-expose-to-whatever/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The best Full Frame lenses for the Sony E-mount system (August 2016)]]></title>
@@ -37,7 +50,10 @@
 <p class="card-separator">♤</p>
 
 
-<h2>Table of contents</h2>
+
+
+<h2 id="excerpt-point">Table of contents</h2>
+
 
 <p>Due to the length of this guide, here’s a handy table of contents. Click/tap on each link to go to the corresponding section.</p>
 
@@ -1053,19 +1069,6 @@
 
 <p>Ouch.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/05/28/wanna-feel-old/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Candid, Episode #15: An Intro to Shooting Film →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.candid.fm/15"/>
-	
-    <updated>2016-05-27T13:30:34+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/05/27/candid-episode-number-15-an-intro-to-shooting-film</id>
-  	
-  	<content type="html"><![CDATA[<p>Just like it says on the tin, this week’s episode of Candid is all about shooting film. If you’re curious about film but don’t know where to start, this one’s for you.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/05/27/candid-episode-number-15-an-intro-to-shooting-film/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
