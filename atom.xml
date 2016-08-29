@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-08-18T21:38:54+02:00</updated>
+  <updated>2016-08-29T17:28:54+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[This is what it’s like to work as an Uber bike messenger in new York City →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="https://thebillfold.com/my-summer-working-as-an-uber-bike-messenger-5beca3f07307#.v40zf3f9x"/>
+	
+    <updated>2016-08-29T17:17:18+02:00</updated>
+  	<id>http://www.analogsenses.com/2016/08/29/this-is-what-its-like-to-work-as-an-uber-bike-messenger</id>
+  	
+  	<content type="html"><![CDATA[<p>Really great piece over at <em>The Billfold</em>:</p>
+
+<blockquote><p>The most appealing aspect of working as a bike courier — on top of its power to burn calories — is the glimpse it offers you into the private worlds and habits of New Yorkers. I frequently took on the role of an armchair anthropologist, privileged with brief glimpses into the modern dwellings and workplaces of New Yorkers of all stripes.</p></blockquote>
+
+<p>It’s definitely not all rosy, but if there’s one city in the whole world where I wouldn’t mind trying something like this, it’s gotta be New York.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/08/29/this-is-what-its-like-to-work-as-an-uber-bike-messenger/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Candid, Episode #24: Travel (Instagram) Stories →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -961,25 +978,6 @@
   	
   	<content type="html"><![CDATA[<p>There’s not a clear-cut main topic in this week’s episode, and instead we touched on a lot of different things, including the everlasting zooms vs. primes debate, and the proper attire to combat wild mosquitoes in the Canadian wilderness. I really like how this one turned out.</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/06/05/candid-episode-number-16-zooms-vs-primes-and-mosquitos-vs-pyjama-bottoms/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Stephen Curry’s 3-Point Record in Context: Off the Charts →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.nytimes.com/interactive/2016/04/16/upshot/stephen-curry-golden-state-warriors-3-pointers.html"/>
-	
-    <updated>2016-06-01T13:41:53+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/06/01/stephen-currys-3-point-record-in-context-off-the-charts</id>
-  	
-  	<content type="html"><![CDATA[<p>Fascinating chart by Gregor Aisch and Kevin Quealy over at <em>The New York Times</em>:</p>
-
-<blockquote><p>How can we best put the gap between Curry and the best three-point shooters in history in context? Over the past 30 years, the number of 3-point field goals has trended steadily upward. If we project that trend into the future, 402 becomes a perfectly natural number of 3-point field goals for an N.B.A. player to make.</p>
-
-<p>In the mid-2030s.</p></blockquote>
-
-<p>Insane stats from the NBA’s best three-point shooter ever.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/06/01/stephen-currys-3-point-record-in-context-off-the-charts/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
