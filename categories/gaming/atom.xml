@@ -4,7 +4,7 @@
   <title><![CDATA[Category: gaming | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/gaming/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-09-28T13:25:08+02:00</updated>
+  <updated>2016-10-11T21:16:29+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -39,7 +39,7 @@
     <id>http://www.analogsenses.com/2016/04/07/the-making-of-uncharted-4-a-thiefs-end</id>
     <content type="html"><![CDATA[<p>Great documentary on the making of the upcoming — and final — game in the Uncharted series. I got goosebumps watching this:</p>
 
-<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/bbx8iFxtrVU" allowfullscreen></iframe></div></div></p>
+<p>{% youtube bbx8iFxtrVU %}</p>
 
 <p>Can’t wait for the actual game to be released.</p>
 ]]></content>
@@ -52,7 +52,7 @@
     <id>http://www.analogsenses.com/2016/02/25/uncharted-4-a-thiefs-end-trailer</id>
     <content type="html"><![CDATA[<p>Oh boy, April 26 can’t come soon enough:</p>
 
-<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/hh5HV4iic1Y" allowfullscreen></iframe></div></div></p>
+<p>{% youtube hh5HV4iic1Y %}</p>
 ]]></content>
   </entry>
   
@@ -63,7 +63,7 @@
     <id>http://www.analogsenses.com/2015/06/16/sony-at-e3-2015-the-11-most-important-announcements</id>
     <content type="html"><![CDATA[<p>Adi Robertson covers Sony’s announcements in yesterday’s E3 keynote for <em>The Verge</em>. There are plenty of awesome games coming, most notably among which are <em>The Last Guardian</em>, <em>Uncharted 4</em>, <em>Shenmue 3</em> and the long, long awaited remake of <em>Final Fantasy VII</em>, which is one of my all-time personal top-2 games:</p>
 
-<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Kznek1uNVsg" allowfullscreen></iframe></div></div></p>
+<p>{% youtube Kznek1uNVsg %}</p>
 
 <p>It appears Sony is throwing the kitchen sink at the PS4, and I couldn’t be happier. I suppose one could argue that these are all well-established franchises and that the lack of some high-profile new and original releases is somewhat worrying. Then again, any chance I can get to kick Sephiroth’s treacherous ass all over again is fine by me.</p>
 
@@ -86,7 +86,7 @@
 
 <p>Great news, and yet another perfectly good reason to buy a PS4. I’m still living happily with my PS3, but some of these recent announcements are making my 1-click-buying finger extremely nervous. Check out the trailer they put together for Sony’s E3 keynote:</p>
 
-<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/cXWlgP5hZzc" allowfullscreen></iframe></div></div></p>
+<p>{% youtube cXWlgP5hZzc %}</p>
 
 <p>I can’t wait to get my hands on this game.</p>
 ]]></content>
