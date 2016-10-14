@@ -4,7 +4,7 @@
   <title><![CDATA[Category: guides | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/guides/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-10-14T19:04:16+02:00</updated>
+  <updated>2016-10-14T20:43:49+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -22,9 +22,9 @@
 
 <p>As great as Sony’s camera bodies are, however, the true value of a camera system is measured by its lenses and by that measure, the Full Frame E-mount system is still young. However, in under three years, Sony has done a remarkable job of covering the most important bases.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://c5.staticflickr.com/9/8602/28168210924_e491c940a9_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>In practical terms, the Full Frame E-mount system could be considered a joint venture between Sony and Zeiss. The two companies have a long-standing working relationship, and nowhere is it more evident than here. Indeed, Sony and Zeiss combined have released a staggering 25 Full Frame lenses for the E-mount system to date, including two new lenses in the days leading up to Photokina 2016. No matter how you look at it, that’s an impressive pace.</p>
 
@@ -130,10 +130,10 @@
 
 <p>Thirdly, the guide only considers native E-mount lenses. The E-mount system is famous because, thanks to its short flange distance, its cameras can use almost every DSLR lens in existence with adapters, including Sony’s own A-mount line of lenses. Using adapted lenses, however, presents its own set of issues, not the least of which is unreliability. There’s also great variation in lens behavior depending on the particular lens + adapter combination. For these reasons, adapted lenses are also outside the scope of this article.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://farm2.staticflickr.com/1538/23729140464_f3b4b1ee63_o.jpg" width="832"/>
     <p class="caption">Besides native FE lenses, E-mount cameras are compatible with a wide array of DSLR lenses via the use of adapters, but those are outside the scope of this guide.</p>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Finally, the guide is structured in several categories, arranged by focal length and/or primary application. These categories were created based on the current available lens lineup for the system. In the future, additional categories such as fisheye lenses and super telephoto lenses may be added, as lenses meeting the corresponding criteria are released. Given the youth of the FE system as a whole and the pace at which new lenses are being announced, the addition of at least some of these categories in the near future appears very likely.</p>
 
@@ -476,9 +476,9 @@
 
 <p>Let’s take a look at all four Loxia lenses so far:</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://c7.staticflickr.com/6/5818/29632661974_1f7604df20_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <ul>
 <li><p>The <strong><a href="http://www.amazon.com/gp/product/B019OUCQ9Y/?tag=analogsens-20">Zeiss Loxia 21mm f/2.8 Distagon T*</a></strong> is currently the widest of the Loxia lenses, and at $1,499, it’s also the most expensive. This is arguably the best ultra-wide angle lens for the FE system, barely edging out the Batis 18mm in terms of image quality. Both lenses are similarly sharp, but the Loxia controls chromatic aberration just a tad better. On the other hand, it suffers a bit more from coma, so if you’re into astrophotography, the Batis lens may be the better choice. For everything else, the two lenses are nearly indistinguishable in real-world shooting. If you’re struggling to decide, my advice is to choose between the two based on your preferred field of view. Keep in mind that in the ultra-wide range every millimeter counts, so 18mm is actually quite a bit wider than 21mm.<br/>
@@ -622,10 +622,10 @@
 
 <p><em>Even though it will not be supported by the newly-announced macOS Sierra, my Early-2008 iMac is still my primary Mac. It’s a terrific machine and I have no plans to replace it anytime soon. The rest of the article has been preserved in its original form for historical accuracy.</em></p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://farm3.staticflickr.com/2904/14189051376_3e98590f1a_b.jpg" title="Set everything up in a comfortable environment and get to work!"/>
     <p class="caption">Set everything up in a comfortable environment and get to work!</p>
-</figure></p>
+</figure></notextile></div></p>
 
 <h2>Introduction</h2>
 
@@ -651,10 +651,10 @@
 
 <p>I was initially leaning towards <a href="http://www.amazon.com/gp/product/B00E3W19MO/ref=as_li_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=B00E3W19MO&amp;link_code=as3&amp;tag=analogsens-20&amp;linkId=2X75ROL22WE6DWQK">the 500 GB model</a>, which retails on Amazon in Spain for 216€ (about $295). It would match my internal drive’s size, so I would not give up any space in the transition, which seemed like the best way to go. However, I never really used all the space in my internal drive. Most of my storage needs are for my media collection (music, TV shows, movies and photos), which I keep on an external drive anyway. I typically only use about 100 GB of internal storage, which include the OS, my applications, documents, my Dropbox folder and little more, so what’s the point of buying a large SSD if I’m not even going to use half of its capacity? For reference, <a href="http://www.amazon.com/gp/product/B00E3W1726/ref=as_li_tl?ie=UTF8&amp;camp=211189&amp;creative=373489&amp;creativeASIN=B00E3W1726&amp;link_code=as3&amp;tag=analogsens-20&amp;linkId=P6V3VKDN3NZO3FO6">the 250 GB version</a> retails for 120€ (about $164). After careful consideration, I decided to buy two 250 GB drives instead of the 500 GB, and use the other one to upgrade my 13” Mid-2010 MacBook Pro. That way I could upgrade both Macs for only a little bit more money.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://farm3.staticflickr.com/2938/14025500850_824955693e_b.jpg" title="Scary, I know, but it’s easier than it looks."/>
     <p class="caption">Scary, I know, but it’s easier than it looks.</p>
-</figure></p>
+</figure></notextile></div></p>
 
 <h2>Getting my hands dirty</h2>
 
@@ -678,10 +678,10 @@
 
 <p>The last part of the process is, of course, getting your new SSD up and running. Here you have basically two options: you can restore from a previous Time Machine or <a href="http://www.shirt-pocket.com/SuperDuper/superduperdescription.html">SuperDuper!</a> backup, or you can start fresh by installing OS X from scratch. For the iMac, I decided to restore from a backup, since I’d made a clean install not too long ago. For the MacBook Pro, however, I chose to do a clean install instead. I booted the newly-assembled iMac from a SuperDuper! backup I had on an external drive and used SuperDuper! to restore the backup to the SSD. The restoring process took about 90 minutes and it was absolutely flawless. When it was done, I was up and running again without any issues whatsoever. I really cannot recommend SuperDuper! enough. If you own a Mac, you should definitely be using it.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://farm6.staticflickr.com/5532/14211973414_fc9ab7e6b1_b.jpg" title="It’s Alive!"/>
     <p class="caption">It’s Alive!</p>
-</figure></p>
+</figure></notextile></div></p>
 
 <h2>The Verdict</h2>
 
@@ -908,7 +908,7 @@
 <p class="extra-width"><img src="https://farm1.staticflickr.com/555/19751704774_23a8a1ee4d_o.jpg"/></p>
 
 
-<p>Then we place our flat object on the desk resting up agains the wall to create a vertical surface on which to prop up our backdrop. In my case, my 24" iMac provided just about the perfect solution, since it stands on its own and doesn’t need a wall to lean on.</p>
+<p>Then we place our flat object on the desk resting up agains the wall to create a vertical surface on which to prop up our backdrop. In my case, my 24&#8221; iMac provided just about the perfect solution, since it stands on its own and doesn’t need a wall to lean on.</p>
 
 <p>We then need to place our backdrop over the vertical surface in such a way that it covers the entire working surface, with some excess fabric left hanging over the sides and the front. If you’re using bed sheets or something like that, make sure to fold them a couple times to increase thickness and then give them a thorough ironing to minimize wrinkles. This will make out post production stage a lot easier. Also, be sure to place it in such a way that makes the intersection between the desk and the stand look seamless.</p>
 
