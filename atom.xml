@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-11-10T00:31:15+01:00</updated>
+  <updated>2016-11-10T12:22:39+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #34: Just a Huge Spacebar →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/34"/>
+	
+    <updated>2016-11-10T12:18:53+01:00</updated>
+  	<id>http://www.analogsenses.com/2016/11/10/candid-episode-number-34-just-a-huge-spacebar</id>
+  	
+  	<content type="html"><![CDATA[<p>In light of the new MacBook Pro announcements from Apple, Josh and Marius take a skeptical look at the current computing landscape and talk about why it’s such a challenging time to buy a machine for professional use.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/11/10/candid-episode-number-34-just-a-huge-spacebar/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #33: What Makes a Photograph Compelling? →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/33e"/>
+	
+    <updated>2016-11-10T12:16:55+01:00</updated>
+  	<id>http://www.analogsenses.com/2016/11/10/candid-episode-number-33-what-makes-a-photograph-compelling</id>
+  	
+  	<content type="html"><![CDATA[<p>Marius and I share some listener feedback before dissecting the elements of a photograph. We look at each ingredient and how they come together to make an image interesting, including a discussion of the role of post-processing.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2016/11/10/candid-episode-number-33-what-makes-a-photograph-compelling/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Hands-on with the Fuji X-T2]]></title>
@@ -690,50 +716,6 @@
 
 <p></section></p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[John Gruber on Tim Cook’s open letter →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://daringfireball.net/linked/2016/08/31/cook-taxes"/>
-	
-    <updated>2016-09-02T13:14:24+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/09/02/john-gruber-on-tim-cooks-open-letter</id>
-  	
-  	<content type="html"><![CDATA[<p>John Gruber:</p>
-
-<blockquote><p>I’m with Cook on this one. It’s about what the Commission (and many observers) think the tax law <em>should have been</em>, not what it actually was. It’s telling that Ireland is objecting just as strenuously as Apple.</p></blockquote>
-
-<p><em>Of course</em> Ireland is objecting just as strenuously, it was actually Ireland that the Commission found guilty of wrongdoing here, not Apple. And if Ireland was to take all that money from Apple now, they would be risking future investments in their economy not just from Apple, but every other foreign company as well. Despite the unexpected €13bn windfall, they have a <em>lot</em> more to lose here than Apple.</p>
-
-<p>And then there’s this gem, from Tim Cook’s <a href="http://www.apple.com/ie/customer-letter/">original open letter</a>:</p>
-
-<blockquote><p>The Commission’s move is unprecedented and it has serious, wide-reaching implications. It is effectively proposing to replace Irish tax laws with a view of what the Commission thinks the law should have been. This would strike a devastating blow to the sovereignty of EU member states over their own tax matters, and to the principle of certainty of law in Europe.</p></blockquote>
-
-<p>What Cook argues sounds compelling, but it is in no way what happened here. As for how “the law should have been”, European state aid laws have been in place for a long time, and it is based on those laws that the Commission ruled.</p>
-
-<p>I find it cute — read: hypocritical — that Tim Cook now appears to place such a high importance on the sovereignty of EU member states, when it is precisely some lack of sovereignty that made Apple’s loophole possible in the first place: by diverting profits from other member states to Ireland, something that wouldn’t have been possible without the EU’s common market, Apple is effectively making it impossible for those member states to collect taxes on sales and profits that were generated within their own borders and paid for by their own citizens. How exactly is that respectful of the sovereignty of all the other member states?</p>
-
-<p>In other words, it is only <em>because</em> EU member states willingly gave up some of their taxation privileges in order to be a part of the common European market that Apple and other big companies could get away with doing something like this. What’s outrageous to the Commission and many European citizens — including yours truly — is that, had they stopped there, things would have been perfectly legal and Apple and Ireland would have both been in the clear. But that wasn’t enough for Apple. On top of that, they had to negotiate a <em>ridiculous</em> tax rate on those profits, something the Irish government was all too happy to grant them because, seriously, which government <em>wouldn’t</em> want Apple to set up shop in their country?</p>
-
-<p>I like Tim Cook, and I like Apple. I want to believe Tim knows Apple is at least morally in the wrong here, and he’s just playing the cards he’s been dealt and fulfilling his obligations as CEO. But, in case he hasn’t noticed, Europe is going through its worst economic crisis in decades, and sovereignty isn’t what it used to be. Ask Greece, or Spain, to name just two member states that have seen their sovereignty significantly limited by the Commission’s economic oversight in recent years.</p>
-
-<p>Europe is bleeding money and taxes are now more necessary than ever. To add some perspective, Ireland’s national debt is <a href="http://www.nationaldebtclocks.org/debtclock/ireland">currently greater than its GDP</a>, so it’s not like they don’t need the money. Many states have had to make huge sacrifices to preserve the idea that the Union was built upon, and now it is Ireland’s turn. If Apple wants to legally fight the Commission’s ruling they have every right to do so, but let’s not kid ourselves about who holds the moral high ground here.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/09/02/john-gruber-on-tim-cooks-open-letter/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Candid, Episode #25: The Rise of Unsplash →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.candid.fm/25"/>
-	
-    <updated>2016-08-30T12:14:21+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/08/30/candid-episode-number-25-the-rise-of-unsplash</id>
-  	
-  	<content type="html"><![CDATA[<p>I missed this week’s episode of Candid, but friend of the show <a href="https://twitter.com/DrewCoffman">Drew Coffman</a> was kind enough to join Marius and Josh for an in-depth discussion on one of the most interesting platforms for photographers of all kinds: Unsplash. This was easily one of the best Candid episodes to date. Absolutely recommended.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/08/30/candid-episode-number-25-the-rise-of-unsplash/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
