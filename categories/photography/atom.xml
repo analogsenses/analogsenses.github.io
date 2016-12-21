@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-12-21T18:31:20+01:00</updated>
+  <updated>2016-12-21T18:52:22+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -26,9 +26,9 @@
 
 <p>With those aspects in mind, I’ve created this guide to help you figure out which camera is the right one to get depending on <em>your</em> particular needs. I’m also giving out the first Editor’s Choice award in the history of <em>Analog Senses</em> to the best camera of 2016, and the one I recommend for most people. To learn which camera took home this most prestigious award, just keep reading!</p>
 
-<p><figure class="panorama">
+<p><div class='bogus-wrapper'><notextile><figure class="panorama">
     <img src="https://c8.staticflickr.com/1/299/30853190463_1406f12393_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p><section class="toc"></p>
 
@@ -101,9 +101,9 @@
 
 <p><article id="travel" style="margin-top: 100px;">
     <div class="heading-icon">
-        <figure>
+        <div class='bogus-wrapper'><notextile><figure>
             <img class="icon" src="https://c1.staticflickr.com/1/645/31291152340_83fd10ba0d_o.png"/>
-        </figure>
+        </figure></notextile></div>
         <h1>Best Travel Camera: The Olympus PEN-F</h1>
     </div></p>
 
@@ -111,9 +111,9 @@
 
 <p>The PEN-F is inspired by Olympus’ classic PEN F line of half-frame 35mm film cameras<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, which goes back to the early 1960s. In the modern era, Olympus’ digital PEN cameras are somewhat of a hybrid between their SLR-styled, professional-oriented OM-D line and their consumer cameras.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c7.staticflickr.com/1/772/31725681806_1c7fcfa65f_o.jpg" width="450"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>It may look cute and simple, but the PEN-F packs some serious punch in terms of technology and image quality. With a 20-Megapixel Micro Four Thirds (MFT) sensor, 5-axis IBIS and a build quality that rivals the best cameras out there, the PEN-F is certainly no slouch. Only the lack of weather sealing keeps it from being the perfect travel camera in my book.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
 
@@ -144,9 +144,9 @@
 <p></article>
 <article id="landscape">
     <div class="heading-icon">
-        <figure>
+        <div class='bogus-wrapper'><notextile><figure>
             <img class="icon" src="https://c1.staticflickr.com/1/548/31291151010_6bfb9b53de_o.png"/>
-        </figure>
+        </figure></notextile></div>
         <h1>Best Landscape Camera: The Sony a7R Mark II</h1>
     </div></p>
 
@@ -154,9 +154,9 @@
 
 <p>The <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B00ZDWGFR2&amp;uk=B010THXVNQ&amp;es=B010THXVNQ">Sony a7R Mark II</a> fulfills these requirements with ease. Its 42-Megapixel Full Frame sensor gives you all the detail and dynamic range you could want, and the 5-axis IBIS helps a lot when you want to leave the tripod behind. And since it’s dust and moisture resistant, using it in rough weather is not a problem either.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c1.staticflickr.com/6/5578/31725687176_035a1e3405_o.jpg" width="450"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Best of all, though, are the lenses. The Zeiss <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01E8OBQS8&amp;uk=B01E8OBQS8&amp;es=B01E8OBQS8">18mm F/2.8</a> and <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B00WIHXBK4&amp;uk=B00WIHXBK4&amp;es=B00WIHXBK4">25mm F/2</a> Batis lenses are incredibly sharp corner-to-corner and provide all the features of modern glass, as well as the signature Zeiss color and contrast. If you like to focus manually, there’s also the fantastic <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B019OUCQ9Y&amp;uk=B019OUCQ9Y&amp;es=B019OUCQ9Y">Zeiss 21mm f/2.8 Loxia</a>. As for zoom lenses, the <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B00NGTN25C&amp;uk=B00NVA7J1Y&amp;es=B00NVA7J1Y">Sony Zeiss FE 16-35mm F/4</a> is a solid performer, and I expect a higher-end F/2.8 G-Master version to be announced in 2017.</p>
 
@@ -183,9 +183,9 @@
 <p></article>
 <article id="action-sports">
     <div class="heading-icon">
-        <figure>
+        <div class='bogus-wrapper'><notextile><figure>
             <img class="icon" src="https://c1.staticflickr.com/1/747/31663923555_bb1832b3a7_o.png"/>
-        </figure>
+        </figure></notextile></div>
         <h1>Best Action/Sports Camera: The Fuji X-T2</h1>
     </div></p>
 
@@ -193,9 +193,9 @@
 
 <p>With that in mind, the best mirrorless camera for action and sports is a very close call between the <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01I3LNMAM&amp;uk=B01I5LE51A&amp;es=B01I5LE51A">Fuji X-T2</a> and the <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01M586Y9R&amp;uk=B01M2WAE29&amp;es=B01M2WAE29">Sony a6500</a>, but ultimately the Fuji comes out on top.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c6.staticflickr.com/1/501/31763114485_37133a905f_o.jpg" width="450"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Both cameras have class-leading AF systems, with the Sony offering more AF points, but the Fuji being more customizable. Discerning users will quickly learn to choose the appropriate AF mode for the Fuji in order to get consistently great results, while the Sony always feels like playing the lottery: sometimes it will work flawlessly, and others it will fail miserably. Having the option to configure the AF system’s behavior goes a long way towards getting the results you want, and that’s where the Fuji outperforms the Sony.</p>
 
@@ -203,10 +203,10 @@
 
 <p>On the other hand, the Fuji X-T2 has dual SD-card slots, which is a must-have in a high-end camera these days and a strange omission in the a6500. The Fuji X-T2 also has a joystick to move the AF point around. Many people prefer the immediacy of dedicated physical controls over a touchscreen, so that’s up to you. Of course, the ideal solution would have been to include both, but for some reason Fuji opted not to build a touchscreen into the X-T2.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c8.staticflickr.com/6/5592/31763114975_749283f7f9_o.jpg" width="512"/>
     <p class="caption">The lack of high-quality native APS-C lenses for the Sony a6500 means you’re stuck using bigger and more expensive Full Frame lenses with it, which is not ideal.</p>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Clearly both cameras will be able to produce superb results once you figure out their respective quirks, but what ultimately gave the Fuji the win is the lens selection. While Fuji offers a fantastic lineup of fast zoom lenses that are great for action and sports, Sony has been neglecting their APS-C lineup for years. If you want to go with the a6500, your best bet is to use Full Frame lenses with it, which means you’ll be stuck carrying bigger, heavier, and <em>way</em> more expensive lenses that, to add insult to injury, will not even be as sharp on the a6500 as native APS-C lenses in most cases.</p>
 
@@ -219,7 +219,7 @@
 
 <h2>Honorable mention: the Olympus OM-D E-M1 Mark II</h2>
 
-<p>Another very good camera to buy for sports shooting is the <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01M4MB3DK">Olympus OM-D E-M1 Mark II</a>. This is a speed demon in avery way, with a burst rate of up to 15 fps with full AF capabilities, or an insane 60 fps with focus locked to the first frame. Add to that a fantastic EVF and a solid, weather-sealed body and you get a pretty serious camera for the action-minded photographer.</p>
+<p>Another very good camera to buy for sports shooting is the <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01M4MB3DK">Olympus OM-D E-M1 Mark II</a>. This is a speed demon in every way, with a burst rate of up to 15 fps with full AF capabilities, or an insane 60 fps with focus locked to the first frame. Add to that a fantastic EVF and a solid, weather-sealed body and you get a pretty serious camera for the action-minded photographer.</p>
 
 <p>Another strong point the E-M1 II has going for it is the lenses. The Olympus PRO zoom lenses are among the very best the industry has to offer: they’re super durable, weather-sealed, and have longer reach than comparable APS-C or Full Frame lenses. The <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B00NGSLSK4&amp;uk=B00NED5VHC&amp;es=B00NED5VHC">40-150mm F/2.8 PRO</a> zoom, for example, gets you all the way to a 300mm-equivalent field of view with a fast aperture and in a lens that is still fairly small and light. That’s impressive.</p>
 
@@ -235,9 +235,9 @@
 <p></article>
 <article id="wildlife">
     <div class="heading-icon">
-        <figure>
+        <div class='bogus-wrapper'><notextile><figure>
             <img class="icon" src="https://c1.staticflickr.com/1/426/31742903415_5f6bc674d8_o.png"/>
-        </figure>
+        </figure></notextile></div>
         <h1>Best Wildlife Camera: The Olympus OM-D E-M1  Mark II</h1>
     </div></p>
 
@@ -247,9 +247,9 @@
 
 <p>Then there’s the matter of reach. It’s not always feasible or advisable to get up close and personal with certain animals, so you’ll want to have an outstanding telephoto lens in your arsenal. The <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01950SVHY&amp;uk=B019MYY38O&amp;es=B019MYY38O">Olympus PRO 300mm F/4</a> prime lens gives you a 600mm-equivalent field of view in a lens that’s still small enough to carry anywhere. And with Olympus’ superb IBIS technology and the lens’ own image stabilization working together, you can easily capture tack-sharp photos handheld. No other camera system out there comes close to this.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c7.staticflickr.com/1/607/31616230062_86755ef12e_o.jpg" width="450"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Another important factor is speed. In wildlife photography you don’t usually get a second chance to capture the perfect shot — after all, wild animals are notoriously bad at following posing directions. This is where having a quick and accurate AF system, fast burst rate, and generous buffer depth matters most, and the E-M1 II is an industry leader in all of those things. With 121 cross-type hybrid AF points, a 15 fps burst rate with full AF capabilities, and a buffer that just keeps going forever, you won’t need a second chance to capture the next iconic National Geographic cover.</p>
 
@@ -278,9 +278,9 @@
 <p></article>
 <article id="walkaround-street">
     <div class="heading-icon">
-        <figure>
+        <div class='bogus-wrapper'><notextile><figure>
             <img class="icon" src="https://c2.staticflickr.com/6/5613/31663923475_8e177b4fe6_o.png"/>
-        </figure>
+        </figure></notextile></div>
         <h1>Best Walkaround/Street Camera: The Sony RX1R Mark II</h1>
     </div></p>
 
@@ -292,9 +292,9 @@
 
 <p>With those requirements in mind, the best camera for street photography right now is the <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B016N39J0O&amp;uk=B017BD5ZA8&amp;es=B017BD5ZA8">Sony RX1R Mark II</a>.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c2.staticflickr.com/1/423/31763113745_cb53c96136_o.jpg" width="450"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>This camera is so small and light that it’s hard to believe it has a 42-Megapixel Full Frame sensor inside. It also has a gorgeous 35mm F/2 Zeiss lens built into the body, which is just about perfect for street photography. And since you’ve got resolution to spare, you can easily crop your images to a 50mm field of view without any noticeable loss of quality.</p>
 
@@ -313,9 +313,9 @@
 
 <p>Build quality-wise, the Leica Q is certainly a step above the Sony. It feels remarkably solid and dense, in a way that is very reassuring. Its EVF is superb, and the software menu is well thought-out. Nobody makes cameras like Leica, so this is hardly a surprise. It’s also a very user-friendly camera, and the shooting experience is about as intuitive as it gets. The Sony, on the other hand, can be a bit overwhelming with a seemingly infinite amount of menu items and customizable options.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c5.staticflickr.com/1/534/31725682916_f4eb86bb54_o.jpg" width="350"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Where the Leica simply can’t keep up with the Sony is in raw specs: resolution is only 24 Megapixels, as opposed to 42. This limits the amount of cropping you can do with the Leica, while the Sony is a lot more versatile.</p>
 
@@ -331,9 +331,9 @@
 <p></article>
 <article id="portrait-studio">
     <div class="heading-icon">
-        <figure>
+        <div class='bogus-wrapper'><notextile><figure>
             <img class="icon" src="https://c1.staticflickr.com/1/145/31291151600_b32624eb4b_o.png"/>
-        </figure>
+        </figure></notextile></div>
         <h1>Best Portrait/Studio Camera: The Sony a7R Mark II</h1>
     </div></p>
 
@@ -343,9 +343,9 @@
 
 <p>On top of that, Sony’s recent push to release more high-end Full Frame lenses is already paying off, with the E-mount offering a truly comprehensive range of professional-grade glass.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c1.staticflickr.com/6/5578/31725687176_035a1e3405_o.jpg" width="450"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>The new G-Master lenses, for example, are all best-in-class and provide all the image quality a photographer could ever need. Now there’s a full trinity of F/1.4 primes, and Sony also has a <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B00U29GNEG&amp;uk=B00ULLSWSU&amp;es=B00ULLSWSU">90mm F/2.8 macro</a> lens that is so sharp existing resolution benchmarks can’t measure it accurately. On top of that, Zeiss is also doing wonderful things with the Batis and Loxia lines of lenses, with every new release becoming an instant hit. As far as portrait and studio photographers are concerned, all that’s missing now in the system is a fast 135mm prime lens, and I would be very surprised if such a lens didn’t see the light of day in 2017.</p>
 
@@ -364,9 +364,9 @@
 
 <p>With the X1D, Hasselblad managed to fit a 50-Megapixel Medium Format sensor into a mirrorless body that is considerably smaller than a Full Frame DSLR, which is an impressive technological achievement. Resolution is certainly enough for most applications, although considering the Full Frame Canon 5DS R has had a 50-Megapixel sensor for a while, it isn’t exactly Earth-shattering.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c7.staticflickr.com/1/734/31725681166_913c0512a1_o.jpg" width="400"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Now, the <a href="https://www.bhphotovideo.com/c/product/1260272-REG/hasselblad_h_3013901_x1d_50c_medium_format_mirrorless.html">Hasselblad X1D</a> is technically a Medium Format camera because it has a sensor that’s larger than Full Frame but the truth is that, at 44 x 33 mm, it’s still very much on the small side of Medium Format. This means the image quality gains over Full Frame, while significant, will not be overwhelming.</p>
 
@@ -380,9 +380,9 @@
 <p></article>
 <article id="low-light" style="margin-bottom:50px;">
     <div class="heading-icon">
-        <figure>
+        <div class='bogus-wrapper'><notextile><figure>
             <img class="icon" src="https://c1.staticflickr.com/1/67/31663923925_9d6a6c15ca_o.png"/>
-        </figure>
+        </figure></notextile></div>
         <h1>Best Low Light Camera: The Sony a7S Mark II</h1>
     </div></p>
 
@@ -396,9 +396,9 @@
 
 <p>With that in mind, the best camera for low light shooting is the <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B0158SRJVQ&amp;uk=B015XT4TGS&amp;es=B015XT4TGS">Sony a7S Mark II</a>.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c3.staticflickr.com/1/332/31725686226_85a1fcdaa6_o.jpg" width="450"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>While most modern cameras have a maximum usable ISO of 6,400 or thereabouts, you can still get perfectly usable images with the Sony a7S II at ISO 25,600 or even higher, depending on your tolerance for noise. This sort of high-ISO performance is just ridiculous, and miles ahead every other camera out there.</p>
 
@@ -435,9 +435,9 @@
 
 <p><article id="editors-choice" style="margin-bottom: 50px;">
     <div class="heading-icon">
-        <figure>
+        <div class='bogus-wrapper'><notextile><figure>
             <img class="icon" src="https://c1.staticflickr.com/1/59/31548056401_94a5ce3156_o.png"/>
-        </figure>
+        </figure></notextile></div>
         <h1>Editor’s Choice Award 2016: The Fuji X-T2</h1>
     </div></p>
 
@@ -447,9 +447,9 @@
 
 <p>Fuji cameras are different, and the <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01I3LNMAM&amp;uk=B01I5LE51A&amp;es=B01I5LE51A">X-T2</a> is no exception. You can tell by details such as the perfect placement of dials and buttons, and the dedicated aperture rings on most lenses. The Fuji X-Series system is designed by photographers, for photographers, and it shows.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c6.staticflickr.com/1/501/31763114485_37133a905f_o.jpg" width="512"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Using the X-T2 is a two-hands operation, as it should be. Once you get used to this workflow, it’s easy to notice the benefits: every essential parameter — including aperture, shutter speed, and ISO — is available right at your fingertips via dedicated hardware controls. Simple. Of course, you can still set everything to Auto and fire away without a care in the world, but if you’ve made it this far into this guide, something tells me you care a bit more about photography.</p>
 
@@ -457,9 +457,9 @@
 
 <p>Then there’s the matter of Fuji’s gorgeous film emulations, including the new Acros. These manage to replicate the feel of some of Fuji’s iconic film stocks with a modern twist, and the results are fantastic. It’s easy to overlook this feature as gimmicky, but being able to share images that look finished straight out of camera is a huge benefit in many situations.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://c2.staticflickr.com/9/8130/30234487201_b82cded0e3_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>That being said, the Fuji X-T2 is not only about character; it is a technological marvel in its own right. It has a class-leading 24-Megapixel X-Trans III sensor and a state-of-the-art AF system. It also has a rugged, weather-sealed body, dual SD-card slots, and a top-shelf EVF. In terms of specs and features, it is very much a modern camera, but it’s also so much more than that.</p>
 
@@ -480,9 +480,9 @@
 
 <p>The X-T2 goes for a standard SLR-like look, including a viewfinder hump. It also has an electronic viewfinder and a tilting LCD screen, like most mirrorless cameras these days. The X-Pro 2, on the other hand, is rangefinder-style camera and has a fixed LCD screen and a hybrid viewfinder — optical and electronic — that makes shooting with it an entirely different experience.</p>
 
-<p><figure>
+<p><div class='bogus-wrapper'><notextile><figure>
     <img src="https://c3.staticflickr.com/1/560/31725683546_5dc6b9a085_o.jpg" width="512"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>People who love classic rangefinder cameras will fall head over heels for the X-Pro 2. It really is a super fun camera to shoot with. If you’re coming from an SLR-like camera, shooting with a rangefinder takes some getting used to, but it’s actually very simple. The main advantage is that you’re always seeing the entire scene, not just the part of it that is captured by the field of view of your lens. This allows you to anticipate subject movement and compose your shots a lot more easily.</p>
 
@@ -585,18 +585,18 @@
 <p>In fact, the GFX has the potential to be the camera that turns Medium Format digital photography into a feasible option for a wider range of professional photographers, not just those operating in extremely high-end, niche areas. It’s exciting.</p>
 
 <p><section class="photoset">
-    <figure class="full-width">
+    <div class='bogus-wrapper'><notextile><figure class="full-width">
         <a class="fancybox" rel="X-T2_1" href="https://c7.staticflickr.com/9/8272/29690108734_5149425293_o.jpg"><img src="https://c7.staticflickr.com/9/8272/29690108734_5149425293_o.jpg" alt="" /></a>
-    </figure>
-    <figure class="sidebyside">
+    </figure></notextile></div>
+    <div class='bogus-wrapper'><notextile><figure class="sidebyside">
         <div class="stretchy-wrapper" style="padding-bottom:33%">
             <a class="fancybox" rel="X-T2_1" href="https://c6.staticflickr.com/6/5466/29689926773_e1aa244b58_o.jpg"><img src="https://c6.staticflickr.com/6/5466/29689926773_e1aa244b58_o.jpg" alt="" /></a>
             <a class="fancybox" rel="X-T2_1" href="https://c6.staticflickr.com/9/8273/30234544261_1f42d4248b_o.jpg"><img src="https://c6.staticflickr.com/9/8273/30234544261_1f42d4248b_o.jpg" alt="" /></a>
         </div>
-    </figure>
-    <figure class="full-width">
+    </figure></notextile></div>
+    <div class='bogus-wrapper'><notextile><figure class="full-width">
         <a class="fancybox" rel="X-T2_1" href="https://c5.staticflickr.com/8/7582/29690114244_9b41b4003f_o.jpg"><img src="https://c5.staticflickr.com/8/7582/29690114244_9b41b4003f_o.jpg" alt="" /></a>
-    </figure>
+    </figure></notextile></div>
 </section></p>
 
 <p>However the situation plays out, Medium Format mirrorless systems appear to be here to stay. For now, both Hasselblad’s and Fujifilm’s offerings have their fair share of strengths and weaknesses, so we’ll see which one resonates more with prospective customers. The game is most definitely on.</p>
@@ -607,16 +607,16 @@
 <p>Now, Fuji may have captured the attention of many eyeballs at Photokina with the GFX, but the real star of their hands-on area was, of course, <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01I3LNMAM&amp;uk=B01I5LE51A&amp;es=B01I5LE51A">the recently announced X-T2</a>. As the new flagship of Fuji’s widely acclaimed X-series system, the X-T2 fixes many of the shortcomings of <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B00HYAL88W&amp;uk=B00I3I2D9W&amp;es=B00I3I2D9W">the original X-T1</a> while staying true to its essence. I had a chance to shoot with it for a while, as well as to chat about it at length with Fujifilm employee <a href="https://www.instagram.com/fauland.photography/">Peter Fauland</a>, and I have to say I came away very impressed. If you want to listen to my conversation with Peter, check out <a href="http://www.candid.fm/30">this special episode of Candid</a>, which was recorded on location at Photokina. And now, let’s take a closer look at the camera.</p>
 
 <p><section class="photoset">
-    <figure class="full-width">
+    <div class='bogus-wrapper'><notextile><figure class="full-width">
         <a class="fancybox" rel="X-T2_2" href="https://c8.staticflickr.com/9/8662/30234504831_bdbc0700e4_o.jpg"><img src="https://c8.staticflickr.com/9/8662/30234504831_bdbc0700e4_o.jpg" alt="" /></a>
-    </figure>
-    <figure class="sidebyside">
+    </figure></notextile></div>
+    <div class='bogus-wrapper'><notextile><figure class="sidebyside">
         <div class="stretchy-wrapper" style="padding-bottom:56.55%">
             <a class="fancybox" rel="X-T2_2" href="https://c7.staticflickr.com/9/8136/30204543902_7bbd1659bb_o.jpg"><img src="https://c7.staticflickr.com/9/8136/30204543902_7bbd1659bb_o.jpg" alt="" /></a>
             <a class="fancybox" rel="X-T2_2" href="https://c7.staticflickr.com/9/8277/30285517886_0bf1a4471f_o.jpg"><img src="https://c7.staticflickr.com/9/8277/30285517886_0bf1a4471f_o.jpg" alt="" /></a>
         </div>
         <p class="caption">Fujifilm employee <a href="https://www.instagram.com/fauland.photography/">Peter Fauland</a> was kind enough to show me <a href="http://amznlinks.com/global?user=analogsenses&amp;us=B01I3LNMAM&amp;uk=B01I5LE51A&amp;es=B01I5LE51A">the new Fuji X-T2</a> and helped me test some of its new features.</p>
-    </figure>
+    </figure></notextile></div>
 </section></p>
 
 <h2>Design and build quality</h2>
@@ -630,21 +630,21 @@
 <p>None of these differences are profound, or game-changing, but they didn’t need to be. The X-T1 was already an excellent body, and subtle improvements like these will make using the X-T2 even better.</p>
 
 <p><section class="photoset">
-    <figure class="full-width">
+    <div class='bogus-wrapper'><notextile><figure class="full-width">
         <a class="fancybox" rel="X-T2_3" href="https://c2.staticflickr.com/9/8130/30234487201_b82cded0e3_o.jpg"><img src="https://c2.staticflickr.com/9/8130/30234487201_b82cded0e3_o.jpg" alt="" /></a>
-    </figure>
-    <figure class="sidebyside">
+    </figure></notextile></div>
+    <div class='bogus-wrapper'><notextile><figure class="sidebyside">
         <div class="stretchy-wrapper" style="padding-bottom:43.93%">
             <a class="fancybox" rel="X-T2_3" href="https://c8.staticflickr.com/8/7531/30234495871_66b484027f_o.jpg"><img src="https://c8.staticflickr.com/8/7531/30234495871_66b484027f_o.jpg" alt="" /></a>
             <a class="fancybox" rel="X-T2_3" href="https://c1.staticflickr.com/6/5648/30023650240_3e5ff82c61_o.jpg"><img src="https://c1.staticflickr.com/6/5648/30023650240_3e5ff82c61_o.jpg" alt="" /></a>
         </div>
-    </figure>
-    <figure class="sidebyside">
+    </figure></notextile></div>
+    <div class='bogus-wrapper'><notextile><figure class="sidebyside">
         <div class="stretchy-wrapper" style="padding-bottom:43.93%">
             <a class="fancybox" rel="X-T2_3" href="https://c3.staticflickr.com/8/7461/29690079914_f3aeaa3649_o.jpg"><img src="https://c3.staticflickr.com/8/7461/29690079914_f3aeaa3649_o.jpg" alt="" /></a>
             <a class="fancybox" rel="X-T2_3" href="https://c5.staticflickr.com/6/5692/29690069884_864f205fdb_o.jpg"><img src="https://c5.staticflickr.com/6/5692/29690069884_864f205fdb_o.jpg" alt="" /></a>
         </div>
-    </figure>
+    </figure></notextile></div>
 </section></p>
 
 <h2>Image quality and performance</h2>
@@ -658,22 +658,22 @@
 <p>For reference, here’s a few image samples I shot with the X-T2 at Photokina. All of these were shot as JPEGs and have only been cropped and resized. No further edits were applied.</p>
 
 <p><section class="photoset">
-    <figure class="sidebyside">
+    <div class='bogus-wrapper'><notextile><figure class="sidebyside">
         <div class="stretchy-wrapper" style="padding-bottom:45.66%">
             <a class="fancybox" rel="X-T2_4" href="https://c2.staticflickr.com/9/8274/30320259865_f068a346e2_o.jpg"><img src="https://c2.staticflickr.com/9/8274/30320259865_f068a346e2_o.jpg" alt="" /></a>
             <a class="fancybox" rel="X-T2_4" href="https://c7.staticflickr.com/6/5764/30285353686_1f75e5075a_o.jpg"><img src="https://c7.staticflickr.com/6/5764/30285353686_1f75e5075a_o.jpg" alt="" /></a>
         </div>
-    </figure>
-    <figure class="sidebyside">
+    </figure></notextile></div>
+    <div class='bogus-wrapper'><notextile><figure class="sidebyside">
         <div class="stretchy-wrapper" style="padding-bottom:45.66%">
             <a class="fancybox" rel="X-T2_4" href="https://c3.staticflickr.com/6/5497/30204382602_d57421178e_o.jpg"><img src="https://c3.staticflickr.com/6/5497/30204382602_d57421178e_o.jpg" alt="" /></a>
             <a class="fancybox" rel="X-T2_4" href="https://c2.staticflickr.com/9/8418/29689736713_f70919cae4_o.jpg"><img src="https://c2.staticflickr.com/9/8418/29689736713_f70919cae4_o.jpg" alt="" /></a>
         </div>
-    </figure>
-    <figure class="full-width">
+    </figure></notextile></div>
+    <div class='bogus-wrapper'><notextile><figure class="full-width">
         <a class="fancybox" rel="X-T2_4" href="hhttps://c2.staticflickr.com/6/5752/30320276625_904e22543b_o.jpg"><img src="https://c2.staticflickr.com/6/5752/30320276625_904e22543b_o.jpg" alt="" /></a>
         <p class="caption">The camera usually does a great job of setting the white balance, but it may fail in challenging lighting conditions. Notice the obvious yellow cast in the image above.</p>
-    </figure>
+    </figure></notextile></div>
 </section></p>
 
 <p>As far as performance goes, the X-T2 is a two-part story. First there’s the body, which is capable of shooting at up to 8 fps with full AF capabilities. That’s not bad at all, but things get even more interesting when you attach the X-T2’s power boosting grip.</p>
@@ -685,18 +685,18 @@
 <p>As far as I could tell during my brief testing, each of the new modes definitely changes the way the camera tracks motion, so this new AF system isn’t just a gimmick. The problem is, there’s a bit of a learning curve here, and it’s not always easy to know which mode is best suited to the task at hand despite the descriptive images. It took Peter and I over 15 minutes to get acceptable results in our two very simple test setups: sliding a water bottle in and out of view at moderate speed, with smooth left-to-right and back-to-front movements. We did get a fair amount of out of focus shots initially, but once we managed to find the appropriate mode for each case, tracking worked great. I would also expect the system to work better with people, especially faces. After all, a water bottle isn’t exactly the most exciting subject to track.</p>
 
 <p><section class="photoset">
-    <figure class="sidebyside">
+    <div class='bogus-wrapper'><notextile><figure class="sidebyside">
         <div class="stretchy-wrapper" style="padding-bottom:45.66%">
             <a class="fancybox" rel="X-T2_5" href="https://c6.staticflickr.com/6/5713/30320270765_4df0dded30_o.jpg"><img src="https://c6.staticflickr.com/6/5713/30320270765_4df0dded30_o.jpg" alt="" /></a>
             <a class="fancybox" rel="X-T2_5" href="https://c6.staticflickr.com/6/5488/29689750653_022ab112a4_o.jpg"><img src="https://c6.staticflickr.com/6/5488/29689750653_022ab112a4_o.jpg" alt="" /></a>
         </div>
-    </figure>
-    <figure class="sidebyside">
+    </figure></notextile></div>
+    <div class='bogus-wrapper'><notextile><figure class="sidebyside">
         <div class="stretchy-wrapper" style="padding-bottom:45.49%">
             <a class="fancybox" rel="X-T2_5" href="https://c3.staticflickr.com/6/5587/30204381082_c59811951f_o.jpg"><img src="https://c3.staticflickr.com/6/5587/30204381082_c59811951f_o.jpg" alt="" /></a>
             <a class="fancybox" rel="X-T2_5" href="https://c3.staticflickr.com/6/5698/30204378322_d83d086db5_o.jpg"><img src="https://c3.staticflickr.com/6/5698/30204378322_d83d086db5_o.jpg" alt="" /></a>
         </div>
-    </figure>
+    </figure></notextile></div>
 </section></p>
 
 <p>The point here is that the new AF tracking modes are a clear improvement, and they should bring the X-T2 to the front of the mirrorless pack when it comes to fast action shooting. They should also make it at least competitive with DSLRs, although to be fair, there’s still a bit of a gap here. It’s getting closer and closer with each new mirrorless generation, but for now, if shooting sports or similarly fast-paced action is your bread and butter, a high-end crop DSLR still looks like the best tool for the job. For those of us with more modest needs — just about everyone outside of professional sports shooters — the X-T2 should be more than enough to get the job done.</p>

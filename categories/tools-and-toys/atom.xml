@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tools & toys | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tools-and-toys/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2016-12-21T18:31:20+01:00</updated>
+  <updated>2016-12-21T18:52:22+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -22,9 +22,9 @@
 
 <p>If you’ve never heard of the Alhambra, trust me when I tell you it is one of the most magical places on Earth. Or better yet, head on over to <em>Tools &amp; Toys</em> and <a href="http://toolsandtoys.net/photo-essays/the-alhambra/">see for yourself</a>.</p>
 
-<p><figure class="panorama">
+<p><div class='bogus-wrapper'><notextile><figure class="panorama">
 <img src="https://c7.staticflickr.com/6/5750/31406887006_70442ea85e_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 ]]></content>
   </entry>
   
