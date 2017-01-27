@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2017-01-19T14:05:04+01:00</updated>
+  <updated>2017-01-27T19:02:43+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #40: Medium Format—The Bigger Picture →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/40"/>
+	
+    <updated>2017-01-27T19:01:23+01:00</updated>
+  	<id>http://www.analogsenses.com/2017/01/27/candid-episode-number-40-medium-format-the-bigger-picture</id>
+  	
+  	<content type="html"><![CDATA[<p>Leica and Fuji have both announced new products, including a competitively priced medium format system, the GFX. We take this opportunity to talk about Medium Format as a whole, and who might be most tempted to make the leap.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2017/01/27/candid-episode-number-40-medium-format-the-bigger-picture/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[Candid, Episode #39: Everything Old is New Again... Except Lightroom →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1179,19 +1192,6 @@
   	
   	<content type="html"><![CDATA[<p>The third episode in our Photokina week coverage includes our first impressions of Fuji’s announcements, including a brand new medium format system, my hands-on impressions of the X-T2, and two very special interviews!</p>
 <a rel="full-article" href="http://www.analogsenses.com/2016/09/24/candid-at-photokina-part-3-fuji/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[The Manfrotto PIXI and PIXI Evo mini-tripod collections →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://toolsandtoys.net/the-manfrotto-pixi-and-pixi-evo-mini-tripod-collections/"/>
-	
-    <updated>2016-09-24T12:23:14+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/09/24/the-manfrotto-pixi-and-pixi-evo-mini-tripod-collections</id>
-  	
-  	<content type="html"><![CDATA[<p>Yesterday I stopped by the Manfrotto stand at Photokina and I spent a while playing with their PIXI and PIXI Evo lines of mini-tripods. These are incredibly clever and useful devices to have with you, and they will definitely earn a place in your bag. Head on over to <em>Tools &amp; Toys</em> for more information.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/09/24/the-manfrotto-pixi-and-pixi-evo-mini-tripod-collections/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
