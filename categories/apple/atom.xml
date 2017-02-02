@@ -4,7 +4,7 @@
   <title><![CDATA[Category: apple | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/apple/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2017-01-27T19:02:43+01:00</updated>
+  <updated>2017-02-02T21:53:46+01:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[On the future of computing]]></title>
+    <link href="http://www.analogsenses.com/2017/02/02/on-the-future-of-computing/"/>
+    <updated>2017-02-02T21:51:48+01:00</updated>
+    <id>http://www.analogsenses.com/2017/02/02/on-the-future-of-computing</id>
+    <content type="html"><![CDATA[<p>Earlier this week Apple published their latest <a href="http://www.macworld.com/article/3163463/macs/apples-q1-2017-records-for-the-iphone-and-services-but-the-ipad-still-struggles.html">quarterly results</a>, including record revenue and iPhone sales. Meanwhile, though, iPad sales were once again down year-over-year, in a trend that’s starting to get too long to ignore.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>I’ve been thinking a fair bit about the future of the iPad lately. <a href="https://marco.org/2017/01/31/the-wrong-future">This recent article</a> by Marco Arment does a good job of summarizing how I feel about it:</p>
+
+<blockquote><p>What if the iPad <em>isn’t</em> the future of computing?</p>
+
+<p>What if, like so much in technology, it’s mostly just additive, rather than largely replacing PCs and Macs, and furthermore had a cooling-fad effect as initial enthusiasm wore off and customers came to this conclusion?</p></blockquote>
+
+<p>That sounds about right to me. I’ve owned an iPad ever since the iPad 2 was released in early 2011, almost six years ago. Since then, I’ve also owned an iPad 3 — the first iPad with a Retina screen, which was absolutely <em>gorgeous</em> — and now an iPad Air (first generation), which is the newest computing device in my house aside from my iPhone 6S. It’s <em>way</em> more modern than both my 2008 iMac and my 2010 MacBook Pro, and still runs pretty much as fast as it did when I bought it.</p>
+
+<p>I’ve used and loved every one of my iPads, but a few months ago I started noticing a worrying trend. It doesn’t feel like it, but the truth is I haven’t regularly used my iPad Air in a very long time. So long in fact, that the last couple of times I reached out for it I discovered it was out of battery. And these things take a <em>long</em> time to discharge.</p>
+
+<p>If I try to remember the last time I was amazed by an iPad app, I draw a blank. I just can’t seem to find a use case for it. When I’m on the couch I prefer to use the MacBook, and when I’m at my desk I’d much rather use the iMac. The rest of the time, well, that’s what the iPhone is for.</p>
+
+<p>Pretty much everything I do on a computing device is easier to do or just plain <em>better</em> to do on either one of my Macs than it is on the iPad, and I can’t find anything in my workflow that can <em>only</em> be done on the iPad. Figuring out the right workflow and combination of apps to accomplish fairly trivial tasks seems like an awful lot of work most of the time, and at some point I guess I simply stopped trying. Plus, to be fair, I <em>love</em> the Mac. I always have, and I’m not looking to replace mine anytime soon.</p>
+
+<p>Your mileage may of course vary, but at the end of the day, I believe that’s the problem for me: I just <em>prefer</em> the Mac platform, and it’s going to take more than feature parity for the iPad to eclipse that.</p>
+
+<p>I suppose it could just be that I’m too set in my own ways to appreciate the wonders of the iPad. I’m well aware I’m not your typical consumer, but what if I’m not in the minority here? What if most people, regular consumers included, feel the same way?</p>
+
+<h2>Skating to where the puck is going to be</h2>
+
+<p>If the iPad is to be the future of computing, it doesn’t just need to be able to do the same things we do on a Mac today, it needs to unlock entirely new ideas and tasks that we never even thought to attempt on the Mac. That’s the path forward, and it’s all about the software.</p>
+
+<p>I don’t think there’s anyone left out there complaining that their iPads are not fast enough these days, or that battery life isn’t good enough. Similarly, screens are gorgeous, storage is ample, and wireless connectivity is better than ever. By all accounts, the iPad is a mature product line hardware-wise, and yet it is still very much in its infancy when it comes to software.</p>
+
+<p>The early days of iOS on the iPad were extremely promising, as the larger canvas enabled third party developers to come up with lots of really innovative ideas. However, somewhere along the way development of iPad-specific features in iOS seemed to stall and it never meaningfully picked up again, leaving many of those developers hamstrung by the limitations of the OS.</p>
+
+<p>What does a mature and advanced OS for the iPad look like? I have no idea, but I can’t help but feel there’s still a lot of untapped potential for it. There has to be.</p>
+
+<p>There’s a problem, though. In order to move the needle, Apple will probably need to increase the resources they’re putting into the development of iPad-specific — or even iPad-only — iOS features, and as of today, iPad sales numbers don’t seem to warrant that. It’s a bit of a catch-22: sales probably won’t pick up until Apple makes substantial improvements to iOS, but Apple can’t reasonably justify investing resources to make those improvements because current sales numbers are not only poor, they’re actually getting worse.</p>
+
+<p>How to break the cycle, then? Enter Tim Cook.</p>
+
+<p>For more than a few quarters now, Tim Cook has used the term “bullish” to describe his attitude towards the future of the iPad. This is a long-term game, and Cook appears to be convinced that the iPad has what it takes to bring about the next massive shift in computing for the masses. It’s a noble goal, and if there’s a company out there with the right corporate DNA to pull it off, it’s certainly Apple.</p>
+
+<p>So far, it’s clear that Tim Cook plans to continue to invest in the iPad. But in the absence of strong sales, how long can he keep it up?</p>
+
+<p>Look to WWDC in June for the first signs of change. If iOS 11 brings substantial new features for the iPad, it could very well signal the beginning of a historic turnaround. However, if Apple continues to neglect the iPad to focus on the — admittedly <em>much</em> more profitable — iPhone, we may have to start looking for the future elsewhere.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Header image courtesy of <a href="http://unsplash.com/mariusmasalar">Marius Masalar</a>.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Not to be dramatic, or anything. The future of computing will happen anyway, who cares what it looks like as long as it’s <em>better</em>?<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A review of the 15-inch MacBook Pro with Touch Bar]]></title>
@@ -95,21 +152,6 @@
     <updated>2016-06-08T20:29:43+02:00</updated>
     <id>http://www.analogsenses.com/2016/06/08/the-new-app-store-subscription-pricing-faster-approvals-and-search-ads</id>
     <content type="html"><![CDATA[<p>Plenty of big changes are coming to the App Store. This is great news for indie developers.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tim Cook challenges US government’s request to build iPhone backdoor in public letter to customers]]></title>
-    <link href="http://www.analogsenses.com/2016/02/17/tim-cook-challenges-us-governments-request-to-build-iphone-backdoor-in-public-letter-to-customers/"/>
-    <updated>2016-02-17T13:53:32+01:00</updated>
-    <id>http://www.analogsenses.com/2016/02/17/tim-cook-challenges-us-governments-request-to-build-iphone-backdoor-in-public-letter-to-customers</id>
-    <content type="html"><![CDATA[<p>Yesterday Tim Cook published a public letter to customers on Apple’s website, wherein he explains why Apple is challenging a request by the US government to build a backdoor into the iPhone:</p>
-
-<blockquote><p>The implications of the government’s demands are chilling. If the government can use the All Writs Act to make it easier to unlock your iPhone, it would have the power to reach into anyone’s device to capture their data. The government could extend this breach of privacy and demand that Apple build surveillance software to intercept your messages, access your health records or financial data, track your location, or even access your phone’s microphone or camera without your knowledge.</p>
-
-<p>Opposing this order is not something we take lightly. We feel we must speak up in the face of what we see as an overreach by the U.S. government.</p></blockquote>
-
-<p>I have the utmost respect for Cook for standing up to the US government’s unreasonable and outrageous request. This is a hugely important issue: he’s fighting to protect our right to privacy, and he seems to be the only one with power in the tech industry who cares enough to do it.</p>
 ]]></content>
   </entry>
   
