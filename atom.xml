@@ -3,7 +3,7 @@
   <title><![CDATA[Analog Senses]]></title>
   <link href="http://www.analogsenses.com/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2017-03-28T21:34:08+02:00</updated>
+  <updated>2017-04-02T22:51:57+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -11,6 +11,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
   
+  <entry>
+  
+	<title type="html"><![CDATA[Candid, Episode #43: Street Photography →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
+	<link href="http://www.candid.fm/43"/>
+	
+    <updated>2017-04-02T22:49:37+02:00</updated>
+  	<id>http://www.analogsenses.com/2017/04/02/candid-episode-number-43-street-photography</id>
+  	
+  	<content type="html"><![CDATA[<p>This week on the podcast, Marius and I catch up on a bit of news before diving into the wonderful world of street photography: what it is, how to approach it (including getting over the fear of starting), and some of our favorite tools &amp; techniques.</p>
+<a rel="full-article" href="http://www.analogsenses.com/2017/04/02/candid-episode-number-43-street-photography/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
+	
+  </entry>
+
   <entry>
   
 	<title type="html"><![CDATA[The Sony Zeiss Distagon T* FE 35mm f/1.4 lens review →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
@@ -1089,19 +1102,6 @@
     <a href="http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A"><img src="https://c4.staticflickr.com/6/5488/30351393771_bc9d8226b2_o.jpg"/></a>
 </section></p>
 ]]></content>
-	
-  </entry>
-
-  <entry>
-  
-	<title type="html"><![CDATA[Candid, Episode #32: Unfamiliar Bedfellows →]]></title><!-- add in a glyph or [link-post] here so people know where they're ending up -->
-	<link href="http://www.candid.fm/32"/>
-	
-    <updated>2016-10-14T18:30:50+02:00</updated>
-  	<id>http://www.analogsenses.com/2016/10/14/candid-episode-number-32-unfamiliar-bedfellows</id>
-  	
-  	<content type="html"><![CDATA[<p>After a quick recap of our Photokina reactions, we talk about Sony’s new a6500 camera, as well as Marius’ new PEN pal. We also examine how Fuji and Olympus are gaining confidence in their products, the threat of mobile technology, and how well the Fuji X-T2’s C-AF tracking works.</p>
-<a rel="full-article" href="http://www.analogsenses.com/2016/10/14/candid-episode-number-32-unfamiliar-bedfellows/">∞</a>]]></content><!-- add in a glyph or some way to denote that the permalink goes back to your site -->
 	
   </entry>
 
