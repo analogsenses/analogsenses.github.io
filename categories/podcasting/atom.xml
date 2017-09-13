@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: podcasting | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/podcasting/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2017-08-25T00:08:15+02:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, Episode #50 (-1): Live from Toronto!]]></title>
+    <link href="http://www.analogsenses.com/2017/08/19/candid-episode-number-50-1-live-from-toronto/"/>
+    <updated>2017-08-19T00:01:40+02:00</updated>
+    <id>http://www.analogsenses.com/2017/08/19/candid-episode-number-50-1-live-from-toronto</id>
+    <content type="html"><![CDATA[<p>Meeting in person for the first time ever, the team converges on Toronto for a live episode! Hijinks ensue as we discover new camera systems, new mediums, and how to properly pronounce my name.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Candid Conversations: Olympus´ Yannick Michaud]]></title>
+    <link href="http://www.analogsenses.com/2017/08/07/candid-conversations-olympus'-yannick-michaud/"/>
+    <updated>2017-08-07T00:01:13+02:00</updated>
+    <id>http://www.analogsenses.com/2017/08/07/candid-conversations-olympus&#8217;-yannick-michaud</id>
+    <content type="html"><![CDATA[<p>Marius and I sit down with special guest Yannick Michaud from Olympus to talk about the company’s past, present, and future.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, Episode #47: Two Canadians and a Spaniard walk into a bar...]]></title>
+    <link href="http://www.analogsenses.com/2017/07/25/candid-episode-number-47-two-canadians-and-a-spaniard-walk-into-a-bar-dot-dot-dot/"/>
+    <updated>2017-07-25T00:00:48+02:00</updated>
+    <id>http://www.analogsenses.com/2017/07/25/candid-episode-number-47-two-canadians-and-a-spaniard-walk-into-a-bar-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>All three hosts are back on the air to make a very special announcement… and to hear all about Marius’ adventure in Romania with the Fujifilm GFX!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Candid Conversations: Panasonic´s Trisha Gillings]]></title>
+    <link href="http://www.analogsenses.com/2017/06/26/candid-conversations-panasonic's-trisha-gillings/"/>
+    <updated>2017-06-26T00:00:15+02:00</updated>
+    <id>http://www.analogsenses.com/2017/06/26/candid-conversations-panasonic&#8217;s-trisha-gillings</id>
+    <content type="html"><![CDATA[<p>Marius and I are joined by Panasonic’s Canadian Product Manager for Imaging, Trisha Gillings. Conversation ranges from the interesting relationships at the heart of the Micro Four-Thirds consortium to some behind the scenes insight into how the latest Panasonic products came to be!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, Episode #45: Canons, Macs, and the iPad Pro]]></title>
+    <link href="http://www.analogsenses.com/2017/06/08/candid-episode-number-45-canons-macs-and-the-ipad-pro/"/>
+    <updated>2017-06-08T17:00:41+02:00</updated>
+    <id>http://www.analogsenses.com/2017/06/08/candid-episode-number-45-canons-macs-and-the-ipad-pro</id>
+    <content type="html"><![CDATA[<p>Marius and I return to discuss Marius’ weekend with a Canon 5D Mark IV. Then it’s time to unpack Apple’s WWDC announcements as they pertain to photography, with a special iPad Pro segment featuring friend-of-the-show Thomas Wong.</p>
+]]></content>
+  </entry>
+  
+</feed>
