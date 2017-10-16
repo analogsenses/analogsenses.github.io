@@ -4,7 +4,7 @@
   <title><![CDATA[Category: photography | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/photography/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2017-09-13T21:42:05+02:00</updated>
+  <updated>2017-10-16T22:02:42+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -12,6 +12,140 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How the Canon G1 X Mark III came to be: the secret story]]></title>
+    <link href="http://www.analogsenses.com/2017/10/16/the-secret-story-behind-canons-g1-x-mark-iii/"/>
+    <updated>2017-10-16T20:04:58+02:00</updated>
+    <id>http://www.analogsenses.com/2017/10/16/the-secret-story-behind-canons-g1-x-mark-iii</id>
+    <content type="html"><![CDATA[<p>You’ve probably already heard but, earlier today, Canon <a href="https://www.usa.canon.com/internet/portal/us/home/about/newsroom/press-releases/press-release-details/2017/20171016-Powershot/20171016-Powershot">announced</a> their new PowerShot G1 X Mark III, their first compact camera with an APS-C sensor.</p>
+
+<p>What you may not have heard, however, is how this unlikely camera came to be. It’s a very interesting story, and there are some important lessons to be learned here. That’s why I’ve decided to come forward and publish this article, even at the risk of burning a very well-placed source inside Canon USA. I’m sorry but I can’t stay silent; people need to know about this.</p>
+
+<p>According to my source, exactly six months ago there was a very important executive meeting at One Canon Park, the company’s operational headquarters in Melville, NY. All the top brass from both Canon USA and Canon Japan were there, and the urgency of the meeting had been expressed in no uncertain terms. What follows is a word-for-word transcript of that meeting as recorded by my source, who personally attended it. I’ve merely redacted the real names of the people involved in order to preserve their privacy.</p>
+
+<p class="card-separator">♢</p>
+
+
+<p><strong>EXECUTIVE 1:</strong> “Ladies and gentlemen, we have a very serious situation. It’s recently come to our attention that a majority of customers don’t perceive Canon as an innovative company anymore. Now, according to our internal figures, C-Sat is still pretty good across the board for high-end products like the 5D Mark IV, but we can’t ignore the fact that those numbers are somewhat skewed by our long-term customers, whose loyalty remains strong. And let’s be honest, we can’t depend on those customers forever. Furthermore, we’re taking a huge beating in the mirrorless segment, where our latest products have gotten generally lukewarm reviews, to put it mildly. Obviously, we can’t have that. We need to rectify this ASAP, which is why we’re all here today. Any ideas?”</p>
+
+<p><strong>SENIOR PRODUCT ENGINEER:</strong> <strong>[raises hand nervously]</strong> “I, uhm, I have one.”</p>
+
+<p><strong>E1:</strong> “Really? You again, Bob? Is this going to be like that time you suggested we put IBIS in the 5D? Because I ain’t got time for that shit.”</p>
+
+<p><strong>BOB:</strong> “No, sir. This is different, I promise.”</p>
+
+<p><strong>E1:</strong> “OK. Let’s hear it.”</p>
+
+<p><strong>BOB:</strong> “Well, who’s more innovative than us?”</p>
+
+<p><strong>E1:</strong> “Everyone. Haven’t you been paying attention? That’s why we’re in this goddamned meeting.”</p>
+
+<p><strong>BOB:</strong> “Yes, but who’s being successful with a product we can easily copy?”</p>
+
+<p><strong>E1:</strong> <strong>[sighs in frustration]</strong> “I don’t know, Bob. Why don’t you tell us?”</p>
+
+<p><strong>BOB:</strong> “Fuji.”</p>
+
+<p><strong>E1:</strong> “Seriously? Fuji? Those fuckers can’t even spell “mirror”, and you’re telling me we should copy <em>them</em>?”</p>
+
+<p><strong>BOB:</strong> ”Be that as it may, they’re having a lot of success with the X100F. It’s crazy popular, basically backordered everywhere. More importantly, people are <em>loving</em> it. We should do one just like it.”</p>
+
+<p><strong>E1:</strong> “Keep going&hellip;”</p>
+
+<p><strong>BOB:</strong> “Well, it’s a  simple concept, really. It’s like a compact camera but it has a big sensor inside.”</p>
+
+<p><strong>E1:</strong> “How big?”</p>
+
+<p><strong>BOB:</strong> “APS-C.”</p>
+
+<p><strong>E1:</strong> “APS-C, huh? Couldn’t we just slap on one of the sensors we’re already using? Like the one on the 80D?”</p>
+
+<p><strong>BOB:</strong> “Pretty much.”</p>
+
+<p><strong>E1:</strong> “Interesting&hellip; I like it. Alright, it’s settled, then! We’re doing one of those.”</p>
+
+<p><strong>BOB:</strong> “There’s just one problem.”</p>
+
+<p><strong>E1:</strong> <strong>[sighs again]</strong> “Of course there is. What is it, now?”</p>
+
+<p><strong>BOB:</strong> “The X100F is a hipster camera.”</p>
+
+<p><strong>E1:</strong> “What the hell is a hipster camera?”</p>
+
+<p><strong>BOB:</strong> “Well, it’s a rangefinder and it has a fixed lens.”</p>
+
+<p><strong>E1:</strong> “What do you mean, a fixed lens?”</p>
+
+<p><strong>BOB:</strong> “You can’t zoom with it.”</p>
+
+<p><strong>E1:</strong> “WHAT?? You can’t zoom? And people are still buying it? Why in god’s name would anyone buy something like that?”</p>
+
+<p><strong>BOB:</strong> “Beats the hell out of me.”</p>
+
+<p><strong>E1:</strong> “Never mind. I know what we’re going to do. We’ll make a camera just like that, but none of that rangefinder crap. We’ll put a good ol’ fashioned viewfinder inside, and we’ll put a goddamned zoom in, too. It’ll be great. People will go nuts.”</p>
+
+<p><strong>BOB:</strong> “Yes, sir. Do you want the viewfinder to be optical or electronic?”</p>
+
+<p><strong>E1:</strong> “What does the Fuji have?”</p>
+
+<p><strong>BOB:</strong> “Both.”</p>
+
+<p><strong>E1:</strong> “Alright. Let’s do both, then.”</p>
+
+<p><strong>BOB:</strong> “We can’t.”</p>
+
+<p><strong>E1:</strong> “Why not?”</p>
+
+<p><strong>BOB:</strong> “Because it would have to be a rangefinder.”</p>
+
+<p><strong>E1:</strong> “Son of a bitch.”</p>
+
+<p><strong>BOB:</strong> “We can do a tilting screen, though!”</p>
+
+<p><strong>E1:</strong> “Does the Fuji have that?”</p>
+
+<p><strong>BOB:</strong> “No, it doesn’t.”</p>
+
+<p><strong>E1:</strong> “Then you bet your ass we’re doing a tilting screen.”</p>
+
+<p><strong>BOB:</strong> “Should we make it a touchscreen, too?”</p>
+
+<p><strong>E1:</strong> <strong>[sighs again, nervously tapping on desk]</strong> “Bob, we’ve been over this. Touchscreens are for amateurs. Is Canon an amateur brand?”</p>
+
+<p><strong>BOB:</strong> “Uhm…”</p>
+
+<p><strong>E1:</strong> “IS CANON AN AMATEUR BRAND, BOB??”</p>
+
+<p><strong>BOB:</strong> “No, but…”</p>
+
+<p><strong>E1:</strong> “But what??”</p>
+
+<p><strong>BOB:</strong> “The Fuji doesn’t have a touchscreen.”</p>
+
+<p><strong>E1:</strong> “Oh, crap. That changes things. OK, you can have your fucking touchscreen. What else is there?”</p>
+
+<p><strong>BOB:</strong> “Price.”</p>
+
+<p><strong>E1:</strong> “What does the Fuji cost?”</p>
+
+<p><strong>BOB:</strong> “$1,299”</p>
+
+<p><strong>E1:</strong> “WHAT?? Thirteen grand for a motherfucking fixed lens camera? God, how many suckers are out there??”</p>
+
+<p><strong>BOB:</strong> “A lot, apparently.”</p>
+
+<p><strong>E1:</strong> “Well, let’s price-match those bastards. We’re a lot bigger than Fuji, with our scale we should be able to afford it, right?”</p>
+
+<p><strong>BOB:</strong> “Yes, we can probably hit $1,299, all things considered.”</p>
+
+<p><strong>E1:</strong> “Excellent. Now we’re talking. See, people? This is why we earn the big bucks. Alright, how about we put in the new sensor we’ve been testing? You know, the one with the much better dynamic range? Does the budget allow for that?”</p>
+
+<p><strong>BOB:</strong> “I think so, but it’ll be close.”</p>
+
+<p><strong>E1:</strong> “Never mind, there’s lots of great stuff in there already. We’ll leave that for the next version. Great job, everyone! Meeting adjourned!” <strong>[high fives all around]</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Candid, Episode #50: You've Got to Have a Big Knob]]></title>
@@ -33,9 +167,9 @@
 
 <p>It’s been a few years in the making, but with such great cameras and lenses, it looks like the Full Frame E-mount system is finally ready to sit at the grown-ups’ table — and if the rumors are any indication, there’s plenty more to come.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://c5.staticflickr.com/9/8602/28168210924_e491c940a9_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>In practical terms, the Full Frame E-mount system can be considered a joint venture between Sony and Zeiss. The two companies have a long-standing relationship, and have combined efforts to release more than 30 Full Frame lenses for the E-mount system to date. Best of all, that number doesn’t even include native lenses from 3rd-party manufacturers like Samyang and Voigtlander. And make no mistake, some of these are so good it’s very hard to tell them apart from 1st-party lenses.</p>
 
@@ -150,10 +284,10 @@
 
 <p>Thirdly, the guide only considers native E-mount lenses. The E-mount system is famous because, thanks to its short flange distance, its cameras can use almost every DSLR lens in existence with adapters. This includes all of Canon’s EF lenses and Sony’s own line of A-mount lenses. Using adapted lenses, however, presents its own set of issues, not the least of which is unreliability. There’s also great variation in lens behavior depending on the particular lens + adapter + camera combination. For these reasons, adapted lenses are also outside the scope of this article.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://farm2.staticflickr.com/1538/23729140464_f3b4b1ee63_o.jpg" width="832"/>
     <p class="caption">Besides native FE lenses, E-mount cameras are compatible with a wide array of DSLR lenses via the use of adapters, but those are outside the scope of this guide.</p>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>Finally, the guide is structured in several categories, arranged by focal length and/or primary application. These categories were created based on the current available lens lineup for the system. In the future, additional categories such as fisheye lenses and super telephoto primes may be added, as lenses meeting the corresponding criteria are released. Given the youth of the FE system as a whole and the pace at which new lenses are being announced, the addition of at least some of these categories in the near future appears very likely.</p>
 
@@ -703,9 +837,9 @@
 
 <p>Let’s take a look at all four Loxia lenses so far:</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://c7.staticflickr.com/6/5818/29632661974_1f7604df20_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>The <strong><a href="http://amznlinks.com/global?user=analogsenses&amp;us=B019OUCQ9Y&amp;uk=B019OUCQ9Y&amp;es=B019OUCQ9Y">Zeiss Loxia 21mm f/2.8 Distagon T*</a></strong> is currently the widest of the Loxia lenses, and at $1,499, it’s also the most expensive. This is arguably the best ultra-wide angle prime lens for the FE system, barely edging out the Batis 18mm in terms of image quality. Both lenses are similarly sharp, but the Loxia controls chromatic aberration just a tad better. On the other hand, it suffers a bit more from coma, so if you’re into astrophotography, the Batis lens may be the better choice. For everything else, the two lenses are nearly indistinguishable in real-world shooting. If you’re struggling to decide, my advice is to choose between the two based on your preferred field of view. Keep in mind that in the ultra-wide range every millimeter counts, so 18mm is actually quite a bit wider than 21mm.</p>
 
@@ -837,15 +971,15 @@
     <id>http://www.analogsenses.com/2017/08/24/a-review-of-the-ona-bond-street-camera-bag</id>
     <content type="html"><![CDATA[<p>My review of the leather Bond Street camera bag by ONA was published last month on Tools &amp; Toys. I’ve been slow to link to it because, well, life got in the way, but here it is.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://farm5.staticflickr.com/4369/36642414161_bf9b1e4b52_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>This has become an instant favorite of mine. It’s a bag I use every single day, not just to carry my camera, but far more important stuff: my glucose meter and insulin pen. I had been searching for a stylish bag of the right size, and the Bond Street is just what I’d been looking for. Not too small, and not too big. Just <em>right</em>.</p>
 
-<p><figure class="full-width">
+<p><div class='bogus-wrapper'><notextile><figure class="full-width">
     <img src="https://farm5.staticflickr.com/4416/36734425326_901dc2a578_o.jpg"/>
-</figure></p>
+</figure></notextile></div></p>
 
 <p>If you’re looking for not just a camera bag, but a great everyday bag, period, head on over to <em>Tools &amp; Toys</em> for <a href="http://toolsandtoys.net/reviews/a-review-of-the-leather-bond-street-by-ona/">the full review</a>.</p>
 ]]></content>
@@ -857,15 +991,6 @@
     <updated>2017-08-19T00:01:40+02:00</updated>
     <id>http://www.analogsenses.com/2017/08/19/candid-episode-number-50-1-live-from-toronto</id>
     <content type="html"><![CDATA[<p>Meeting in person for the first time ever, the team converges on Toronto for a live episode! Hijinks ensue as we discover new camera systems, new mediums, and how to properly pronounce my name.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Candid Conversations: Olympus´ Yannick Michaud]]></title>
-    <link href="http://www.analogsenses.com/2017/08/07/candid-conversations-olympus'-yannick-michaud/"/>
-    <updated>2017-08-07T00:01:13+02:00</updated>
-    <id>http://www.analogsenses.com/2017/08/07/candid-conversations-olympus'-yannick-michaud</id>
-    <content type="html"><![CDATA[<p>Marius and I sit down with special guest Yannick Michaud from Olympus to talk about the company’s past, present, and future.</p>
 ]]></content>
   </entry>
   
