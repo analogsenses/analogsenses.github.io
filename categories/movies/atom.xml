@@ -4,7 +4,7 @@
   <title><![CDATA[Category: movies | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/movies/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2018-03-04T23:00:22+01:00</updated>
+  <updated>2019-10-09T23:12:20+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -44,7 +44,7 @@
     <id>http://www.analogsenses.com/2016/04/05/100-greatest-one-liners-before-the-kill</id>
     <content type="html"><![CDATA[<p>OK, this was pretty fun. Via <a href="http://kottke.org/16/04/top-100-pre-kill-one-liners">Kottke</a>:</p>
 
-<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/ro2x8gd2v-M" allowfullscreen></iframe></div></div></p>
+<p>{% youtube ro2x8gd2v-M%}</p>
 ]]></content>
   </entry>
   
@@ -55,7 +55,7 @@
     <id>http://www.analogsenses.com/2016/03/10/second-captain-america-civil-war-trailer-shows-off-spider-mans-new-costume</id>
     <content type="html"><![CDATA[<p>Wait for it&hellip;</p>
 
-<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/dKrVegVI0Us" allowfullscreen></iframe></div></div></p>
+<p>{% youtube dKrVegVI0Us %}</p>
 
 <p>I like the new costume; it’s nostalgic in all the right ways. Can’t wait for this movie to be released.</p>
 ]]></content>
@@ -70,7 +70,7 @@
 
 <blockquote><p>Before I knew what a director was, I knew who Steven Spielberg was. I believe that this is partially due to the fact that Spielberg has crafted some of the most iconic shots in all of cinema. Many filmmakers have that one signature shot that will forever solidify them in film history&ndash; Spielberg has dozens. This video showcases the work of Steven Spielberg in 30 memorable shots, one from each of his full-length films. From something as magical as a silhouetted bicycle streaking across the moon, to something as simple as tiny ripples in a cup of water, this is Steven Spielberg.</p></blockquote>
 
-<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/157222602 "></iframe></div></div></p>
+<p>{% vimeo 157222602 %}</p>
 
 <p>Via <a href="http://coudal.com/archives/2016/03/speilberg_in_30.php">Coudal</a>.</p>
 ]]></content>
