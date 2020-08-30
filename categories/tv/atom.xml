@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tv | Analog Senses]]></title>
   <link href="http://www.analogsenses.com/categories/tv/atom.xml" rel="self"/>
   <link href="http://www.analogsenses.com/"/>
-  <updated>2019-11-17T13:47:22+01:00</updated>
+  <updated>2020-08-30T22:50:31+02:00</updated>
   <id>http://www.analogsenses.com/</id>
   <author>
     <name><![CDATA[Álvaro Serrano]]></name>
@@ -60,7 +60,7 @@
     <id>http://www.analogsenses.com/2015/04/10/hbo-reveals-first-teaser-of-true-detective-s-season-two</id>
     <content type="html"><![CDATA[<p>It looks good. Very good:</p>
 
-<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/4OfU7CGY5DQ" allowfullscreen></iframe></div></div></p>
+<p>{% youtube 4OfU7CGY5DQ %}</p>
 
 <p>My first impressions are twofold:</p>
 
