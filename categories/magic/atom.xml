@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: magic | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/magic/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Our Magic, a documentary about magic — by magicians]]></title>
+    <link href="http://www.analogsenses.com/2014/11/07/our-magic-a-documentary-about-magic-by-magicians/"/>
+    <updated>2014-11-07T14:08:02+01:00</updated>
+    <id>http://www.analogsenses.com/2014/11/07/our-magic-a-documentary-about-magic-by-magicians</id>
+    <content type="html"><![CDATA[<p>This documentary looks amazing. One of my closest friends is a magician, and through him I&rsquo;ve learned to appreciate and love this beautiful craft. I can&rsquo;t wait to see it.</p>
+
+<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/h52G7FoW1Go" allowfullscreen></iframe></div></div></p>
+
+<p>By the way, seeing <a href="http://en.wikipedia.org/wiki/Juan_Tamariz">Juan Tamariz</a> in the trailer made me feel quite emotional. He&rsquo;s a living legend, a truly beloved icon in the world of magic. I remember I used to watch him perform unbelievable tricks on TV back when I was a little kid, and I was always enchanted by his character. A couple of years ago I finally got to meet the man  — alongside my friend — and it was one of the most, well, magical experiences of my life.</p>
+]]></content>
+  </entry>
+  
+</feed>

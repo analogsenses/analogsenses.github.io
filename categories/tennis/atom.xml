@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tennis | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/tennis/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Sun never sets on Roger Federer]]></title>
+    <link href="http://www.analogsenses.com/2015/06/29/the-sun-never-sets-on-roger-federer/"/>
+    <updated>2015-06-29T19:51:07+02:00</updated>
+    <id>http://www.analogsenses.com/2015/06/29/the-sun-never-sets-on-roger-federer</id>
+    <content type="html"><![CDATA[<p>Fantastic piece by Brian Phillips for <em>Grantland</em>:</p>
+
+<blockquote><p>Four years ago, I wrote that there was “an aura of weird sadness” around Federer’s arrested decline.  Federer seemed invincible for so long — not just better than everyone else, <em>invincible</em> — that it was unnerving at first when he didn’t. He’d do all the same Federer things — blast that big, courtly cannon of a serve, skip-float to the net, catch the ball short with an acute one-handed backhand, wheel back to the center of the court for a blistering forehand putaway — the same things he’d always done, only now they didn’t always work. Now, against Rafa Nadal or Novak Djokovic or whomever, they would sometimes fail. Four or five years ago, this could put you in a strange place. He’d been so effortless once that then, when the ball missed by three inches, it felt like watching beauty succumb to death.</p></blockquote>
+
+<p>There’s a strong case to be made that Roger Federer’s dominance in his prime set a new benchmark for greatness not only in tennis, but across all sports. I really enjoyed Phillips’s take on Federer’s twilight years — which, as he points out, have already lasted longer than his prime.</p>
+
+<p>Normally I would’ve saved this piece for the next issue of <a href="http://www.analogsenses.com/2015/06/27/morning-coffee-issue-number-4/">Morning Coffee</a>, but I liked it so much I’m sharing it right now. Enjoy.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>It would be a shame if Federer lost in the first week of Wimbledon and was already out of the tournament by the time you read this.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The ATP World Tour re-launches flagship website — and fixes exactly nothing]]></title>
+    <link href="http://www.analogsenses.com/2015/06/15/the-atp-world-tour-re-launches-flagship-website-and-fixes-exactly-nothing/"/>
+    <updated>2015-06-15T15:16:05+02:00</updated>
+    <id>http://www.analogsenses.com/2015/06/15/the-atp-world-tour-re-launches-flagship-website-and-fixes-exactly-nothing</id>
+    <content type="html"><![CDATA[<p>ATP staff, in <a href="http://www.atpworldtour.com/en/news/2015-website-press-release">an official statement</a> released earlier today:</p>
+
+<blockquote><p>LONDON – The world’s leading tennis website devoted to men’s professional tennis stepped up its game today with the re-launch of the ATP’s flagship website, ATPWorldTour.com.</p>
+
+<p>Delivering an enhanced, immersive experience across multiple platforms, the full breadth of the website’s vast content and statistical information is available for the first time on smartphones and tablets. Following a successful soft launch over the weekend, the enhancements can be seen immediately on the ATP’s responsive-design English-language website, with the re-launch of its Spanish website to follow shortly. The ATP’s Chinese website will re-launch later this year.</p></blockquote>
+
+<p>What a train wreck of a redesign.</p>
+
+<p>All that “responsive-design” talk on the official statement above is complete and utter bullshit. If this is the ATP stepping up its game, then tennis fans around the world are all pretty screwed.</p>
+
+<p>Before the redesign, only limited functionality was available on mobile devices. The majority of sections simply refused to load, redirecting users to the homepage instead and showing fans exactly how much the ATP cared about responsiveness for <em>years</em>.</p>
+
+<p>The new site, on the other hand, loads all the elements just fine on Mobile Safari, but that’s about the only good thing I can say about it. This is without a doubt one of the worst mobile designs I’ve seen in a pretty long time.</p>
+
+<h2>The guessing game</h2>
+
+<p>Allow me to walk you through how some of the site’s great new responsive elements work on an iPhone 5S:</p>
+
+<h3>Partial view</h3>
+
+<p>Loading the homepage gets you a zoomed-in partial view by default, so you’re only seeing part of the content. That would be pretty bad in and of itself but worst of all, <em>there’s no way to zoom back out and see the entire page</em>. If there’s a full-width picture on the site — and there often are — there’s no way to see the entire image area.</p>
+
+<p><img src="https://c2.staticflickr.com/6/5594/18644314648_297f422c5c_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/></p>
+
+<h3>Incomplete headlines</h3>
+
+<p>Came here for the headlines? Too bad. We hope you’re good at figuring out which words were cut out, or that you don’t really care about these thumbnails because no matter what you do, we won’t show you both at the same time.</p>
+
+<p><img src="https://c4.staticflickr.com/4/3790/18644360410_a44e6c70d6_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/></p>
+
+<h3>Incomplete sections</h3>
+
+<p>Who’s the current World No. 2, FedEx? I didn’t know they played. And how many points do they hold? Is it 9,500,000? That doesn’t seem fair. Who’s No. 1 then, UPS?</p>
+
+<p><img src="https://c4.staticflickr.com/4/3894/18834742201_da8eec30fc_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/></p>
+
+<h3>Incomplete banners</h3>
+
+<p>Challenger Tour. <em>Freaking Yeah!</em></p>
+
+<p><img src="https://c2.staticflickr.com/6/5595/18833018915_cdbf24041a_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/></p>
+
+<h3>Incomplete galleries</h3>
+
+<p>Who’s that guy in the blue shirt? All I’m getting is that Rafael Nadal blasted into his first grass-court fine, for some reason. Perhaps he was driving cross-country and broke the on-grass speed limit. Is that a thing? And how exactly does one blast into a fine? I’m no expert, but I think you’re doing it wrong, Rafa.</p>
+
+<p><img src="https://c4.staticflickr.com/4/3788/18832053155_4b03134dee_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/></p>
+
+<p>Those were just a few examples — there are plenty more where those came from — but you get the idea. And though some could be described as fairly minor issues, some of them are just ridiculous. I mean, what’s the point of having an image gallery if you can’t see the actual images?</p>
+
+<h2>Serious design takes work</h2>
+
+<p>The ATP World Tour’s official website has a long, sad history of being atrocious when it comes to mobile optimization, and the new version does little — if anything — to address that. What a wasted opportunity. They finally do a complete redesign after <em>years</em> of neglecting the website, and they manage to screw it up on the most basic elements.</p>
+
+<p>All this goes to show is there are no shortcuts to doing great work. Responsive design is hard, but the ATP has no excuse. This is not a couple guys in a basement we’re talking about, it’s a major conglomerate that moves hundreds of millions of dollars around every year. They can afford it. This half-assed attempt is embarrassing to watch, and all the PR-speak in the world won’t fix it.</p>
+
+<p>That, in 2015, a major sport’s website can’t even get the basics of responsive design right is appalling. That it comes right on the heels of a major redesign is quite simply inexcusable.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Roger Federer’s Nine Racquets | The New Yorker]]></title>
+    <link href="http://www.analogsenses.com/2014/08/31/roger-federers-nine-racquets-the-new-yorker/"/>
+    <updated>2014-08-31T10:55:37+00:00</updated>
+    <id>http://www.analogsenses.com/2014/08/31/roger-federers-nine-racquets-the-new-yorker</id>
+    <content type="html"><![CDATA[<p>Nice piece by Michael Steinberger on Priority 1 (P1), the company formed by Nate Ferguson and Ron Yu, who have been stringing racquets for professional tennis players for decades:</p>
+
+<blockquote>Federer hired the duo on a trial basis at the Italian Open in May, 2004.  Two months later, Federer successfully defended his Wimbledon title. A few hours after the match, Ferguson and Yu heard a knock on the door of their rented house. Federer, dressed in a tuxedo for the Champions Ball, had stopped by to let them know that he was hiring them full-time.</blockquote>
+
+
+<p>Great anecdote. I also agree with their view on the evolution of tennis as a sport:</p>
+
+<blockquote>They said that the polyester strings, which can generate tremendous topspin, have made tennis less interesting. “It has changed; nobody comes to the net anymore,” Ferguson said. Yu nodded in agreement. “It has become a fitness sport, not a shot-making sport,” he said.</blockquote>
+
+
+<p>This is one of the clearest examples in the sporting world of how technological advancements can actually make the game less interesting to watch.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Greatness Meets Greatness]]></title>
+    <link href="http://www.analogsenses.com/2014/08/27/greatness-meets-greatness/"/>
+    <updated>2014-08-27T15:14:16+00:00</updated>
+    <id>http://www.analogsenses.com/2014/08/27/greatness-meets-greatness</id>
+    <content type="html"><![CDATA[<p>Roger Federer and Michael Jordan unveil the new Zoom Vapor AJ3 shoes at the 2014 US Open.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Roger Federer qualifies for the ATP World Tour Finals for a record 13th consecutive year]]></title>
+    <link href="http://www.analogsenses.com/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year/"/>
+    <updated>2014-08-18T18:53:04+00:00</updated>
+    <id>http://www.analogsenses.com/2014/08/18/roger-federer-qualifies-for-the-atp-world-tour-finals-for-a-record-13th-consecutive-year</id>
+    <content type="html"><![CDATA[<blockquote>The 33-year-old Swiss is the most successful player to compete at the Barclays ATP World Tour Finals, compiling a 44-11 record and claiming a record six titles in 2003-04, 2006-07 and 2010-11. He breaks the record of consecutive years qualifying for the championship, a mark he previously shared with Ivan Lendl (1980-91).</blockquote>
+
+
+<p>Just another reason why this is a player for the ages.</p>
+]]></content>
+  </entry>
+  
+</feed>

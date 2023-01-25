@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: advertising | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/advertising/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[On bias, dishonesty, and native advertising]]></title>
+    <link href="http://www.analogsenses.com/2015/09/24/on-bias-dishonesty-and-native-advertising/"/>
+    <updated>2015-09-24T15:14:21+02:00</updated>
+    <id>http://www.analogsenses.com/2015/09/24/on-bias-dishonesty-and-native-advertising</id>
+    <content type="html"><![CDATA[<p>Earlier today I read the final article in a great series on content blocking and advertising by Ben Brooks. I highly recommend reading <a href="https://brooksreview.net/2015/09/content-blocker-test/">the</a> <a href="https://brooksreview.net/2015/09/mac-like-control/">four</a> <a href="https://brooksreview.net/2015/09/data-savings/">previous</a> <a href="https://brooksreview.net/2015/09/ye-olde-content-blocking/">articles</a> in the series, as Ben shared many interesting thoughts and ideas that not many people consider in the whole ad-blocking debate.</p>
+
+<p>In <a href="https://brooksreview.net/2015/09/native-advertising-is-a-bad-solution/">this piece</a>, Ben focuses on native ads, and why they may not be the solution the Web needs:</p>
+
+<blockquote><p>They erode trust in readership. They cause people to question objectivity. They force people struggling to make money into impossible decisions between affording the next month’s hosting bill and losing the trust of their readers.</p>
+
+<p>I have yet to meet a single blogger who had anything but good intentions when stuck in these situations, but by saying that native ads are the way forward we are deciding that there is no such thing as subconscious influence. And I can assure that for even someone like me who has zero ads on this site — it is hard to make sure that I am completely objective on everything that I do. So the best I can do is point out bias as I see it.</p></blockquote>
+
+<p>He makes an excellent point. I was perhaps overly optimistic when I wrote about native advertising in <a href="http://www.analogsenses.com/2015/09/19/morning-coffee/">last week’s Morning Coffee</a>; clearly there are issues with native advertising, the most critical of which is probably the inherent bias it creates in publishers.</p>
+
+<p>That said, I believe there’s a subtle difference between being biased and being dishonest. Bias is not inherently bad, nor a result of advertising, but something that’s always present. Granted, advertising can definitely make it worse, but it’s also a disclaimer in and of itself.</p>
+
+<p>Readers should <em>always</em> question objectivity when reading anything, not just ad-laden websites. In fact, I’d go so far as to say that sites without an obvious business model are even more suspicious of being biased or, rather, dishonest. By seeing ads, you instantly know where the money — or at least some of it — is coming from.</p>
+
+<p>Take <em>Analog Senses</em>, for example. There are no ads, native or otherwise, and there are no memberships or subscriptions available for readers to support the site — yet. The only reasons I’ve been able to keep the lights on around here for the past year are my Amazon affiliate income — which, thankfully, more than pays for the site’s hosting costs — and the fact that I do some freelance writing and some part-time iOS development work on the side.</p>
+
+<p>Does that make me free of bias? No way. I’m quite opinionated on many, <em>many</em> things, and that makes me inherently biased.</p>
+
+<p>To give a few examples, I love Apple, and I love the iPhone. And while that by itself doesn’t seem harmful, I know that Android would have to be at least an order of magnitude better than iOS before I even consider switching. That’s my bias talking right there. Also, I’m not a huge fan of Google’s privacy-invading tactics, so when the company announces a superb photo-managing app like Google Photos, I remain skeptical, perhaps unjustly so, despite the product being clearly well-designed, polished and useful.</p>
+
+<p>Those are only two examples of my bias, but of course there are more, and some of them I’m not even aware of. Do I want Amazon to do well so that they can continue to improve their Associates program? Absolutely. Just like John Gruber is <em>massively</em> biased when it comes to Apple doing well, whether he takes money from them directly or not.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>Now, is that dishonest? I hope not, but perhaps it is. Clearly I stand to make some profit whenever I include Amazon affiliate links in my articles, so you could question, and rightly so, if every single link I’ve ever included was always absolutely relevant and necessary, or if I was just trying to make an extra buck or two.</p>
+
+<p>The truth is, as a general rule I try to use those links only when something is relevant to the topic at hand, but I’m also quite liberal with them and don’t have a strict affiliate-linking policy in place, so it’s entirely possible that some of those links may not have been entirely necessary. Whether that makes me dishonest, I guess it’s for my readers to decide.</p>
+
+<p>And that is the greater point. We as publishers have an obligation to not be dishonest,<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> but as readers we also have a responsibility to think critically and not just accept everything that’s spoon-fed to us on the Web, whether it’s disguised as an ad or not.</p>
+
+<p>Native advertising is definitely not the silver bullet to end the Web’s problems, but I believe that, <em>when done the right way</em> — that is, by publicly and clearly identifying bias — it can be profitable without being dishonest, which is an acceptable middle ground to me as a reader.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>In fact, in the past Gruber has taken sponsorship money from <a href="http://daringfireball.net/feeds/sponsors/2014/06/microsoft_azure_mobile_service">Microsoft</a>, of all companies. Talk about a potential trust-eroding conflict.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>To that end, I have updated <a href="/about/">the “About” page</a> to include a disclaimer about the use of Amazon Affiliate links on this site. I’ve also added a disclaimer to the site’s footer as well. In the past I used to include these disclaimers only in articles that used those links, but I got lazy some time ago and stopped doing it entirely. Hopefully this goes some of the way towards remedying that.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

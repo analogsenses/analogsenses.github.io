@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: videography | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/videography/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The GoPro HERO5 action cameras and the Karma drone]]></title>
+    <link href="http://www.analogsenses.com/2016/09/26/the-gopro-hero5-action-cameras-and-the-karma-drone/"/>
+    <updated>2016-09-26T15:56:24+02:00</updated>
+    <id>http://www.analogsenses.com/2016/09/26/the-gopro-hero5-action-cameras-and-the-karma-drone</id>
+    <content type="html"><![CDATA[<p>GoPro announced the new HERO5 Black and HERO5 Session action cameras a few days ago, and they also unveiled the Karma, a really cool drone to go with them. I spent some time playing with the new toys at their Photokina stand the other day, so head on over to <em>Tools &amp; Toys</em> to see what they bring to the table.</p>
+]]></content>
+  </entry>
+  
+</feed>

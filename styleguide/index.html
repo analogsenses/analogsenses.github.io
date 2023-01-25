@@ -1,0 +1,492 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Analog Senses reference style guide - Analog Senses</title>
+  <meta name="author" content="Álvaro Serrano">
+
+  
+  <meta name="description" content="This document was created to provide a useful resource to test the design of Analog Senses. If your site supports post and page descriptions, you can &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.analogsenses.com/styleguide">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/feed" rel="alternate" title="Analog Senses" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!-- These are the scripts enablig TypeKit font integration -->
+<script type="text/javascript" src="http://use.typekit.com/kfs5avd.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!-- Script for footnotes popover, by Matt Gemmell -->
+<script src='/javascripts/footnotes.js' type="text/javascript"></script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<!-- Load Fancybox -->
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<!-- Custom Scripts -->
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-49872330-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+	<div class="analog-senses">
+		<div class="site-title">
+			<h1><a class="analog" href="/">Analog</a><a class="senses" href="/">Senses</a></h1>
+		  	
+		    	<h2>By ÁLVARO SERRANO</h2>
+		  	
+  		</div>
+  </div>
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/feed" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+<ul class="main-navigation">
+  <!--<li><a href="/">Blog</a></li>-->
+  <li><a href="/about">About</a></li>
+  <li><a href="/archive">Archive</a></li>
+  <li><a href="/guides">Guides</a></li>
+  <li><a href="/photostories">Photo Stories</a></li>
+  <li><a href="/feed">RSS</a></li>
+  <li><a rel="me" href="https://mastodon.social/@alvaroserrano">Mastodon</a></li>
+</ul>
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+		
+			<!-- Now we're back to normal posts. Note the links used under href in both headers.-->
+		 		<h1 class="entry-title">The Analog Senses reference style guide</h1>
+			 	
+			      <div class="meta">
+			        
+
+
+
+
+
+			        
+			        	<p>January 20, 2016
+			        
+			        </p>
+			      </div>
+			    
+		 	
+		
+	
+  </header>
+
+
+<div class="entry-content"><p>This is a reference style guide for <a href="http://www.analogsenses.com">Analog Senses</a>. The purpose of this document is to show how the most commonly used HTML elements are displayed on the site. Style guides are useful when working on a site’s CSS, as they allow you to instantly see if anything breaks.</p>
+
+<p>Analog Senses is written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, and styled using CSS only. For that reason, the contents of this guide may largely apply to other Markdown-based websites. If you’d like to use it for your own site, you can. You’ll probably need to make a few changes to account for some custom handling of certain elements, but this should be a good starting point.</p>
+
+<p>In order to facilitate your own tweaking and testing, this reference document is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, and it’s available as a .markdown file <a href="https://www.dropbox.com/s/x7bzdlertq0dsge/styleguide.markdown?dl=0">here</a>.</p>
+
+<p>It should go without saying, but <strong>I’m not obligated to offer support of any kind to go with the file, so use it only if you know what you’re doing, and only at your own risk</strong>.</p>
+
+<p>Now let’s start with some general considerations.</p>
+
+<h2>Type and spacing</h2>
+
+<p>This is an example paragraph. It shows the default body type, as well as the spacing. These settings are very important, because they largely define a site’s readability. In the context of this style guide, you should be focusing on the typeface, the line-height, the spacing between paragraphs and so on. It’s important to pick a typeface that is readable on both high-resolution screens and regular screens.</p>
+
+<p>Another great way to enhance readability is to use emphasis when appropriate. <strong>This is some bold text, just so you know what it looks like</strong>. And since we’re at it, <em>here’s some italics, too.</em> Italics are useful to quote excerpts without using a full-on blockquote, as in: <em>“the quick brown fox jumps over the lazy dog”</em>. And finally, <em><strong>some bold italics, too, just because I can</strong></em>. You’re welcome.</p>
+
+<p>Have you ever heard about hyperlinks? They’re this crazy thing that lets you send people over to different places on the Internet. Here, <a href="https://twitter.com/analogfeed" title="You can also provide alt text within links.">they look like this</a>. Usually, people want to be able to easily notice links within a block of regular text, so you should pick a clearly different style for them. Traditional etiquette dictates that links should be underlined, but these days anything goes, as long as they don’t look like regular text. Also, nobody calls them hyperlinks anymore.</p>
+
+<h2>Headings</h2>
+
+<p>By default, your design should support at least three nested levels of headings. The first level, or h1, should be used for article and page titles only, and it should be big and noticeable. Some people maintain that you should only use one h1 heading per article or per page. That makes sense, but there are instances where having multiple h1 headings may make sense. Here’s what an h1 heading looks like:</p>
+
+<h1>This is an h1 heading</h1>
+
+<p>The second level, or h2, should be used for section or chapter titles, and it should be a bit smaller but still quite noticeable. This is what it looks like:</p>
+
+<h2>This is an h2 heading</h2>
+
+<p>Finally, the third level, or h3, can be used to further divide each section into subsections. It looks like this:</p>
+
+<h3>This is an h3 heading</h3>
+
+<p>Obviously, headings get smaller with each level. You can go onto deeper levels if you need to, like h4, h5 or h6, but in the vast majority of cases on the web, three levels are enough.</p>
+
+<h2>Blockquotes and lists</h2>
+
+<p>Blockquotes are some of the most commonly used elements on the web, especially on blogs. This is what a blockquote looks like:</p>
+
+<blockquote><p>This is a blockquote. These are often used to quote entire paragraphs of text from an external source. The way blockquotes are usually styled on the web is by using a left border and indenting both sides. This is such a widespread convention that you probably won’t want to deviate too much from it.</p>
+
+<p>Blockquotes can have  multiple paragraphs. In order to make blockquotes stand out, some people use a different color from the main body font, or a different size, or even a different font. Those are valid ways to further differentiate blockquotes from regular text, if you like that sort of thing.</p></blockquote>
+
+<p>Typically, spacing between a blockquote and the following paragraph — this one — will be a bit larger than between regular paragraphs, but not by much. You can see that in the blockquote above.</p>
+
+<p>Now it’s time for lists. Lists can be ordered (with numbers) or unordered (with just bullet points). Here’s an example of an ordered list:</p>
+
+<ol>
+<li><p>This is the first item in an ordered list.</p></li>
+<li><p>This is the second item in an ordered list.</p></li>
+</ol>
+
+
+<p>Spacing between the last element of a list — either ordered or unordered — and the following paragraph — this one — should be a bit bigger than between two regular paragraphs, although again, not by much. Now let’s take a look at an unordered list:</p>
+
+<ul>
+<li><p>This is an item in an unordered list. If we make this item a bit longer, you’ll see how text is justified at both ends of the page.</p>
+
+<p>  Any item of any list can have multiple paragraphs. This is the second paragraph of the first item of an unordered list.</p></li>
+<li><p>This is the second item of an unordered list. Unlike blockquotes, which are usually indented at both sides, lists are normally only indented at the left side. For that reason, this text should run flush against the right margin of the page.</p></li>
+</ul>
+
+
+<p>A tricky thing about lists and blockquotes is that they may appear combined with each other:</p>
+
+<blockquote><p>This is a paragraph inside a blockquote that contains an ordered list. The purpose of this block is to check if the indentation of the list is correct at the left side of the page. Now lets’s take a look at that list:</p>
+
+<ol>
+<li><p>An ordered list within a blockquote is a difficult thing to style, because it must be indented only at the left side, but it also must remain within the confines of the blockquote, which was already indented at <em>both</em> sides.</p></li>
+<li><p>For that reason, you should see that the text here runs flush to the right margin, but only to the limit of the blockquote, not the regular body text.</p></li>
+</ol>
+</blockquote>
+
+<p>There could also be a blockquote within another blockquote, and your design should support that, as well. Here’s how that looks like:</p>
+
+<blockquote><p>You can have a regular blockquote that includes another blockquote, as is the case here. The main goal of this first blockquote is to emphasize how indentation becomes bigger in the second embedded blockquote.</p>
+
+<blockquote><p>A blockquote within a blockquote should have two levels of indentation at both sides, so it should be a bit narrower. This can be a problem on mobile devices with narrow screens, because you can quickly run out of precious space if you’re not careful with your margins.</p></blockquote></blockquote>
+
+<p>Perhaps the most unusual combination is a blockquote within a list:</p>
+
+<ol>
+<li>This is the first item of a list that contains a blockquote. And this is what the guy said:
+
+<blockquote><p>This is just some random text that should appear as an indented blockquote within the first item on the list.</p></blockquote></li>
+<li>After that blockquote, the list can resume as usual.</li>
+</ol>
+
+
+<p>And finally, the most complex case is a list within another list. Keep in mind that in some Markdown interpreters you need to type two spaces for each nested level, but in the current version of Octopress it takes four spaces for each:</p>
+
+<ol>
+<li><p>Item 1</p>
+
+<ol>
+<li><p>A subsection of item 1 on the main list.</p></li>
+<li><p>Yet another subsection of item 1 on the main list.</p></li>
+</ol>
+</li>
+<li><p>Item 2</p>
+
+<ul>
+<li><p>A corollary to item 2 on the main list that does not require ordering.</p>
+
+<ol>
+<li><p>You can even have an ordered list within an unordered list that’s itself within an ordered list. Why someone would want to do that, though, I have no idea.</p></li>
+<li><p>At this point you may want to consider starting a new list from scratch.</p></li>
+</ol>
+</li>
+<li><p>This is the second unordered item within item 2 on the main ordered list, in case you were lost.</p>
+
+<ul>
+<li>And of course, an unordered list that’s within another unordered list that’s within an ordered list&hellip; and now I have a headache.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Item 3 on the main ordered list, but who’s counting.</p></li>
+</ol>
+
+
+<p>That wasn’t so bad, was it? The problem with lists and blockquotes is that there are so many different combinations and edge cases that it’s difficult to test for all of them when tweaking your CSS. Hopefully, having all cases compiled in this reference document will help with any future edits.</p>
+
+<h2>Footnotes</h2>
+
+<p>Blockquotes and lists are necessary, but a good design should also support footnotes. Footnotes within normal text are usually marked with superscript numbers, such as this one<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. Lately it’s become popular to show the footnote’s contents in a popover when you hover over them with the mouse, or when you tap on them on a mobile device. The more traditional way is to include a link to the article’s footer, where all footnotes are displayed in order, with a link back to each footnote’s original location in the text. There’s no reason you can’t do both in the same design.</p>
+
+<h2>External links and separators</h2>
+
+<p><a href="http://www.analogsenses.com">Analog Senses</a> features external links as part of the weekly <a href="http://www.analogsenses.com/categories/weekly-linkage/">Morning Coffee</a> articles. These links are not post titles, however, so they use h3 headings instead of h1. They look like this:</p>
+
+<h3><a href="http:twitter.com/analogfeed">Analog Senses on Twitter →</a></h3>
+
+<p>The links usually include some commentary. In order to separate them, I use custom separators that look like this:</p>
+
+<p class="card-separator">♢</p>
+
+
+<p>These are inserted manually in my Markdown files, and then styled with CSS to keep them centered on the page. I also sometimes use them to separate sections within a given article.</p>
+
+<h2>Media</h2>
+
+<p>Modern sites feature a rich variety of media: photos, videos, tweets, Instagram pictures, etc.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> That said, media can be handled in many different ways and in fact, that could be an article in and of itself. As such, the remainder of this document will focus on how the current design of <a href="http://www.analogsenses.com">Analog Senses</a> handles it.</p>
+
+<h3>Photos</h3>
+
+<p>The first option is to have photos embedded within the confines of the main text. In this case, images are never wider than the text itself. This is how that looks:</p>
+
+<p><img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/></p>
+
+<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+
+
+<p>Of course, photos can be embedded in portrait orientation, as well:</p>
+
+<p><img src="https://farm2.staticflickr.com/1678/23876918634_8b64e7d40b_o.jpg"/></p>
+
+<p>The problem with this approach is that these images will never be displayed at full-width on your screen. And if you’re looking at them on a smartphone, it doesn’t really make much sense to waste valuable space with margins. This approach works very well in some specific cases, so it’s important to support it, but clearly we can do better. Here’s a wider image:</p>
+
+<div class='bogus-wrapper'><notextile><figure class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></figure></notextile></div>
+
+
+<p>That’s better. This size works well for portrait images, as well. Here’s what a portrait image looks like at this wider size:</p>
+
+<div class='bogus-wrapper'><notextile><figure class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></figure></notextile></div>
+
+
+<p>I like this size better, but keep in mind that portrait images that are this wide can be harder to view on laptops with widescreen displays. You should find a compromise that works for you there.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
+
+<p>Then there’s an even wider size that is best suited for landscape-orientation pictures. This is what that looks like:</p>
+
+<div class='bogus-wrapper'><notextile><figure class="full-width">
+<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+</figure></notextile></div>
+
+
+<p>Obviously, this size is not optimal for portrait-orientation images, as it would take a very tall screen to be able to view the entire image.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup></p>
+
+<p>And finally, we can have true full width panoramas, like this one:</p>
+
+<div class='bogus-wrapper'><notextile><figure class="panorama">
+<a class="fancybox" rel="MenorcaPanorama" href="https://c4.staticflickr.com/9/8639/28282683011_028f66ee88_o.jpg"><img src="https://c4.staticflickr.com/9/8639/28282683011_028f66ee88_o.jpg" alt="" /></a>
+</figure></notextile></div>
+
+
+<p>This should extend the entire width of your screen, regardless of the size of your window.</p>
+
+<h3>Videos</h3>
+
+<p>Videos by default are treated just like photos, and are embedded at the wider size,<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> like this:</p>
+
+<div class="video-wrapper"><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/149865168 "></iframe></div></div>
+
+
+
+
+<p class="caption">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
+
+
+<p>In Octopress, videos are embedded responsively thanks to the <a href="https://github.com/optikfluffel/octopress-responsive-video-embed">Octopress Responsive Video Embed</a> plugin by Udo Kramer.</p>
+
+<h3>Tweets and Instagram posts</h3>
+
+<p>Embedding tweets is a pretty common thing to do these days, and sometimes they even include embedded media of their own. This is how an embedded tweet with media looks:</p>
+
+<p><section class="social-embed"><blockquote class="twitter-tweet" lang="es"><p lang="en" dir="ltr">This is a test tweet, don’t mind me. <a href="https://t.co/S2iJz1O3gk">pic.twitter.com/S2iJz1O3gk</a></p>&mdash; Analog Senses (@analogfeed) <a href="https://twitter.com/analogfeed/status/689864841553678336">enero 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></section></p>
+
+<p>That looks nice and clean. Now, just because a tweet has embedded media doesn’t mean we have to display it. It’s entirely possible to embed a tweet without it, just like so:</p>
+
+<p><section class="social-embed"><blockquote class="twitter-tweet" data-cards="hidden" lang="es"><p lang="en" dir="ltr">This is a test tweet, don’t mind me. <a href="https://t.co/S2iJz1O3gk">pic.twitter.com/S2iJz1O3gk</a></p>&mdash; Analog Senses (@analogfeed) <a href="https://twitter.com/analogfeed/status/689864841553678336">enero 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></section></p>
+
+<p>As for Instagram posts, those can be embedded, as well. Here’s what that looks like:</p>
+
+<p><section class="social-embed"><blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BApjHXjxawW/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una foto publicada por Álvaro Serrano (@analogsenses)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-01-17T17:51:57+00:00">17 de Ene de 2016 a la(s) 9:51 PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script></section></p>
+
+<p>As you can see, tweets and Instagram posts become full-width when the display is narrower than the embedded media, and they both shrink seamlessly to accommodate any sized screen. That’s all Twitter’s and Instagram’s doing, by the way. Unfortunately, that also means you lose some control over those elements, so things like spacings and so on become complicated to handle when you’re dealing with these elements.</p>
+
+<p>Most popular media outlets offer an embed feature of some sorts, and the results are all very similar to what you can see above, so there’s really no need to dive further into them.</p>
+
+<p>Finally, we can embed Google Maps, as well:</p>
+
+<p><section class="google-maps">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10499.552246581232!2d2.3440813000000054!3d48.8603449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1e03670c6fac7876!2sBest+Western+Ducs+de+Bourgogne!5e0!3m2!1ses!2ses!4v1454415100416" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <p class="caption">This is a caption in an embedded Google Maps map.</p>
+</section></p>
+
+<h2>Final words</h2>
+
+<p>This style reference guide was created to provide a useful resource to test the design of Analog Senses. In order for the site’s design to be considered correct, everything on this page needs to be rendered properly on any modern device. If this page looks weird on your current device, there may be a bug in the site’s CSS, so if you notice something, please let me know.</p>
+
+<p>If you write in Markdown, this document may be a useful resource to test your own site’s design, as well. Except from some custom handling of certain media types, everything else in this document was written in standard Markdown, with the styling and formatting done entirely in CSS. Again, you can download the contents of this page as a Markdown file <a href="https://www.dropbox.com/s/x7bzdlertq0dsge/styleguide.markdown?dl=0">here</a>.</p>
+
+<p class="card-separator">♢</p>
+
+
+<p>Thank you for reading. If you enjoyed this article or found it useful, please take a moment to share it on your preferred social network by clicking on the appropriate link below the footnotes section. Thanks!</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>This is the first footnote. It also comes in handy to tell you that on this site, footnotes are handled by the awesome <a href="https://github.com/mattgemmell/footnotes-popover">Footnotes Popover</a> plugin by <a href="http://mattgemmell.com/">Matt Gemmell</a>.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Apart from being footnote number two, this is to let you know that, due to the sheer number of different media sources that can be used on the web these days, this document will only focus on the most common ones.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>In the current design, pictures at this size become full-width on displays that are <strong>768-pixels</strong> wide or narrower. That means they should take up the entire width of the screen on every iOS device in portrait orientation, except for the iPad Pro. If your device is in landscape orientation, they should be full-width on every iOS device except the iPad — any iPad, including the iPad Pro.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+<li id="fn:4">
+<p>These images will be displayed at full-width on any display that is <strong>1,204-pixels</strong> wide or narrower. That includes every iOS device in every orientation, except for the iPad Pro in landscape mode only.<a href="#fnref:4" rev="footnote">&#8617;</a></p></li>
+<li id="fn:5">
+<p>Like photos, videos are also full-width on any device that is <strong>1,024-pixels</strong> wide or narrower. Again, that includes every iOS device in every orientation, except for the iPad Pro in landscape mode only.<a href="#fnref:5" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+</div>
+
+	<section class="amazon-native-ad">
+		<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=9aff2285-f7f2-4036-a3fb-6bf1060d040f&storeId=analsens03-20"></script>
+	</section>
+  <footer>
+    <p class="meta">
+      <!--
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Álvaro Serrano</span></span>
+-->
+      
+
+
+
+
+
+      <span class='month'>January</span> <span class='day'>20</span>, <span class='year'>2016</span>
+      
+      • Published in 
+
+<span class="categories">
+  
+    <a class='category' href='/categories/guides/'>Guides</a>, <a class='category' href='/categories/test/'>Test</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  <p>Share this article:</p>
+  
+<h3><a class="sharing-twitter-link" href="https://twitter.com/intent/tweet?url=http://www.analogsenses.com/styleguide/index.html&text=“The Analog Senses reference style guide”%20by%20@analogsenses" title="Share on Twitter">Twitter</a>
+  
+  
+ • <a class="sharing-facebook-link" href="https://www.facebook.com/dialog/share?app_id= 132875883452395&display=popup&href=http://www.analogsenses.com/styleguide/index.html&redirect_uri=http://www.analogsenses.com/styleguide/index.html" title="Share on Facebook" target="_blank">Facebook</a>
+  
+  
+ • <a class="sharing-googleplus-link" href="https://plus.google.com/share?url=http://www.analogsenses.com/styleguide/index.html" title="Share on Google+" target="_blank">Google+</a>
+  
+  
+ • <a class="sharing-email-link" href="mailto:?subject=The Analog Senses reference style guide%20by%20Álvaro%20Serrano&body=http://www.analogsenses.com/styleguide/index.html" title="Share via email" target="_blank">Email</a>
+  
+  </h3>
+</div>
+
+    
+    <p class="meta-alignment">
+      
+      
+    </p>
+  </footer>
+</article>
+<!---->
+</div>
+<!--
+<aside class="sidebar">
+  
+    
+  
+</aside>
+-->
+
+    </div>
+  </div>
+  <footer role="contentinfo">
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="analogsenses.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Site Search"/>
+  </fieldset>
+</form>
+  
+<p>Analog Senses uses Amazon Affiliate links whenever possible. <a href="/about">Read more</a>.</p>
+<p>Copyright &copy; 2009-2023 Álvaro Serrano</p>
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

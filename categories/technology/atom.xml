@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: technology | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/technology/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Samsung announces new 2TB 850 EVO and 850 Pro SSDs]]></title>
+    <link href="http://www.analogsenses.com/2015/07/08/samsung-announces-new-2tb-850-evo-and-850-pro-ssds/"/>
+    <updated>2015-07-08T15:33:22+02:00</updated>
+    <id>http://www.analogsenses.com/2015/07/08/samsung-announces-new-2tb-850-evo-and-850-pro-ssds</id>
+    <content type="html"><![CDATA[<p>Brett Howse, writing for <em>AnandTech</em>:</p>
+
+<blockquote><p>The 850 Pro retails for $1000, and the 850 EVO retails for $800. Although not inexpensive by any means, and still much more than the $75 of a spinning disk, the prices are right around double the 1TB models in the lineup so there is not any extra premium to get the larger models at this time.</p></blockquote>
+
+<p>$800 is a lot of money, but if you need an SSD, they’re worth every penny.</p>
+]]></content>
+  </entry>
+  
+</feed>

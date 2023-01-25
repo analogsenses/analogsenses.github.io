@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: reading | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/reading/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Amazon introduces new Kindle Oasis]]></title>
+    <link href="http://www.analogsenses.com/2016/04/13/amazon-introduces-new-kindle-oasis/"/>
+    <updated>2016-04-13T17:48:01+02:00</updated>
+    <id>http://www.analogsenses.com/2016/04/13/amazon-introduces-new-kindle-oasis</id>
+    <content type="html"><![CDATA[<p>This looks interesting. On one hand, I appreciate the slimmer design, ergonomic grip and the cleverness of the dual battery system. That’s Amazon at their best. On the other hand, though, $289.99 seems like an awful lot to spend on a Kindle reader.</p>
+
+<p>If you ask me, the main problem with today’s Kindle lineup is that the venerable <a href="http://amzn.to/1VVh0EX">Kindle Paperwhite</a>, at $119.99, is still the best deal, and hands down the one to buy. It offers practically the same reading experience as the new Kindle Oasis for less than half the price. No matter how you look at it, that’s a hard pill to swallow. Especially considering that you can spend the difference on a pile of excellent books to, you know, <em>read</em>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Amazon announces new typographic features for Kindle, including much-awaited hyphenation]]></title>
+    <link href="http://www.analogsenses.com/2015/05/28/amazon-announces-new-typographic-features-for-kindle-including-much-awaited-hyphenation/"/>
+    <updated>2015-05-28T19:05:48+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/28/amazon-announces-new-typographic-features-for-kindle-including-much-awaited-hyphenation</id>
+    <content type="html"><![CDATA[<p>John Brownlee, writing at <em>Fast Company</em>:</p>
+
+<blockquote><p>But the new app finally gives the boot to the hideous absolute justification of text that the Kindle’s been rocking since 2007. The new layout engine justifies text more like print typesetting. Even if you max out the font size on the new Kindle app, it will keep the spacing between words even, intelligently hyphenating words and spreading them between lines as need may be.</p>
+
+<p>The layout engine also contains some beautiful new kerning options. They’re subtle, but once you see them, you can’t unsee them: for example, the way that the top and bottom of a drop cap on the Kindle now perfectly lines up with the tops and bottoms of its neighboring lines. Like I said, it’s a small detail, but one that even Apple’s iBooks and Google Play Books doesn’t manage to quite get right.</p></blockquote>
+
+<p>I’ve always hated justification in my Kindle books. This sounds like a great update, but Marco Arment <a href="http://www.marco.org/2015/05/27/kindle-bookerly">isn’t impressed</a>, so take it with a grain of salt:</p>
+
+<blockquote><p>Now, hyphenation is being added (which Amazon is doing not by changing the client-side configuration, but by slowly updating their entire catalog of the books themselves to individually enable it, and it <a href="https://twitter.com/dvsch/status/603674183483162624">won’t apply</a> <a href="https://twitter.com/dvsch/status/603674304404918272">to all books</a>). Hyphenation is a big improvement for the books that get it, and makes justified text suck less, but it still sucks.</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

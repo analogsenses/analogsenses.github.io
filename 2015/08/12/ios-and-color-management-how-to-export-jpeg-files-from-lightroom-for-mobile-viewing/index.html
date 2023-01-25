@@ -1,0 +1,402 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Why your pictures can look weird on mobile devices (and how to fix them) - Analog Senses</title>
+  <meta name="author" content="Álvaro Serrano">
+
+  
+  <meta name="description" content="iOS is very particular when it comes to color management, which is why some of your pictures look weird when viewed on mobile devices. Here’s what &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.analogsenses.com/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/feed" rel="alternate" title="Analog Senses" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!-- These are the scripts enablig TypeKit font integration -->
+<script type="text/javascript" src="http://use.typekit.com/kfs5avd.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!-- Script for footnotes popover, by Matt Gemmell -->
+<script src='/javascripts/footnotes.js' type="text/javascript"></script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<!-- Load Fancybox -->
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<!-- Custom Scripts -->
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-49872330-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+	<div class="analog-senses">
+		<div class="site-title">
+			<h1><a class="analog" href="/">Analog</a><a class="senses" href="/">Senses</a></h1>
+		  	
+		    	<h2>By ÁLVARO SERRANO</h2>
+		  	
+  		</div>
+  </div>
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/feed" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+<ul class="main-navigation">
+  <!--<li><a href="/">Blog</a></li>-->
+  <li><a href="/about">About</a></li>
+  <li><a href="/archive">Archive</a></li>
+  <li><a href="/guides">Guides</a></li>
+  <li><a href="/photostories">Photo Stories</a></li>
+  <li><a href="/feed">RSS</a></li>
+  <li><a rel="me" href="https://mastodon.social/@alvaroserrano">Mastodon</a></li>
+</ul>
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+		<!-- This is the case when we have background images in the title.-->
+		 	
+			 	<div id="landing-point" class="title-with-image">
+					
+					<img src="https://c3.staticflickr.com/9/8723/28266096082_df62e4c9f5_o.jpg"/>
+					
+					
+					
+					
+					
+						<div class="title-with-image-header" >
+							<h1>Why your pictures can look weird on mobile devices (and how to fix them)</h1>
+						</div>
+						
+							<div class="meta">
+						      
+						      
+
+
+
+
+
+						      
+						      	<p>August 12, 2015</p>
+						      
+						    </div>
+						
+				</div>
+			
+		
+	
+  </header>
+
+
+<div class="entry-content"><p>A few weeks ago I noticed something weird with some of my pictures: every time I opened a JPEG file from Lightroom on my iPhone the colors looked completely wrong and washed out, as if the image was heavily desaturated.</p>
+
+<p>This is something I do often. When, for example, I want to <a href="http://www.analogsenses.com/2015/06/17/sharing-pictures-from-a-dedicated-camera-on-instagram-what-works-and-what-needs-fixing/">post a picture from my dedicated camera to Instagram</a>, I export it as a JPEG file using Lightroom, send it to my phone via iMessage or Dropbox, and upload it to Instagram. The problem is, by the time the pictures arrive to my phone, the colors are all messed up.</p>
+
+<p>Take a look at this image, for example:</p>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5818/19913601234_4b1d7b4e6b_o.jpg"/></p>
+
+
+<p>If you’re reading this on a Mac or a Windows PC, that should look fine. However, this is what that same image looks like when viewed on an iOS device:</p>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5746/20528728952_e54f0dbc90_o.jpg"/></p>
+
+
+<p>And for those of you reading this on iOS devices, this is what both images <em>should</em> look like:</p>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5750/20348091680_a26ecd706b_o.jpg"/></p>
+
+
+<p>Have I got your attention now? Good.</p>
+
+<p>Remember, all three of those images are <em>the exact same file</em>. Since a Mac always displays the correct colors, I had to take screenshots on my iPad to be able to show you the difference. And what a difference it is. Here’s a side by side comparison, to further drive the point home:</p>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5684/20356583568_2f415d9387_o.jpg"/></p>
+
+
+<p>OK, so what the hell is going on here?</p>
+
+<h2>Welcome to the wonderful world of color management</h2>
+
+<p>The reason this phenomenon occurs is something called <a href="https://en.wikipedia.org/wiki/Color_management">color management</a>. From Wikipedia:</p>
+
+<blockquote><p>The primary goal of color management is to obtain a good match across color devices; for example, the colors of one frame of a video should appear the same on a computer LCD monitor, on a plasma TV screen, and as a printed poster. Color management helps to achieve the same appearance on all of these devices, provided the devices are capable of delivering the needed color intensities.</p>
+
+<p>Parts of this technology are implemented in the operating system (OS), helper libraries, the application, and devices. A cross-platform view of color management is the use of an ICC-compatible color management system.</p></blockquote>
+
+<p>This definitely sounds like a great idea, at least on paper, but here’s the problem: iOS is <em>extremely</em> particular when it comes to color management.</p>
+
+<p>From Apple’s own <a href="https://developer.apple.com/library/ios/technotes/tn2313/_index.html#//apple_ref/doc/uid/DTS40014694-CH1-TARGETEDCOLORMGMT">iOS Developer Library</a> (emphasis mine):</p>
+
+<blockquote><p>iOS application development uses the targeted color management model. Your content is matched to the sRGB color space on the authoring platform. <strong>This matching is not performed dynamically on the iOS device.</strong> Instead, it happens during authoring on your Mac OS X desktop. (&hellip;)</p>
+
+<p><strong>Targeted color management may also occur when you sync content to your mobile device. In fact, iTunes running on the desktop provides color management to the iOS targeted color space when you sync content from iPhoto to your iOS device.</strong></p></blockquote>
+
+<p>What this means is that, when you sync your pictures to an iOS device using iTunes, your Mac is doing all the heavy lifting behind the scenes, making sure the images are color-matched to the <a href="https://en.wikipedia.org/wiki/SRGB">sRGB color space</a> before copying them over to your device.</p>
+
+<p>That’s a clever bit of engineering right there, but what happens if you don’t sync your pictures using a proper authoring tool such as iTunes? What if you simply copy some unmatched JPEG files over to your iPhone by, for example, iMessaging them to yourself or syncing them to a Dropbox folder?</p>
+
+<p>Well, what happens is that iOS’s targeted color management system cannot find the proper relationship between the actual colors in your images and the colors of the sRGB space it knows how to work with, and therefore it can’t display accurate colors.</p>
+
+<p>There are two critical factors at play here:</p>
+
+<ol>
+<li><p>iOS devices are only able to resolve the sRGB color space.</p></li>
+<li><p>The sRGB color space is considerably narrower than <a href="https://en.wikipedia.org/wiki/Adobe_RGB_color_space">Adobe RGB</a>, the color space typically used to calibrate computer displays, including Macs.</p></li>
+</ol>
+
+
+<p><img src="https://farm6.staticflickr.com/5734/20349993859_513314e832_o.jpg"/></p>
+
+<p class="photo-credit">The Adobe RGB color space vs the sRGB color space. Image source: <a href="https://en.wikipedia.org/wiki/File:CIExy1931_AdobeRGB_vs_sRGB.png">Wikimedia Commons</a>.</p>
+
+
+<p>iOS can’t deal with the Adobe RGB color space, which is why images matched to that color space look washed out when viewed on iOS devices. In order to avoid that, images must be color-matched to the sRGB space instead.</p>
+
+<p>Therefore, if you’re working with JPEG files that happen to be matched to the Adobe RGB color space, you need to you make sure your images are converted to the sRGB color space <em>before</em> copying them over to your iOS device, or you’re simply going to end up with washed out colors.</p>
+
+<p>Unsurprisingly, this is exactly what Apple recommends doing (again, from the same iOS Developer Library document):</p>
+
+<blockquote><p>When your content is imported, convert it to the working color space sRGB. <strong>Even if your media is in a wider gamut (for example, raw photos), and your monitor can display wider than the sRGB gamut, your color managed application will translate those colors to sRGB, the color space for the finished product</strong>. By using an sRGB working color space you can get an accurate prediction of what your media will look like when displayed on the actual iOS device.</p></blockquote>
+
+<p>As you may have guessed by now, most of my images had been matched to the Adobe RGB color space when I exported them to JPEG from my RAW files using Lightroom. This caused the weird effect you saw at the beginning of the article. It may sound like an insignificant detail, but the impact it can have on your images is profound. Here’s another example:</p>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5735/20551031851_41cd63f06c_o.jpg"/></p>
+
+
+<p>Luckily, if you’re experiencing this issue with your own images, there’s a simple way to configure Lightroom — or, I’m sure, your photo-editing application of choice — to make sure we always use the correct sRGB profile when exporting our images as JPEGs. Let’s see how we can do it.</p>
+
+<h2>Lightroom’s “Export&hellip;” dialog</h2>
+
+<p>We access Lightroom’s export dialog via the menu item:</p>
+
+<p><strong><em>File->Export&hellip;</em></strong></p>
+
+<p>Alternatively, you can use the keyboard shortcut <strong>⇧⌘E</strong>.</p>
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5771/20528456682_4e1f11f60b_o.png" width="1162"/></p>
+
+
+<p>On this dialog, we can configure the export settings for this batch of images, including their size, quality, resolution, name, metadata, etc. Crucially, it is here that we can select the appropriate color space for our files, too.</p>
+
+<p>In order to do that, we must set the “<strong>Export To</strong>” drop-down menu on the top left to “<strong>Hard Drive</strong>”, and in the “<strong>File Settings</strong>” area on the right, we must set the “<strong>Color Space</strong>” drop-down menu to “<strong>sRGB</strong>”.</p>
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5684/20543801861_70e425a2e8_o.png" width="1162"/></p>
+
+
+
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5689/19914711214_6884161679_o.png" width="1162"/></p>
+
+
+
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5658/19916444033_2dd5169b67_o.png" width="1162"/></p>
+
+
+<p>Once we’ve done this, we can save our settings as a new preset by clicking on “<strong>Add</strong>” in the lower left area, selecting a name for our preset and clicking “<strong>Create</strong>”. This way we’ll be able to simply select our preset next time we want to export photos, and everything will be properly configured.</p>
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5792/20543856521_2c001d987c_o.png" width="1162"/></p>
+
+
+
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5661/20349279520_790080a08b_o.png" width="494"/></p>
+
+
+
+
+<p class="full-width-screenshot"><img class="screenshot" src="https://farm6.staticflickr.com/5799/20349331238_ffb72cccb4_o.png" width="1162"/></p>
+
+
+<p>And that’s it. As with most obscure settings, it’s really simple to change this one, but you absolutely need to know what you’re doing.</p>
+
+<h2>Reasonable expectations</h2>
+
+<p>This was one of the most frustrating tech-related issues I’ve experienced in years, in no small part because I’ve realized that <em>all images ever published on Analog Senses</em> — not to mention in my reviews for <em>Tools &amp; Toys</em> — use the wrong color space, and therefore <em>they all look wrong on mobile devices</em>. That’s something that pisses me off to no end.</p>
+
+<p>Solving this problem was not technically difficult, but it required a level of research and technical reading that I’m not sure most people would feel comfortable doing. There needs to be a better way to approach color management on iOS, one that works for <em>all</em> users, not only those technically savvy enough to navigate their way through Apple’s obscure support document library.</p>
+
+<p>What I find most appalling about all this is that <em>by design</em>, the burden to make sure our images are matched to the correct color space falls squarely on us, the users. This may make sense from an engineering and resource-consumption standpoint, but from a user experience point of view, it leaves much to be desired. In general, I can’t help but feel that color management is something that should always happen automatically behind the scenes.</p>
+
+<p class="full-width"><img src="https://farm6.staticflickr.com/5707/20356609780_25651302ef_o.jpg"/></p>
+
+
+
+
+<p class="photo-credit">This is how colors should always look.</p>
+
+
+<p>It may have required a wild dose of ignorance and bad luck together for me to run into this issue, but I don’t think it’s unreasonable for normal users to select the Adobe RGB color space when prompted to choose one by Lightroom, simply because it’s probably the only one that sounds vaguely familiar to non-tech people.</p>
+
+<p>Moreover, since the difference is not immediately obvious on a computer screen, most users probably won’t realize what’s happened until they view their images on a mobile device, and by then it may be too late to do something about it.</p>
+
+<p>If you want to make sure your images are always displayed accurately on mobile devices, follow the above steps (or find the appropriate ones for your photo-editing application of choice) to make sure you’re always using the sRGB color space when exporting your images. Yes, it’s a small additional step to add to your workflow, but it may save you a ton of headache down the road.</p>
+
+<p class="extra-width"><img src="https://farm6.staticflickr.com/5702/20357321528_9d28c6b387_o.jpg"/></p>
+
+</div>
+
+	<section class="amazon-native-ad">
+		<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=9aff2285-f7f2-4036-a3fb-6bf1060d040f&storeId=analsens03-20"></script>
+	</section>
+  <footer>
+    <p class="meta">
+      <!--
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Álvaro Serrano</span></span>
+-->
+      
+
+
+
+
+
+      <span class='month'>August</span> <span class='day'>12</span>, <span class='year'>2015</span>
+      
+      • Published in 
+
+<span class="categories">
+  
+    <a class='category' href='/categories/digital-life/'>digital life</a>, <a class='category' href='/categories/photography/'>photography</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  <p>Share this article:</p>
+  
+<h3><a class="sharing-twitter-link" href="https://twitter.com/intent/tweet?url=http://www.analogsenses.com/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing/&text=“Why your pictures can look weird on mobile devices (and how to fix them)”%20by%20@analogsenses" title="Share on Twitter">Twitter</a>
+  
+  
+ • <a class="sharing-facebook-link" href="https://www.facebook.com/dialog/share?app_id= 132875883452395&display=popup&href=http://www.analogsenses.com/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing/&redirect_uri=http://www.analogsenses.com/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing/" title="Share on Facebook" target="_blank">Facebook</a>
+  
+  
+ • <a class="sharing-googleplus-link" href="https://plus.google.com/share?url=http://www.analogsenses.com/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing/" title="Share on Google+" target="_blank">Google+</a>
+  
+  
+ • <a class="sharing-email-link" href="mailto:?subject=Why your pictures can look weird on mobile devices (and how to fix them)%20by%20Álvaro%20Serrano&body=http://www.analogsenses.com/2015/08/12/ios-and-color-management-how-to-export-jpeg-files-from-lightroom-for-mobile-viewing/" title="Share via email" target="_blank">Email</a>
+  
+  </h3>
+</div>
+
+    
+    <p class="meta-alignment">
+      
+        <a class="basic-alignment left" href="/2015/08/12/lenovo-used-a-hidden-windows-feature-to-ensure-its-software-could-not-be-deleted/" title="Previous Post: Lenovo used a hidden Windows feature to ensure its software could not be deleted">&laquo; Lenovo used a hidden Windows feature to ensure its software could not be deleted</a>
+      
+      
+        <a class="basic-alignment right" href="/2015/08/15/morning-coffee-issue-number-10/" title="Next Post: Morning Coffee, issue #10">Morning Coffee, issue #10 &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+<!---->
+</div>
+<!--
+<aside class="sidebar">
+  
+    
+  
+</aside>
+-->
+
+    </div>
+  </div>
+  <footer role="contentinfo">
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="analogsenses.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Site Search"/>
+  </fieldset>
+</form>
+  
+<p>Analog Senses uses Amazon Affiliate links whenever possible. <a href="/about">Read more</a>.</p>
+<p>Copyright &copy; 2009-2023 Álvaro Serrano</p>
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: music | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/music/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What we lose in a streaming music world]]></title>
+    <link href="http://www.analogsenses.com/2016/05/18/what-we-lose-in-a-streaming-music-world/"/>
+    <updated>2016-05-18T20:54:01+02:00</updated>
+    <id>http://www.analogsenses.com/2016/05/18/what-we-lose-in-a-streaming-music-world</id>
+    <content type="html"><![CDATA[<p>Solid essay by Richard J. Anderson on the likely implications of the music industry changing from a streaming-first to a streaming-only business model:</p>
+
+<blockquote><p>It feels like the move to streaming music means we’re losing something. What happens to music that isn’t available on a streaming service? How will you explore the music of a surprisingly good opening band when they don’t exist in the library of Apple Music, Spotify, or TIDAL? So much music that has touched my soul, you can’t stream it for love or money. I had to seek it out on my own, pawing through used music bins, or going to shows. When there’s an all-you-can eat buffet for $9.99, what’s the incentive to order something that isn’t on the menu?</p></blockquote>
+
+<p>Excellent point. The convenience of music streaming services like Spotify or Apple Music cannot be overstated, but I love owning my music, and I’m not about to stop doing it anytime soon.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apple Music now available on Android]]></title>
+    <link href="http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android/"/>
+    <updated>2015-11-10T20:05:24+01:00</updated>
+    <id>http://www.analogsenses.com/2015/11/10/apple-music-now-available-on-android</id>
+    <content type="html"><![CDATA[<p>Well, that was unexpected: Apple today released the Apple Music app for Android. There’s no mention of this on <a href="http://www.apple.com/pr/">Apple’s PR page</a>, which adds a certain clandestine flair to the whole thing. Eddy Cue did tweet about it <a href="https://twitter.com/cue/status/664156357956734976">a few minutes ago</a>, though.</p>
+
+<p>The app is labeled as beta, with several features missing or incomplete:</p>
+
+<blockquote><ul>
+<li>Music videos are coming soon.</li>
+<li>Family membership sign-ups and upgrades require Mac or iOS.</li>
+<li>Sign-up process to be optimized for Android.</li>
+</ul>
+</blockquote>
+
+<p>Nothing too important missing here, but these omissions are worth keeping in mind anyway. Also, the way I understand the family membership situation is: you <em>can</em> use the app with a family membership, you just can’t sign up for the membership or upgrade to it from within the app.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sir David Attenborough narrates Adele’s Hello]]></title>
+    <link href="http://www.analogsenses.com/2015/11/04/sir-david-attenborough-narrates-adeles-hello/"/>
+    <updated>2015-11-04T21:17:53+01:00</updated>
+    <id>http://www.analogsenses.com/2015/11/04/sir-david-attenborough-narrates-adeles-hello</id>
+    <content type="html"><![CDATA[<p>This is awesome on so many levels:</p>
+
+<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/enu-qR0H_uk" allowfullscreen></iframe></div></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DRM is the real difference between iTunes Match and iCloud Music Library]]></title>
+    <link href="http://www.analogsenses.com/2015/07/01/drm-is-the-real-difference-between-itunes-match-and-icloud-music-library/"/>
+    <updated>2015-07-01T18:30:50+02:00</updated>
+    <id>http://www.analogsenses.com/2015/07/01/drm-is-the-real-difference-between-itunes-match-and-icloud-music-library</id>
+    <content type="html"><![CDATA[<p>Kirk McElhearn:</p>
+
+<blockquote><p>Both match your iTunes library and store your purchases. Both allow you to access these files, and listen to them, on multiple devices. But with iTunes Match, when you download a matched or uploaded file, you get either the iTunes Store matched copy, or the copy that iTunes uploaded of your original file.</p>
+
+<p>When you match and download files from iCloud Music Library, however, you get files with DRM; the same kind of files you get when you download files from Apple Music for offline listening.</p></blockquote>
+
+<p>Via Dave Mark at <em><a href="http://www.loopinsight.com/2015/07/01/icloud-music-library-adds-drm-to-your-matched-files/">The Loop</a></em>, who adds:</p>
+
+<blockquote><p>The critical issue here is backing up your un-DRMed music files. Unlike iTunes Match, if you download matched un-DRMed files from iCloud Music Library, you’ll end up with a DRMed version of those files. To repeat this another way, if iCloud Music Library takes in a song file with no DRM and it has a DRM version of that same song, you’ll have no way to get back your original song file without DRM.</p></blockquote>
+
+<p>Being an iTunes Match subscriber myself, this seems absolutely unacceptable to me. The way I see it, for as long as I’m an iTunes Match subscriber, if the iTunes Store has a DRM-free version of my music, I should <em>always</em> get that version, regardless of whether I’m using Apple Music or not.</p>
+
+<p>That’s not only what Apple promised with iTunes Match, it’s the whole point of the service to exist in the first place: you pay $25 a year and get access to <em>your own music</em> from any device. The DRM-protected files in Apple Music may sound like my songs but they are not, in fact, my songs. That’s an important distinction that Apple seems happy to just sweep under the rug.</p>
+
+<p>Actually, it’s very surprising to me that Apple doesn’t even mention DRM anywhere in their entire <a href="https://www.apple.com/music/">Apple Music</a> website. That’s a little rich coming from the company that made <a href="https://web.archive.org/web/20080107121341/http://www.apple.com/hotnews/thoughtsonmusic/">such a big deal</a> out of removing it in the first place.</p>
+
+<p>There aren’t many ways to fix this: either Apple refunds all iTunes Match subscribers for the time they have left in their subscriptions — a pretty poor solution as far as solutions go — or they honor their original commitment and start serving DRM-free files to those users.</p>
+
+<p>So instead of juggling iTunes Match users vs Apple Music users and treating them differently, why not aim for something more Apple-like and eliminate DRM completely across the board? That’s the kind of thing I expect from Apple. They’re not a company that enters a new space only to maintain the previous status quo.</p>
+
+<p>The reasons for DRM to exist today in Apple Music are no better than the reasons for it to exist in the iTunes Music Store back in 2006. In fact, they’re actually the exact same reasons. Sure, devices have changed and streaming services have their own particular usage patters, but the fact remains: whoever wants to pirate music will do it, DRM or not, and this stance only hurts Apple’s own paying customers. Because let’s not forget, neither Apple Music nor iTunes Match are free services.</p>
+
+<p>Dear Apple: If music truly is in your DNA, act accordingly, and let your actions speak louder than your words.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Apple will pay artists during the 3-month free trial of Apple Music after all]]></title>
+    <link href="http://www.analogsenses.com/2015/06/22/apple-will-pay-artists-during-the-3-month-free-trial-of-apple-music-after-all/"/>
+    <updated>2015-06-22T13:27:49+02:00</updated>
+    <id>http://www.analogsenses.com/2015/06/22/apple-will-pay-artists-during-the-3-month-free-trial-of-apple-music-after-all</id>
+    <content type="html"><![CDATA[<p>There was quite a kerfuffle over the weekend, when Taylor Swift posted <a href="http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor">an open letter</a> to her official Tumblr blog in which she sharply criticized Apple for not paying artists during the 3-month free trial of Apple Music, which is due to launch at the end of the month. In her letter, Swift urged Apple to do the right thing and compensate musicians fairly from the get go:</p>
+
+<blockquote><p>I’m sure you are aware that Apple Music will be offering a free 3 month trial to anyone who signs up for the service. I’m not sure you know that Apple Music will not be paying writers, producers, or artists for those three months. I find it to be shocking, disappointing, and completely unlike this historically progressive and generous company.</p></blockquote>
+
+<p>Many have acknowledged the music star has a point, and now Apple has acknowledged that, too. Shortly after Swift’s letter was posted, Eddy Cue reacted by announcing on Twitter that Apple will pay artists even during the customer’s free trial period:</p>
+
+<center><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/AppleMusic?src=hash">#AppleMusic</a> will pay artist for streaming, even during customer’s free trial period</p>&mdash; Eddy Cue (@cue) <a href="https://twitter.com/cue/status/612824775220555776">June 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+
+<p>This is a perfect example of the huge power some music stars wield over the entire industry. If even Apple was backed into a corner and forced to rectify, where’s the limit?</p>
+
+<p>There’s no doubt huge corporations like Apple are still dictating the terms, but social media has given artists much of their leverage back. This is great news for all music lovers out there, and it paves the way for a more healthy relationship for everyone involved moving forward.</p>
+
+<p>Kudos to Taylor Swift for raising her voice, and kudos to Apple for listening.</p>
+]]></content>
+  </entry>
+  
+</feed>

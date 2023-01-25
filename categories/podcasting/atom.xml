@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: podcasting | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/podcasting/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, episode #56: Bitten in Inconvenient Places]]></title>
+    <link href="http://www.analogsenses.com/2018/02/10/candid-episode-number-56-bitten-in-inconvenient-places/"/>
+    <updated>2018-02-10T19:44:56+01:00</updated>
+    <id>http://www.analogsenses.com/2018/02/10/candid-episode-number-56-bitten-in-inconvenient-places</id>
+    <content type="html"><![CDATA[<p>I recount my Argentinian adventures, Marius writes about iPad photography workflows, and we offer some thoughts and resolutions for the new year.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, episode #55: What's With You and Eating Mosquitos?]]></title>
+    <link href="http://www.analogsenses.com/2018/01/03/candid-episode-number-55-whats-with-you-and-eating-mosquitos/"/>
+    <updated>2018-01-03T19:44:30+01:00</updated>
+    <id>http://www.analogsenses.com/2018/01/03/candid-episode-number-55-whats-with-you-and-eating-mosquitos</id>
+    <content type="html"><![CDATA[<p>Josh welcomes a new family member and I prepare for my upcoming trip to Argentina. We talk iPhone photography and travel preparation, including dealing with mosquitos, moisture, filters, and backing up your shots on the road.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, episode #54: Mint in Box]]></title>
+    <link href="http://www.analogsenses.com/2017/12/03/candid-episode-number-54-mint-in-box/"/>
+    <updated>2017-12-03T19:44:03+01:00</updated>
+    <id>http://www.analogsenses.com/2017/12/03/candid-episode-number-54-mint-in-box</id>
+    <content type="html"><![CDATA[<p>In this episode, we address some listener feedback before talking about our experiences and recommendations for dealing with eBay and other used markets for buying and selling.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, Episode #53: He´s got dust in his Lightroom]]></title>
+    <link href="http://www.analogsenses.com/2017/11/11/candid-episode-number-53-he's-got-dust-in-his-lightroom/"/>
+    <updated>2017-11-11T21:01:48+01:00</updated>
+    <id>http://www.analogsenses.com/2017/11/11/candid-episode-number-53-he&#8217;s-got-dust-in-his-lightroom</id>
+    <content type="html"><![CDATA[<p>There’s a new Lightroom in town! Well… two new Lightrooms. It’s all a bit confusing, but we’re here to help untangle it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Candid, Episode #52: Behind the Shot]]></title>
+    <link href="http://www.analogsenses.com/2017/11/03/candid-episode-number-52-behind-the-shot/"/>
+    <updated>2017-11-03T21:01:01+01:00</updated>
+    <id>http://www.analogsenses.com/2017/11/03/candid-episode-number-52-behind-the-shot</id>
+    <content type="html"><![CDATA[<p>In an experimental new segment, we choose an image from each others’ recent work and try to dissect the story and technique that went into realizing it. It was fun.</p>
+]]></content>
+  </entry>
+  
+</feed>

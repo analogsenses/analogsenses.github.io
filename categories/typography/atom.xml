@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: typography | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/typography/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Matthew Butterick’s ‘Typography in ten minutes’]]></title>
+    <link href="http://www.analogsenses.com/2015/02/18/buttericks-typography-in-ten-minues/"/>
+    <updated>2015-02-18T18:52:45+01:00</updated>
+    <id>http://www.analogsenses.com/2015/02/18/buttericks-typography-in-ten-minues</id>
+    <content type="html"><![CDATA[<p>Matthew Butterick, in the first chapter of his wonderful “<a href="http://practicaltypography.com/index.html">Butterick’s Practical Typography</a>” book:</p>
+
+<blockquote><p><strong>This is a bold claim, but I stand be­hind it:</strong> if you learn and fol­low these five ty­pog­ra­phy rules, you will be a bet­ter ty­pog­ra­pher than 95% of pro­fes­sional writ­ers and 70% of pro­fes­sional de­sign­ers. (The rest of this book will raise you to the 99th per­centile in both categories.)</p>
+
+<p>All it takes is ten min­utes—five min­utes to read these rules once, then five min­utes to read them again.</p></blockquote>
+
+<p>Solid advice, and it only gets better from here. If you care at all about typography, this book is a must-read.</p>
+
+<p>Via <a href="http://www.sparkjournal.net/journal/2015/2/typography-in-ten-minutes">Chris Gonzales</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The History of Typography]]></title>
+    <link href="http://www.analogsenses.com/2015/01/05/the-history-of-typography/"/>
+    <updated>2015-01-05T17:49:09+01:00</updated>
+    <id>http://www.analogsenses.com/2015/01/05/the-history-of-typography</id>
+    <content type="html"><![CDATA[<p>Wonderful animated short by Ben Barrett-Forrest. Via <a href="http://coudal.com/archives/2015/01/history_of_typo.php">Coudal</a>:</p>
+
+<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/wOgIkxAfJsk" allowfullscreen></iframe></div></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Typeset in the Future: The Typography of ‘Alien’]]></title>
+    <link href="http://www.analogsenses.com/2014/12/02/typeset-in-the-future-the-typography-of-alien/"/>
+    <updated>2014-12-02T21:19:42+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/02/typeset-in-the-future-the-typography-of-alien</id>
+    <content type="html"><![CDATA[<p>Whoa. This is <em>so</em> painstakingly detailed it makes my head hurt:</p>
+
+<blockquote><p>At this point, you might be thinking: “Wait – why are we talking about units of measurement? Why should I, Joe or Jane Blog-Reader, care about a typographic anomaly in the measurement units of a space-based computer?”</p>
+
+<p>You really should know the answer to that by now. Typography is <em>always</em> important.</p></blockquote>
+
+<p>You just <em>know</em> this is going to end badly.</p>
+]]></content>
+  </entry>
+  
+</feed>

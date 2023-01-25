@@ -1,0 +1,262 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The broken state of the RAW file format - Analog Senses</title>
+  <meta name="author" content="Álvaro Serrano">
+
+  
+  <meta name="description" content="The broken state of the RAW file format April 07, 2014 Last Saturday we went to a birthday party at a friend&rsquo;s house, which was the perfect &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.analogsenses.com/2014/04/07/the-broken-state-of-the-raw-file-format">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/feed" rel="alternate" title="Analog Senses" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!-- These are the scripts enablig TypeKit font integration -->
+<script type="text/javascript" src="http://use.typekit.com/kfs5avd.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!-- Script for footnotes popover, by Matt Gemmell -->
+<script src='/javascripts/footnotes.js' type="text/javascript"></script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<!-- Load Fancybox -->
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<!-- Custom Scripts -->
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-49872330-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+	<div class="analog-senses">
+		<div class="site-title">
+			<h1><a class="analog" href="/">Analog</a><a class="senses" href="/">Senses</a></h1>
+		  	
+		    	<h2>By ÁLVARO SERRANO</h2>
+		  	
+  		</div>
+  </div>
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/feed" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+<ul class="main-navigation">
+  <!--<li><a href="/">Blog</a></li>-->
+  <li><a href="/about">About</a></li>
+  <li><a href="/archive">Archive</a></li>
+  <li><a href="/guides">Guides</a></li>
+  <li><a href="/photostories">Photo Stories</a></li>
+  <li><a href="/feed">RSS</a></li>
+  <li><a rel="me" href="https://mastodon.social/@alvaroserrano">Mastodon</a></li>
+</ul>
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+		
+			<!-- Now we're back to normal posts. Note the links used under href in both headers.-->
+		 		<h1 class="entry-title">The broken state of the RAW file format</h1>
+			 	
+			      <div class="meta">
+			        
+
+
+
+
+
+			        
+			        	<p>April 07, 2014
+			        
+			        </p>
+			      </div>
+			    
+		 	
+		
+	
+  </header>
+
+
+<div class="entry-content"><p>Last Saturday we went to a birthday party at a friend&rsquo;s house, which was the perfect opportunity to take <a href="http://analogsenses.com/2014/04/07/on-self-doubt-photography-and-the-new-olympus-om-d-e-m10/">my new Olympus OM-D E-M10</a> out for a spin. I took a few dozen pictures and then a few more on Sunday, so by the end of the weekend I decided it was time to process the images on my computer and take a closer look to see if they were any good. I downloaded the RAW files and imported them into Aperture, but all I could see were black squares where the images should be. Apparently, Apple does not yet support the EM-10’s RAW file format in Aperture. Nor does Adobe’s Lightroom, by the way, so as of today, if you want to work with RAW files from the E-M10 on the Mac, unless you use the included Olympus Viewer 3 app, you’re out of luck. I keep asking myself, how can this be?</p>
+
+<p>The EM-10 is clearly a popular camera, and it’s been available for a few months already. I find it quite odd that neither of the two most popular photography applications for the Mac support it yet. This made me wonder about the RAW format itself, and after a few hours of research I have come to believe it is a profoundly broken system, and I wonder why nobody has found a way to solve it yet. I’m sure pro photographers have found a way to work around this, but it’s an issue that every aspiring photographer is going to have to deal with at some point, and it can be really frustrating. Of course I’m by no means an expert, so please take this with a grain of salt.</p>
+
+<p>From <a href="http://en.wikipedia.org/wiki/Raw_image_format">the Wikipedia entry</a>:</p>
+
+<blockquote>This industry-wide situation of inconsistent formatting has concerned many photographers who worry that their valuable raw photos may someday become inaccessible, as computer operating systems and software programs become obsolete and abandoned raw formats are dropped from new software. The availability of high-quality open source software which decodes raw image formats, particularly dcraw, has helped to alleviate these concerns. An essay by Michael Reichmann and Juergen Specht stated "here are two solutions – the adoption by the camera industry of A: Public documentation of RAW formats; past, present and future, or, more likely B: Adoption of a universal RAW format". "Planning for [US] Library of Congress Collections" identifies raw-file formats as "less desirable file formats", and identifies DNG as a suggested alternative.</blockquote>
+
+
+<p>The photography industry is now going through a period of great innovation, especially in the mirrorless sector, but it&rsquo;s also incredibly fragmented. Not only are there different RAW formats for each brand, but for each <em>camera</em>. So the OM-D E-M10 uses a different RAW format than the E-M5 and the PEN E-P5, even though all three cameras share the same sensor. It&rsquo;s insane. I honestly don&rsquo;t understand why the biggest players (Nikon, Canon, Sony, Leica, Fujifilm, Panasonic and Olympus to name a few) haven&rsquo;t already come up with a common, openly specified RAW format.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> I guess it must be because they&rsquo;re not interested, but I just don&rsquo;t see any downsides to it, and I certainly don&rsquo;t understand why they would prefer the current situation, where their customers are left to wait for months until they can fully enjoy all the features of their new cameras.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>There have been some efforts to develop an open standard, the most notable of which is <a href="http://en.wikipedia.org/wiki/Digital_Negative_(file_format">the DNG format</a>), but it&rsquo;s still nowhere near being widely used.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+</div>
+
+	<section class="amazon-native-ad">
+		<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=9aff2285-f7f2-4036-a3fb-6bf1060d040f&storeId=analsens03-20"></script>
+	</section>
+  <footer>
+    <p class="meta">
+      <!--
+  
+
+<span class="byline author vcard">Posted by <span class="fn">alvaroserrano</span></span>
+-->
+      
+
+
+
+
+
+      <span class='month'>April</span> <span class='day'>07</span>, <span class='year'>2014</span>
+      
+      • Published in 
+
+<span class="categories">
+  
+    <a class='category' href='/categories/digital-life/'>digital life</a>, <a class='category' href='/categories/photography/'>photography</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  <p>Share this article:</p>
+  
+<h3><a class="sharing-twitter-link" href="https://twitter.com/intent/tweet?url=http://www.analogsenses.com/2014/04/07/the-broken-state-of-the-raw-file-format/&text=“The broken state of the RAW file format”%20by%20@analogsenses" title="Share on Twitter">Twitter</a>
+  
+  
+ • <a class="sharing-facebook-link" href="https://www.facebook.com/dialog/share?app_id= 132875883452395&display=popup&href=http://www.analogsenses.com/2014/04/07/the-broken-state-of-the-raw-file-format/&redirect_uri=http://www.analogsenses.com/2014/04/07/the-broken-state-of-the-raw-file-format/" title="Share on Facebook" target="_blank">Facebook</a>
+  
+  
+ • <a class="sharing-googleplus-link" href="https://plus.google.com/share?url=http://www.analogsenses.com/2014/04/07/the-broken-state-of-the-raw-file-format/" title="Share on Google+" target="_blank">Google+</a>
+  
+  
+ • <a class="sharing-email-link" href="mailto:?subject=The broken state of the RAW file format%20by%20Álvaro%20Serrano&body=http://www.analogsenses.com/2014/04/07/the-broken-state-of-the-raw-file-format/" title="Share via email" target="_blank">Email</a>
+  
+  </h3>
+</div>
+
+    
+    <p class="meta-alignment">
+      
+        <a class="basic-alignment left" href="/2014/04/07/on-self-doubt-photography-and-the-new-olympus-om-d-e-m10/" title="Previous Post: On self-doubt, photography and the new Olympus OM-D E-M10">&laquo; On self-doubt, photography and the new Olympus OM-D E-M10</a>
+      
+      
+        <a class="basic-alignment right" href="/2014/04/07/my-sdk-is-complete/" title="Next Post: My SDK is complete">My SDK is complete &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+<!---->
+</div>
+<!--
+<aside class="sidebar">
+  
+    
+  
+</aside>
+-->
+
+    </div>
+  </div>
+  <footer role="contentinfo">
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="analogsenses.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Site Search"/>
+  </fieldset>
+</form>
+  
+<p>Analog Senses uses Amazon Affiliate links whenever possible. <a href="/about">Read more</a>.</p>
+<p>Copyright &copy; 2009-2023 Álvaro Serrano</p>
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

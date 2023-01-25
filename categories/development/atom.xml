@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: development | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/development/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How the new HTML 'Picture' element will make the Web faster | Ars Technica]]></title>
+    <link href="http://www.analogsenses.com/2014/09/02/new-html-picture-element-will-make-the-web-faster/"/>
+    <updated>2014-09-02T15:49:39+02:00</updated>
+    <id>http://www.analogsenses.com/2014/09/02/new-html-picture-element-will-make-the-web-faster</id>
+    <content type="html"><![CDATA[<p>Scott Gilbertson on the new HTML Picture element, which will allow mobile devices to selectively load smaller-res images on websites:</p>
+
+<blockquote>
+Web developers recognized this problem very early on in the growth of what was called the &#8220;mobile&#8221; Web back then. So more recently, a few of them banded together to do something developers have never done before—create a new HTML element.
+</blockquote>
+
+
+<p>Fascinating story.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Now serving delicious baked goods]]></title>
+    <link href="http://www.analogsenses.com/2014/08/31/now-serving-delicious-baked-goods/"/>
+    <updated>2014-08-31T12:59:01+02:00</updated>
+    <id>http://www.analogsenses.com/2014/08/31/now-serving-delicious-baked-goods</id>
+    <content type="html"><![CDATA[<p>If you&rsquo;re a frequent reader of the site, you may have noticed some changes around here recently. There&rsquo;s been a subtle redesign: the theme&rsquo;s header is less cluttered, I&rsquo;ve done away with the sidebar and I&rsquo;ve bumped up the font size a bit. I&rsquo;ve also consolidated several pieces of information that were scattered all around the place into one, very specific location: the all-important About page.</p>
+
+<h2>The look</h2>
+
+<p>This is what Analog Senses used to look like on a Mac:</p>
+
+<p><a href="https://www.flickr.com/photos/analogsenses/15080621286"><img src="https://farm4.staticflickr.com/3841/15080621286_08cac69de6_b.jpg" alt="Analog Senses Mac - WordPress by Álvaro Serrano, on Flickr" /></a></p>
+
+<p>And this is what it looks like now:</p>
+
+<p><a href="https://www.flickr.com/photos/analogsenses/15103261732"><img src="https://farm4.staticflickr.com/3874/15103261732_10aa140cd4_b.jpg" alt="Analog Senses Mac - Octopress by Álvaro Serrano, on Flickr" /></a></p>
+
+<p>This is what it used to look like on an iPhone:</p>
+
+<p><a href="https://www.flickr.com/photos/analogsenses/15080589436"><img src="https://farm6.staticflickr.com/5564/15080589436_465a752a25_z.jpg" alt="Analog Senses on iPhone, WordPress vs. Octopress by Álvaro Serrano, on Flickr" /></a></p>
+
+<p>And what it looks like now:</p>
+
+<p><a href="https://www.flickr.com/photos/analogsenses/14917362350"><img src="https://farm6.staticflickr.com/5585/14917362350_d3e183f680_o.jpg" alt="Analog Senses on iPhone - Octopress by Álvaro Serrano, on Flickr" /></a></p>
+
+<p>And finally, before on an iPad:</p>
+
+<p><a href="https://www.flickr.com/photos/analogsenses/15103635175"><img src="https://farm4.staticflickr.com/3907/15103635175_693cad6da6_h.jpg" alt="Analog Senses on iPad - WordPress vs. Octopress by Álvaro Serrano, on Flickr" /></a></p>
+
+<p>And now:</p>
+
+<p><a href="https://www.flickr.com/photos/analogsenses/15103273352"><img src="https://farm4.staticflickr.com/3864/15103273352_c06a66563f_h.jpg" alt="Analog Senses on iPad - WordPress vs. Octopress by Álvaro Serrano, on Flickr" /></a></p>
+
+<p>Those are fairly minor cosmetic changes, but I believe they add up to a more relaxed, more enjoyable reading experience for the site. At least, that was one of my intentions when I started tinkering around. It&rsquo;s also now a responsive design (which I believe was long overdue), so you should be able to read Analog Senses on your device of choice without compromising the experience. All things considered, I believe this is a substantial improvement and I&rsquo;m quite happy with how it turned out.</p>
+
+<h2>The feel</h2>
+
+<p>What you may not have noticed yet is that the site&rsquo;s performance has also improved dramatically. Pages should load considerably faster, and response times should be significantly lower. Here&rsquo;s a speed test comparison:</p>
+
+<p><a href="https://www.flickr.com/photos/analogsenses/14917607710"><img src="https://farm6.staticflickr.com/5576/14917607710_5a37c2df9b_o.png" alt="Speed Test Analog Senses - WordPress by Álvaro Serrano, on Flickr" /></a></p>
+
+<p><a href="https://www.flickr.com/photos/analogsenses/14917692038"><img src="https://farm4.staticflickr.com/3853/14917692038_d8568283ca_o.png" alt="Speed Test Analog Senses - Octopress by Álvaro Serrano, on Flickr" /></a></p>
+
+<p>That&rsquo;s a loading time over 7 times faster than before. There&rsquo;s a good explanation for that: Analog Senses is no longer powered by WordPress on the back-end, and is instead entirely static HTML generated by <a href="http://octopress.org">Octopress</a>, a blog-aware framework built around <a href="http://jekyllrb.com">Jekyll</a>. <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>This process of generating a static website is commonly known as &ldquo;baking&rdquo;, and I&rsquo;m <a href="http://mattgemmell.com/blogging-with-octopress/">far</a> from being the <a href="http://inessential.com/2009/01/30/new_publishing_system_tour_of_my_head">first</a> person to do it. Of course, you give up certain features in return, but in my case I believe the tradeoff is more than worth it.</p>
+
+<p>The reason I decided to do this was twofold: first, I had become unsatisfied with the site&rsquo;s performance and second, I wanted a more secure, more scalable solution that wouldn&rsquo;t require me to spend a small fortune in hosting costs.</p>
+
+<p><a href="/2014/08/21/building-a-lightweight-photography-kit-for-the-urban-professional/">One of my recent articles</a> was linked to by <a href="https://brooksreview.net/2014/08/building-a-lightweight-photography-kit-for-the-urban-professional/">The Brooks Review</a> and <a href="http://www.thenewsprint.co/2014/08/24/the-sunday-edition-18/">The Newsprint</a>, among others. The traffic influx I received was enough to make my server crumble under the pressure, even with W3 Total Cache installed. It didn&rsquo;t go completely dark, but it became very unresponsive, and I&rsquo;m obviously not happy with that. I suspect my shared hosting plan was at least as guilty as WordPress itself, if not more. Fixing it would&rsquo;ve probably required me to upgrade to a more expensive hosting plan, or ditch WordPress altogether. In the end, I chose to do both.</p>
+
+<p>The entire codebase of the site is now in a Git repository hosted on <a href="http://github.com">GitHub</a> and served by <a href="http://pages.github.com">GitHub pages</a>. This setup is not only much faster, more secure and robust than my previous hosting service, it&rsquo;s also free. This means I no longer need to pay for a dedicated hosting plan for the site, which translates into savings of over $100/year (and substantially more as traffic increases). Thanks to Git&rsquo;s built-in version control, I sleep better at nights, too.</p>
+
+<h2>The Baking Process</h2>
+
+<p>Migrating Analog Senses from WordPress and into Octopress was not trivial. Fortunately, there are many excellent resources available online from generous people who have gone to the trouble of documenting their prior experiences. In the following sections I will try to add my own two cents by providing a detailed description of the process I followed, with the hope that it will be helpful (or at least informative) to somebody else. <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+
+<p>To install Octopress and migrate my old posts, I followed <a href="http://zhen.org/blog/migrating-40000-posts-from-wordpress-to-octopress/">this great article</a> by <a href="https://twitter.com/zhenjl">Jian Zhen</a>. That is an excellent place to start if you&rsquo;re planning to migrate your own WordPress site.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
+
+<p>As Zhen recommends, I exported all entries from my old WordPress site with <a href="https://github.com/thomasf/exitwp">exitwp</a>, and I imported them into Octopress without any issues. The only thing I needed to do was to edit _config.yaml to change the default permalink structure to match my old permalinks. I also edited sources/_include/custom/navigation.html to remove the redundant /blog link from the site and add links to my other pages. I was now set to start customizing my Octopress install.</p>
+
+<p>I began by selecting a theme that would minimize the amount of customization needed to recreate a similar experience to what I had with WordPress. There are many excellent Octopress themes available, so look around for a while and you&rsquo;re guaranteed to find something to your liking. I went with <a href="https://github.com/vladigleba/readify">Readify</a>, by <a href="http://vladigleba.com">Vladi Gleba</a>.</p>
+
+<p>After tweaking the design, it was time to import my webfonts. Analog Senses uses two typefaces from Typekit: <a href="https://typekit.com/fonts/atrament-web">Atrament Web</a> and <a href="https://typekit.com/fonts/proxima-nova">Proxima Nova</a>. In order to use them with Octopress I updated and republished my kit as per Typekit documentation, and included the script in my sources/_include/custom/head.html file. I also changed sass/custom/_fonts.scss and sass/custom/_styles.scss to apply the new fonts to my theme.</p>
+
+<p>Additionally, Analog Senses uses another webfont from MyFonts: <a href="https://www.myfonts.com/fonts/fontdiner/lamplighter-script/">Lamplighter Script</a>. To get that to play nice with Octopress, I followed <a href="http://blog.bigdinosaur.org/using-at-font-face-with-octopress/">these instructions</a> by <a href="http://twitter.com/Lee_Ars">Lee Hutchinson</a> about how to properly declare the typeface using the @font-face CSS method.</p>
+
+<p>With aesthetics and typography mostly set, the next challenge on the list was to handle the Link posts. WordPress has a built-in Post Formats feature that lets you easily customize different styles for different types of posts (articles vs. links vs. quotes, in the case of Analog Senses). However, despite having <a href="http://octopress.org/docs/blogging/linklog/">a specific doc page</a> for this very feature, Octopress doesn&rsquo;t do this out of the box. It looks like they decided to leave this for theme developers to implement. Apparently, there is still a branch in the Git repository which implements that feature, but it&rsquo;s not the master branch and therefore it&rsquo;s not what I had cloned. Fortunately, <a href="http://www.candlerblog.com/2012/01/30/octopress-linked-list/">this great post</a> by <a href="https://twitter.com/poritsky">Jonathan Poritsky</a> explains how you can implement it yourself and it&rsquo;s really not that difficult.</p>
+
+<p>The problem with the way the Link posts are handled is that you need to manually add an external-url field to the YAML front matter in every Link post. Yes, every single one of them. There&rsquo;s probably a script somewhere to automate that, but I wanted to do it myself, since it was a good opportunity to revisit old entries and make sure that everything was still functioning. This was the most tedious and time-consuming step in the whole process, but I powered through it and after a couple days I was done.</p>
+
+<p>Then it was time for the RSS feed. Like most WordPress sites, my old feed was located at /feed, but in Octopress the default location is /atom.xml. In order to make it compatible with the previous feed so as to not inconvenience long-term subscribers, I followed <a href="http://luosky.com/2012/07/24/create-custom-rss-feed-for-octopress/">these instructions</a> by <a href="https://twitter.com/luosky">Luosky</a>.</p>
+
+<p>Now I was almost done, but there were still a few details I wanted to tweak. In order to improve the experience, I use several pieces of software that provide additional features. These are:</p>
+
+<ul>
+<li><p><a href="https://github.com/optikfluffel/octopress-responsive-video-embed">Octopress Responsive Video Embed</a> by Udo Kramer. This plugin allows me to responsively embed videos from several popular services, such as YouTube and Vimeo, so they can be played on smaller devices without any problems.</p></li>
+<li><p><a href="https://github.com/mrcasals/octopress_spotify_play_plugin">Octopress Spotify Play Button</a> by Marc Riera. It allows to embed songs, albums and playlists from Spotify. The maximum width of these elements is fixed at 300px, so there&rsquo;s no need for responsiveness here.</p></li>
+<li><p><a href="https://github.com/mattgemmell/footnotes-popover">Footnotes Popover</a> by <a href="http://mattgemmell.com">Matt Gemmell</a>. This Javascript code presents HTML footnotes as popovers that can be scrolled and dismissed. It&rsquo;s great for reading footnotes without losing your place in the article.</p></li>
+</ul>
+
+
+<p>Unfortunately, <a href="http://syeong.jcsg.com/2012/07/07/octopress-footnote-problem/">as Syeong Gan points out</a>, there is a problem in the way Octopress handles footnotes: when the same number is used for a footnote definition more than once in the same page, only the first instance of each number will be properly displayed. This can can lead to some errors, particularly on the index page. Luckily, he provides an easy fix in the form of his Footnotes plugin, which I&rsquo;m also using.</p>
+
+<p>And with that, everything was set up. Well, everything except for one thing: remote publishing. My local Octopress repository lives in my iMac, which generates the entire site every time I publish a new entry and then pushes it to GitHub. That means I need to physically be at my iMac whenever I want to publish new entries. That&rsquo;s fine if I&rsquo;m at home, but sometimes I like to work out of a local coffeehouse, or somewhere else, so I wanted to be able to do everything from my MacBook Pro for those times when I&rsquo;m on the go.</p>
+
+<p>There are several ways to achieve that, such as SSH tunneling into my iMac from my MacBook Pro, but those require the iMac to be on at all times. In the end I decided to do a second clone of my GitHub repo in my MacBook Pro, so that both computers can work together as equals. To do that, I followed <a href="http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/">this great post</a> by <a href="https://twitter.com/8ctopus">Robert Anderson</a>. It&rsquo;s actually pretty simple, but be particularly careful when switching computers, as you need to pull the changes from GitHub before you do anything else in order to stay in sync and avoid merging conflicts.</p>
+
+<p>That&rsquo;s it. Once everything was done, I only needed to <a href="https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages">point my domain name to GitHub pages</a> and wait for the DNS to propagate through the network. This article is the first entry to be published only on the new site, so if you&rsquo;re reading this, it means it worked. Thanks for making it this far.</p>
+
+<h2>Conclusion</h2>
+
+<p>All in all, it took me about a week to get everything done. It was a tedious process at times, but the end result is, I believe, much better and completely justifies the effort. Besides, it was a fine learning experience and now I feel like I&rsquo;m in complete control of my site, which is just the way I like it.</p>
+
+<p>I would like to take a moment now to thank all the fine folks that I&rsquo;ve mentioned throughout this article. Without their help this would have been a considerably more challenging affair. Thanks to their generosity, passion and dedication, the Internet is a better place.</p>
+
+<p>Now, let&rsquo;s keep writing!</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>The biggest implication of this is that the site is no longer tied to a MySQL database, which is not only the biggest performance bottleneck, but also the most vulnerable point of any dynamically-generated site. Instead, each article is now an HTML file generated ahead of time and sitting on a webserver, ready to be served upon request.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>If you are not technically inclined (i.e.: a geek), this will be pretty boring and now would probably be a good time to stop reading. <a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>The only thing I wasn&rsquo;t very clear on was that you actually need <em>two</em> different GitHub repos: one for the source code and another one for the publicly deployed website. This is explained in the article, but since I&rsquo;m a Git noob I didn&rsquo;t fully understand it at first, and it took some trial-and-error to figure out.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

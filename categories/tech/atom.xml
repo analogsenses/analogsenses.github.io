@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tech | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/tech/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ben Bajarin on Samsung and The Innovator’s Dilemma]]></title>
+    <link href="http://www.analogsenses.com/2015/11/02/ben-bajarin-on-samsung-and-the-innovators-dilemma/"/>
+    <updated>2015-11-02T20:06:31+01:00</updated>
+    <id>http://www.analogsenses.com/2015/11/02/ben-bajarin-on-samsung-and-the-innovators-dilemma</id>
+    <content type="html"><![CDATA[<p>Astute piece by Ben Bajarin on the likely future of Samsung, and Android as a whole:</p>
+
+<blockquote><p>One of the most interesting observations about all of this is the innovator’s Dilemma was supposed to impact Apple. This was a fundamental tenet of most bear cases. When the market for smartphones became filled with good enough devices at very low prices, why would anyone buy an iPhone? Yet this is impacting Samsung exactly according to the guidebook — but not Apple. The fundamental lesson to learn here is the innovator’s dilemma, in this case, only applies to Android land because all the hardware OEMs run the same operating system. As I’m fond of saying, when you ship the same operating system as your competition you are only as good as their lowest price. <a href="http://www.asymco.com/2010/10/28/re-framing-the-dichotomies-open-vs-closed-vs-integrated-vs-fragmented/">This is the curse of the modular business model</a>. This is also why Samsung had hopes for Tizen. They actually knew this was coming. I know this because I discussed it with them in 2013 and was convinced they understood this was their fate if they continued to sell out to Android. Unfortunately, Android was their only option given its momentum. <strong>I’ll make a prediction. Samsung will be out of the smartphone business within five years.</strong></p></blockquote>
+
+<p>It&rsquo;s a bold prediction, no doubt, but bear with him.</p>
+
+<p>Not many people would have predicted Nokia’s fate in 2007. The Finnish company was comfortably leading the mobile phone market back then and yet, by 2011 — a mere four years after the iPhone launched — they were so desperate already that they entered into a partnership with Microsoft, which would lead to the eventual acquisition of its mobile phone business and, ultimately, the demise of the Nokia brand in the sector.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Re/code acquired by Vox Media]]></title>
+    <link href="http://www.analogsenses.com/2015/05/27/re-slash-code-acquired-by-vox-media/"/>
+    <updated>2015-05-27T17:32:04+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/27/re-slash-code-acquired-by-vox-media</id>
+    <content type="html"><![CDATA[<p>Yesterday, Walt Mossberg and Kara Swisher announced in a joint statement that <em>Re/code</em> is getting bought by Vox Media:</p>
+
+<blockquote><p>We are thrilled to announce that <strong>Re/code’s</strong> parent company, Revere Digital, is being wholly acquired by the highly respected digital-native media company <a href="http://www.voxmedia.com/">Vox Media</a>. This is the next big step in our mission to bring you quality tech journalism, because our work will now be amplified and enhanced by Vox Media’s deep and broad skill set.</p></blockquote>
+
+<p>Thrilled, we tell you. This is great news! Call me paranoid, but I don’t like it. And the positive spin they felt they needed to include to avoid awkward comparisons with <em>The Verge</em> doesn’t help:</p>
+
+<blockquote><p>We plan as well to collaborate where appropriate with Vox Media’s current and very successful tech news site, <a href="http://www.theverge.com/">The Verge</a>. While the two sites occasionally overlap, we have focused on the business of tech, while The Verge has focused on covering tech from a lifestyle perspective.</p></blockquote>
+
+<p>Riiight. Got it. No conflict at all there. But wait a second, here’s an excerpt from Walt Mossberg’s ethics statement, which is available as a popover window next to his contact information in the article’s header:</p>
+
+<blockquote><p>I am not an objective news reporter, and am not responsible for business coverage of technology companies. I am a subjective opinion columnist, a reviewer of consumer technology products and a commentator on technology issues. I don’t offer investment advice, or follow the financial progress or stock prices of technology companies. I focus on products and services, not revenues and earnings.</p></blockquote>
+
+<p>So, let me get this straight. <em>Re/code</em> has “focused on the business of tech”, but Walt Mossberg is “not responsible for business coverage of technology companies”.</p>
+
+<p>How does that work again, exactly?</p>
+
+<p>Seriously. I get that <em>Re/code</em> is bigger than Walt Mossberg, but he is definitely one of the main draws for the audience. I’d be willing to bet that many people, probably even <em>most</em> people, go to <em>Re/code</em> to read his reviews and then stay for the rest. I know because I am one of those people. Which makes all of this rather important. How is his work on the site any different than what <em>The Verge</em> does? Are they seriously expecting us to believe all of a sudden that <em>Re/code</em> is just a business site that just happens to feature one of the most popular and respected product reviewers on the Internet?</p>
+
+<p>Just once, I’d like to see a company being acquired treat their customers — in this case, their readers — with respect, and state upfront that they did it mostly because the money was too good to turn down, and that they have no clue how things are going to work out moving forward but they’re hoping for the best. That wouldn’t be very encouraging, but at least it wouldn’t be an insult to our intelligence, either.</p>
+
+<p>Having said all that, I really do hope things work out well for everyone involved, because Re/code is one of my favorite sites, and I have nothing but admiration for the work they do.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Craig Hockenberry on OLED displays]]></title>
+    <link href="http://www.analogsenses.com/2015/03/25/craig-hockenberry-on-oled-displays/"/>
+    <updated>2015-03-25T17:51:23+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/25/craig-hockenberry-on-oled-displays</id>
+    <content type="html"><![CDATA[<p>Craig Hockenberry explains the differences between LCD and OLED displays. OLED is the display technology that is expected to make its debut in Apple’s product lineup with the Apple Watch:</p>
+
+<blockquote><p>One of my first impressions of the WATCH user interface was that it used a lot of black. This makes the face of the device feel more expansive because you can’t see the edges. But more importantly, those black pixels are saving power and extending the life of the display. It’s rare that engineering and design goals can align so perfectly.</p>
+
+<p>And from what we’ve seen so far of the watch, that black is really <em>really</em> black. We’ve become accustomed to blacks on LCD displays that aren’t really dark: that’s because the crystals that are blocking light let a small amount pass through. Total darkness lets the edgeless illusion work.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How Life360 won its patent war]]></title>
+    <link href="http://www.analogsenses.com/2015/03/20/how-life360-won-its-patent-war/"/>
+    <updated>2015-03-20T23:20:24+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/20/how-life360-won-its-patent-war</id>
+    <content type="html"><![CDATA[<p>Great reporting by Joe Mullin of Ars Technica. Last year, Life360 CEO Chris Hulls received a patent demand letter from a company named AGIS, threatening to sue if they didn&rsquo;t agree to license four of their patents. Hulls&rsquo;s response was as hilarious as it was ballsy:</p>
+
+<blockquote><p><em>Dear Piece of Shit,</em></p>
+
+<p><em>We are currently in the process of retaining counsel and investigating this matter. As a result, we will not be able to meet your Friday deadline. After reviewing this matter with our counsel, we will provide a prompt response.</em></p>
+
+<p><em>I will pray tonight that karma is real, and that you are its worthy recipient,</em></p>
+
+<p><em>Chris</em></p></blockquote>
+
+<p>And that’s just the beginning.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Marco Arment on the future of the dumbwatch]]></title>
+    <link href="http://www.analogsenses.com/2015/03/20/marco-arment-on-the-future-of-the-dumbwatch/"/>
+    <updated>2015-03-20T22:59:19+01:00</updated>
+    <id>http://www.analogsenses.com/2015/03/20/marco-arment-on-the-future-of-the-dumbwatch</id>
+    <content type="html"><![CDATA[<p>Marco Arment:</p>
+
+<blockquote><p>The Apple Watch isn’t just a watch, interchangeable like any other. It’s an entire mobile computing and communication platform, and a significant enhancement to the smartphone, which is probably the most successful, ubiquitous, and disruptive electronic device in history.</p>
+
+<p>Once you’re accustomed to wearing one, going out for a night without your Apple Watch is going to feel like going out without your phone.</p></blockquote>
+
+<p>I think his reasoning is absolutely spot-on, but I disagree with his conclusion. Yes, going out without your Apple Watch will feel a lot like going out without your phone, except <em>your phone will still be in your pocket.</em> There&rsquo;s nothing important you’re left unable to do by leaving the watch behind, because you can just use your phone instead.</p>
+
+<p>Actually, for the same reason I almost never pull my phone out of my pocket when I&rsquo;m out with friends, I believe I’d be extremely likely to <em>want</em> to leave the Apple Watch at home when I go out. I don&rsquo;t want to be interrupted by a million notifications all night long when I just want to have a good time and relax with some friends.</p>
+
+<p>So, while I definitely appreciate everything the Apple Watch can do for me during the day, at night I still see myself wearing my nice dumbwatch instead. And if there&rsquo;s something I really need to do I can just take my phone out, get it over with, put it back in my pocket and go back to my whisky.</p>
+]]></content>
+  </entry>
+  
+</feed>

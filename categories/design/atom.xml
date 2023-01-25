@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/design/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bad design: on the ISO dial of the new Leica M-D]]></title>
+    <link href="http://www.analogsenses.com/2016/04/29/bad-design-on-the-ISO-dial-of-the-new-leica-m-d/"/>
+    <updated>2016-04-29T12:29:19+02:00</updated>
+    <id>http://www.analogsenses.com/2016/04/29/bad-design-on-the-ISO-dial-of-the-new-leica-m-d</id>
+    <content type="html"><![CDATA[<p>The latest member of the Leica family was unveiled this week, and it’s been making the rounds all over the Internet on account of its unique design philosophy. What can you say about a $6,000 camera that doesn’t have an LCD display, doesn’t shoot video, and doesn’t even shoot JPEGs? Lots of things, apparently.</p>
+
+<p>The <a href="https://en.leica-camera.com/Photography/Leica-M/Leica-M-D">Leica M-D</a> is supposed to be all about the process, and going back to “the sheer essentials of photography”. Simplicity. Photography in its purest form. Those are Leica’s own words, mind you.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure>
+<img src="https://farm2.staticflickr.com/1476/26683227456_3d12295c81_o.png" width="408"/></p>
+
+<p class="photo-credit">The Leica M-D has an ISO dial where its LCD should be. Image source: <a href="https://en.leica-camera.com/Photography/Leica-M/Leica-M-D">Leica</a>.</p>
+
+
+<p></figure></notextile></div></p>
+
+<p>Simplicity is always a compelling marketing message, and I’ll be the first to admit that on paper, the M-D sounds great — or it would if not for that ludicrous price tag. However, cool concepts not always translate well into physical products, and the new Leica M-D seems to be the new poster child for this unfortunate problem.</p>
+
+<p>The biggest issue with the Leica M-D — there are lots, but this one is particularly aggravating — is the new ISO dial. For context, here’s what <a href="http://thenewsprint.co/2016/04/28/leica-announces-the-leica-m-d-typ-262/">Josh Ginter</a> had to say about it:</p>
+
+<blockquote><p>Aside from the fact this entire camera looks to be, at best, a joke, and at worst, an insult, I can’t get past the positioning of the ISO dial. Are you supposed to reach over there with your thumb when your eye is to the viewfinder? Or are you supposed to set ISO before composing?</p></blockquote>
+
+<p>I couldn’t agree more with his overall assessment of the camera, but there’s a very good reason the ISO dial caught his eye: it doesn’t make sense.</p>
+
+<p>The ISO dial on the new Leica M-D harkens back to the ASA dials on classic film Leicas.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> This will be instantly recognizable to any Leica enthusiast, and it ensures consistency in Leica’s design language. It also looks really cool. However, there’s a fundamental difference between those old ASA dials and the one on the M-D, and that’s where the whole thing breaks down.</p>
+
+<p><div class='bogus-wrapper'><notextile><figure>
+<img src="https://farm2.staticflickr.com/1563/26437093280_a99d575f80_o.jpg" width="240"/></p>
+
+<p class="photo-credit">The ASA dial on the back of a classic Leica M3 film camera. Image source: <a href="https://en.wikipedia.org/wiki/Leica_M3#/media/File:Leica_M3_mg_3628.jpg">Rama</a>.</p>
+
+
+<p></figure></notextile></div></p>
+
+<p>Classic film Leicas, like the legendary M3, were fully manual cameras that didn’t even have built-in light meters. On those cameras, the ASA dial didn’t actually <em>do</em> anything; it merely displayed information for the user. It served as a reminder of the particular film stock that was loaded into the camera, so that if you didn’t finish a roll one day and went back to shoot days, weeks or even months later, you could still pick up right where you left off.</p>
+
+<p>Different film stocks have different sensitivities to light — also called speeds — so you need to know what kind of film is inside the camera in order to adjust your aperture and shutter speed. Those old ASA dials were, simply put, a commodity feature, no different from writing that same information down on a piece of paper.</p>
+
+<p>Since light sensitivity is a property of the film itself, you’re effectively setting your ASA by choosing to use one particular film stock over another, and so there’s nothing more to set on the camera. Practically speaking, your ASA will remain constant until you finish the roll and change to a different film stock.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+
+<p>These intrinsic properties of film and the constraints they place on the photographic process informed the design of the ASA dial decades ago: it needed to be prominently displayed and easy to see at a glance, but there was no need for it to be particularly comfortable to adjust since users would only set it occasionally, whenever they changed film rolls. With that in mind, the placement of the dial on the back plate of the camera was ideal: away from the main exposure controls so as to avoid changing it accidentally, but right in your face so that you’d see it every time you lifted the camera up to your face to shoot. It was a brilliant design.</p>
+
+<p>The ISO dial on the new M-D, however, is nothing of the sort. Modern ISO dials need to be easy and convenient to adjust, because with digital photography you typically need to change the ISO a lot more frequently. The requirements for this dial have changed completely, and unfortunately the classic ASA design translates very poorly to modern digital photography.</p>
+
+<p>This brings us to a sad realization: the Leica M-D isn’t a modern camera designed with simplicity in mind, but merely a poor attempt at replicating the look of the classic film Leicas of old, with little regard for how that design works with today’s technology. This isn’t good design by any reasonable definition of the word, and it certainly isn’t <a href="http://www.stevehuffphoto.com/2016/04/28/the-new-leica-m-the-leica-m-d-without-rear-lcd-back-to-basics/">SWEET</a>. It’s just lazy, and that worries me. Leica seems to be a company without a clear vision these days, and the M-D strikes me as yet another warning sign that the company has lost its way.</p>
+
+<p>This isn’t a trivial thing to solve, either. Leica’s main problem is that the very values that once made it a timeless brand are at odds with the disposable nature of digital technology. That’s a very tough mountain to climb. What does the word Leica mean in the digital age? We still don’t really know, but I certainly hope the M-D isn’t it.</p>
+
+<p>Don’t get me wrong, I love Leica, and I hope they can reinvent themselves and find a way to help shape the future of photography, just like they did in the past. They are one of the truly historic names in photography, and the world is better off with them healthy and thriving. However, I suspect it’s going to take a lot more than a repackaged film camera to do that.</p>
+
+<p>It’s hard to move forward when you’re shackled to a brilliant, successful past. It takes courage to break free of that legacy and venture into unknown territory, but sometimes that’s exactly what you need to do. If I were a betting man, I’d say the future of Leica looks a lot more like the SL than the M-D. I may not like it, but that’s what my gut tells me.</p>
+
+<p>Whether Leica has the courage to look forward and let go of their past, we still don’t know. In any case, I suspect it won’t be long before we find out.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>ASA is a parameter that describes each film stock’s sensitivity to light, and is analogous to the concept of ISO in the digital realm.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>It’s worth pointing out that later film Leicas, like the M6, did incorporate built-in light meters, and in those models the ASA dial was used to calibrate the meter properly. However, you still only needed to set the ASA once per roll of film, so the original design still worked nicely.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A new design (sort of)]]></title>
+    <link href="http://www.analogsenses.com/2016/01/21/a-new-design/"/>
+    <updated>2016-01-21T21:00:05+01:00</updated>
+    <id>http://www.analogsenses.com/2016/01/21/a-new-design</id>
+    <content type="html"><![CDATA[<p>As you may have noticed, things look slightly different around here today.</p>
+
+<p>You’re looking at the first site redesign in almost two years, and though things admittedly haven’t changed much, hopefully they have changed for the better.</p>
+
+<p>You see, after years of making occasional tweaks here and there on the site’s CSS, the entire file had turned into a bloated mess, with many redundant and/or contradictory directives, to the point where making even the most trivial changes had become a challenge.</p>
+
+<p>Good CSS hygiene is very important to the well-being of any site. When you discover a horrible bug in the design — and I do mean <em>when</em>, not if — the ability to fix it quickly and safely can save you a ton of downtime, and quite a few headaches.</p>
+
+<p>With that in mind, a few weeks ago I decided it was finally time to clean up my own mess, and I’ve since been rewriting the site’s entire CSS from scratch. Today, I’m ready to publish the revised design, which you’re seeing right now.</p>
+
+<p>For future reference, this is what Analog Senses looked like up until yesterday:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1444/24415347052_d7a7f09eff_o.jpg"/></p>
+
+
+<p>And this is what it should be looking like right now:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1649/24229648930_0139885a6f_o.jpg"/></p>
+
+
+<p>Human beings don’t usually like change, but I have to say the new design has grown on me surprisingly quickly, to the point where I can now barely look at the old one anymore.</p>
+
+<p>I’ve been really looking forward to launching it for the past few days, but I didn’t want to rush things. All it takes is one bug to make the entire launch a disaster, so I wanted to make sure I crossed all my t’s and dotted all my i’s before hitting publish. That ultimately proved to be the right choice, as I had to fix a last-minute issue yesterday that prevented me from launching it, despite that being my original target date. Clearly, you can never be too careful.</p>
+
+<h2>Reference style guide</h2>
+
+<p>When you’re working on a site redesign, a style guide can be a wonderful resource.</p>
+
+<p>The purpose of a style guide is to show how the most commonly used HTML elements are displayed on the site. Style guides are very useful when working on a site’s CSS, as they allow you to instantly see if anything breaks.</p>
+
+<p>As part of the current redesign, I’ve created a reference style guide for Analog Senses, which you can see <a href="/styleguide">here</a>. In order to facilitate your own tweaking and testing — on your own site, that is — I’m also making it available as a standalone document.</p>
+
+<p>Said reference document is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, and it’s available as a .markdown file <a href="https://www.dropbox.com/s/x7bzdlertq0dsge/styleguide.markdown?dl=0">here</a>.</p>
+
+<p>Analog Senses is written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, and styled using CSS only. For that reason, the contents of that document may largely apply to other Markdown-based websites. You’ll probably need to make a few changes to account for some custom handling of certain elements, but this should be a good starting point.</p>
+
+<p>It should go without saying, but <strong>I’m not obligated to offer support of any kind to go with the file, so use it only if you know what you’re doing, and only at your own risk</strong>.</p>
+
+<p>Now, let’s go over the new design in a bit more detail.</p>
+
+<h2>Subtle changes on the outside, profound ones on the inside</h2>
+
+<p>If I had to describe the new design in just a few words, I’d say it’s the <a href="http://www.512pixels.net/blog/2015/4/the-snow-leopard-moment">Snow Leopard</a> of site redesigns. At first look, not much seems to have changed from the previous design, but changes on the inside have been profound. As they say, everything needed to change, so things could stay the same.</p>
+
+<h3>Colors and typography</h3>
+
+<p>The most noticeable change is, of course, the color scheme. Gone are the gray textured background and greenish links, in favor of a clean white design with beautiful teal accents. I’ve always loved teal, and luckily for me, it’s recognized by name by HTML, so that was an easy choice.</p>
+
+<p>An important benefit of the new design over the old one is that it doesn’t rely on any image files except for the tiny favicon. That means loading times should be even faster, and pages should be leaner. It’s a win for me, but also a win for readers, as it should be.</p>
+
+<p>Fonts used throughout the site remain the same, but again, colors, spacings and sizes have been changed in order to enhance the reading experience. The header fonts are <a href="http://www.myfonts.com/fonts/fontdiner/lamplighter-script/">Lamplighter Script</a>, <a href="https://typekit.com/fonts/futura-pt">Futura PT</a> and <a href="https://typekit.com/fonts/atrament-web">Atrament Web</a>, which is also used for the headings. The main body font is <a href="https://typekit.com/fonts/proxima-nova">Proxima Nova</a>.</p>
+
+<h3>Media handling</h3>
+
+<p>Perhaps the coolest new feature is that the site now supports full width images and videos up to 1,024-pixels wide (2,048 on Retina displays). This is something I’d been wanting to implement for a long, long time, but I never really got around to it. Now it’s finally done, and the results are pretty cool, if I may say so myself.</p>
+
+<p>Again, for future reference, this is what the widest images looked like in the previous design:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1672/23895479014_87bb1de0d9_k.jpg"/></p>
+
+
+<p>You can clearly see the margins at both sides of the image there. This is what that same image looks like now:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1607/24499017526_b14ab2d7d7_o.jpg"/></p>
+
+
+<p>Another detail about this is that images are now borderless, which can yield great results when used with the right type of image. Check this image from my <a href="http://www.analogsenses.com/2016/01/13/gear-guide-the-best-full-frame-lenses-for-the-sony-e-mount/">Sony E-Mount lens guide</a>, for example. This is what it looked like before:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1505/24523666665_524ac09bbb_k.jpg"/></p>
+
+
+<p>And this is what it looks like now:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1720/24442847371_917e04b2a4_o.jpg"/></p>
+
+
+<p>Again, night and day. I don’t know if you’ll agree, but to my eye things look much better in the new design.</p>
+
+<h3>Responsiveness</h3>
+
+<p>Without a doubt, the feature I’m most proud of is responsiveness, which has been greatly improved in the new design.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>Ever since I started using <a href="http://octopress.org">Octopress</a> to power Analog Senses, back in 2014, the site’s design has been responsive. However, it was full of small inconsistencies that drove me nuts. Things like margins, lists, blockquotes and footnotes behaved very differently depending on the size of the display you were using. Even font sizes were inconsistent throughout the site.</p>
+
+<p>All of that has been fixed now.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> The new design looks great on displays of any size, and it should support every modern browser out there. Of course, despite my extensive testing, there may still be some ninja-like bugs hidden in there somewhere, so if you see anything wrong with the way the site loads on your particular device, please let me know.</p>
+
+<p>Regarding mobile devices, the site should look great on every iOS device, past or present. This is what it looks like on the current iPhone models, for example:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1455/24226326390_0d28f5b6c9_o.jpg"/></p>
+
+
+
+
+<p class="photo-credit">Analog Senses on the iPhone 5s.</p>
+
+
+
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1545/23893700874_ecb3702335_o.jpg"/></p>
+
+
+
+
+<p class="photo-credit">Analog Senses on the iPhone 6/6s.</p>
+
+
+
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1634/24521888295_4023f3085c_o.jpg"/></p>
+
+
+
+
+<p class="photo-credit">Analog Senses on the iPhone 6 Plus/6s Plus.</p>
+
+
+<p>I really like how the new full-width images look on the iPhone, especially in portrait orientation, where horizontal space is a very scarce resource. It really didn’t make any sense to waste it with margins.</p>
+
+<p>The site looks great on every iPhone, but I like it even better on the iPad:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1540/23893701054_38a2c7ea8f_o.jpg"/></p>
+
+
+
+
+<p class="photo-credit">Analog Senses on the iPad Air 2.</p>
+
+
+<p>This looks and behaves exactly the same as the desktop version, although internally there are a million things that are handled differently. Those are the types of things that were terribly inconsistent in the previous design.</p>
+
+<p>In particular, full width images now look awesome in landscape mode on the iPad:</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1701/24496981866_1c99f5a1ca_o.jpg"/></p>
+
+
+
+
+<p class="photo-credit">Analog Senses on the iPad Air 2.</p>
+
+
+<p>That’s how you can get the most out of the iPad’s beautiful display. And since the iPad Pro’s screen has a resolution of precisely 2,732 x 2,048 pixels, images should remain full width even on that device when used in portrait orientation.</p>
+
+<h2>Final words</h2>
+
+<p>This brief but intense redesign project has been very refreshing, to be honest. I’m quite proud of how the new design turned out, and hopefully it will provide a solid foundation for the future of Analog Senses.</p>
+
+<p>Now, those of you who have read this far probably know that a site’s design is never really finished. Instead, it’s like a living creature with a mind of its own. Even now, on the very day I’m publishing the new design, I can’t help but think about the many features I’d like to add in the future, like support for side-by-side images, a grid-like structure with photos, cool header photos with transparent text, and so on.</p>
+
+<p>Those are all interesting and compelling features, and they’ll probably arrive at some point. For now, though, it really is time to go back to writing.</p>
+
+<p>Thank you for reading.</p>
+
+<p class="full-width"><img src="https://farm2.staticflickr.com/1609/24155413599_1dcc781c71_o.jpg"/></p>
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Excuse the bragging. It’ll only be for today, I promise.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Fingers crossed.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google changes its logo]]></title>
+    <link href="http://www.analogsenses.com/2015/09/01/google-changes-its-logo/"/>
+    <updated>2015-09-01T18:04:58+02:00</updated>
+    <id>http://www.analogsenses.com/2015/09/01/google-changes-its-logo</id>
+    <content type="html"><![CDATA[<p>Google’s official blog:</p>
+
+<blockquote><p>Google has changed a lot over the past 17 years—from the range of our products to the evolution of their look and feel. And today we’re changing things up once again:</p></blockquote>
+
+<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/olFEpeMwgHk" allowfullscreen></iframe></div></div></p>
+
+<p>I like it. Also, check out <a href="https://design.google.com/articles/evolving-the-google-identity/">this excellent piece</a> by Alex Cook, Jonathan Jarvis and Jonathan Lee on the design theory behind the new logo. Fascinating stuff and 100% Google-y, and I mean that in the best possible way.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Drawing Shit Every Day]]></title>
+    <link href="http://www.analogsenses.com/2015/05/06/drawing-shit-every-day/"/>
+    <updated>2015-05-06T13:22:12+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/06/drawing-shit-every-day</id>
+    <content type="html"><![CDATA[<p>No, really. Via <a href="http://laughingsquid.com/drawing-shit-every-day-a-typography-project-by-designer-sarah-lawrence/">Laughing Squid</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to our design studio, where you’ll never see the light of day but you can bring your dog]]></title>
+    <link href="http://www.analogsenses.com/2015/04/07/welcome-to-our-design-studio-where-youll-never-see-the-light-of-day-but-you-can-bring/"/>
+    <updated>2015-04-07T16:11:45+02:00</updated>
+    <id>http://www.analogsenses.com/2015/04/07/welcome-to-our-design-studio-where-youll-never-see-the-light-of-day-but-you-can-bring</id>
+    <content type="html"><![CDATA[<p>Kimberly Harrington:</p>
+
+<blockquote><p>If you’re thinking tweets, keep them upbeat and clever. But whatever you do, don’t start an “OH at the studio” account. Because what’s overheard is, quite frankly, a lot of bitching. A lot of pom-pom hat wearing four eyes complaining about how this isn’t “what they fucking signed up for.” My motto is “On Instagram they can’t hear you scream.” Unless you post videos. Don’t ever post videos.</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

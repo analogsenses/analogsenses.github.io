@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: craftsmanship | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/craftsmanship/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Birth of a Tool: a master blacksmith forges a Damascus steel knife]]></title>
+    <link href="http://www.analogsenses.com/2014/12/02/a-master-blacksmith-forges-a-damascus-steel-knife/"/>
+    <updated>2014-12-02T20:49:28+01:00</updated>
+    <id>http://www.analogsenses.com/2014/12/02/a-master-blacksmith-forges-a-damascus-steel-knife</id>
+    <content type="html"><![CDATA[<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/56287630 "></iframe></div></div></p>
+
+<p>This is just stunning. Craftsmanship at its very best.</p>
+
+<p>Via <a href="http://kottke.org/14/12/master-blacksmith-forges-a-beautiful-knife">Jason Kottke</a>. Don&rsquo;t forget to check out his post for an explanation of what makes Damascus steel so special.</p>
+]]></content>
+  </entry>
+  
+</feed>

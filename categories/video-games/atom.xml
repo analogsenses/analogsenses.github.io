@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: video games | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/video-games/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A review of Uncharted 4: A Thief’s End]]></title>
+    <link href="http://www.analogsenses.com/2016/06/15/a-review-of-uncharted-4-a-thiefs-end/"/>
+    <updated>2016-06-15T17:54:00+02:00</updated>
+    <id>http://www.analogsenses.com/2016/06/15/a-review-of-uncharted-4-a-thiefs-end</id>
+    <content type="html"><![CDATA[<p>My review of <em>Uncharted 4: A Thief’s End</em> was published yesterday on <em>Tools &amp; Toys</em>. Long story short: it’s a jaw-droppingly beautiful game, and one of the most rewarding gaming experiences ever. If you’re a fan of the series, this is an absolute must-play.</p>
+]]></content>
+  </entry>
+  
+</feed>

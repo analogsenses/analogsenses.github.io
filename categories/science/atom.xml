@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: science | Analog Senses]]></title>
+  <link href="http://www.analogsenses.com/categories/science/atom.xml" rel="self"/>
+  <link href="http://www.analogsenses.com/"/>
+  <updated>2023-01-25T13:10:28+01:00</updated>
+  <id>http://www.analogsenses.com/</id>
+  <author>
+    <name><![CDATA[Álvaro Serrano]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Gravitational waves explained]]></title>
+    <link href="http://www.analogsenses.com/2016/02/12/gravitational-waves-explained/"/>
+    <updated>2016-02-12T11:08:55+01:00</updated>
+    <id>http://www.analogsenses.com/2016/02/12/gravitational-waves-explained</id>
+    <content type="html"><![CDATA[<p>Fantastic explanation of gravitational waves — what they are, why they’re so important, and why they’re so, <em>so</em> hard to detect — by Jorge Cham over at <em>PHD Comics</em>. Definitely a must-read.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Scientists at Stanford University present Real-time Expression Transfer for Facial Reenactment technique]]></title>
+    <link href="http://www.analogsenses.com/2015/10/15/scientists-at-stanford-university-present-real-time-expression-transfer-for-facial-reenactment-technique/"/>
+    <updated>2015-10-15T18:30:10+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/15/scientists-at-stanford-university-present-real-time-expression-transfer-for-facial-reenactment-technique</id>
+    <content type="html"><![CDATA[<p>The futuristic news just keep piling on. Last month, Matthias Nießner of Standford University and several colleagues presented a mind-bending technique for copying facial expressions in real time from one actor to another:</p>
+
+<blockquote><p>We present a method for the real-time transfer of facial expressions from an actor in a source video to an actor in a target video, thus enabling the ad-hoc control of the facial expressions of the target actor. The novelty of our approach lies in the transfer and photo-realistic re-rendering of facial deformations and detail into the target video in a way that the newly-synthesized expressions are virtually indistinguishable from a real video.</p></blockquote>
+
+<p>If that sounds like science-fiction to you, you’re not alone. Take a look at <a href="https://www.youtube.com/watch?v=eXVspNUeiWw">this video</a> showing the technique in action:</p>
+
+<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/eXVspNUeiWw" allowfullscreen></iframe></div></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Curious Life of a Mars Rover]]></title>
+    <link href="http://www.analogsenses.com/2015/10/09/the-curious-life-of-a-mars-rover/"/>
+    <updated>2015-10-09T18:12:14+02:00</updated>
+    <id>http://www.analogsenses.com/2015/10/09/the-curious-life-of-a-mars-rover</id>
+    <content type="html"><![CDATA[<p>What an awesome lecture by NASA engineer Kobie Boykins:</p>
+
+<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/7zpojhD4hpI" allowfullscreen></iframe></div></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Solar System, to scale]]></title>
+    <link href="http://www.analogsenses.com/2015/09/18/the-solar-system-to-scale/"/>
+    <updated>2015-09-18T14:13:01+02:00</updated>
+    <id>http://www.analogsenses.com/2015/09/18/the-solar-system-to-scale</id>
+    <content type="html"><![CDATA[<p>What an incredible idea by Wylie Overstreet and Alex Gorosh:</p>
+
+<blockquote><p>On a dry lakebed in Nevada, a group of friends build the first scale model of the solar system with complete planetary orbits: a true illustration of our place in the universe.</p></blockquote>
+
+<p><div class="video-wrapper"><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/139407849 "></iframe></div></div></p>
+
+<p>Gorgeous.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Water: the weirdest liquid on the planet]]></title>
+    <link href="http://www.analogsenses.com/2015/05/29/water-the-weirdest-liquid-on-the-planet/"/>
+    <updated>2015-05-29T17:43:34+02:00</updated>
+    <id>http://www.analogsenses.com/2015/05/29/water-the-weirdest-liquid-on-the-planet</id>
+    <content type="html"><![CDATA[<p>Great piece by Alok Jha for <em>The Guardian</em>:</p>
+
+<blockquote><p>Water breaks all the rules. Since the 19th century, chemists have developed a <a href="http://www.chemistryexplained.com/Kr-Ma/Liquids.html">robust framework to describe what liquids are</a> and what they can do. Those ideas are almost useless at explaining the weird behaviour of water. Its strangeness underlies what happens every time you drop an ice cube into a drink. Think about it for a moment: in front of you is a solid, floating on its liquid. Solid wax doesn’t float on melted wax; solid butter doesn’t float on melted butter in a hot saucepan; rocks don’t float on lava when it spews out of a volcano.</p></blockquote>
+
+<p>Via <a href="http://toolsandtoys.net/editorials/jazz-prodigies-embracing-medium-weirdness-water/"><em>Tools &amp; Toys</em></a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
